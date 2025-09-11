@@ -1,0 +1,608 @@
+.ubuntu-light {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.dropmen .dropdown-menu{
+    width: 50px !important;
+          }
+.ubuntu-light-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.ubuntu-regular {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.ubuntu-regular-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.ubuntu-medium {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.ubuntu-medium-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.ubuntu-bold {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.ubuntu-bold-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+body{
+    /* background-color: #F6F6F9; */
+}
+
+
+    .cdlnav {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-between;
+
+    }
+    .dropdown-toggle::after {
+        display: none;
+      }
+      .bgdrop{
+        background-color: transparent;
+        color: #2C292A;
+
+        font-family: Inter;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 120%; /* 12px */
+        letter-spacing: 0.5px;
+        
+      }
+      .dropitem{
+        transform: translate3d(-24px, 27.3333px, 0px) !important;
+       
+        width: 100px !important;
+      }
+      .dropitem li a {
+        padding: 5px;
+
+      }
+    
+    
+      .bgdrop:focus{
+        border: none !important;
+
+      }
+
+      .dropitem li a {
+        color: #2C292A;
+
+font-family: Inter;
+font-size: 9px;
+font-style: normal;
+font-weight: 500;
+line-height: 160%; /* 14.4px */
+letter-spacing: 0.45px;
+      }
+      .dropborder{
+        display: flex;
+        padding-left:5px ;
+        justify-content: left;
+        border: 1px solid #D2D2D2;
+        width: 122px;
+height: 27px;
+flex-shrink: 0;
+border-radius: 10px;
+margin: auto ;
+align-items: center;
+      }
+      
+    .cdlnav2 {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: flex-end;
+    gap: 110px;
+       
+    }
+
+    .cdlheaderheading {
+        color: #000;
+
+        font-family: "DM Sans";
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+
+    }
+
+    .cdlheaderpera {
+        color: #000;
+
+        font-family: Ubuntu;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+
+    .header-wraper {
+        text-align: center;
+    }
+
+    .header-wraper input {
+
+        flex-shrink: 0;
+        border: none;
+        background: #EEE;
+        border-radius: 35px;
+        padding-left: 10px;
+    }
+
+
+    .search_Box2 {
+        display: flex;
+        width: 90vw;
+        height: 36px;
+        color: #696969;
+        margin: auto;
+        padding: 16px;
+        justify-content: space-between;
+        align-items: center;
+        font-family: Inter;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+        border-radius: 35px;
+
+        background: #EEE;
+    }
+    
+    .imgprebtn{
+    
+       display: flex;
+       justify-content: center;
+      width: 100%;
+      height: 100%;
+      align-items: center;
+    
+
+       
+    }
+
+    .logolink {
+        margin: 25px auto;
+        display: flex;
+        justify-content: center;
+        gap: 8px;
+width: 80vw ;
+    }
+
+    .logolink div {
+        width: 21vw;
+       
+        height: 48px;
+        flex-shrink: 0;
+        border-radius: 6px;
+        background: #EEE;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 5px;
+    }
+
+    .logolink div p {
+        color: var(--Grayscale-800, #182347);
+        text-align: center;
+        font-family: Ubuntu;
+        font-size: 9px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 130%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        /* gap: 5px; */
+        flex-direction: column-reverse;
+        
+    }
+
+    .questionWraper {
+        display: flex;
+      gap: 20px;
+        margin: 10px auto;
+        width: 85vw;
+        /* height: 96px; */
+        flex-shrink: 0;
+        border-radius: 5px;
+        border: 2px solid rgba(10, 10, 10, 0.00);
+        background: var(--white, #FFF);
+        box-shadow: 10px 24px 54px 0px rgba(51, 51, 51, 0.10);
+        padding: 14px 20px;
+    }
+    .camelcase{
+        text-transform: capitalize;
+    }
+
+    .questionWraper h1 {
+        color: #0A0A0A;
+
+        font-family: Ubuntu;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+    }
+    .inerleft div{
+        color: #999;
+
+        font-family: Nunito;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+    .inerleft{
+        width: 146px;
+    }
+    .pretrippheader{
+       padding-top: 36px;
+       width: 90vw;
+       margin: auto;
+    }
+     
+   
+    .pretrippheader h1{
+        color: #0A0A0A;
+
+text-align: center;
+font-family: Ubuntu;
+font-size: 20px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+letter-spacing: 0.2px;
+    }
+    
+    .quizListimage{
+        width: 72px;
+        height: 72px;
+    }
+    .pretrippheader div > div {
+        width: 122px;
+height: 1px;
+background-color: #000;
+display: inline-block;
+
+    }
+    .pretrippheader div{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .pretripimg{
+        margin-top: 10px;
+    }
+    .pretriplogo{
+        display: flex;
+        justify-content: space-between;
+        width: 85vw;
+        margin:20px auto;
+    }
+    .pretriplogoleft {
+        display: flex;
+gap: 10px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+
+    }
+    .pretriplogoleft div:first-child{
+        width: 40px;
+height: 40px;
+padding: 10px;
+border-radius: 10px;
+border: 0.5px solid rgba(94, 74, 241, 0.00);
+
+background: #E8E8E8;
+    }
+    .pretriplogoleft div{
+        width: 40px;
+        height: 40px;
+        padding: 10px;
+        border-radius: 10px;
+        border: 0.5px solid rgba(94, 74, 241, 0.00);
+        
+        background: #ffffff;
+    }
+    .pretriplogo > div:last-child{
+        width: 40px;
+        height: 40px;
+        padding: 10px;
+        border-radius: 10px;
+        border: 0.5px solid rgba(94, 74, 241, 0.00);
+        
+        background: #ffffff;
+    }
+    .pretripquestions{
+        width: 85vw;
+        margin: 20px auto;
+    }
+    .pretripquestions .questionheading{
+        color: #111;
+
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.18px;
+    }
+    .pretripquestions p{
+        color: #595C73;
+        font-family: Manrope;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: 0.1px;
+
+    }
+    .tipsheading div{
+        color: #111;
+
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.18px;
+    }
+    .tipsheading ul li{
+        color: #0A0A0A;
+
+font-family: Manrope;
+font-size: 10px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.1px;
+    }
+    .timeline{
+        margin-top: 10px;
+    }
+    .timeline div{
+        color: #111;
+
+        font-family: Manrope;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        letter-spacing: 0.18px;
+        margin-bottom: 10px;
+    }
+    .timeline ul li a{
+        border-radius: 10px;
+background: #FFF;
+display: flex;
+padding: 8px 25px 8px 8px;
+align-items: center;
+gap: 10px;
+margin-bottom: 10px;
+color: #111432;
+
+font-family: Manrope;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 0.14px;
+;
+    }
+
+    .timeline ul li span {
+        display: flex;
+        width: 34px;
+        height: 34px;
+        padding: 7px;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+background: #E8E8E8;
+    }
+    .stateswraper{
+        width: 75vw;
+        margin: auto;
+    }
+    .stateswraper h2{
+      
+        color: #1E1E1E;
+
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: 120%; /* 28.8px */
+letter-spacing: 1.2px;
+    }
+    .stateswraper p{
+        color: #000;
+
+font-family: "DM Sans";
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    }
+    .statebottomline{
+        width: 327px;
+height: 0.5px;
+background: #D9D9D9;
+margin: 20px auto;
+
+    }
+    .statesbtn{
+        width: 222px;
+height: 34px;
+flex-shrink: 0;
+border-radius: 10px;
+border: 1px solid #FBB723;
+
+background: #FBB723;
+color: #2C292A;
+
+font-family: Manrope;
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.13px;
+margin:15px auto;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-shrink: 0;
+    }
+    .statespera{
+        color: #060606;
+
+text-align: center;
+font-family: Manrope;
+font-size: 10px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+letter-spacing: 0.08px;
+    }
+    .statespera span{
+        color: #595C73;
+        font-family: Manrope;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        letter-spacing: 0.08px;
+    }
+    .stepsheader{
+       display: flex;
+       flex-direction: column;
+      justify-content: center;
+        width: 100%;
+        height: 109px;
+     
+        flex-shrink: 0;
+position: relative;
+background: #FBB723;
+align-items: center;
+flex-shrink: 0;
+    }
+    .stepsheader svg{
+        position: absolute;
+        top: 30px;
+        left: 40px;
+    }
+    .stepsheader h3{
+        color: #0A0A0A;
+text-align: center;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 0.16px;
+    }
+    .stepline{
+        width: 220px;
+        height: 1px;    
+        background: #0A0A0A;
+        margin-top: 20px;
+    }
+    .stepsheader div:first-child{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .stepwraper1{
+width: 90vw;
+margin: auto;
+    }
+    .stepwraper1 h3{
+        color: #000;
+
+        font-family: Manrope;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        letter-spacing: 0.1px;
+        width: 46px;
+height: 23px;
+flex-shrink: 0;
+border-radius: 10px;
+background: #D9D9D9;
+align-items: center;
+display: flex;
+justify-content: center;
+    }
+    .stepwraper1 h4{
+        margin-top: 10px;
+        color: #111;
+font-family: Manrope;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.15px;
+    }
+    .stepwraper1 p span:nth-child(1){
+        color: #595C73;
+
+        font-family: Manrope;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        letter-spacing: 0.15px;
+    }
+    .stepwraper1 p .secondpera{
+        color: #060606;
+font-family: Manrope;
+font-size: 12px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 0.12px;
+    }
+    .stepwraper1 .step2pera{
+        color: #000;
+
+        font-family: Manrope;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: 0.12px;
+    }
+

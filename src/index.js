@@ -1,0 +1,38 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+// Global Styles
+
+import "./styles/dashboard.css";
+import "./styles/bootstrap.min.css";
+import "./styles/animate.min.css";
+import "./styles/boxicons.min.css";
+import "./styles/flaticon.css";
+import "./styles/nprogress.css";
+import "./styles/navbar.css";
+import "./styles/index.css";
+import "./styles/default.css";
+import "./styles/animate.css";
+
+// import "./styles/style.css";
+// import "./styles/responsive.css";
+
+import "./styles/style.min.css";
+import "./styles/responsive.min.css";
+
+
+import { Provider } from "react-redux";
+import store, { persistor } from "./store";
+import { PersistGate } from "redux-persist/integration/react";
+import AppRoutes from "./routes/Routes";
+import IntroLogoAnimation from "./components/Home/IntroLogoAnimation";
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
+
+root.render(
+  <Provider store={store}>
+    <PersistGate persistor={persistor}>
+      <AppRoutes />
+      <IntroLogoAnimation />
+    </PersistGate>
+  </Provider>
+);

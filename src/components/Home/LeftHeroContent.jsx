@@ -1,0 +1,212 @@
+import React from "react";
+import { styled } from "@mui/material/styles";
+
+import { Translator, Translate } from "react-auto-translate";
+import { useSelector } from "react-redux";
+import { Link } from "react-router-dom";
+const LeftHeroContent1 = styled("div")({});
+const Frame6818 = styled("div")({});
+const ObtenhaCertificaçãoDSpan1 = styled("span")({});
+const ObtenhaCertificaçãoDSpan2 = styled("span")({});
+const ObtenhaCertificaçãoDSpan3 = styled("span")({});
+const ObtenhaCertificaçãoD = styled("h1")({});
+const SomosAMaiorCertifica = styled("span")({});
+const DivFrame6707 = styled("div")({});
+
+const Ellipse15 = styled("img")({
+  height: `41px`,
+  width: `41px`,
+  margin: `-2px`,
+  position: "relative",
+  border: "3px solid #2c292a",
+  borderRadius: "50%",
+  padding: "0px",
+});
+
+const Ellipse16 = styled("img")({
+  height: `41px`,
+  width: `41px`,
+  margin: `-2px`,
+  position: "relative",
+  border: "3px solid #2c292a",
+  borderRadius: "50%",
+  padding: "0px",
+});
+
+const Ellipse17 = styled("img")({
+  height: `41px`,
+  width: `41px`,
+  margin: `-2px`,
+  position: "relative",
+  border: "2px solid #2c292a",
+  borderRadius: "50%",
+  padding: "0px",
+});
+
+const Ellipse18 = styled("img")({
+  height: `41px`,
+  width: `41px`,
+  margin: `-2px`,
+  position: "relative",
+  border: "2px solid #2c292a",
+  borderRadius: "50%",
+  padding: "0px",
+});
+
+const Ellipse19 = styled("img")({
+  height: `41px`,
+  width: `41px`,
+  margin: `-2px`,
+  position: "relative",
+  border: "2px solid #2c292a",
+  borderRadius: "50%",
+  padding: "0px",
+});
+
+const Ellipse20 = styled("img")({
+  height: `41px`,
+  width: `41px`,
+  margin: `-2px`,
+  position: "relative",
+});
+
+const Ellipse21 = styled("img")({
+  height: `41px`,
+  width: `41px`,
+  position: "relative",
+  margin: `-2px`,
+});
+
+const DivFrame3830 = styled("div")({
+  display: `flex`,
+  position: `relative`,
+  flexDirection: `row`,
+  justifyContent: `center`,
+  alignItems: `center`,
+  padding: `0px`,
+  boxSizing: `border-box`,
+  alignSelf: `stretch`,
+  margin: `0px 0px 0px 0px`,
+  width: "-webkit-fill-available",
+  flexWrap: "wrap",
+});
+
+const DivFrame3 = styled("div")({});
+
+const DivButtons = styled("div")(({ theme }) => ({}));
+
+const ComprarAgora = styled("div")(({ theme }) => ({}));
+
+const DivButtons2 = styled("div")({});
+
+const FaleConosco = styled("div")(({ theme }) => ({}));
+
+const DivAPlataformaPossui = styled("div")({
+  display: `flex`,
+  position: `relative`,
+  flexDirection: `column`,
+  justifyContent: `flex-start`,
+  alignItems: `flex-start`,
+  padding: `0px`,
+  boxSizing: `border-box`,
+  alignSelf: `stretch`,
+  flex: `1`,
+  margin: `10px 0px 0px 0px`,
+});
+
+const Frame6816 = styled("div")({
+  display: `flex`,
+  position: `relative`,
+  flexDirection: `column`,
+  justifyContent: `flex-start`,
+  alignItems: `flex-start`,
+  padding: `0px`,
+  boxSizing: `border-box`,
+  flex: `1`,
+  height: `32.5px`,
+  margin: `0px`,
+});
+
+const SealFmcsa1Png = styled("div")({
+  backgroundImage: `url(images/seal.png)`,
+  backgroundPosition: `center`,
+  backgroundSize: `contain`,
+  backgroundRepeat: `no-repeat`,
+  width: "92px",
+  height: "92px",
+});
+
+const APlataformaPossuiInt = styled("div")(({ theme }) => ({}));
+
+function LeftHeroContent(...props) {
+  const languageState = useSelector((state) => state.language);
+  const handleClick = () => {
+    const screenWidth = window.innerWidth;
+    if (screenWidth >= 786) {
+      window.scrollTo({
+        top: window.scrollY + 1000,
+        behavior: "smooth",
+      });
+    } else {
+      window.scrollTo({
+        top: 900,
+        behavior: "smooth",
+      });
+    }
+  };
+  return (
+    <Translator
+      from="en"
+      to={props.language || languageState.language.value || "en"}
+      googleApiKey="AIzaSyAajLbnGViR4-G9cLML5HrVv7w0XdJr-9M"
+    >
+      <LeftHeroContent1 className={`left-hero-block ${props.className}`}>
+        <Frame6818>
+          <ObtenhaCertificaçãoD className="main-title-hero herosectionhead">
+            {" "}
+            <span className="pre-yellow-bar">
+              <Translate>{`ELDT`}</Translate>
+            </span>
+            &nbsp;
+            <span className="yellow">
+              <Translate>{`Online`}</Translate>
+            </span>
+            &nbsp;
+            <div className="coverover">
+              {" "}
+              <Translate>{`training course!`}</Translate>
+            </div>
+          </ObtenhaCertificaçãoD>
+          <SomosAMaiorCertifica
+            className="main-subtitle"
+            style={{ maxWidth: "725px" }}
+          >
+            <Translate>
+            We are the largest CDL ELDT certified digital platform in the United States, offering courses in <Translate><b>8 languages:</b></Translate>  English, Spanish, Portuguese, Arabic, Russian, French, Hindi, and Urdu. </Translate> 
+            <Translate> in United States</Translate> 
+           
+          </SomosAMaiorCertifica>
+        </Frame6818>
+
+        {/* <DivFrame6707
+          className="line-flag"
+          style={{ display: "flex", marginBottom: "48px" }}
+        >
+          <img src={allfalg} loading="lazy" alt={"us-black"} />
+        </DivFrame6707> */}
+        <DivFrame3830>
+          <DivFrame3 className="main-block-buttons">
+            <a href="#thistarget" className="primary-button" >
+              <Translate>{`Buy Now`}</Translate>
+            </a>
+            <Link className="secondary-button" to="/contact-us">
+              <Translate>{`Contact Us`}</Translate>
+            </Link>
+          </DivFrame3>
+        </DivFrame3830>
+      </LeftHeroContent1>
+    </Translator>
+  );
+}
+
+export default LeftHeroContent;

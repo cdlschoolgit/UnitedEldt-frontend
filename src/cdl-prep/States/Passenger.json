@@ -1,0 +1,1815 @@
+{
+    "en":[
+      {	
+        "question": "Commercial bus drivers must have a CDL if:",
+        "options": [
+          "They drive a vehicle that has air brakes.",
+          "They drive a vehicle that has a gross weight rating of more than 26,000 pounds.",
+          "They drive a vehicle that is designed to carry more than fifteen (15) passengers including the driver."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 4.0 - Transporting Passengers Safely</strong></p><p>Bus drivers must have a commercial drivers license if they drive a vehicle designed to seat more than 16 or more persons, including the driver.</p>"
+      },
+      {
+        "question": "Carry-on baggage cannot be stored:",
+        "options": [
+          "In the aisle.",
+          "On the seats.",
+          "Behind the seats."
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 4.2 - Loading and Trip Start</strong></p><p>Do not allow riders to leave carry-on baggage in a doorway or aisle. There should be nothing in the aisle that might trip other riders.</p>"
+      },
+      {
+        "question": "Buses may carry:",
+        "options": [
+          "Explosives.",
+          "Small arms ammunition labeled orm-d.",
+          "Car batteries."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 4.2.2 - Forbidden Hazardous Materials</strong></p><p>Buses may carry small-arms ammunition labeled ORM-D, emergency hospital supplies, and drugs.</p>"
+      },
+      {
+        "question": "When arriving at the destination announce:",
+        "options": [
+          "The   departure time.",
+          "Both.",
+          "The location."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 4.2.4 - At Your Destination</strong></p><p>When arriving at the destination or intermediate stops announce: (1) The location (2) Reason for stopping (3) &nbsp;&nbsp;departure time (4) Bus Number</p>"
+      },
+      {
+        "question": "A disruptive passenger:",
+        "options": [
+          "Should not be allowed on the bus.",
+          "Should not be discharged where it would be unsafe for them.",
+          "Is not your responsibility."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 4.3.2 - At Stops</strong></p><p>Occasionally, you may have a drunk or disruptive rider. You must ensure this riders safety as well as that of others. Do not discharge such riders where it would be unfafe for them.</p>"
+      },
+      {
+        "question": "If your bus leans toward the outside on a banked curve, you are:",
+        "options": [
+          "Driving at the correct speed.",
+          "Driving too slow.",
+          "Driving too fast."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 4.3.4 - Speed on Curves</strong></p><p>Reduce speed for curves. If your bus leans toward the outside on a banked curve, you are driving too fast.</p>"
+      },
+      {
+        "question": "You must stop your bus between:",
+        "options": [
+          "5 to 10 feet before a railroad crossing.",
+          "20 to 25 feet before a railroad crossing.",
+          "15 and 50 feet before a railroad crossing."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 4.3.5 - Railroad-Highway Crossings Stops</strong></p><p>Stop at RR crossings: Stop your bus between 15 and 50 feet before railroad crossings.</p>"
+      },
+      {
+        "question": "At the end of each shift you should:",
+        "options": [
+          "Report any defects.",
+          "Inspect your bus.",
+          "Both."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 4.4 - After-Trip Vehicle Inspection</strong></p><p>Inspect your bust at the end of each shift. Riders sometimes damage safety-related parts such as handholds, seats, and windows. If you report this damage at the end of a shift, mechanics can make repairs before the bus goes out again.</p>"
+      },
+      {
+        "question": "The interlock system for the brake and accelerator on a transit coach may be used:",
+        "options": [
+          "To replace the parking brake.",
+          "To replace the rear door emergency buzzer.",
+          "As a safety feature when the exit door is open."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 4.6 - Use of Brake-door Interlocks</strong></p><p>Urban mass transit coaches may have a brake and accelerator interlock system. The interlock applies the brakes and holds the throttle in idle position when the rear door is open. The interlock releases when you close the rear door. Do not use this safety feature in place of the parking brake.</p>"
+      },
+      {
+        "question": "Your bus is disabled. The bus, with riders aboard, may be towed or pushed to a safe place only:",
+        "options": [
+          "By another bus with its 4-way flashers on.",
+          "If getting off the bus would be riskier for the riders.",
+          "If the distance is less than 1 mile."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 4.5 - Prohibited Practices</strong></p><p>Do not tow or push a disabled bus with riders aboard the vehicle, unless getting off would be unsafe. Only tow or push the bus to the nearest safe spot to discharge passengers.</p>"
+      },
+      {
+        "question": "You may sometimes haul small arms ammunition, emergency shipments of drugs, or hospital supplies on a bus. The total weight of all such hazardous materials must not be greater than pounds.",
+        "options": [
+          "100",
+          "500",
+          "700"
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 4.2.2 - Forbidden Hazardous Materials</strong></p><p>Buses must never carry: More than 500 pounds total of allowed hazardous materials, and no more than 100 pounds of any one class.</p>"
+      },
+      {
+        "question": "How many seats not securely fastened to the bus are usually allowed?",
+        "options": [
+          "2",
+          "0",
+          "1"
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 4.1.3 - Bus Interior</strong></p><p>The seats must be safe for riders. All seats must be securely fastened to the bus.</p>"
+      },
+      {
+        "question": "It is best to wear your seat belt:",
+        "options": [
+          "Only when you will be driving over 35 mph.",
+          "Only if your bus holds more than 27 people.",
+          "  At all times."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 4.1.5 - Use Your Seatbelt!</strong></p><p>The driver's seat should have a seat belt. Always use it for safety.</p>"
+      },
+      {
+        "question": "Which of the following types of cargo can never be carried on a bus with riders?",
+        "options": [
+          "Emergency hospital supplies.",
+          "Tear gas.",
+          "Emergency drug shipments."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 4.2.2 - Forbidden Hazardous Materials</strong></p><p>Buses must never carry: Division 2.3 poison gas, liquid Class 6 poison, tear gas, irritating material</p>"
+      },
+      {
+        "question": "If a rider wants to bring a car battery or a can of gasoline aboard your bus, you should:",
+        "options": [
+          "Have the rider pay a second fare.",
+          "Instruct them to sit   to an open window.",
+          "Not allow them to do it."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 4.2.2 - Forbidden Hazardous Materials</strong></p><p>Riders sometimes board a bus with an unlabeled hazardous material. Do not allow riders to carry on common hazards such as car batteries or gasoline.</p>"
+      },
+      {
+        "question": "Some city transit buses may have a brake-door interlock system, this system:",
+        "options": [
+          "Should be used in emergencies.",
+          "Works when the passenger exit doors are open.",
+          "Releases the brakes."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 4.6 - Use of Brake-door Interlocks</strong></p><p>The interlock applies the brakes and holds the throttle in idle position when the rear door is open. The interlock releases when you close the rear door.</p>"
+      },
+      {
+        "question": "When it is carried on a bus, hazardous material must be:",
+        "options": [
+          "Packed in a yellow box.",
+          "Both.",
+          "Labeled."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 4.2.1 - Hazardous Materials</strong></p><p>The rules require shippers to mark containers of hazardous material with the material's name, identification number, and hazard label. There are nine different four-inch, diamond-shaped hazard labels</p>"
+      },
+      {
+        "question": "You are driving a bus designed to allow standing. Where may a rider stand?",
+        "options": [
+          "Behind the driver seat.",
+          "Behind a standee line.",
+          "No rider is allowed to stand."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 4.2.3 - Standee Line</strong></p><p>Buses designed to allow standing must have a two-inch line on the floor or some other means of showing riders where they cannot stand. This is called the standee line. All standing riders must stay behind it.</p>"
+      },
+      {
+        "question": "Before driving, make sure to have the following emergency equipment: (1) fire extinguisher (2) emergency reflectors and (3):",
+        "options": [
+          "Spare electrical fuses.",
+          "Two extra tires.",
+          "Extra rear-vision mirroг."
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 4.1.1 - Vehicle Systems</strong></p><p>Make sure your bus has the fire extinguisher and emergency reflectors (3 reflective triangles or at least 6 fusees or 3 liquid burning flares) required by law. The bus must also have spare electrical fuses, unless equipped with circuit breakers.</p>"
+      },
+      {
+        "question": "You must put a loaded bus into motion from a stopped position on a steep upgrade (4% or more). Which of these is the best technique to follow when you have a bus with a manual transmission?",
+        "options": [
+          "Hold the foot brake until the clutch has been fully released.",
+          "Accelerate hard and release the clutch quickly.",
+          "Slowly release the clutch while releasing the parking brakes."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 2.2.1 - Accelerating</strong></p><p>Don't roll back when you start. You may hit someone behind you. If you have a manual transmission vehicle, partly engage the clutch before you take your right foot off the brake. Put on the parking brake whenever necessary to keep from rolling back. Release the parking brake only when you have applied enough engine power to keep from rolling back.</p>"
+      },
+      {
+        "question": " Roof hatches:",
+        "options": [
+          "Only opened during emergencies.",
+          "Are colored orange.",
+          "Can be in an open position for fresh air."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 4.1.4 - Roof Hatches</strong></p><p>You may lock some emergency roof hatches in a partly open position for fresh air.</p>"
+      },
+      {
+        "question": "In general, the best braking technique to use in maintaining a safe speed when driving on a downgrade is:",
+        "options": [
+          "Use the braking effect of the engine to control speed.",
+          "Using only downshifting.",
+          "Using only the parking brakes."
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 2.6.6 - Speed on Downgrades</strong></p><p>If a speed limit is posted, or there is a sign indicating \"Maximum Safe Speed,\" never exceed the speed shown. Also, look for and heed warning signs indicating the length and steepness of the grade. You must use the braking effect of the engine as the principal way of controlling your speed on downgrades.</p>"
+      },
+      {
+        "question": "Which of these is the best general rule for night driving?",
+        "options": [
+          "Drive slightly slower than the other traffic.",
+          "Make sure your headlights are clean and working.",
+          "Drive slightly faster than the other traffic."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 2.11.4 - Vehicle Factors</strong></p><p>Night driving can be more dangerous if you have problems with your headlights. Dirty headlights may give only half the light they should. This cuts down your ability to see, and makes it harder for others to see you. Make sure your lights are clean and working.</p>"
+      },
+      {
+        "question": "Secure baggage and freight in ways that avoid damage and:",
+        "options": [
+          "Allow riders to exit quickly.",
+          "Allow baggage to be found quickly.",
+          "Allow the driver to move freely and easily."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 4.2 - Loading and Trip Start</strong></p><p>Secure baggage and freight in ways that avoid damage and: (1) Allow the driver to move freely and easily (2) Allow riders to exit by any window or door in an emergency (3) Protect riders from injury if carry-ons fall or shift.</p>"
+      },
+      {
+        "question": "How are buses to handle most railroad grade crossings?",
+        "options": [
+          "Turn the vehicle flashers on before crossing.",
+          "Tap the electric horn before crossing.",
+          "Stop between 15 and 50 feet before railroad crossings."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 4.3.5 - Railroad-highway Crossing/Stops</strong></p><p>Stop your bus between 15 and 50 feet before railroad crossings.</p>"
+      },
+      {
+        "question": "Which of these is a good rule for backing a straight bus?",
+        "options": [
+          "None of these.",
+          "Use voice signals to communicate with a helper.",
+          "Back toward the side opposite to the driver."
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 2.2.4 - Backing Safely</strong></p><p>When you have to back, here are a few simple safety rules: Back and turn toward the driver's side whenever possible. Use a helper when you can. There are blind spots you can't see. That's why a helper is important. The helper should stand near the back of your vehicle where you can see the helper. Before you begin backing, work out a set of hand signals that you both understand. Agree on a signal for \"stop.\"</p>"
+      },
+      {
+        "question": "Which of these forms of signaling is not recommended?",
+        "options": [
+          "Signaling to others that it is safe to pass your bus.",
+          "Signaling to others that you will change lanes.",
+          "Using four-way flashers to warn of danger ahead."
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 2.5.1 - Signal Your Intentions</strong></p><p>Some drivers try to help out others by signaling when it is safe to pass. You should not do this. You could cause an accident. You could be blamed and it could cost you many thousands of dollars.</p>"
+      },
+      {
+        "question": "You should stop at least the draw of the bridge. feet before",
+        "options": [
+          "50",
+          "35",
+          "25"
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 4.3.6 - Drawbridges</strong></p><p>Stop at drawbridges that do not have a signal light or traffic control attendant. Stop at least 50 feet before the draw of the bridge. Look to make sure the draw is completely closed before crossing.</p>"
+      },
+      {
+        "question": "In a pressurized cooling system, coolant level should be checked:",
+        "options": [
+          "Every 90 days.",
+          "Only by a mechanic.",
+          "Neither"
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 2.14.1 - Vehicle Checks</strong></p><p>Before starting out, make sure the engine cooling system has enough water and antifreeze according to the engine manufacturer's directions. Visually check level of coolant and add more coolant if necessary.</p>"
+      },
+      {
+        "question": "You need to evacuate your bus in an emergency, passengers should be directed to a safe place no less than feet from the bus.",
+        "options": [
+          "75",
+          "150",
+          "100"
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 10.3.2 - Evacuation Procedures</strong></p><p>Some tips to determine a safe place: A safe place will be at least 100 feet off the road in the direction of oncoming traffic.</p>"
+      },
+      {
+        "question": "If your bus has an emergency exit door, it must:",
+        "options": [
+          "Have a red electric door light turned on at all times.",
+          "both",
+          "Be secured when operating the bus."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 4.1.3 - Bus Interior</strong></p><p>Never drive with an open emergency exit door or window.</p>"
+      },
+      {
+        "question": "Which of the following must be closed while the bus is in motion?",
+        "options": [
+          "Windows.",
+          "Emergency windows.",
+          "Roof vents."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 4.1.3 - Bus Interior</strong></p><p>Never drive with an open emergency exit door or window.</p>"
+      },
+      {
+        "question": "The standee line is?",
+        "options": [
+          "A two-inch line on the floor to the rear of the driver's seat.",
+          "A line two feet from the rear exit.",
+          "There is no such thing on a bus."
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 4.2.3 - Standee Line</strong></p><p>Buses designed to allow standing must have a two-inch line on the floor or some other means of showing riders where they cannot stand. This is called the standee line.</p>"
+      },
+      {
+        "question": "Charter drivers should:",
+        "options": [
+          "Mention rules.",
+          "Explain rules",
+          "Both."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 4.3.1 - Passenger Supervision</strong></p><p>Many charter and intercity carriers have passenger comfort and safety rules. Mention rules about smoking, drinking, or use of radio and tape players at the start of the trip. Explaining the rules at the start will help to avoid trouble later on.</p>"
+      },
+      {
+        "question": "At drawbridges with no signal you must stop at least?",
+        "options": [
+          "20 to 25 feet before the draw of the bridge.",
+          "15 to 20 feet before the draw of the bridge.",
+          "50 feet before the draw of the bridge."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 4.3.6 - Drawbridges</strong></p><p>Stop at drawbridges that do not have a signal light or traffic control attendant. Stop at least 50 feet before the draw of the bridge.</p>"
+      },
+      {
+        "question": "Prohibited practices on the bus include?",
+        "options": [
+          "All of these",
+          "Talking with riders while driving.",
+          "Fueling your bus with riders on board."
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 4.5 - Prohibited Practices</strong></p><p>Avoid fueling your bus with riders on board unless absolutely necessary. Never refuel in a closed building with riders on board. Do not talk with riders, or engage in any other distracting activity, while driving.</p>"
+      },
+      {
+        "question": "Buses may have recapped or re-grooved tires:",
+        "options": [
+          "Anywhere except on the front wheels.",
+          "On any or all the wheels.",
+          "Only on the outside wheel of dual wheels."
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 4.1.1 - Vehicle Systems</strong></p><p>Make sure these things are in good working order before driving: Tires (front wheels must not have recapped or re-grooved tires).</p>"
+      },
+      {
+        "question": "When you inspect your bus, you must make sure that?",
+        "options": [
+          "Both.",
+          "Emergency exit handles are secure.",
+          "Rider signaling devices are working."
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 4.1.3 - Bus Interior</strong></p><p>The following parts of your bus must be in safe working condition: Signaling devices, including the restroom emergency buzzer, if the bus has a restroom. Emergency exit handles.</p>"
+      },
+      {
+        "question": "If you have riders aboard, you must never fuel your bus:",
+        "options": [
+          "In a closed building.",
+          "With a higher grade of fuel.",
+          "Without a static chain."
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 4.5 - Prohibited Practices</strong></p><p>Avoid fueling your bus with riders on board unless absolutely necessary. Never refuel in a closed building with riders on board.</p>"
+      },
+      {
+        "question": "A bus may carry baggage or freight only if it is secured so that:",
+        "options": [
+          "Both",
+          "Allow riders to exit by any window or door in an emergency",
+          "The driver can move freely and easily."
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 4.2 - Loading and Trip Start</strong></p><p>Secure baggage and freight in ways that avoid damage and: (1) Allow the driver to move freely and easily. (2) Allow riders to exit by any window or door in an emergency. (3) Protect riders from injury if carry-ons fall or shift.</p>"
+      },
+      {
+        "question": "You must not permit standing riders?",
+        "options": [
+          "In front of the standee line.",
+          "Within two feet of any window.",
+          "Between the wheel wells."
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 4.2.3 - Standee Line</strong></p><p>Buses designed to allow standing must have a two-inch line on the floor or some other means of showing riders where they cannot stand. This is called the standee line.</p>"
+      },
+      {
+        "question": "Due to the extreme size of a bus, the driver must watch for?",
+        "options": [
+          "Clearance your bus needs.",
+          "Poles and wires",
+          "Both."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 4.3.3 - Common Accidents</strong></p><p>School and mass transit buses sometimes scrape off mirrors or hit passing vehicles when pulling out from a bus stop. Remember the clearance your bus needs, and watch for poles and tree limbs at stops.</p>"
+      },
+      {
+        "question": "The interlock releases when you:",
+        "options": [
+          "Release parking brake.",
+          "Close the rear door.",
+          "Close the front door."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 4.6 - Use of Brake-door Interlocks</strong></p><p>The interlock releases when you close the rear door.</p>"
+      },
+      {
+        "question": "Which of the following lists the three types of emergency equipment you must have on your bus?",
+        "options": [
+          "Hydraulic jack, fire extinguisher, signal flares.",
+          "Repair kit, spare electric fuses, and fire extinguisher.",
+          "Fire extinguisher, spare electrical fuses, and emergency reflectors."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 4.1.1 - Vehicle Systems</strong></p><p>Make sure your bus has the fire extinguisher and emergency reflectors (3 reflective triangles or at least 6 fusees or 3 liquid burning flares) required by law. The bus must also have spare electrical fuses, unless equipped with circuit breakers.</p>"
+      },
+      {
+        "question": "You do not have to stop, but slow down at?",
+        "options": [
+          "Streetcar crossing.",
+          "When a policeman or flagman is directing traffic.",
+          "Both"
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 4.3.5 - Railroad-highway Crossing/Stops</strong></p><p>You do not have to stop, but must slow down and carefully check for other vehicles: (1): At streetcar crossings. (2): Where a policeman or flagman is directing traffic.</p>"
+      },
+      {
+        "question": "Do not transport any hazardous material",
+        "options": [
+          "Unless you secured it yourself.",
+          "Unless you are sure the rules allow it.",
+          "Unless it looks safe."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 4.2.1 - Hazardous Materials</strong></p><p>Do not transport any hazardous material unless you are sure the rules allow it.</p>"
+      },
+      {
+        "question": "If you increase your speed from 20 to 60 mph (original speed times 3), how much more braking distance is required at 60 mph than at 20 mph?",
+        "options": [
+          "3 x 3 or 9 times.",
+          "3 x 4 or 12 times.",
+          "3 x 2 or 6 times."
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 2.6.1 - Stopping Distance</strong></p><p>The faster you drive, the greater the impact or striking power of your vehicle. When you double your speed from 20 to 40 mph the impact is 4 times greater. The braking distance is also 4 times longer. Triple the speed from 20 to 60 mph and the impact and braking distance is 9 times greater.</p>"
+      },
+      {
+        "question": "When driving at more than 40 mph, what is the safe minimum following distance for ideal daytime conditions?",
+        "options": [
+          "Four seconds.",
+          "five seconds.",
+          "One second for every 10 feet of vehicle length (rounded upward to the nearest 10 feet)."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 2.7.1 - Space Ahead</strong></p><p>If you are driving a 40-foot truck and only counted up to 2 seconds, you're too close. Drop back a little and count again until you have 4 seconds of following distance (or 5 seconds, if you're going over 40 mph).</p>"
+      },
+      {
+        "question": "When arriving at the destination, or intermediate stops, you should announce: The location, reason for stopping, next departure time, and?",
+        "options": [
+          "Company contact information.",
+          "Bus number.",
+          "Your full name and driver ID."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 4.2.4 - At Your Destination</strong></p><p>When arriving at the destination or intermediate stops announce: (1) The location. (2) Reason for stopping. (3) Next departure time (4) Bus number.</p>"
+      },
+      {
+        "question": "The proper time to cancel your turn signal for a lane change or turn is?",
+        "options": [
+          "Just before starting the maneuver.",
+          "About halfway through the maneuver.",
+          "When the maneuver is complete."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 2.5.1 - Signal Your Intentions</strong></p><p>Signal continuously. You need both hands on the wheel to turn safely. Don't cancel the signal until you have completed the turn.&nbsp;</p>"
+      }
+    ],
+    "pt":[
+      { 
+            "question": "Motoristas de ônibus comerciais devem ter CDL se:",
+            "options": [
+              "Eles dirigem um veículo que tem freios a ar.",
+              "Eles dirigem um veículo que tem um peso bruto de mais de 26.000 libras.",
+              "Eles dirigem um veículo projetado para transportar mais de 15 (quinze) passageiros, incluindo o motorista."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 4.0 - Transporte de passageiros com segurança</forte></p><p>Os motoristas de ônibus devem ter carteira de motorista comercial se dirigirem veículo projetado para acomodar mais de 16 ou mais pessoas, incluindo o motorista.</p>"
+      },
+      {
+            "question": "A bagagem de mão não pode ser armazenada:",
+            "options": [
+              "No corredor.",
+              "Nos assentos.",
+              "Atrás dos assentos."
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><forte>Seção: 4.2 - Início do carregamento e da viagem</strong></p><p>Não permita que os passageiros deixem a bagagem de mão em uma porta ou corredor. Não deve haver nada no corredor que possa tropeçar em outros pilotos.</p>"
+      },
+      {
+            "question": "Os autocarros podem transportar:",
+            "options": [
+              "Explosivos",
+              "Munições de armas pequenas rotuladas orm-d.",
+              "Baterias de carro."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><forte>Seção: 4.2.2 - Materiais Perigosos Proibidos</strong></p><p>Os ônibus podem transportar munições de armas pequenas rotuladas como ORM-D, suprimentos hospitalares de emergência e drogas.</p>"
+      },
+      {
+            "question": "Ao chegar ao destino anuncie:",
+            "options": [
+              "A hora da partida.",
+              "Os dois.",
+              "A localização."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Seção: 4.2.4 - No seu destino</strong></p><p>Ao chegar ao destino ou paradas intermediárias anuncie: (1) A localização (2) Reason da parada (3) &nbsp; &nbsp; hora de partida (4) Número do ônibus</p>"
+      },
+      {
+            "question": "Um passageiro perturbador:",
+            "options": [
+              "Não deve ser permitido entrar no ônibus.",
+              "Não devem ser descarregados onde seria inseguro para eles.",
+              "Não é responsabilidade sua."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Seção: 4.3.2 - Em Stops</strong></p><p>Ocasionalmente, você pode ter um motociclista bêbado ou perturbador. É preciso garantir a segurança deste motociclista, assim como a dos demais. Não dispense tais pilotos onde seria desagradável para eles.</p>"
+      },
+      {
+            "question": "Se o seu ônibus se inclina para o exterior em uma curva inclinada, você está:",
+            "options": [
+              "Dirigir na velocidade correta.",
+              "Dirigir muito devagar.",
+              "Dirigir rápido demais."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 4.3.4 - Velocidade em curvas</forte></p><p>Reduza a velocidade para curvas. Se o seu ônibus se inclina para o lado de fora em uma curva inclinada, você está dirigindo muito rápido.</p>"
+      },
+      {
+            "question": "Você deve parar seu ônibus entre:",
+            "options": [
+              "5 a 10 pés antes de uma travessia ferroviária.",
+              "20 a 25 pés antes de uma travessia ferroviária.",
+              "15 e 50 pés antes de uma travessia ferroviária."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 4.3.5 - Travessias Ferrovia-Rodovia Paragens</strong></p><p>Pare nos cruzamentos RR: Pare seu ônibus entre 15 e 50 pés antes das travessias ferroviárias.</p>"
+      },
+      {
+            "question": "No final de cada turno você deve:",
+            "options": [
+              "Denuncie quaisquer defeitos.",
+              "Inspecione seu ônibus.",
+              "Os dois."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 4.4 - Inspeção Veicular Pós-Viagem</strong></p><p>Inspecione seu busto no final de cada turno. Os pilotos às vezes danificam peças relacionadas à segurança, como apoios de mão, bancos e janelas. Se você relatar esse dano no final de um turno, os mecânicos podem fazer reparos antes que o ônibus saia novamente.</p>"
+      },
+      {
+            "question": "Pode ser utilizado o sistema de bloqueio do travão e do acelerador de um autocarro de trânsito:",
+            "options": [
+              "Para substituir o freio de estacionamento.",
+              "Para substituir a campainha de emergência da porta traseira.",
+              "Como um recurso de segurança quando a porta de saída está aberta."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 4.6 - Uso de Intertravamentos de Porta de Freio</strong></p><p>Os ônibus de transporte coletivo urbano podem ter um sistema de intertravamento de freio e acelerador. O intertravamento aciona os freios e mantém o acelerador em marcha lenta quando a porta traseira está aberta. O intertravamento se solta quando você fecha a porta traseira. Não use este recurso de segurança no lugar do freio de estacionamento.</p>"
+      },
+      {
+            "question": "Seu ônibus está desativado. O autocarro, com passageiros a bordo, só pode ser rebocado ou empurrado para um local seguro:",
+            "options": [
+              "Por outro ônibus com seus pisca-piscas de 4 vias ligados.",
+              "Se descer do ônibus seria mais arriscado para os passageiros.",
+              "Se a distância for inferior a 1 milha."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><forte>Seção: 4.5 - Práticas Proibidas</strong></p><p>Não reboque ou empurre um ônibus com deficientes com passageiros a bordo do veículo, a menos que descer seja inseguro. Apenas reboque ou empurre o ônibus para o local seguro mais próximo para descarregar os passageiros.</p>"
+      },
+      {
+          "question":"Às vezes, você pode transportar munição de armas pequenas, remessas emergenciais de medicamentos ou suprimentos hospitalares em um ônibus. O peso total de todos esses materiais perigosos não deve ser superior a libras.",
+            "options": [
+              "100",
+              "500",
+              "700"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><forte>Seção: 4.2.2 - Materiais Perigosos Proibidos</strong></p><p>Os ônibus nunca devem transportar: Mais de 500 libras no total de materiais perigosos permitidos, e não mais de 100 libras de qualquer classe.</p>"
+      },
+      {
+            "question": "Quantos assentos não fixados com segurança ao ônibus são geralmente permitidos?",
+            "options": [
+              "2",
+              "0",
+              "1"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Seção: 4.1.3 - Interior do ônibus</strong></p><p>Os assentos devem ser seguros para os passageiros. Todos os assentos devem ser fixados de forma segura ao ônibus.</p>"
+      },
+      {
+            "question": "É melhor usar o cinto de segurança:",
+            "options": [
+              "Somente quando você estiver dirigindo mais de 35 mph.",
+              "Só se o seu ônibus comportar mais de 27 pessoas.",
+              "Em todos os momentos."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 4.1.5 - Use o cinto de segurança!</strong></p><p>O banco do motorista deve ter cinto de segurança. Use-o sempre por segurança.</p>"
+      },
+      {
+            "question": "Qual dos seguintes tipos de carga nunca pode ser transportado em um ônibus com passageiros?",
+            "options": [
+              "Material hospitalar de emergência",
+              "Gás lacrimogêneo",
+              "Remessas emergenciais de medicamentos"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><forte>Seção: 4.2.2 - Materiais perigosos proibidos</strong></p><p>Os ônibus nunca devem transportar: Divisão 2.3 gás venenoso, líquido Classe 6 veneno, gás lacrimogêneo, material irritante</p>"
+      },
+      {
+            "question": "Se um motociclista quiser trazer uma bateria de carro ou uma lata de gasolina a bordo do seu ônibus, você deve:",
+            "options": [
+              "Peça ao motociclista que pague uma segunda tarifa.",
+              "Instrua-os a sentar-se em uma janela aberta.",
+              "Não permita que o façam."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 4.2.2 - Materiais Perigosos Proibidos</strong></p><p>Os passageiros às vezes embarcam em um ônibus com um material perigoso não identificado. Não permita que os pilotos carreguem perigos comuns, como baterias de carros ou gasolina.</p>"
+      },
+      {
+            "question": "Alguns ônibus de trânsito urbano podem ter um sistema de intertravamento de porta de freio, este sistema:",
+            "options": [
+              "Deve ser usado em emergências.",
+              "Funciona quando as portas de saída do passageiro estão abertas.",
+              "Solta o freio."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Seção: 4.6 - Uso de intertravamentos de porta de freio</strong></p><p>O intertravamento aplica os freios e mantém o acelerador em posição de marcha lenta quando a porta traseira está aberta. O intertravamento se solta quando você fecha a porta traseira.</p>"
+      },
+      {
+            "question": "Quando é transportado num autocarro, as matérias perigosas devem ser:",
+            "options": [
+              "Embalado em uma caixa amarela.",
+              "Os dois.",
+              "Rotulado."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 4.2.1 - Materiais Perigosos</strong></p><p>As regras exigem que os expedidores marquem os contêineres de materiais perigosos com o nome do material, número de identificação e etiqueta de perigo. Existem nove diferentes etiquetas de perigo de quatro polegadas em forma de diamante</p>"
+      },
+      {
+            "question": "Você está dirigindo um ônibus projetado para permitir ficar em pé. Onde pode estar um motociclista?",
+            "options": [
+              "Atrás do banco do motorista.",
+              "Atrás de uma linha de standee.",
+              "Nenhum ciclista pode ficar em pé."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Seção: 4.2.3 - Linha Standee</strong></p><p>Os ônibus projetados para permitir a permanência em pé devem ter uma linha de duas polegadas no chão ou algum outro meio de mostrar aos passageiros onde eles não podem ficar em pé. Isso é chamado de linha standee. Todos os pilotos em pé devem ficar atrás dele.</p>"
+      },
+      {
+            "question": "Antes de conduzir, certifique-se de ter os seguintes equipamentos de emergência: (1) extintor de incêndio (2) refletores de emergência e (3):",
+            "options": [
+              "Fusíveis elétricos sobressalentes.",
+              "Dois pneus a mais.",
+              "Mirro de visão traseira extra."
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><forte>Seção: 4.1.1 - Sistemas do veículo</strong></p><p>Certifique-se de que seu ônibus tenha o extintor de incêndio e os refletores de emergência (3 triângulos refletivos ou pelo menos 6 fusíveis ou 3 sinalizadores de queima de líquido) exigidos por lei. O barramento também deve ter fusíveis elétricos sobressalentes, a menos que equipado com disjuntores.</p>"
+      },
+      {
+            "question": "Você deve colocar um ônibus carregado em movimento a partir de uma posição parada em uma atualização íngreme (4% ou mais). Qual é a melhor técnica a seguir quando se tem um ônibus com câmbio manual?",
+            "options": [
+              "Segure o freio de pé até que a embreagem esteja totalmente liberada.",
+              "Acelere forte e solte a embreagem rapidamente.",
+              "Solte lentamente a embreagem enquanto solta os freios de estacionamento."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 2.2.1 - Acelerando</forte></p><p>Não reverta quando iniciar. Você pode bater em alguém atrás de você. Se você tiver um veículo com transmissão manual, acione parcialmente a embreagem antes de tirar o pé direito do freio. Coloque o freio de estacionamento sempre que necessário para não retroceder. Solte o freio de estacionamento somente quando tiver aplicado potência suficiente do motor para não retroceder.</p>"
+      },
+      {
+            "question": " Escotilhas de tejadilho:",
+            "options": [
+              "Só aberto durante emergências.",
+              "São de cor laranja.",
+              "Pode estar em uma posição aberta para o ar fresco."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 4.1.4 - Escotilhas de teto</strong></p><p>Você pode travar algumas escotilhas de teto de emergência em uma posição parcialmente aberta para ar fresco.</p>"
+      },
+      {
+            "question": "Em geral, a melhor técnica de frenagem a ser usada para manter uma velocidade segura ao dirigir em downgrade é:",
+            "options": [
+              "Use o efeito de frenagem do motor para controlar a velocidade.",
+              "Usando apenas downshifting.",
+              "Usando apenas os freios de estacionamento."
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Seção: 2.6.6 - Velocidade em Downgrades</strong></p><p>Se um limite de velocidade for postado, ou houver uma placa indicando \"Velocidade Máxima Segura,\" nunca exceda a velocidade mostrada. Além disso, procure e preste atenção em placas de alerta indicando o comprimento e a inclinação da grade. Você deve usar o efeito de frenagem do motor como a principal maneira de controlar sua velocidade em downgrades.</p>"
+      },
+      {
+            "question": "Qual destas é a melhor regra geral para dirigir à noite?",
+            "options": [
+              "Dirija um pouco mais devagar do que o outro tráfego.",
+              "Certifique-se de que seus faróis estejam limpos e funcionando.",
+              "Dirija um pouco mais rápido do que o outro tráfego."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><forte>Seção: 2.11.4 - Fatores do veículo</forte></p><p>A condução noturna pode ser mais perigosa se você tiver problemas com os faróis. Faróis sujos podem dar apenas metade da luz que deveriam. Isso reduz sua capacidade de ver e torna mais difícil para os outros verem você. Certifique-se de que suas luzes estão limpas e funcionando.</p>"
+      },
+      {
+            "question": "Proteja a bagagem e o frete de forma a evitar danos e:",
+            "options": [
+              "Permita que os pilotos saiam rapidamente.",
+              "Permita que a bagagem seja encontrada rapidamente.",
+              "Permita que o motorista se mova livremente e facilmente."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 4.2 - Início do Carregamento e da Viagem</strong></p><p>Bagagem e frete seguros de forma a evitar danos e: (1) Permitir que o motorista se mova livre e facilmente (2) Permitir que os passageiros saiam por qualquer janela ou porta em caso de emergência (3) Proteger os pilotos de ferimentos se as bagagens de mão caírem ou mudarem.</p>"
+      },
+      {
+            "question": "Como os ônibus lidam com a maioria das travessias ferroviárias?",
+            "options": [
+              "Ligue os pisca-piscas do veículo antes de atravessar.",
+              "Toque na buzina elétrica antes de atravessar.",
+              "Pare entre 15 e 50 pés antes das travessias ferroviárias."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 4.3.5 - Travessia/paradas ferrovia-rodovia</strong></p><p>Pare seu ônibus entre 15 e 50 pés antes da travessia ferroviária.</p>"
+      },
+      {
+            "question": "Qual dessas é uma boa regra para apoiar um ônibus reto?",
+            "options": [
+              "Nada disso.",
+              "Use sinais de voz para se comunicar com um ajudante.",
+              "De volta para o lado oposto ao motorista."
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><forte>Seção: 2.2.4 - Apoiar com segurança</forte></p><p>Quando você tiver que voltar, aqui estão algumas regras de segurança simples: Volte e vire para o lado do motorista sempre que possível. Use um auxiliar quando puder. Há pontos cegos que você não pode ver. É por isso que um ajudante é importante. O ajudante deve ficar perto da parte de trás do seu veículo, onde você pode ver o ajudante. Antes de começar a apoiar, trabalhe um conjunto de sinais de mão que ambos entendam. Concorde com um sinal para \"stop.\"</p>"
+      },
+      {
+            "question": "Qual dessas formas de sinalização não é recomendada?",
+            "options": [
+              "Sinalizar para os outros que é seguro passar pelo ônibus.",
+              "Sinalizando para os outros que você vai mudar de faixa.",
+              "Usar pisca-piscas de quatro vias para alertar sobre o perigo à frente."
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><forte>Seção: 2.5.1 - Sinalize suas intenções</forte></p><p>Alguns motoristas tentam ajudar os outros sinalizando quando é seguro passar. Você não deve fazer isso. Você pode causar um acidente. Você pode ser culpado e isso pode custar muitos milhares de dólares.</p>"
+      },
+      {
+            "question": "Você deveria parar pelo menos o desenho da ponte. pés antes",
+            "options": [
+              "50",
+              "35",
+              "25"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><forte>Seção: 4.3.6 - Pontes levadiças</forte></p><p>Parar em pontes levadiças que não possuam semáforo ou atendente de controle de tráfego. Pare pelo menos 50 pés antes do desenho da ponte. Procure certificar-se de que o sorteio está completamente fechado antes do cruzamento.</p>"
+      },
+      {
+            "question": "Num sistema de arrefecimento pressurizado, o nível de líquido de arrefecimento deve ser verificado:",
+            "options": [
+              "A cada 90 dias.",
+              "Só por um mecânico.",
+              "Nem um nem outro"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 2.14.1 - Verificações do veículo</strong></p><p>Antes de começar, verifique se o sistema de arrefecimento do motor tem água e anticongelante suficientes de acordo com as instruções do fabricante do motor. Verifique visualmente o nível de líquido de arrefecimento e adicione mais líquido de arrefecimento, se necessário.</p>"
+      },
+      {
+          "question":"Você precisa evacuar seu ônibus em caso de emergência, os passageiros devem ser direcionados para um lugar seguro a não menos de metros do ônibus.",
+            "options": [
+              "75",
+              "150",
+              "100"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 10.3.2 - Procedimentos de evacuação</strong></p><p>Algumas dicas para determinar um lugar seguro: Um lugar seguro estará a pelo menos 100 metros da estrada na direção do tráfego que se aproxima.</p>"
+      },
+      {
+            "question": "Se o seu ônibus tem uma porta de saída de emergência, deve:",
+            "options": [
+              "Tenha uma luz vermelha da porta elétrica acesa o tempo todo.",
+              "ambos",
+              "Esteja seguro ao operar o ônibus."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 4.1.3 - Interior do ônibus</strong></p><p>Nunca dirija com uma porta ou janela de saída de emergência aberta.</p>"
+      },
+      {
+            "question": "Qual dos seguintes itens deve ser fechado enquanto o ônibus estiver em movimento?",
+            "options": [
+              "Janelas.",
+              "Janelas de emergência",
+              "Desabafos no telhado."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Seção: 4.1.3 - Interior do ônibus</strong></p><p>Nunca dirija com uma porta ou janela de saída de emergência aberta.</p>"
+      },
+      {
+            "question": "A linha standee é?",
+            "options": [
+              "Uma linha de duas polegadas no chão para a parte traseira do banco do motorista.",
+              "Uma linha a dois metros da saída traseira.",
+              "Não existe isso em um ônibus."
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Seção: 4.2.3 - Linha Standee</strong></p><p>Os ônibus projetados para permitir a permanência em pé devem ter uma linha de duas polegadas no chão ou algum outro meio de mostrar aos passageiros onde eles não podem ficar em pé. Isso é chamado de linha standee.</p>"
+      },
+      {
+            "question": "Os motoristas de fretamento devem:",
+            "options": [
+              "Mencione regras.",
+              "Explicar regras",
+              "Os dois."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 4.3.1 - Supervisão de passageiros</strong></p><p>Muitas transportadoras fretadas e intermunicipais possuem regras de conforto e segurança para os passageiros. Mencione regras sobre fumar, beber ou usar rádio e tocadores de fita no início da viagem. Explicar as regras no início ajudará a evitar problemas mais tarde.</p>"
+      },
+      {
+            "question": "Em pontes levadiças sem sinal você deve parar pelo menos?",
+            "options": [
+              "20 a 25 pés antes do desenho da ponte.",
+              "15 a 20 pés antes do desenho da ponte.",
+              "50 pés antes do desenho da ponte."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 4.3.6 - Pontes levadiças</forte></p><p>Parar em pontes levadiças que não possuam semáforo ou atendente de controle de tráfego. Pare pelo menos 50 pés antes do desenho da ponte.</p>"
+      },
+      {
+            "question": "Práticas proibidas no ônibus incluem?",
+            "options": [
+              "Tudo isso",
+              "Conversando com os pilotos enquanto dirige.",
+              "Abastecer seu ônibus com passageiros a bordo."
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><forte>Seção: 4.5 - Práticas Proibidas</strong></p><p>Evite abastecer seu ônibus com passageiros a bordo, a menos que seja absolutamente necessário. Nunca reabasteça em um prédio fechado com pilotos a bordo. Não fale com os motociclistas, nem se envolva em qualquer outra atividade de distração, enquanto dirige.</p>"
+      },
+      {
+            "question": "Os autocarros podem ter pneus retampados ou ranhurados:",
+            "options": [
+              "Em qualquer lugar, exceto nas rodas dianteiras.",
+              "Em qualquer ou todas as rodas.",
+              "Só na roda externa de rodas duplas."
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Seção: 4.1.1 - Sistemas do veículo</strong></p><p>Certifique-se de que estas coisas estão em bom estado de funcionamento antes de dirigir: Pneus (as rodas dianteiras não devem ter pneus reencapados/ranhurados).</p>"
+      },
+      {
+            "question": "Quando você inspeciona seu ônibus, você deve se certificar disso?",
+            "options": [
+              "Os dois.",
+              "As alças de saída de emergência são seguras.",
+              "Os dispositivos de sinalização do motociclista estão funcionando."
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Seção: 4.1.3 - Interior do ônibus</strong></p><p>As seguintes partes do seu ônibus devem estar em condições seguras de funcionamento: Dispositivos de sinalização, incluindo a campainha de emergência do banheiro, se o ônibus tiver banheiro. Alças de saída de emergência.</p>"
+      },
+      {
+            "question": "Se você tem passageiros a bordo, você nunca deve abastecer seu ônibus:",
+            "options": [
+              "Em um prédio fechado.",
+              "Com um grau maior de combustível.",
+              "Sem uma corrente estática."
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><forte>Seção: 4.5 - Práticas Proibidas</strong></p><p>Evite abastecer seu ônibus com passageiros a bordo, a menos que seja absolutamente necessário. Nunca reabasteça em um prédio fechado com pilotos a bordo.</p>"
+      },
+      {
+            "question": "Um autocarro só pode transportar bagagem ou carga se estiver protegido de modo a que:",
+            "options": [
+              "Ambos",
+              "Permitir que os passageiros saiam por qualquer janela ou porta em caso de emergência",
+              "O motorista pode se mover livremente e facilmente."
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><forte>Seção: 4.2 - Início do Carregamento e da Viagem</strong></p><p>Segura bagagem e frete de forma a evitar danos e: (1) Permitir que o motorista se mova livremente e facilmente. (2) Permitir que os passageiros saiam por qualquer janela ou porta em caso de emergência. (3) Proteger os pilotos de ferimentos em caso de queda ou deslocamento de bagagem de mão.</p>"
+      },
+      {
+            "question": "Você não deve permitir pilotos em pé?",
+            "options": [
+              "Na frente da fila do standee.",
+              "A dois metros de qualquer janela.",
+              "Entre os poços da roda."
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Seção: 4.2.3 - Linha Standee</strong></p><p>Os ônibus projetados para permitir a permanência em pé devem ter uma linha de duas polegadas no chão ou algum outro meio de mostrar aos passageiros onde eles não podem ficar em pé. Isso é chamado de linha standee.</p>"
+      },
+      {
+            "question": "Devido ao tamanho extremo de um ônibus, o motorista deve ficar atento?",
+            "options": [
+              "Limpe suas necessidades de ônibus.",
+              "Postes e fios",
+              "Os dois."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 4.3.3 - Acidentes comuns</forte></p><p>Ônibus escolares e de transporte coletivo às vezes raspam retrovisores ou batem em veículos que passam ao sair de um ponto de ônibus. Lembre-se da folga que seu ônibus precisa e observe se há postes e galhos de árvores nas paradas.</p>"
+      },
+      {
+            "question": "O intertravamento libera quando você:",
+            "options": [
+              "Solte o freio de estacionamento.",
+              "Feche a porta traseira.",
+              "Feche a porta da frente."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><forte>Seção: 4.6 - Uso de intertravamentos de porta de freio</strong></p><p>O intertravamento se solta quando você fecha a porta traseira.</p>"
+      },
+      {
+            "question": "Qual dos itens a seguir lista os três tipos de equipamentos de emergência que você deve ter em seu ônibus?",
+            "options": [
+              "Macaco hidráulico, extintor de incêndio, sinalizadores.",
+              "Kit de reparo, fusíveis elétricos sobressalentes e extintor de incêndio.",
+              "Extintor de incêndio, fusíveis elétricos sobressalentes e refletores de emergência."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 4.1.1 - Sistemas do veículo</strong></p><p>Certifique-se de que seu ônibus tenha o extintor de incêndio e os refletores de emergência (3 triângulos refletivos ou pelo menos 6 fusíveis ou 3 sinalizadores de queima de líquido) exigidos por lei. O barramento também deve ter fusíveis elétricos sobressalentes, a menos que equipado com disjuntores.</p>"
+      },
+      {
+            "question": "Você não precisa parar, mas desacelerar?",
+            "options": [
+              "Travessia de bonde",
+              "Quando um policial ou bandeirinha está dirigindo o trânsito.",
+              "Os dois"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 4.3.5 - Travessia ferro-rodovia/Paragens</forte></p><p>Você não precisa parar, mas deve reduzir a velocidade e verificar cuidadosamente se há outros veículos: (1): Em cruzamentos de bonde. (2): Onde um policial ou bandeirinha está dirigindo o trânsito.</p>"
+      },
+      {
+            "question": "Não transportar qualquer material perigoso",
+            "options": [
+              "A menos que você mesmo tenha garantido.",
+              "A menos que você tenha certeza de que as regras permitem isso.",
+              "A menos que pareça seguro."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><forte>Seção: 4.2.1 - Materiais perigosos</forte></p><p>Não transporte nenhum material perigoso a menos que tenha certeza de que as regras o permitem.</p>"
+      },
+      {
+            "question": "Se você aumentar sua velocidade de 20 para 60 mph (velocidade original vezes 3), quanto mais distância de frenagem é necessária a 60 mph do que a 20 mph?",
+            "options": [
+              "3 x 3 ou 9 vezes.",
+              "3 x 4 ou 12 vezes.",
+              "3 x 2 ou 6 vezes."
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><forte>Seção: 2.6.1 - Distância de parada</forte></p><p>Quanto mais rápido você dirigir, maior será o impacto ou o poder de impacto do seu veículo. Quando você dobra sua velocidade de 20 para 40 mph o impacto é 4 vezes maior. A distância de frenagem também é 4 vezes maior. Triplice a velocidade de 20 para 60 mph e a distância de impacto e frenagem é 9 vezes maior.</p>"
+      },
+      {
+            "question": "Ao dirigir a mais de 40 mph, qual é a distância mínima segura para condições ideais de dia?",
+            "options": [
+              "Quatro segundos.",
+              "cinco segundos",
+              "Um segundo para cada 10 pés de comprimento do veículo (arredondado para cima para os 10 pés mais próximos)."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Seção: 2.7.1 - Espaço à frente</forte></p><p>Se você estiver dirigindo um caminhão de 40 pés e só contar até 2 segundos, você está muito perto. Recue um pouco e conte novamente até ter 4 segundos de distância seguinte (ou 5 segundos, se estiver passando de 40 mph).</p>"
+      },
+      {
+            "question": "Ao chegar ao destino, ou paradas intermediárias, você deve anunciar: O local, reason da parada, próximo horário de partida e?",
+            "options": [
+              "Informações de contato da empresa.",
+              "Número do ônibus",
+              "Seu nome completo e ID do motorista."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Seção: 4.2.4 - No seu destino</strong></p><p>Ao chegar ao destino ou paradas intermediárias anuncie: (1) A localização. (2) Reason da parada. (3) Próxima hora de partida (4) Número do ônibus.</p>"
+      },
+      {
+            "question": "O momento adequado para cancelar o sinal de mudança de faixa para uma mudança de faixa ou curva é?",
+            "options": [
+              "Pouco antes de iniciar a manobra.",
+              "Mais ou menos na metade da manobra.",
+              "Quando a manobra estiver completa."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 2.5.1 - Sinalize suas intenções</forte></p><p>Sinal continuamente. Você precisa das duas mãos no volante para girar com segurança. Não cancele o sinal até completar o turno.&nbsp; </p>"
+      }
+      ],
+      "es":[
+        { 
+              "question": "Los conductores de autobuses comerciales deben tener una licencia de conducir comercial si:",
+              "options": [
+                "Conducen un vehículo que tiene frenos de aire",
+                "Conducen un vehículo que tiene una clasificación de peso bruto de más de 26,000 libras",
+                "Conducen un vehículo que está diseñado para transportar a más de quince (15) pasajeros, incluido el conductor"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 40 - Transporte seguro de pasajeros</strong></p><p>Los conductores de autobuses deben tener una licencia de conducir comercial si conducen un vehículo diseñado para acomodar a más de 16 o más personas, incluido el conductor</p>"
+        },
+        {
+              "question": "El equipaje de mano no se puede guardar:",
+              "options": [
+                 "En el pasillo",
+                 "En los asientos",
+                "Detrás de los asientos"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 42 - Carga e inicio del viaje</strong></p><p>No permita que los pasajeros dejen el equipaje de mano en una puerta o pasillo No debe haber nada en el pasillo que pueda hacer tropezar a otros pasajeros</p>"
+        },
+        {
+              "question": "Los autobuses pueden transportar:",
+              "options": [
+                "Explosivos",
+                "Munición de armas pequeñas etiquetada como orm-d",
+                "Baterías de coche"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 422 - Materiales peligrosos prohibidos</strong></p><p>Los autobuses pueden transportar municiones de armas pequeñas etiquetadas como ORM-D, suministros hospitalarios de emergencia y medicamentos</p>"
+        },
+        {
+              "question": "Al llegar al destino anunciar:",
+              "options": [
+               " La hora de salida",
+                "Las dos cosas",
+                "La ubicación"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 424 - En su destino</strong></p><p>Al llegar al destino o paradas intermedias anuncie: (1) La ubicación (2) Motivo de la parada (3) &nbsp; &nbsp; hora de salida (4) Número de autobús</p>"
+        },
+        {
+              "question": "Un pasajero perturbador:",
+              "options": [
+                "No debería permitirse subir al autobús",
+                "No deben ser descargados donde no sea seguro para ellos",
+                "No es tu responsabilidad"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 432 - En las paradas</strong></p><p>Ocasionalmente, es posible que tenga un pasajero borracho o perturbador Debe garantizar la seguridad de este ciclista, así como la de los demás No despida a tales jinetes donde sea indeseable para ellos</p>"
+        },
+        {
+              "question": "Si su autobús se inclina hacia el exterior en una curva peraltada, usted está:",
+              "options": [
+                "Conducir a la velocidad correcta",
+                "Conducir demasiado despacio",
+                "Conducir demasiado rápido"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 434 - Velocidad en curvas</strong></p><p>Reducir la velocidad en curvas Si su autobús se inclina hacia afuera en una curva peraltada, está conduciendo demasiado rápido</p>"
+        },
+        {
+              "question": "Debe detener su autobús entre:",
+              "options": [
+                "De 5 a 10 pies antes de un cruce de ferrocarril",
+                "De 20 a 25 pies antes de un cruce de ferrocarril",
+                "15 y 50 pies antes de un cruce de ferrocarril"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 435 - Paradas de cruces de ferrocarril-carretera</strong></p><p>Parada en los cruces RR: Detenga su autobús entre 15 y 50 pies antes de los cruces de ferrocarril</p>"
+        },
+        {
+              "question": "Al final de cada turno debes:",
+              "options": [
+                "Informar de cualquier defecto",
+                "Inspecciona tu autobús",
+               " Las dos cosas"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 44 - Inspección del vehículo después del viaje</strong></p><p>Inspeccione su busto al final de cada turno Los pasajeros a veces dañan las piezas relacionadas con la seguridad, como los asideros, los asientos y las ventanas Si reporta este daño al final de un turno, los mecánicos pueden hacer reparaciones antes de que el autobús vuelva a salir</p>"
+        },
+        {
+              "question": "Se puede utilizar el sistema de enclavamiento para el freno y el acelerador de un autocar de tránsito:",
+              "options": [
+                "Para reemplazar el freno de mano",
+                "Para reemplazar el timbre de emergencia de la puerta trasera",
+                "Como elemento de seguridad cuando la puerta de salida está abierta"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 46 - Uso de enclavamientos de puertas de freno</strong></p><p>Los autocares de transporte público urbano pueden tener un sistema de enclavamiento de freno y acelerador El enclavamiento aplica los frenos y mantiene el acelerador en posición de ralentí cuando la puerta trasera está abierta El enclavamiento se libera al cerrar la puerta trasera No utilice esta característica de seguridad en lugar del freno de estacionamiento</p>"
+        },
+        {
+              "question": "Su autobús está inhabilitado El autobús, con pasajeros a bordo, solo puede ser remolcado o empujado a un lugar seguro:",
+              "options": [
+                "Por otro autobús con sus luces intermitentes de 4 vías encendidas",
+                "Si bajarse del autobús sería más arriesgado para los pasajeros",
+                "Si la distancia es inferior a 1 milla"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 45 - Prácticas prohibidas</strong></p><p>No remolque ni empuje un autobús discapacitado con pasajeros a bordo del vehículo, a menos que bajarse sea inseguro Solo remolque o empuje el autobús hasta el lugar seguro más cercano para descargar a los pasajeros</p>"
+        },
+        {
+              "pregunta": "A veces puede transportar municiones de armas pequeñas, cargamentos de emergencia de medicamentos o suministros hospitalarios en un autobús El peso total de todos estos materiales peligrosos no debe ser superior a libras",
+              "options": [
+                "100",
+                "500",
+                "700"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 422 - Materiales peligrosos prohibidos</strong></p><p>Los autobuses nunca deben transportar: Más de 500 libras en total de materiales peligrosos permitidos, y no más de 100 libras de cualquier clase</p>"
+        },
+        {
+              "question": "¿Cuántos asientos que no están bien sujetos al autobús suelen estar permitidos?",
+              "options": [
+                "2",
+                "0",
+                "1"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 413 - Interior del autobús</strong></p><p>Los asientos deben ser seguros para los pasajeros Todos los asientos deben estar bien sujetos al autobús</p>"
+        },
+        {
+              "question": "Lo mejor es usar el cinturón de seguridad:",
+              "options": [
+                "Solo cuando conduzca a más de 35 mph",
+                "Solo si su autobús tiene capacidad para más de 27 personas",
+                "En todo momento"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 415 - ¡Use el cinturón de seguridad!</strong></p><p>El asiento del conductor debe tener cinturón de seguridad Úselo siempre por seguridad</p>"
+        },
+        {
+              "question": "¿Cuál de los siguientes tipos de carga nunca se puede transportar en un autobús con pasajeros?",
+              "options": [
+                "Suministros hospitalarios de emergencia",
+                "Gases lacrimógenos",
+                "Cargamentos de medicamentos de emergencia"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 422 - Materiales peligrosos prohibidos</strong></p><p>Los autobuses nunca deben transportar: División 23 gas venenoso, veneno líquido Clase 6, gas lacrimógeno, material irritante</p>"
+        },
+        {
+              "question": "Si un pasajero quiere llevar una batería de automóvil o una lata de gasolina a bordo de su autobús, debe:",
+              "options": [
+                "Pídele al pasajero que pague una segunda tarifa",
+                "Indíqueles que se sienten frente a una ventana abierta",
+                "No permitir que lo hagan"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 422 - Materiales peligrosos prohibidos</strong></p><p>Los pasajeros a veces abordan un autobús con un material peligroso sin etiquetar No permita que los pasajeros lleven consigo peligros comunes, como baterías de automóviles o gasolina</p>"
+        },
+        {
+              "question": "Algunos autobuses de tránsito urbano pueden tener un sistema de bloqueo de puerta de freno, este sistema:",
+              "options": [
+                "Debe usarse en emergencias",
+                "Funciona cuando las puertas de salida de pasajeros están abiertas",
+                "Suelta los frenos"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 46 - Uso de enclavamientos de puertas de freno</strong></p><p>El enclavamiento aplica los frenos y mantiene el acelerador en posición de ralentí cuando la puerta trasera está abierta El enclavamiento se libera cuando cierra la puerta trasera</p>"
+        },
+        {
+              "question": "Cuando se transporta en un autobús, el material peligroso debe ser:",
+              "options": [
+                "Empacado en una caja amarilla",
+                "Las dos cosas",
+                "Etiquetado"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 421 - Materiales peligrosos</strong></p><p>Las reglas requieren que los remitentes marquen los contenedores de materiales peligrosos con el nombre, el número de identificación y la etiqueta de peligro del material Hay nueve etiquetas de peligro diferentes de cuatro pulgadas en forma de diamante</p>"
+        },
+        {
+              "pregunta": "Está conduciendo un autobús diseñado para permitir estar de pie ¿Dónde puede pararse un jinete?",
+              "options": [
+                "Detrás del asiento del conductor",
+                "Detrás de una línea de pie",
+                "A ningún jinete se le permite estar de pie"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 423 - Standee Line</strong></p><p>Los autobuses diseñados para permitir estar de pie deben tener una línea de dos pulgadas en el piso o algún otro medio para mostrar a los pasajeros dónde no pueden pararse A esto se le llama la línea standee Todos los ciclistas de pie deben permanecer detrás de él</p>"
+        },
+        {
+              "question": "Antes de conducir, asegúrese de tener el siguiente equipo de emergencia: (1) extintor de incendios (2) reflectores de emergencia y (3):",
+              "options": [
+                "Fusibles eléctricos de repuesto",
+                "Dos neumáticos extra",
+                "Un mirador de visión trasera adicional"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 411 - Sistemas del vehículo</strong></p><p>Asegúrese de que su autobús tenga el extintor de incendios y los reflectores de emergencia (3 triángulos reflectantes o al menos 6 fusibles o 3 bengalas de combustión líquida) requeridos por la ley El autobús también debe tener fusibles eléctricos de repuesto, a menos que esté equipado con disyuntores</p>"
+        },
+        {
+              "question": "Debe poner en movimiento un autobús cargado desde una posición detenida en una subida empinada (4% o más) ¿Cuál de estas es la mejor técnica a seguir cuando tienes un autobús con transmisión manual?",
+              "options": [
+                "Mantenga presionado el freno de pie hasta que el embrague se haya soltado por completo",
+                "Acelera con fuerza y suelta el embrague rápidamente",
+                "Suelte lentamente el embrague mientras suelta los frenos de estacionamiento"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 221 - Acelerando</strong></p><p>No retrocedas cuando comiences Puede golpear a alguien detrás de usted Si tiene un vehículo de transmisión manual, enganche parcialmente el embrague antes de quitar el pie derecho del freno Ponga el freno de mano siempre que sea necesario para evitar retroceder Suelte el freno de estacionamiento solo cuando haya aplicado suficiente potencia del motor para evitar retroceder</p>"
+        },
+        {
+              "question": "Escotillas de techo:",
+              "options": [
+                "Solo se abre durante emergencias",
+                "Son de color naranja",
+                "Puede estar en una posición abierta para tomar aire fresco"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 414 - Escotillas de techo</strong></p><p>Puede bloquear algunas escotillas de techo de emergencia en una posición parcialmente abierta para que entre aire fresco</p>"
+        },
+        {
+              "question": "En general, la mejor técnica de frenado para mantener una velocidad segura cuando se conduce en una pendiente descendente es:",
+              "options": [
+                "Usa el efecto de frenado del motor para controlar la velocidad",
+                "Usando solo la reducción de marchas",
+                "Usando solo los frenos de mano"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 266 - Velocidad en Downgrades</strong></p><p>Si se publica un límite de velocidad, o hay un letrero que indica \"Velocidad máxima segura\", nunca exceda la velocidad mostrada Además, busque y preste atención a las señales de advertencia que indican la longitud y la pendiente de la pendiente Debe utilizar el efecto de frenado del motor como la forma principal de controlar su velocidad en las bajadas</p>"
+        },
+        {
+              "question": "¿Cuál de estas es la mejor regla general para conducir de noche?",
+              "options": [
+                "Conduzca un poco más despacio que el resto del tráfico",
+                "Asegúrese de que sus faros estén limpios y funcionando",
+                "Conduzca un poco más rápido que el resto del tráfico"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 2114 - Factores del vehículo</strong></p><p>La conducción nocturna puede ser más peligrosa si tiene problemas con los faros Los faros sucios pueden dar solo la mitad de la luz que deberían Esto reduce tu capacidad de ver y hace que sea más difícil que los demás te vean Asegúrese de que sus luces estén limpias y funcionando</p>"
+        },
+        {
+              "question": "Asegure el equipaje y la carga de manera que se eviten daños y:",
+              "options": [
+                "Permita que los pasajeros salgan rápidamente",
+                "Permita que el equipaje sea encontrado rápidamente",
+                "Permita que el conductor se mueva libre y fácilmente"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 42 - Carga e inicio del viaje</strong></p><p>Asegure el equipaje y la carga de manera que se eviten daños y: (1) Permita que el conductor se mueva libre y fácilmente (2) Permita que los pasajeros salgan por cualquier ventana o puerta en caso de emergencia (3) Proteja a los pasajeros de lesiones si el equipaje de mano se cae o se desplaza</p>"
+        },
+        {
+              "pregunta": "¿Cómo van a manejar los autobuses la mayoría de los cruces a nivel de ferrocarril?",
+              "options": [
+                "Encienda las luces intermitentes del vehículo antes de cruzar",
+                "Toca la bocina eléctrica antes de cruzar",
+                "Deténgase entre 15 y 50 pies antes de los cruces de ferrocarril"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 435 - Cruce/paradas de ferrocarril-carretera</strong></p><p>Detenga su autobús entre 15 y 50 pies antes de los cruces de ferrocarril</p>"
+        },
+        {
+              "question": "¿Cuál de estas es una buena regla para dar marcha atrás a un autobús recto?",
+              "options": [
+                "Nada de eso",
+                "Usa señales de voz para comunicarte con un ayudante",
+                "De vuelta hacia el lado opuesto al conductor"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 224 - Retroceder de forma segura</strong></p><p>Cuando tenga que retroceder, aquí hay algunas reglas de seguridad simples: Retroceda y gire hacia el lado del conductor siempre que sea posible Usa un ayudante cuando puedas Hay puntos ciegos que no se pueden ver Por eso es importante un ayudante El ayudante debe pararse cerca de la parte trasera de su vehículo donde pueda verlo Antes de comenzar a retroceder, elabore una serie de señales con las manos que ambos entiendan Acuerde una señal para \"stop\"</p>"
+        },
+        {
+              "question": "¿Cuál de estas formas de señalización no se recomienda?",
+              "options": [
+                "Indicar a los demás que es seguro adelantar al autobús",
+                "Señalando a los demás que cambiarás de carril",
+                "Usar luces intermitentes de cuatro vías para advertir del peligro que se avecina"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 251 - Señale sus intenciones</strong></p><p>Algunos conductores tratan de ayudar a los demás señalando cuándo es seguro rebasar No deberías hacer esto Podría causar un accidente Podrías ser culpado y podría costarte muchos miles de dólares</p>"
+        },
+        {
+              "question": "Deberías detener al menos el tiro del puente pies antes",
+              "options": [
+                "50",
+                "35",
+                "25"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 436 - Puentes levadizos</strong></p><p>Detenerse en los puentes levadizos que no tengan semáforo o asistente de control de tráfico Deténgase al menos 50 pies antes de la apertura del puente Asegúrate de que el cajón esté completamente cerrado antes de cruzar</p>"
+        },
+        {
+              "question": "En un sistema de refrigeración presurizado, se debe comprobar el nivel de refrigerante:",
+              "options": [
+                "Cada 90 días",
+                "Solo por un mecánico",
+                "Tampoco"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 2141 - Controles del vehículo</strong></p><p>Antes de arrancar, asegúrese de que el sistema de refrigeración del motor tenga suficiente agua y anticongelante de acuerdo con las instrucciones del fabricante del motor Verifique visualmente el nivel de refrigerante y agregue más refrigerante si es necesario</p>"
+        },
+        {
+              "question": "Necesita evacuar su autobús en caso de emergencia, los pasajeros deben ser dirigidos a un lugar seguro a no menos de unos pies del autobús",
+              "options": [
+                "75",
+                "150",
+                "100"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 1032 - Procedimientos de evacuación</strong></p><p>Algunos consejos para determinar un lugar seguro: Un lugar seguro estará al menos a 100 pies de la carretera en la dirección del tráfico que se aproxima</p>"
+        },
+        {
+              "question": "Si su autobús tiene una puerta de salida de emergencia, debe:",
+              "options": [
+                "Tenga encendida una luz eléctrica roja en la puerta en todo momento",
+                "ambos",
+                "Esté asegurado cuando opere el autobús"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "motivo": "<p><strong>Sección: 413 - Interior del autobús</strong></p><p>Nunca conduzca con una puerta o ventana de salida de emergencia abierta</p>"
+        },
+        {
+              "question": "¿Cuál de las siguientes options debe cerrarse mientras el autobús está en movimiento?",
+              "options": [
+                " Ventanas",
+                "Ventanas de emergencia",
+                "Rejillas de ventilación en el techo"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "motivo": "<p><strong>Sección: 413 - Interior del autobús</strong></p><p>Nunca conduzca con una puerta o ventana de salida de emergencia abierta</p>"
+        },
+        {
+              "question": "¿La línea de pie es?",
+              "options": [
+                "Una línea de dos pulgadas en el piso hasta la parte trasera del asiento del conductor",
+                " Una cola a dos metros de la salida trasera",
+                "No existe tal cosa en un autobús"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 423 - Standee Line</strong></p><p>Los autobuses diseñados para permitir estar de pie deben tener una línea de dos pulgadas en el piso o algún otro medio para mostrar a los pasajeros dónde no pueden pararse A esto se le llama línea standee</p>"
+        },
+        {
+              "question": "Los conductores de vuelos chárter deben:",
+              "options": [
+                "Menciona las reglas",
+                "Explique las reglas",
+               " Las dos cosas"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 431 - Supervisión de pasajeros</strong></p><p>Muchos transportistas chárter e interurbanos tienen normas de comodidad y seguridad para los pasajeros Mencione las reglas sobre fumar, beber o usar radios y reproductores de cintas al comienzo del viaje Explicar las reglas al principio ayudará a evitar problemas más adelante</p>"
+        },
+        {
+              "question": "¿En los puentes levadizos sin señal hay que detenerse al menos?",
+              "options": [
+                "De 20 a 25 pies antes de la apertura del puente",
+                "De 15 a 20 pies antes de la apertura del puente",
+                "50 pies antes de que se levante el puente"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 436 - Puentes levadizos</strong></p><p>Detenerse en los puentes levadizos que no tengan semáforo o asistente de control de tráfico Deténgase por lo menos 50 pies antes de que se abra el puente</p>"
+        },
+        {
+              "question": "¿Las prácticas prohibidas en el autobús incluyen?",
+              "options": [
+                "Todos estos",
+                "Hablar con los pasajeros mientras se conduce",
+                "Abastecer de combustible a su autobús con pasajeros a bordo"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 45 - Prácticas prohibidas</strong></p><p>Evite cargar combustible en su autobús con pasajeros a bordo a menos que sea absolutamente necesario Nunca reposte en un edificio cerrado con pasajeros a bordo No hable con los pasajeros ni participe en ninguna otra actividad que lo distraiga mientras conduce</p>"
+        },
+        {
+              "question": "Los autobuses pueden tener neumáticos retapados o reranurados:",
+              "options": [
+                "En cualquier lugar menos en las ruedas delanteras",
+                "En cualquiera o en todas las ruedas",
+                "Solo en la rueda exterior de las ruedas dobles"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 411 - Sistemas del vehículo</strong></p><p>Asegúrese de que estas cosas estén en buen estado de funcionamiento antes de conducir: Neumáticos (las ruedas delanteras no deben tener neumáticos retapados o reranurados)</p>"
+        },
+        {
+              "question": "Cuando inspeccione su autobús, ¿debe asegurarse de que?",
+              "options": [
+                "Las dos cosas",
+                "Las manijas de las salidas de emergencia son seguras",
+                "Los dispositivos de señalización de los pasajeros están funcionando"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 413 - Interior del autobús</strong></p><p>Las siguientes partes de su autobús deben estar en condiciones de funcionamiento seguras: Dispositivos de señalización, incluido el timbre de emergencia del baño, si el autobús tiene un baño Manijas de salida de emergencia</p>"
+        },
+        {
+              "question": "Si tiene pasajeros a bordo, nunca debe repostar su autobús:",
+              "options": [
+                "En un edificio cerrado",
+                "Con un grado de combustible más alto",
+                "Sin una cadena estática"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 45 - Prácticas prohibidas</strong></p><p>Evite cargar combustible en su autobús con pasajeros a bordo a menos que sea absolutamente necesario Nunca reposte en un edificio cerrado con pasajeros a bordo</p>"
+        },
+        {
+              "question": "Un autobús puede transportar equipaje o carga solo si está asegurado de manera que:",
+              "options": [
+                "Ambos",
+                "Permitir que los pasajeros salgan por cualquier ventana o puerta en caso de emergencia",
+                "El conductor puede moverse libre y fácilmente"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 42 - Carga e inicio del viaje</strong></p><p>Asegure el equipaje y la carga de manera que se eviten daños y: (1) Permita que el conductor se mueva libre y fácilmente (2) Permitir que los pasajeros salgan por cualquier ventana o puerta en caso de emergencia (3) Proteger a los pasajeros de lesiones si el equipaje de mano se cae o se mueve</p>"
+        },
+        {
+              "question": "¿No debe permitir jinetes de pie?",
+              "options": [
+                "Frente a la línea de espera",
+                "A menos de dos pies de cualquier ventana",
+                "Entre los huecos de las ruedas"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 423 - Standee Line</strong></p><p>Los autobuses diseñados para permitir estar de pie deben tener una línea de dos pulgadas en el piso o algún otro medio para mostrar a los pasajeros dónde no pueden pararse A esto se le llama línea standee</p>"
+        },
+        {
+              "question": "Debido al tamaño extremo de un autobús, ¿el conductor debe estar atento?",
+              "options": [
+                "Despeje lo que necesita su autobús",
+                "Postes y alambres",
+                "Las dos cosas"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 433 - Accidentes comunes</strong></p><p>Los autobuses escolares y de transporte público a veces raspan los espejos o golpean a los vehículos que pasan al salir de una parada de autobús Recuerde el espacio libre que necesita su autobús y esté atento a los postes y ramas de árboles en las paradas</p>"
+        },
+        {
+              "question": "El enclavamiento se libera cuando:",
+              "options": [
+                "Suelte el freno de mano",
+                "Cierra la puerta trasera",
+                "Cierra la puerta principal"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 46 - Uso de enclavamientos de puertas de freno</strong></p><p>El enclavamiento se libera cuando cierra la puerta trasera</p>"
+        },
+        {
+              "pregunta": "¿Cuál de las siguientes options enumera los tres tipos de equipo de emergencia que debe tener en su autobús?",
+              "options": [
+                "Gato hidráulico, extintor, bengalas de señales",
+                "Kit de reparación, fusibles eléctricos de repuesto y extintor de incendios",
+                "Extintor de incendios, fusibles eléctricos de repuesto y reflectores de emergencia"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 411 - Sistemas del vehículo</strong></p><p>Asegúrese de que su autobús tenga el extintor de incendios y los reflectores de emergencia (3 triángulos reflectantes o al menos 6 fusibles o 3 bengalas de combustión líquida) requeridos por la ley El autobús también debe tener fusibles eléctricos de repuesto, a menos que esté equipado con disyuntores</p>"
+        },
+        {
+              "question": "¿No tienes que detenerte, sino reducir la velocidad?",
+              "options": [
+                "Cruce de tranvías",
+                "Cuando un policía o un abanderado está dirigiendo el tráfico",
+                "Ambas"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 435 - Cruce/paradas de ferrocarril-carretera</strong></p><p>No tiene que detenerse, pero debe reducir la velocidad y verificar cuidadosamente si hay otros vehículos: (1): En los cruces de tranvías (2): Cuando un policía o un abanderado está dirigiendo el tráfico</p>"
+        },
+        {
+              "question": "No transporte ningún material peligroso",
+              "options": [
+                "A menos que lo hayas asegurado tú mismo",
+                "A menos que estés seguro de que las reglas lo permiten",
+                "A menos que parezca seguro"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 421 - Materiales peligrosos</strong></p><p>No transporte ningún material peligroso a menos que esté seguro de que las normas lo permiten</p>"
+        },
+        {
+              "question": "Si aumenta su velocidad de 20 a 60 mph (velocidad original multiplicada por 3), ¿cuánta más distancia de frenado se requiere a 60 mph que a 20 mph?",
+              "options": [
+                "3 x 3 o 9 veces",
+                "3 x 4 o 12 veces",
+                "3 x 2 o 6 veces"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 261 - Distancia de frenado</strong></p><p>Cuanto más rápido conduzca, mayor será el impacto o la potencia de impacto de su vehículo Cuando duplicas tu velocidad de 20 a 40 mph, el impacto es 4 veces mayor La distancia de frenado también es 4 veces mayor Triplica la velocidad de 20 a 60 mph y la distancia de impacto y frenado es 9 veces mayor</p>"
+        },
+        {
+              "question": "Cuando se conduce a más de 40 mph, ¿cuál es la distancia mínima segura para seguir en condiciones diurnas ideales?",
+              "options": [
+               "  Cuatro segundos",
+                "Cinco segundos",
+                "Un segundo por cada 10 pies de longitud del vehículo (redondeado hacia arriba a los 10 pies más cercanos)"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 271 - Espacio por delante</strong></p><p>Si está conduciendo un camión de 40 pies y solo contó hasta 2 segundos, está demasiado cerca Retroceda un poco y cuente nuevamente hasta que tenga 4 segundos de distancia de seguimiento (o 5 segundos, si va a más de 40 mph)</p>"
+        },
+        {
+              "question": "Al llegar al destino, o paradas intermedias, debe anunciar: La ubicación, el motivo de la parada, la próxima hora de salida y?",
+              "options": [
+                "Información de contacto de la empresa",
+               " Número de autobús",
+                "Su nombre completo e identificación de conductor"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 424 - En su destino</strong></p><p>Al llegar al destino o paradas intermedias anuncie: (1) La ubicación (2) Motivo de la interrupción (3) Próxima hora de salida (4) Número de autobús</p>"
+        },
+        {
+              "question": "¿El momento adecuado para cancelar la señal de giro para un cambio de carril o giro es?",
+              "options": [
+                "Justo antes de iniciar la maniobra",
+                "Más o menos a la mitad de la maniobra",
+                "Cuando la maniobra esté completa"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 251 - Señale sus intenciones</strong></p><p>Señale continuamente Necesita ambas manos en el volante para girar con seguridad No cancele la señal hasta que haya completado el giro </p>"
+        }
+        ]
+          
+        
+        
+        
+      
+      
+    
+  }

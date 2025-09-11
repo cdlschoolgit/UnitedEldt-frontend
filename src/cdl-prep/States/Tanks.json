@@ -1,0 +1,1353 @@
+{
+  "en":[
+    {
+      "question": "How do you anticipate managing when your cargo tank contains baffles?",
+      "options": [
+        "Less side-to-side surge will occur than in tanks without baffles. ",
+        "The front-to-back surge will be less than in tanks without baffles",
+        "More slow surges than rapid surges are anticipated. "
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section 8.2.4:</strong> Reasons for Baffled Tanks </p><p> The forward and backward liquid surges are lessened in part by the baffles. There is still a chance of side-to-side surge, which can result in a roll over.</p>"
+    },
+    {
+      "question": "When operating a tanker and having to swiftly steer to avoid an obstacle, you:? ",
+      "options": [
+        "Applying the brakes while turning is not advised. ",
+        " Before you begin to steer, you should wrap your thumb around the steering wheel.",
+        "  Will discover that compared to most trucks, tankers are simpler to counter-steer. "
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section 8.3.2:</strong> Reasoning and Surge Control </p><p> If you have to brake quickly to prevent an accident, employ stab or controlled braking. Additionally, keep in mind that your car could roll over if you swerve fast while applying brakes.&nbsp;</p>"
+    },
+    {
+      "question": "Out of all of these, how should one take a curve?",
+      "options": [
+        "Before entering, reduce your speed to a safe level and smoothly navigate the bend.  ",
+        "Before entering, slow down to a safe speed, then gently pick up speed as you navigate the bend. ",
+        " Continue to drive at a high speed until you reach the curve, then apply the brakes."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Part 8.3.3: Curvatures </strong></p><p> Prior to curves, slow down; during the curve, gradually accelerate. For a tank vehicle, the posted speed on a curve can be too rapid.&nbsp;</p>"
+    },
+    {
+      "question": "There are two reasons why transporting liquids in tankers needs extra caution. The center of gravity is one of the causes. ",
+      "options": [
+        "Wide Flat High  ",
+        "Next Response ",
+        " Strong Argument "
+      ],
+      "correctAnswer": [
+        1,
+        2
+      ],
+      "reason": "<p><strong>Section 8.2: </strong>Operating Tankers </p><p> Tank hauling necessitates specialized knowledge due to the high center of gravity and movement of the liquid.&nbsp;</p>"
+    },
+    {
+      "question": "Empty Tank Vehicles:?",
+      "options": [
+        "more stopping distance than complete ones ",
+        " possess superior traction than a complete one while braking ",
+        " Less room is needed ahead than in complete ones. "
+      ],
+      "correctAnswer": [
+        1,
+        2,
+        0
+      ],
+      "reason": "<p><strong>Section: 8.3.4 </strong>- Stopping Distance A vehicle with an empty tank may require more time to stop than one with a full one.&nbsp;</p>"
+    },
+    {
+      "question": "You have to immediately stop your tanker or risk crashing due to an emergency. You ought to? ",
+      "options": [
+        "Apply minimal force to the brake pedal. ",
+        " Stick to the emergency brakes exclusively.",
+        "  Apply stab or controlled braking. "
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section 8.3.2:</strong> Reasoning and Surge Control </p><p> If you have to brake quickly to prevent an accident, employ stab or controlled braking.</p>"
+    },
+    {
+      "question": "Side-to-side surges may result in:?",
+      "options": [
+        "Rollover is one option.",
+        "  flat tires. ",
+        " uneven degradation of the tires. "
+      ],
+      "correctAnswer": [
+        2,
+        0
+      ],
+      "reason": "<p><strong>Section 8.2.4:</strong> Incomprehensible Tanks </p><p> There is still a chance of side-to-side surge, which can result in a roll over.&nbsp;</p>"
+    },
+    {
+      "question": "When operating smooth bore tanks, you should drive very carefully, particularly if you are?",
+      "options": [
+        " Filling and emptying.  ",
+        "beginning or ending.  ",
+        "traveling in an arc. "
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section 8.2.5 </strong>- Reasons for Unbaffled Tanks </p><p> When driving smooth bore tanks, especially when starting and stopping, exercise utmost caution (slow and careful).&nbsp;</p>"
+    },
+    {
+      "question": "When driving a tank trailer, what would happen to your car if the trailer wheels or drive skid?",
+      "options": [
+        "Turn over. ",
+        " Knife Jack. ",
+        " In response, Jackknife "
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section 8.3.5 -</strong> Reasons - Skids </p><p> When driving a tank trailer, you run the risk of jackknifing if the drive or trailer wheels start to skid. </p><p> Anytime a car begins to skid, you have to act to get the wheels back on track. </p><p> </p><p> </p><p> </p>"
+    },
+    {
+      "question": "It is a clear night when you are driving. Your headlights need to be lowered from high to low. You ought to slow down so that you can halt inside? ",
+      "options": [
+        "The distance you plan to cover in the following fifteen seconds. ",
+        " how far ahead you can see.  ",
+        "100 meters. "
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section 2.6.4: Forward Speed and Distance </strong></p><p> It should always be possible for you to come to a stop within the visible distance ahead. You might need to slow down in order to be able to stop in the distance if there is fog, rain, or other bad weather.&nbsp;</p>"
+    },
+    {
+      "question": "Because, you ought to be aware of the necessary outage for the beverages you transport. ",
+      "options": [
+        " When heated, some liquids expand more than others.",
+        "  With outage, tank baffles are not typically permitted. ",
+        " There are some of the heaviest liquids with none at all. "
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section 8.2.6: Power Failure </strong></p><p> Never fill a cargo tank to the brim. As a liquid warms up, it expands, so you have to make space for it. We term this a \"outage.\" Different liquids require varying amounts of outage because they expand at varying rates. When transporting liquids in bulk, you have to be aware of the outage requirement.&nbsp;</p>"
+    },
+    {
+      "question": "When is it appropriate for a tanker driver who has lost brakes to use a truck escape ramp?  ",
+      "options": [
+        " When heated, some liquidOnly in the event that the tank is empty.  ",
+        "Always.  ",
+        "Never. s expand more than others."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section 2.17.3 Reason</strong>: Brake Failure </p><p> When a car is traveling downhill and their brakes fail, they should take the escape ramp if one is provided. Your chances of being involved in a serious accident could be significantly higher if you don't utilize it.</p>"
+    },
+    {
+      "question": "When a car from behind crosses into your lane, you should: ",
+      "options": [
+        "To avoid it, give the steering wheel at least one complete circle. ",
+        " Try not to turn, but to stop. ",
+        " Proceed to your right. "
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Reason: Section 2.17.1</strong>: Avoiding Accidents by Steering </p><p> It is advisable to move to your right if an oncoming car has swerved into your lane. The driver will naturally want to get back in his or her own lane once they discover what has transpired.&nbsp;</p>"
+    },
+    {
+      "question": " Of these, which is true regarding stopping distance and speed? ",
+      "options": [
+        "At any speed, wet roads can treble stopping distance.  ",
+        "The distance you will travel after applying the brakes at a speed higher than 30 mph is known as the total stopping distance. ",
+        " At 40 mph, you require roughly twice the stopping space that you would at 20 mph. "
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section 2.6.2:</strong> Aligning Velocity with the Surface of the Road </p><p> slick surfaces When the road is slick, it will be more difficult to turn without skidding and take longer to stop. The stopping distance can increase on wet roads.&nbsp;</p>"
+    },
+    {
+      "question": "In an emergency involving traffic, you must flee to the shoulder or side of the road. Reduce your speed to apply the brakes if at all possible. mph before ",
+      "options": [
+        "40",
+        "30",
+        "20"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section 2.17.1:</strong> Avoiding Accidents by Steering </p><p> Avoid Braking: Until your speed has decreased to roughly 20 mph, try not to apply the brakes. Next, apply a very light stop to prevent sledding on a slippery surface.&nbsp;</p>"
+    },
+    {
+      "question": "Check the following while filling small tanks or a cargo tank with bulkheads:",
+      "options": [
+        "Distribution of weight.   ",
+        "content of water.  ",
+        "fuel to air ratio."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section 8.2.3:</strong> Solid Surfaces </p><p> Bulkheads separate some liquid tanks into multiple smaller tanks. Weight distribution is an important consideration for drivers while loading and unloading smaller tanks.&nbsp;</p>"
+    },
+    {
+      "question": "In liquid cargo tanks, baffles typically don't stop surges. ",
+      "options": [
+        "Front to rear ",
+        " From side to side ",
+        " From top to bottom "
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section 8.2.4:</strong> Incomprehensible Tanks </p><p> Bulkheads with holes that allow liquid to pass through them are found in baffled liquid tanks. The forward and backward liquid surges are lessened in part by the baffles. There is still a chance of side-to-side surge, which can result in a roll over.&nbsp;</p>"
+    },
+    {
+      "question": "What effects does a liquid surge have on a tanker's handling? ",
+      "options": [
+        "The truck can be moved in the same direction as the liquid waves.",
+        "  That facilitates easier rolling.  ",
+        "It enables more precise corner cutting. "
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section 8.2.2</strong>: Surge Risk </p><p> The truck usually gets pushed in the direction of the wave when it reaches the end of the tank.</p>"
+    },
+    {
+      "question": "The ideal approach to handle a curve is to enter it at a safe speed and then slow down. While you browse the available ?",
+      "options": [
+        "Apply a mild brake. ",
+        " Quicken a little bit.  ",
+        "Make two downshifts "
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section 2.6.3:</strong> Velocity and Bends </p><p> Never go faster than the posted speed limit when navigating a curve. Choose a gear that will allow you to accelerate a little bit during the turn. You can maintain control by doing this.&nbsp;</p>"
+    },
+    {
+      "question": " You have your low beam lights on and it's a clear night as you drive. You should reduce your speed such that you may stop in a distance of about feet if your headlights allow you to see about 250 feet ahead of you. ?",
+      "options": [
+        "250",
+        "500",
+        "  100 "
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section 2.11.4:</strong> A Look at the Car Factors </p><p> You can see roughly 250 feet ahead with low beams and 350–500 feet ahead with high beams. To maintain your stopping distance within your field of vision, you must modify your pace. This entails traveling at a pace that will allow you to stop within your headlight's visibility. Otherwise, you won't have enough time to halt when you notice a hazard.&nbsp;</p>"
+    },
+    {
+      "question": "Which of the following claims regarding emergency steering is accurate? ",
+      "options": [
+        " It could be preferable to move to your right if an approaching car strays into your lane. ",
+        " Steering should only be done quickly when the wheels are locked.  ",
+        "Almost in all cases, you can stop faster than you can turn. "
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section 2.17.1:</strong> Avoiding Accidents by Steering </p><p> Where to Direct: It is advisable to move to your right if an oncoming car has swerved into your lane.&nbsp;</p>"
+    },
+    {
+      "question": "Two factors make liquid hauling in tank vehicles particularly dangerous. One explanation is? ",
+      "options": [
+        " Fluid motion.  ",
+        "uneven growth. ",
+        " excessive weight. "
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section 8.2:</strong> Operating Vehicles with Tanks </p><p> Due to the high center of gravity and movement of the liquid, hauling liquids in tanks calls for specialized knowledge and abilities.&nbsp;</p>"
+    },
+    {
+      "question": "What kind of driving experience do you think a truck with a confused cargo tank would have?",
+      "options": [
+        "It will handle just like a tanker truck without baffles. ",
+        " Compared to tanks without baffles, there won't be as much forward and backward liquid rush. ",
+        " It will appear like the truck weighs more than it does. "
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section 8.2.4:</strong> Complicated Tanks </p><p> The liquid surges moving forward and backward are lessened by the baffles.&nbsp;</p>"
+    },
+    {
+      "question": "The tank liquid discharge valve ought to be closed unless you are loading or discharging goods, then it should be?",
+      "options": [
+        "Closed  ",
+        "Open ",
+        " Unlatched "
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section 8.1.2 -</strong> Examine Special Purpose Equipment </p><p> Never operate a tank vehicle with the manhole covers or valves open.&nbsp;</p>"
+    },
+    {
+      "question": "Which of the following claims regarding tank cars is accurate? ",
+      "options": [
+        "Tank vehicles that are fully laden take longer to stop than those that are empty.  ",
+        "To prevent a collision, you should only apply the emergency brakes when stopping a tank vehicle. ",
+        " A tank truck can find the posted speed on a curve to be excessively fast"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>&nbsp;Tests on high center of gravity have demonstrated that tankers are capable of </strong>turning over at the posted curve speed limitations<strong> (Section: 8.2.1).</strong> Stay significantly below the posted speeds when navigating highway curves and on- and off-ramp curves.&nbsp;</p>"
+    },
+    {
+      "question": "You should check the cargo within the first several miles of a tanker voyage?",
+      "options": [
+        " 125",
+        " 50",
+        " 75 "
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section 2.1.6 -</strong> Inspection During a Trip Motorists operating trucks and truck tractors engaged in the transportation of goods are required to examine the cargo's securement during the first fifty miles of the trip and then every 150 miles or three hours, whichever occurs first.&nbsp;</p>"
+    },
+    {
+      "question": "The first thing you should do before filling or emptying the tanker is? ",
+      "options": [
+        " Examine the car.",
+        "  Verify that you have made all the required plans. ",
+        " Assemble all of the baffles correctly. "
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section 8.1 Reason:</strong> 8.1 Examining Tank Vehicles </p><p> Examine a tanker before driving, loading, or unloading it.</p>"
+    },
+    {
+      "question": "When checking for leaks in the hoses and pipe connections, pay close attention to? ",
+      "options": [
+        " Joints  ",
+        "suspension damage.  ",
+        "lengthy segments. "
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section 8.1.1:</strong> Disclosures </p><p> Look for leaks in hoses, connections, and pipes, particularly around joints.&nbsp;</p>"
+    },
+    {
+      "question": "can only be loaded when the car is connected to them?",
+      "options": [
+        "bulk containers that aren't affixed to the truck permanently. ",
+        "suspensio Not permitted to transport loads larger than 1,000 gallons. ",
+        " damage.  "
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section 9.5: </strong>Packaging in Bulk Labeling, Filling, and Clearing </p><p> Bulk packing that is not affixed to a vehicle permanently is called portable tanks. When the portable tanks are detached from the vehicle, the product is loaded or unloaded. Then, portable tanks are mounted to a moving vehicle.</p>"
+    },
+    {
+      "question": "Car skids are frequently brought on by? ",
+      "options": [
+        "Debris on the surface of a road. ",
+        " operating a vehicle with flat tires.  ",
+        "traveling too quickly. "
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>2.19 - Skid </strong>Control and Recovery Section </p><p> Driving too quickly for the conditions of the road causes the majority of serious skids.</p><p>&nbsp;</p>"
+    },
+    {
+      "question": "When using brakes too abruptly, if you steer a tank truck, you?",
+      "options": [
+        " Could result in the car toppling over. ",
+        " can lessen the liquid increase in volume.  ",
+        "Reduce how far you can stop safely. "
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section 8.3.2:</strong> Surge Control </p><p> Additionally, keep in mind that your car might roll over if you swerve quickly while applying brakes.</p>"
+    },
+    {
+      "question": "Which of the following claims regarding tankers and emergency steering is true? ",
+      "options": [
+        "Use caution when braking or applying the brakes quickly. ",
+        " Compared to most other vehicles, a tanker is simpler to steer.  ",
+        "It is best to depress the clutch before quickly turning the steering wheel. "
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section 2.17.1:</strong> Avoiding Accidents by Steering </p><p> Turning quickly can be done safely if done correctly. Safe drivers make advantage of the following points: Applying the brakes while turning is not advised. It is incredibly simple to turn and lock your wheels. You might lose control if that occurs.</p>"
+    },
+    {
+      "question": "Bulkheads are found in baffled liquid tanks?",
+      "options": [
+        "That divide the liquids into various tank sections.  ",
+        "This raises the quantity of oscillations from side to side.  ",
+        "has perforations that allow liquid to pass through them. "
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section 8.2.4:</strong> Incomprehensible Tanks </p><p> Bulkheads with holes that allow liquid to pass through them are found in baffled liquid tanks. The forward and backward liquid surges are lessened in part by the baffles. There is still a chance of side-to-side surge, which can result in a roll over.</p>"
+    },
+    {
+      "question": "It is necessary to unbaffle tanks carrying food items because of? ",
+      "options": [
+        "already-built bulkheads.  ",
+        "the challenge of thoroughly cleaning the tank's interior. ",
+        " how simple it is to clean the tank's exterior"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section 8.2.5:</strong> Comprehending Tanks </p><p> Tanks used to convey food items—such as milk—are typically unbaffled. (The use of baffles is prohibited by sanitation laws due to the difficulties of cleaning the interior of the tank.)</p>"
+    },
+    {
+      "question": "On a slick surface, a forward-to-back surge can?",
+      "options": [
+        "  to maneuver a stopped truck into a crosswalk.  ",
+        "Make a truck flip over. ",
+        "Reduce the distance you travel. "
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section 8.2.2: Surge Hazard </strong></p><p> The truck usually gets pushed in the direction of the wave when it reaches the end of the tank. A halted truck may be forced into an intersection by the wave if it is on a slick surface, like ice.</p>"
+    },
+    {
+      "question": "What effects does a liquid surge have on a tanker's handling? ",
+      "options": [
+        "Options: It facilitates the truck's roll.  ",
+        "The vehicle can be moved in the same direction as the liquid waves.  ",
+        "The truck's wind drag increases with surge. "
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section 8.2.2: Surge Hazard </strong></p><p> The movement of the liquid in tanks that are only partially filled causes a liquid surge. This movement may negatively impact handling. For instance, the liquid will surge back and forth when it comes to a stop. The truck usually gets pushed in the direction of the wave when it reaches the end of the tank.</p>"
+    },
+    {
+      "question": "An entire tank filled with thick substances, like some acids? ",
+      "options": [
+        " Diminishes the impact of liquid surge. ",
+        " may frequently be heavier than allowed by law. ",
+        " never go over the allowed weight restrictions. "
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>session 8.2.7 - </strong>How Much Data to Load? </p><p> When a tank is filled with thick liquid (like some acids), the weight restrictions may be exceeded. Because of this, you frequently only fill tanks halfway while using heavier substances. </p><p>&nbsp;</p><p>&nbsp;</p>"
+    }
+  ],
+  "pt":[
+    {
+          "question": "Como você antecipa o gerenciamento quando seu tanque de carga contém defletores?",
+          "options": [
+            "Menos surtos laterais ocorrerão do que em tanques sem defletores.",
+            "O aumento da frente para trás será menor do que em tanques sem defletores",
+            "Prevêem-se surtos mais lentos do que surtos rápidos."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção 8.2.4:</forte> Razões para tanques desconcertados </p><p> Os surtos de líquido para frente e para trás são diminuídos em parte pelos defletores. Ainda há chance de aumento lado a lado, o que pode resultar em um rollover.</p>"
+    },
+    {
+          "question": "Ao operar um petroleiro e ter que dirigir rapidamente para evitar um obstáculo, você:? ",
+          "options": [
+            "Acionar os freios durante a curva não é aconselhável.",
+            "Antes de começar a dirigir, você deve enrolar o polegar ao redor do volante.",
+            " Descobrirá que, em comparação com a maioria dos caminhões, os caminhões-tanque são mais simples de contra-dirigir. "
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção 8.3.2:</forte> Raciocínio e Controle de Surtos </p><p> Se você tiver que frear rapidamente para evitar um acidente, use a facada ou a frenagem controlada. Além disso, tenha em mente que seu carro pode capotar se você desviar rápido ao aplicar freios.&nbsp; </p>"
+    },
+    {
+          "question": "De tudo isso, como se deve fazer uma curva?",
+          "options": [
+            "Antes de entrar, reduza sua velocidade para um nível seguro e navegue suavemente na curva.  ",
+            "Antes de entrar, diminua a velocidade para uma velocidade segura e, em seguida, pegue suavemente a velocidade enquanto navega na curva.",
+            "Continue a dirigir em alta velocidade até chegar à curva e, em seguida, aplique os freios."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Parte 8.3.3: Curvaturas </forte></p><p> Antes das curvas, desacelere; durante a curva, acelere gradualmente. Para um veículo tanque, a velocidade postada em uma curva pode ser muito rápida.&nbsp; </p>"
+    },
+    {
+        "question":"Há duas razões pelas quais o transporte de líquidos em navios-tanque precisa de cautela extra. O centro de gravidade é uma das causas. ",
+          "options": [
+            "Largo Plano Alto",
+            "Próxima resposta",
+            " Argumento forte "
+    ],
+          "correctAnswer": [
+       
+            2
+    ],
+          "reason": "<p><strong>Seção 8.2: </strong>Operating Tankers </p><p> O transporte de tanques requer conhecimento especializado devido ao alto centro de gravidade e movimento do líquido.&nbsp; </p>"
+    },
+    {
+          "question": "Veículos tanque vazios:?",
+          "options": [
+            "mais distância de parada do que completa",
+            " possuem tração superior a uma completa durante a frenagem ",
+            " Menos espaço é necessário à frente do que em espaços completos. "
+    ],
+          "correctAnswer": [
+            1
+         
+    ],
+          "reason": "<p><forte>Seção: 8.3.4 </forte>- Distância de parada Um veículo com um tanque vazio pode exigir mais tempo para parar do que um com um cheio .&nbsp; </p>"
+    },
+    {
+        "question": "Você tem que parar imediatamente seu caminhão-tanque ou correr o risco de cair devido a uma emergência. Você deveria? ",
+          "options": [
+            "Aplique o mínimo de força no pedal do freio. ",
+            "Fique com os freios de emergência exclusivamente.",
+            " Aplicar facada ou frenagem controlada. "
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Seção 8.3.2:</strong> Raciocínio e Controle de Surtos </p><p> Se você tiver que frear rapidamente para evitar um acidente, empregue a facada ou a frenagem controlada.</p>"
+    },
+    {
+          "question": "Surtos lado a lado podem resultar em:?",
+          "options": [
+            "Rollover é uma opção.",
+            " pneus furados ",
+            " degradação irregular dos pneus. "
+    ],
+          "correctAnswer": [
+            
+            0
+    ],
+          "reason": "<p><strong>Seção 8.2.4:</strong> Tanques incompreensíveis </p><p> Ainda há chance de aumento lado a lado, o que pode resultar em um capotamento.&nbsp; </p>"
+    },
+    {
+          "question": "Ao operar tanques de furo liso, você deve dirigir com muito cuidado, especialmente se estiver?",
+          "options": [
+            " Enchimento e esvaziamento.  ",
+            "Começo ou fim.  ",
+            "viajando em arco"
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção 8.2.5 </strong>- Razões para tanques desconcertados </p><p> Ao dirigir tanques de furo liso, especialmente ao iniciar e parar, tenha o máximo de cautela (lento e cuidadoso).&nbsp; </p>"
+    },
+    {
+          "question": "Ao dirigir um reboque tanque, o que aconteceria com seu carro se as rodas do reboque derrapassem?",
+          "options": [
+            "Vira e mexe",
+            " Faca Jack ",
+            " Em resposta, Jackknife "
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção 8.3.5 -</forte> Razões - Skids </p><p> Ao dirigir um reboque tanque, você corre o risco de canivete se as rodas do carro ou do reboque começarem a derrapar. </p><p> Sempre que um carro começa a derrapar, você tem que agir para colocar as rodas de volta nos trilhos. </p><p> </p><p> </p><p> </p>"
+    },
+    {
+        "question":  "É uma noite clara quando você está dirigindo. Os faróis precisam ser abaixados de alto para baixo. Você deve desacelerar para que você possa parar lá dentro? ",
+          "options": [
+            "A distância que você planeja percorrer nos próximos quinze segundos. ",
+            " quão à frente você pode ver.  ",
+            "100 metros. "
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Secção 2.6.4: Velocidade e distância de avanço </strong></p><p> Deve ser sempre possível parar dentro da distância visível à frente. Você pode precisar diminuir a velocidade para poder parar à distância se houver nevoeiro, chuva ou outro mau tempo.&nbsp; </p>"
+    },
+    {
+          "question": "Porque, você deve estar ciente da interrupção necessária para as bebidas que você transporta. ",
+          "options": [
+            "Quando aquecidos, alguns líquidos se expandem mais do que outros.",
+            " Com interrupções, os defletores de tanques normalmente não são permitidos. ",
+            " Existem alguns dos líquidos mais pesados sem nenhum. "
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção 8.2.6: Falha de energia </strong></p><p> Nunca encha um tanque de carga até a borda. À medida que um líquido aquece, ele se expande, então você tem que abrir espaço para ele. Chamamos isso de 'interrupção'.\" Diferentes líquidos exigem quantidades variadas de interrupção porque eles se expandem a taxas variadas. Ao transportar líquidos a granel, você deve estar ciente do requisito de paralisação.&nbsp; </p>"
+    },
+    {
+          "question": "Quando é apropriado para um motorista de caminhão-tanque que perdeu os freios usar uma rampa de escape de caminhão?  ",
+          "options": [
+            "Quando aquecido, algum líquido, caso o tanque esteja vazio.  ",
+            "Sempre.  ",
+            "Nunca. s expandem mais do que outros."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção 2.17.3 Reason</forte>: Falha do freio </p><p> Quando um carro está descendo a ladeira e seus freios falham, eles devem pegar a rampa de fuga, se um for fornecido. Suas chances de se envolver em um acidente grave podem ser significativamente maiores se você não utilizá-lo.</p>"
+    },
+    {
+          "question": "Quando um carro por trás cruza para a sua faixa, você deve: ",
+          "options": [
+            "Para evitá-lo, dê ao volante pelo menos um círculo completo.",
+            " Tente não virar, mas parar. ",
+            " Prossiga para a sua direita. "
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Reason: Seção 2.17.1</forte>: Evitando acidentes dirigindo </p><p> É aconselhável mover-se para a sua direita se um carro que se aproxima tiver desviado para a sua faixa. O motorista naturalmente vai querer voltar para sua própria faixa assim que descobrir o que aconteceu.&nbsp; </p>"
+    },
+    {
+          "question": "Dessas, o que é verdade em relação à distância de parada e velocidade?",
+          "options": [
+            "Em qualquer velocidade, estradas molhadas podem triplicar a distância de parada.  ",
+            "A distância que você percorrerá depois de aplicar os freios a uma velocidade superior a 30 mph é conhecida como a distância total de parada. ",
+            " A 40 mph, você precisa de aproximadamente o dobro do espaço de parada que você precisaria a 20 mph. "
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção 2.6.2:</strong> Alinhando a velocidade com a superfície da estrada </p><p> superfícies lisas Quando a estrada está lisa, será mais difícil virar sem derrapar e demorar mais para parar. A distância de parada pode aumentar em estradas molhadas.&nbsp; </p>"
+    },
+    {
+        "question":  "Em uma emergência envolvendo trânsito, você deve fugir para o acostamento ou acostamento. Reduza a velocidade para acionar os freios, se possível. mph antes de ",
+          "options": [
+            "40",
+            "30",
+            "20"
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção 2.17.1:</forte> Evitar acidentes dirigindo </p><p> Evite frear: até que sua velocidade tenha diminuído para cerca de 20 mph, tente não acionar os freios. Em seguida, aplique uma parada bem leve para evitar trenós em uma superfície escorregadia.&nbsp; </p>"
+    },
+    {
+          "question": "Verificar o seguinte ao encher pequenas cisternas ou um reservatório de carga com anteparas:",
+          "options": [
+            "Distribuição de peso.   ",
+            "Teor de água.  ",
+            "relação combustível/ar"
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção 8.2.3:</strong> Superfícies sólidas </p><p> As anteparas separam alguns tanques de líquidos em vários tanques menores. A distribuição de peso é uma consideração importante para os motoristas durante a carga e descarga de tanques menores.&nbsp; </p>"
+    },
+    {
+          "question": "Em tanques de carga líquida, os defletores normalmente não param os surtos. ",
+          "options": [
+            "Da frente para trás",
+            " De um lado para o outro ",
+            " De cima para baixo "
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção 8.2.4:</forte> Tanques incompreensíveis </p><p> Anteparas com orifícios que permitem a passagem de líquido por elas são encontradas em tanques de líquidos desconcertados. Os surtos líquidos para frente e para trás são diminuídos em parte pelos defletores. Ainda há chance de surto lado a lado, o que pode resultar em um capotamento.&nbsp; </p>"
+    },
+    {
+          "question": "Que efeitos tem uma onda de líquidos no manuseio de um petroleiro? ",
+          "options": [
+            "O caminhão pode ser movido na mesma direção que as ondas líquidas.",
+            "Isso facilita a rolagem.  ",
+            "Permite um corte de canto mais preciso."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção 8.2.2</strong>: Risco de Surto </p><p> O caminhão geralmente é empurrado na direção da onda quando atinge o final do tanque.</p>"
+    },
+    {
+          "question": "A abordagem ideal para lidar com uma curva é entrar nela em uma velocidade segura e depois desacelerar. Enquanto você navega pelo disponível ?",
+          "options": [
+            "Aplique um freio leve. ",
+            " Acelere um pouco.  ",
+            "Faça dois downshifts"
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção 2.6.3:</strong> Velocidade e curvas </p><p> Nunca vá mais rápido do que o limite de velocidade postado ao navegar em uma curva. Escolha uma marcha que lhe permita acelerar um pouco durante a curva. Você pode manter o controle fazendo isso.&nbsp; </p>"
+    },
+    {
+          "question": "Você tem suas luzes de farol baixo acesas e é uma noite clara enquanto dirige. Você deve reduzir sua velocidade de tal forma que você pode parar em uma distância de cerca de pés se seus faróis permitem que você veja cerca de 250 pés à sua frente. ?",
+          "options": [
+            "250",
+            "500",
+            "  100 "
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção 2.11.4:</strong> Uma olhada nos fatores do carro </p><p> Você pode ver cerca de 250 pés à frente com faróis baixos e 350-500 pés à frente com faróis altos. Para manter sua distância de parada dentro do seu campo de visão, você deve modificar seu ritmo. Isso implica viajar em um ritmo que permitirá que você pare dentro da visibilidade do seu farol. Caso contrário, você não terá tempo suficiente para parar quando notar um perigo.&nbsp; </p>"
+    },
+    {
+          "question": "Qual das seguintes afirmações sobre direção de emergência é precisa? ",
+          "options": [
+            " Pode ser preferível mover-se para a sua direita se um carro que se aproxima se desvia para a sua faixa. ",
+            "A direção só deve ser feita rapidamente quando as rodas estão travadas.  ",
+            "Quase em todos os casos, você pode parar mais rápido do que você pode virar."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção 2.17.1:</strong> Evitando acidentes dirigindo </p><p> Para onde dirigir: É aconselhável mover-se para a sua direita se um carro que se aproxima tiver desviado para a sua faixa.&nbsp; </p>"
+    },
+    {
+        "question": "Dois fatores tornam o transporte de líquidos em veículos-tanque particularmente perigoso. Uma explicação é? ",
+          "options": [
+            " Movimento fluido.  ",
+            "crescimento desigual",
+            " excesso de peso "
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção 8.2:</strong> Veículos Operacionais com Tanques </p><p> Devido ao alto centro de gravidade e movimento do líquido, o transporte de líquidos em tanques exige conhecimentos e habilidades especializadas.&nbsp; </p>"
+    },
+    {
+          "question": "Que tipo de experiência de condução você acha que um caminhão com um tanque de carga confuso teria?",
+          "options": [
+            "Ele vai lidar como um caminhão-tanque sem defletores.",
+            " Em comparação com tanques sem defletores, não haverá tanta corrida de líquidos para frente e para trás. ",
+            " Vai parecer que o caminhão pesa mais do que pesa. "
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção 8.2.4:</strong> Tanques complicados </p><p> Os surtos de líquido que se movem para frente e para trás são diminuídos pelos defletores.&nbsp; </p>"
+    },
+    {
+          "question": "A válvula de descarga de líquido do tanque deve ser fechada, a menos que você esteja carregando ou descarregando mercadorias, então deve ser?",
+          "options": [
+            "Fechado",
+            "Aberto",
+            " Destravado "
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção 8.1.2 -</strong> Examinar equipamentos para fins especiais </p><p> Nunca opere um veículo tanque com as tampas de bueiros ou válvulas abertas.&nbsp; </p>"
+    },
+    {
+          "question": "Qual das seguintes afirmações sobre carros tanque é precisa? ",
+          "options": [
+            "Os veículos-tanque que estão totalmente carregados demoram mais para parar do que os que estão vazios.  ",
+            "Para evitar uma colisão, você só deve aplicar os freios de emergência ao parar um veículo tanque. ",
+            "Um caminhão-tanque pode achar que a velocidade postada em uma curva é excessivamente rápida"
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>&nbsp; Testes em alto centro de gravidade demonstraram que os petroleiros são capazes de </forte>virar nas limitações de velocidade da curva postadas<forte> (Seção 8.2.1).</forte> Fique significativamente abaixo das velocidades postadas ao navegar em curvas de rodovia e curvas dentro e fora da rampa.&nbsp; </p>"
+    },
+    {
+          "question": "Você deve verificar a carga dentro das primeiras milhas de uma viagem de petroleiro?",
+          "options": [
+            " 125",
+            " 50",
+            " 75 "
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção 2.1.6 -</forte> Inspeção durante uma viagem Os motoristas que operam caminhões e tratores de caminhões envolvidos no transporte de mercadorias são obrigados a examinar a segurança da carga durante os primeiros cinquenta quilômetros da viagem e, em seguida, a cada 150 milhas ou três horas, o que ocorrer primeiro.&nbsp; </p>"
+    },
+    {
+          "question": "A primeira coisa que você deve fazer antes de encher ou esvaziar o petroleiro é? ",
+          "options": [
+            "Examine o carro.",
+            " Verifique se você fez todos os planos necessários. ",
+            " Monte todos os defletores corretamente. "
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção 8.1 Reason:</forte> 8.1 Examinando veículos-tanque </p><p> Examine um caminhão-tanque antes de conduzi-lo, carregá-lo ou descarregá-lo.</p>"
+    },
+    {
+          "question": "Ao verificar se há vazamentos nas mangueiras e conexões de tubulação, preste muita atenção? ",
+          "options": [
+            " Articulações ",
+            "Danos na suspensão.  ",
+            "segmentos longos"
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção 8.1.1:</strong> Divulgações </p><p> Procure vazamentos em mangueiras, conexões e tubulações, principalmente ao redor de juntas.&nbsp; </p>"
+    },
+    {
+          "Question": "Só pode ser carregado quando o carro está conectado a eles?",
+          "options": [
+            "Contêineres a granel que não são afixados no caminhão permanentemente. ",
+            "Não é permitido transportar cargas superiores a 1.000 galões. ",
+            " dano.  "
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção 9.5: </strong>Packaging in Bulk Labeling, Filling, and Clearing </p><p> As embalagens a granel que não são fixadas permanentemente em um veículo são chamadas de tanques portáteis. Quando os tanques portáteis são desmontados do veículo, o produto é carregado ou descarregado. Em seguida, tanques portáteis são montados em um veículo em movimento.</p>"
+    },
+    {
+          "question": "Patins de carro são frequentemente provocados por? ",
+          "options": [
+            "Detritos na superfície de uma estrada. ",
+            " operando um veículo com pneus furados.  ",
+            "Viajando rápido demais."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>2.19 - Derrapagem </strong>Seção de Controle e Recuperação </p><p> Dirigir muito rápido para as condições da estrada causa a maioria das derrapagens graves.</p><p>&nbsp; </p>"
+    },
+    {
+          "question": "Ao usar freios de forma muito brusca, se você dirige um caminhão-tanque, você?",
+          "options": [
+            " Pode resultar no tombamento do carro. ",
+            " pode diminuir o aumento de volume líquido.  ",
+            "Reduza até onde você pode parar com segurança."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção 8.3.2:</strong> Controle de Surtos </p><p> Além disso, tenha em mente que seu carro pode capotar se você desviar rapidamente ao aplicar freios.</p>"
+    },
+    {
+          "question": "Qual das seguintes afirmações sobre caminhões-tanque e direção de emergência é verdadeira? ",
+          "options": [
+            "Tenha cuidado ao frear ou acionar os freios rapidamente.",
+            " Em comparação com a maioria dos outros veículos, um caminhão-tanque é mais simples de dirigir.  ",
+            "É melhor pressionar a embreagem antes de girar rapidamente o volante."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção 2.17.1:</strong> Evitando acidentes com a direção </p><p> Girar rapidamente pode ser feito com segurança se feito corretamente. Motoristas seguros aproveitam os seguintes pontos: Não é aconselhável acionar os freios durante a virada. É incrivelmente simples virar e travar suas rodas. Você pode perder o controle se isso ocorrer.</p>"
+    },
+    {
+          "question": "Anteparas são encontradas em tanques de líquidos desconcertados?",
+          "options": [
+            "Isso divide os líquidos em várias seções de tanques.  ",
+            "Isso eleva a quantidade de oscilações de um lado para o outro.  ",
+            "tem perfurações que permitem a passagem de líquido através deles."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção 8.2.4:</forte> Tanques incompreensíveis </p><p> Anteparas com orifícios que permitem a passagem de líquido por elas são encontradas em tanques de líquidos desconcertados. Os surtos líquidos para frente e para trás são diminuídos em parte pelos defletores. Ainda há chance de aumento lado a lado, o que pode resultar em um rollover.</p>"
+    },
+    {
+          "question": "É necessário desconfundir tanques que transportam itens alimentares por causa de? ",
+          "options": [
+            "Anteparas já construídas.  ",
+            "o desafio de limpar completamente o interior do tanque. ",
+            "como é simples limpar o exterior do tanque"
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção 8.2.5:</forte> Compreendendo Tanques </p><p> Os tanques usados para transportar itens alimentares, como leite, normalmente não são confundidos. (O uso de defletores é proibido pelas leis sanitárias devido às dificuldades de limpeza do interior do tanque.) </p>"
+    },
+    {
+          "question": "Em uma superfície lisa, uma onda de frente para trás pode?",
+          "options": [
+            " manobrar um caminhão parado em uma faixa de pedestres.  ",
+            "Faça um caminhão capotar.",
+            "Reduza a distância que você percorre."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção 8.2.2: Risco de surto </forte></p><p> O caminhão geralmente é empurrado na direção da onda quando chega ao final do tanque. Um caminhão parado pode ser forçado a entrar em um cruzamento pela onda se estiver em uma superfície lisa, como gelo.</p>"
+    },
+    {
+          "question": "Que efeitos tem uma onda de líquidos no manuseio de um petroleiro? ",
+          "options": [
+            "Options: Facilita o rolamento do caminhão.  ",
+            "O veículo pode ser movido na mesma direção das ondas líquidas.  ",
+            "O arrasto do vento do caminhão aumenta com a onda."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção 8.2.2: Risco de surto </strong></p><p> O movimento do líquido em tanques que estão apenas parcialmente cheios causa um surto de líquido. Esse movimento pode impactar negativamente o manuseio. Por exemplo, o líquido vai subir para frente e para trás quando se trata de uma parada. O caminhão geralmente é empurrado na direção da onda quando atinge o final do tanque.</p>"
+    },
+    {
+          "question": "Um tanque inteiro cheio de substâncias espessas, como alguns ácidos?",
+          "options": [
+            " Diminui o impacto da onda de líquidos. ",
+            " pode frequentemente ser mais pesado do que o permitido por lei. ",
+            " nunca ultrapasse as restrições de peso permitidas. "
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>session 8.2.7 - </strong>Quantos dados carregar? </p><p> Quando um tanque é preenchido com líquido espesso (como alguns ácidos), as restrições de peso podem ser excedidas. Por causa disso, você frequentemente só enche tanques no meio do caminho enquanto usa substâncias mais pesadas. </p><p>&nbsp; </p><p>&nbsp; </p>"
+    }
+    ],
+    "es":[
+      {
+            "question": "¿Cómo anticipa manejar cuando su tanque de carga contiene deflectores?",
+            "options": [
+              "Se producirá menos sobretensión de lado a lado que en tanques sin deflectores ",
+              "El aumento de adelante hacia atrás será menor que en los tanques sin deflectores",
+              "Se anticipan más oleadas lentas que rápidas "
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección 824:</strong> Razones de los tanques deflectores </p><p> Las oleadas de líquido hacia adelante y hacia atrás se reducen en parte por los deflectores Todavía existe la posibilidad de un aumento de lado a lado, lo que puede resultar en un vuelco</p>"
+      },
+      {
+            "question": "Al operar un camión cisterna y tener que girar rápidamente para evitar un obstáculo, usted:? ",
+            "options": [
+              "No se recomienda aplicar los frenos al girar ",
+              "Antes de comenzar a conducir, debe envolver el volante con el pulgar",
+              " Descubrirá que, en comparación con la mayoría de los camiones, los camiones cisterna son más fáciles de contravirar "
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección 832:</strong> Razonamiento y control de sobretensiones </p><p> Si tiene que frenar rápidamente para evitar un accidente, emplee el frenado de puñalada o controlado Además, ten en cuenta que tu auto podría volcarse si te desvías rápido mientras aplicas los frenos </p>"
+      },
+      {
+            "question": "De todas estas, ¿cómo se debe tomar una curva?",
+            "options": [
+              "Antes de entrar, reduzca su velocidad a un nivel seguro y navegue suavemente por la curva  ",
+              "Antes de entrar, reduzca la velocidad a una velocidad segura, luego aumente suavemente la velocidad mientras navega por la curva ",
+              "Continúe conduciendo a alta velocidad hasta llegar a la curva, luego aplique los frenos"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Parte 833: Curvaturas </strong></p><p> Antes de las curvas, reduzca la velocidad; Durante la curva, acelere gradualmente Para un vehículo cisterna, la velocidad indicada en una curva puede ser demasiado rápida </p>"
+      },
+      {
+            "question": "Hay dos razones por las que el transporte de líquidos en camiones cisterna requiere una precaución adicional El centro de gravedad es una de las causas ",
+            "options": [
+              "Ancho Plano Alto",
+              "Próxima respuesta",
+              " Argumento de peso "
+      ],
+            "correctAnswer": [
+              1,
+              2
+      ],
+            "reason": "<p><strong>Sección 82: </strong>Operando Camiones Cisterna </p><p> El transporte de tanques requiere conocimientos especializados debido al alto centro de gravedad y movimiento del líquido </p>"
+      },
+      {
+            "question": "Vehículos cisterna vacíos:?",
+            "options": [
+              "más distancia de frenado que completas",
+              "poseen una tracción superior a la de uno completo al frenar",
+              " Se necesita menos espacio delante que en los completos "
+      ],
+            "correctAnswer": [
+              1,
+              2,
+              0
+      ],
+            "reason": "<p><strong>Sección: 834 </strong>- Distancia de frenado Un vehículo con el depósito vacío puede requerir más tiempo para detenerse que uno con el depósito lleno </p>"
+      },
+      {
+            "question": "Tienes que detener inmediatamente tu camión cisterna o arriesgarte a estrellarte debido a una emergencia ¿Deberías? ",
+            "options": [
+              "Aplique una fuerza mínima al pedal del freno ",
+              "Cíñete exclusivamente a los frenos de emergencia",
+              " Aplicar frenado punzante o controlado "
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección 832:</strong> Razonamiento y control de sobretensiones </p><p> Si tiene que frenar rápidamente para evitar un accidente, emplee el frenado de puñalada o controlado</p>"
+      },
+      {
+            "question": "Las sobretensiones de lado a lado pueden dar lugar a:?",
+            "options": [
+              "El rollover es una opción",
+              " Pinchazos de neumáticos ",
+              " Degradación desigual de los neumáticos "
+      ],
+            "correctAnswer": [
+              2,
+              0
+      ],
+            "reason": "<p><strong>Sección 824:</strong> Tanques incomprensibles </p><p> Todavía existe la posibilidad de una oleada de lado a lado, lo que puede provocar un vuelco&nbsp; </p>"
+      },
+      {
+            "question": "Al operar tanques de ánima lisa, debe conducir con mucho cuidado, especialmente si lo hace",
+            "options": [
+              "Llenado y vaciado  ",
+              "Principio o fin  ",
+              "Viajando en un arco "
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección 825 </strong>- Razones por las que los tanques no deflectores </p><p> Al conducir tanques de ánima lisa, especialmente al arrancar y detener, tenga la máxima precaución (lento y cuidadoso)&nbsp; </p>"
+      },
+      {
+            "question": "Al conducir un remolque cisterna, ¿qué le pasaría a su automóvil si las ruedas del remolque o la transmisión patinan?",
+            "options": [
+              "Date la vuelta ",
+              " Cuchillo Jack ",
+              " En respuesta, Jackknife "
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección 835 -</strong> Razones - Patines </p><p> Al conducir un remolque cisterna, corre el riesgo de sufrir un tijeretazo si las ruedas motrices o del remolque comienzan a patinar </p><p> Cada vez que un coche empieza a patinar, hay que actuar para que las ruedas vuelvan a la normalidad </p><p> </p><p> </p><p> </p>"
+      },
+      {
+            "question": "Es una noche clara cuando estás conduciendo Los faros delanteros deben bajarse de alto a bajo ¿Deberías reducir la velocidad para poder detenerte adentro? ",
+            "options": [
+              "La distancia que planeas cubrir en los próximos quince segundos ",
+              "A qué distancia se puede ver  ",
+              "100 metros "
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección 264: Velocidad de avance y distancia </strong></p><p> Siempre debe ser posible detenerse dentro de la distancia visible por delante Es posible que deba reducir la velocidad para poder detenerse en la distancia si hay niebla, lluvia u otro mal tiempo </p>"
+      },
+      {
+            "question": "Porque, debe ser consciente de la interrupción necesaria para las bebidas que transporta ",
+            "options": [
+              "Cuando se calientan, algunos líquidos se expanden más que otros",
+              " Con una interrupción, los deflectores del tanque no suelen estar permitidos ",
+              " Hay algunos de los líquidos más pesados sin nada en absoluto "
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección 826: Falla de energía </strong></p><p> Nunca llene un tanque de carga hasta el borde A medida que un líquido se calienta, se expande, por lo que hay que hacerle espacio A esto lo llamamos una interrupción\" Diferentes líquidos requieren diferentes cantidades de interrupción porque se expanden a diferentes velocidades Al transportar líquidos a granel, debe tener en cuenta el requisito de interrupción </p>"
+      },
+      {
+            "question": "¿Cuándo es apropiado que un conductor de camión cisterna que ha perdido los frenos use una rampa de escape de camiones?  ",
+            "options": [
+              " Cuando se calienta, un poco de líquidoSolo en el caso de que el tanque esté vacío  ",
+              "Siempre  ",
+              "Nunca s se expanden más que otros"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección 2173 Razón</strong>: Falla de los frenos </p><p> Cuando un automóvil viaja cuesta abajo y sus frenos fallan, debe tomar la rampa de escape si se le proporciona una Sus posibilidades de verse involucrado en un accidente grave podrían ser significativamente mayores si no lo utiliza</p>"
+      },
+      {
+            "question": "Cuando un automóvil que viene por detrás cruza su carril, usted debe: ",
+            "options": [
+              "Para evitarlo, dale al volante al menos un círculo completo",
+              " Trata de no girar, sino de detenerte ",
+              " Continúe a su derecha "
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Reason: Sección 2171</strong>: Evitar accidentes al conducir </p><p> Es aconsejable moverse hacia la derecha si un automóvil que se aproxima se ha desviado hacia su carril Naturalmente, el conductor querrá volver a su propio carril una vez que descubra lo que ha sucedido </p>"
+      },
+      {
+            "question": " De estos, ¿cuál es el verdadero en cuanto a la distancia de frenado y la velocidad? ",
+            "options": [
+              "A cualquier velocidad, las carreteras mojadas pueden triplicar la distancia de frenado  ",
+              "La distancia que recorrerá después de aplicar los frenos a una velocidad superior a 30 mph se conoce como la distancia total de frenado ",
+              " A 40 mph, se requiere aproximadamente el doble de espacio de frenado que a 20 mph "
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección 262:</strong> Alinear la velocidad con la superficie de la carretera </p><p> superficies resbaladizas Cuando la carretera está resbaladiza, será más difícil girar sin derrapar y tardará más en detenerse La distancia de frenado puede aumentar en carreteras mojadas </p>"
+      },
+      {
+            "question": "En una emergencia que involucre tráfico, debe huir al arcén o al costado de la carretera Reduzca la velocidad para aplicar los frenos si es posible mph antes de ",
+            "options": [
+              "40",
+              "30",
+              "20"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección 2171:</strong> Evitar accidentes al conducir </p><p> Evite frenar: Hasta que su velocidad haya disminuido a aproximadamente 20 mph, trate de no aplicar los frenos A continuación, aplique un tope muy ligero para evitar que el trineo caiga sobre una superficie resbaladiza </p>"
+      },
+      {
+            "question": "Compruebe lo siguiente mientras llena tanques pequeños o un tanque de carga con mamparos:",
+            "options": [
+              "Distribución del peso   ",
+              "Contenido de agua  ",
+              "Relación combustible-aire"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección 823:</strong> Superficies sólidas </p><p> Los mamparos separan algunos tanques de líquido en varios tanques más pequeños La distribución del peso es una consideración importante para los conductores mientras cargan y descargan tanques más pequeños </p>"
+      },
+      {
+            "question": "En los tanques de carga líquida, los deflectores generalmente no detienen las sobretensiones ",
+            "options": [
+              "De adelante hacia atrás",
+              "De lado a lado",
+              " De arriba a abajo "
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección 824:</strong> Tanques incomprensibles </p><p> Los mamparos con orificios que permiten el paso del líquido a través de ellos se encuentran en tanques de líquido deflectores Las oleadas de líquido hacia adelante y hacia atrás se reducen en parte por los deflectores Todavía existe la posibilidad de un aumento de lado a lado, lo que puede resultar en un vuelco&nbsp; </p>"
+      },
+      {
+            "question": "¿Qué efectos tiene una oleada de líquido en el manejo de un buque cisterna?",
+            "options": [
+              "El camión se puede mover en la misma dirección que las ondas líquidas",
+              "Eso facilita el rodaje  ",
+              "Permite un corte de esquinas más preciso "
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección 822</strong>: Riesgo de sobretensión </p><p> El camión generalmente es empujado en la dirección de la ola cuando llega al final del tanque</p>"
+      },
+      {
+            "question": "El enfoque ideal para manejar una curva es entrar en ella a una velocidad segura y luego reducir la velocidad Mientras navegas por el ?",
+            "options": [
+              "Aplica un freno suave ",
+              "Acelera un poco  ",
+              "Hacer dos cambios descendentes"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección 263:</strong> Velocidad y curvas </p><p> Nunca vaya más rápido que el límite de velocidad indicado cuando navegue por una curva Elige una marcha que te permita acelerar un poco durante el giro Puedes mantener el control haciendo esto&nbsp; </p>"
+      },
+      {
+            "question": "Tienes las luces bajas encendidas y es una noche despejada mientras conduces Debe reducir su velocidad de tal manera que pueda detenerse a una distancia de aproximadamente pies si sus faros delanteros le permiten ver unos 250 pies delante de usted ?",
+            "options": [
+              "250",
+              "500",
+              "  100 "
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección 2114:</strong> Un vistazo a los factores del automóvil </p><p> Se puede ver aproximadamente 250 pies por delante con luces bajas y de 350 a 500 pies por delante con luces altas Para mantener la distancia de frenado dentro de tu campo de visión, debes modificar el ritmo Esto implica viajar a un ritmo que le permita detenerse dentro de la visibilidad de su faro De lo contrario, no tendrá tiempo suficiente para detenerse cuando note un peligro </p>"
+      },
+      {
+            "question": "¿Cuál de las siguientes afirmaciones con respecto a la dirección de emergencia es correcta?",
+            "options": [
+              " Podría ser preferible moverse a su derecha si un automóvil que se aproxima se desvía hacia su carril ",
+              " La dirección solo debe realizarse rápidamente cuando las ruedas están bloqueadas  ",
+              "Casi en todos los casos, puedes detenerte más rápido de lo que puedes girar"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección 2171:</strong> Evitar accidentes al conducir </p><p> Hacia dónde dirigirse: Es aconsejable moverse hacia la derecha si un automóvil que se aproxima se ha desviado hacia su carril </p>"
+      },
+      {
+            "question": "Dos factores hacen que el transporte de líquidos en vehículos cisterna sea particularmente peligroso ¿Una explicación es? ",
+            "options": [
+              " Movimiento fluido  ",
+              "Crecimiento desigual ",
+              " Peso excesivo "
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección 82:</strong> Operar vehículos con tanques </p><p> Debido al alto centro de gravedad y al movimiento del líquido, el transporte de líquidos en tanques requiere conocimientos y habilidades especializados </p>"
+      },
+      {
+            "question": "¿Qué tipo de experiencia de conducción crees que tendría un camión con un tanque de carga confuso?",
+            "options": [
+              "Se manejará como un camión cisterna sin deflectores",
+              " En comparación con los tanques sin deflectores, no habrá tanta avalancha de líquido hacia adelante y hacia atrás ",
+              " Parecerá que el camión pesa más de lo que pesa "
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección 824:</strong> Tanques complicados </p><p> Las oleadas de líquido que se mueven hacia adelante y hacia atrás son disminuidas por los deflectores </p>"
+      },
+      {
+            "question": "La válvula de descarga de líquido del tanque debe estar cerrada a menos que esté cargando o descargando mercancías, ¿entonces debería estarlo?",
+            "options": [
+              "Cerrado",
+              "Abrir",
+              " Desenganchado "
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección 812 -</strong> Examine el equipo de propósito especial </p><p> Nunca opere un vehículo cisterna con las tapas de alcantarilla o las válvulas abiertas </p>"
+      },
+      {
+            "question": "¿Cuál de las siguientes afirmaciones con respecto a los vagones cisterna es correcta?",
+            "options": [
+              "Los vehículos cisterna que están completamente cargados tardan más en detenerse que los que están vacíos  ",
+              "Para evitar una colisión, solo debe aplicar los frenos de emergencia cuando detenga un vehículo cisterna ",
+              "Un camión cisterna puede encontrar que la velocidad indicada en una curva es excesivamente rápida"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>&nbsp; Las pruebas en el centro de gravedad alto han demostrado que los camiones cisterna son capaces de volcar </fuerte> en las limitaciones de velocidad de las curvas<fuerte> (Sección: 821)</fuerte> Manténgase significativamente por debajo de las velocidades indicadas cuando navegue por las curvas de la autopista y las curvas de entrada y salida de la rampa </p>"
+      },
+      {
+            "question": "¿Debería revisar la carga dentro de las primeras millas de un viaje en petrolero?",
+            "options": [
+              " 125",
+              " 50",
+              " 75 "
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección 216 -</strong> Inspección durante un viaje Los automovilistas que operan camiones y tractocamiones dedicados al transporte de mercancías deben examinar la sujeción de la carga durante las primeras cincuenta millas del viaje y luego cada 150 millas o tres horas, lo que ocurra primero </p>"
+      },
+      {
+            "question": "¿Lo primero que debe hacer antes de llenar o vaciar el camión cisterna es? ",
+            "options": [
+              "Examina el coche",
+              " Verifique que ha hecho todos los planes requeridos ",
+              " Ensamble todos los deflectores correctamente "
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección 81 Razón:</strong> 81 Examen de vehículos cisterna </p><p> Examine un camión cisterna antes de conducirlo, cargarlo o descargarlo</p>"
+      },
+      {
+            "question": "Al verificar si hay fugas en las mangueras y conexiones de tuberías, preste mucha atención a? ",
+            "options": [
+              "Articulaciones",
+              "Daños en la suspensión  ",
+              "Segmentos largos "
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección 811:</strong> Divulgaciones </p><p> Busque fugas en mangueras, conexiones y tuberías, particularmente alrededor de las juntas&nbsp; </p>"
+      },
+      {
+            "Question": "¿Solo se puede cargar cuando el coche está conectado a ellos?",
+            "options": [
+              "Contenedores a granel que no están fijados al camión de forma permanente ",
+              "suspensio: No se permite transportar cargas de más de 1,000 galones ",
+              " daño  "
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección 95: </strong>Packaging in Bulk Labeling, Filling, and Clearing </p><p> El embalaje a granel que no se fija a un vehículo de forma permanente se denomina tanques portátiles Cuando los tanques portátiles se separan del vehículo, el producto se carga o descarga Luego, los tanques portátiles se montan en un vehículo en movimiento</p>"
+      },
+      {
+            "question": "¿Los derrapes de los coches son provocados con frecuencia por? ",
+            "options": [
+              "Escombros en la superficie de una carretera ",
+              " Operar un vehículo con llantas ponchadas  ",
+              "Viajando demasiado rápido "
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>219 - Sección de Control y Recuperación > < derrapes </p><p> Conducir demasiado rápido para las condiciones de la carretera causa la mayoría de los derrapes graves</p><p>&nbsp; </p>"
+      },
+      {
+            "question": "Cuando usas los frenos de forma demasiado brusca, si conduces un camión cisterna, ¿tú?",
+            "options": [
+              " Podría resultar en que el auto se vuelque ",
+              " puede disminuir el aumento de volumen del líquido  ",
+              "Reduzca la distancia a la que puede detenerse de manera segura "
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección 832:</strong> Control de sobretensiones </p><p> Además, tenga en cuenta que su automóvil podría volcarse si se desvía rápidamente al aplicar los frenos</p>"
+      },
+      {
+            "question": "¿Cuál de las siguientes afirmaciones con respecto a los camiones cisterna y la dirección de emergencia es verdadera?",
+            "options": [
+              "Tenga cuidado al frenar o aplicar los frenos rápidamente ",
+             " En comparación con la mayoría de los otros vehículos, un camión cisterna es más fácil de conducir  ",
+              "Lo mejor es pisar el embrague antes de girar rápidamente el volante "
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección 2171:</strong> Evitar accidentes al dirigir </p><p> Girar rápidamente se puede hacer de manera segura si se hace correctamente Los conductores precavidos aprovechan los siguientes puntos: No se recomienda aplicar los frenos al girar Es increíblemente sencillo girar y bloquear las ruedas Podrías perder el control si eso ocurre</p>"
+      },
+      {
+            "question": "¿Se encuentran mamparos en tanques de líquido deflectores?",
+            "options": [
+              "Que dividen los líquidos en varias secciones del tanque  ",
+              "Esto eleva la cantidad de oscilaciones de lado a lado  ",
+              "tiene perforaciones que permiten el paso del líquido a través de ellas"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección 824:</strong> Tanques incomprensibles </p><p> Los mamparos con orificios que permiten el paso del líquido a través de ellos se encuentran en tanques de líquido deflectores Las oleadas de líquido hacia adelante y hacia atrás se reducen en parte por los deflectores Todavía existe la posibilidad de un aumento de lado a lado, lo que puede resultar en un vuelco</p>"
+      },
+      {
+            "question": "¿Es necesario desfasar los tanques que transportan alimentos debido a? ",
+            "options": [
+              "Mamparos ya construidos  ",
+              "El reto de limpiar a fondo el interior del tanque ",
+              "Qué sencillo es limpiar el exterior del tanque"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección 825:</strong> Comprender los tanques </p><p> Los tanques utilizados para transportar alimentos, como la leche, suelen estar desconcertados (El uso de deflectores está prohibido por las leyes de saneamiento debido a las dificultades de limpiar el interior del tanque) </p>"
+      },
+      {
+            "question": "En una superficie resbaladiza, ¿puede una oleada de adelante hacia atrás?",
+            "options": [
+              " maniobrar un camión detenido en un paso de peatones  ",
+              "Haz que un camión se vuelque ",
+              "Reduce la distancia que recorres "
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección 822: Peligro de sobretensión </strong></p><p> El camión generalmente es empujado en la dirección de la ola cuando llega al final del tanque Un camión detenido puede ser forzado a entrar en una intersección por la ola si está en una superficie resbaladiza, como el hielo</p>"
+      },
+      {
+            "question": "¿Qué efectos tiene una oleada de líquido en el manejo de un buque cisterna?",
+            "options": [
+              "Options: Facilita el balanceo del camión  ",
+              "El vehículo se puede mover en la misma dirección que las ondas líquidas  ",
+              "La resistencia del viento del camión aumenta con el oleaje "
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección 822: Peligro de sobretensión </strong></p><p> El movimiento del líquido en tanques que solo están parcialmente llenos provoca una sobretensión de líquido Este movimiento puede afectar negativamente a la manipulación Por ejemplo, el líquido se moverá de un lado a otro cuando se detenga Por lo general, el camión es empujado en la dirección de la ola cuando llega al final del tanque</p>"
+      },
+      {
+            "question": "¿Un tanque entero lleno de sustancias espesas, como algunos ácidos?",
+            "options": [
+              " Disminuye el impacto de la oleada de líquidos ",
+              " con frecuencia puede ser más pesado de lo permitido por la ley ",
+              " Nunca sobrepase las restricciones de peso permitidas "
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>session 827 - </strong>Cuántos datos cargar? </p><p> Cuando un tanque se llena con líquido espeso (como algunos ácidos), se pueden exceder las restricciones de peso Debido a esto, con frecuencia solo se llenan los tanques hasta la mitad mientras se utilizan sustancias más pesadas </p><p>&nbsp; </p><p>&nbsp; </p>"
+      }
+      ]
+      
+      
+}

@@ -1,0 +1,1277 @@
+{
+
+  "en":[
+    {
+      "question": "With the hand valve on, you should test the trailer brakes by opening the service line valve at the rear of the trailer. When you do this, you should hear?",
+      "options": [
+        "The emergency line valve open and release air ",
+        "Air escape from the open valve ",
+        "The service brakes slowly move to the fully applied position."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>REASON:</strong></p><p>Section: 7.4.1 Additional Air Brake Checks</p><p>Use the trailer handbrake to provide air to the service line. Go to the rear of the rig. Open the emergency line shut-off valve at the rear of the last trailer. You should hear air escaping, showing the entire system is charged.</p>"
+    },
+    {
+      "question": "You are driving with double trailers and must use your brakes to avoid a crash. For emergency braking you should?",
+      "options": [
+        "Use controlled or stab braking. ",
+        "Air escape from the open valve ",
+        "Use light, steady pressure on the brake pedal. "
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>REASON:</strong></p><p>Section: 7.1.6 - Adverse Conditions</p><p>In emergency braking situations, use either the controlled or stab braking method to stop your vehicle</p>"
+    },
+    {
+      "question": "Which of these statements about emergency steering is true?",
+      "options": [
+        "If you have traffic on both sides of your vehicle and something is blocking your lane, a move to the right is still the best choice.",
+        "You can steer more quickly and safely if you hold the wheel with one hand.",
+        "You can almost always stop more quickly than you can turn."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p>Section: 2.17.1 - Steering to Avoid an Accident</p><p>If you are blocked on both sides, a move to the right may be best. At least you will not force anyone into an opposing traffic lane and a possible head-on accident.</p>"
+    },
+    
+      {
+        "question": "The converter dolly air tank drain valve on coupled double/triple trailers should be:",
+        "options": [
+          "Partially open",
+          "Open",
+          "Closed"
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 7.3.1 - Additional Checks</strong></p><p>Double and Triple Trailers: The converter dolly air tank drain valve: CLOSED.</p>"
+      },
+    
+    {
+      "question": "To check if the converter dolly is securely coupled to the rear trailer you should?",
+      "options": [
+        " Release spring brakes and check the movement.",
+        " Pull gently against the pin of the second trailer.",
+        " Backup slightly and make the visual check of the coupling."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>REASON:</strong></p><p>Section: 7.2.1 Coupling Double Trailers</p><p>Connect the Converter Dolly to the Rear Trailer: Test the coupling by pulling against the pin of the second semitrailer.</p>"
+    },
+    {
+      "question": "You are visually checking the coupling of a converter dolly to the rear trailer. How much space should be between the upper and lower fifth wheel?",
+      "options": [
+        "None.",
+        " 1/2 to 3/4 inch.",
+        " It depends on the load."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Reason</strong>:</p><p>Section: 7.2.1 - Coupling Double Trailers</p><p>Connect Converter Dolly to Rear Trailer: Make visual check of coupling. (No space between upper and lower fifth wheel. Locking jaws closed on kingpin.)</p>"
+    },
+    {
+      "question": "You are doing a walk around inspection of a double or triple trailer rig. You should be sure the converter dolly air tank drain valves are hook is and the pintle. ?",
+      "options": [
+        "closed, latched",
+        " closed, ",
+        "free open, free"
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>REASON:</strong></p><p>Section: 7.3.1 - Additional Checks</p><p>Coupling System Areas: Converter dolly air tank drain valve: Closed. Make sure pintle hook is latched.</p>"
+    },
+    {
+      "question": "During normal operation, the brakes of the double/triple trailer are controlled by?",
+      "options": [
+        "Hand valve.",
+        "Johnson bar. ",
+        "Foot pedal. "
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>REASON:</strong></p><p>Section: 6.5.2 - Combination Vehicle Brake Check</p><p>Test the Trailer Service Brakes: The trailer brakes should be tested with the hand valve but controlled in normal operation with the foot pedal, which applies air to the service brakes at all wheels.</p>"
+    },
+    {
+      "question": "Which of these will result in the best control on curves?",
+      "options": [
+        "Slow to the safe speed before entering, then accelerate slightly through the curve. ",
+        " Brake and downshift during the curve.",
+        "Slow to a safe speed before entering the curve, then coast through the curve."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>REASON:</strong></p><p>Section: 8.3.3 - Curves</p><p>Slow down before curves, and then accelerate slightly through the curve. The posted speed for a curve may be too fast for a tank vehicle.</p>"
+    },
+    {
+      "question": "The best way to stop any skid is to?",
+      "options": [
+        "Use stab or controlled braking. ",
+        "Counter steer.",
+        " Restore traction to the tire."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>REASON:</strong></p><p>Section: 8.3.5 - Skids</p><p>When any vehicle starts to skid, you must take action to restore traction to the wheels.</p>"
+    },
+    {
+      "question": "You are driving a set of doubles and a set of trailer wheels goes into a skid. Which of these is most likely to occur?",
+      "options": [
+        "You will have a trailer jackknife. ",
+        "The rig will stay in a straight line but slide sideways.",
+        "The rig will continue moving in a straight line no matter how much the steering wheel is turned. "
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>REASON:</strong></p><p>Section: 7.1.6 - Adverse Conditions</p><p>Watch for Jackknifing: If your tractor drive wheels or your trailer wheels lose traction, your vehicle may jackknife.</p>"
+    },
+    {
+      "question": "You are driving on a slippery road during the day. What does the Driver's manual say about how much space you should keep ahead of your truck?",
+      "options": [
+        "Add one car length for every 10 mph. ",
+        " Allow much more space than is needed for ideal driving conditions.",
+        "Allow one vehicle length for every 10,000 lbs. of gross vehicle weight."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 2.13.2 - Driving on Slippery Surfaces</strong></p><p>Do not drive alongside other vehicles. Keep a longer following distance. When you see a traffic jam ahead, slow down or stop to wait for it to clear.</p>"
+    },
+    {
+      "question": "Which of these is NOT a good thing to do when driving on slippery roads?",
+      "options": [
+        "Use a light tap on the accelerator and brake pedal. ",
+        " Keep other traffic out of your side space.",
+        "Use the engine brake or speed retarder."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>REASON:</strong></p><p><strong>Section: 2.13.2 - Driving on Slippery Surfaces</strong></p><p>Do not brake any harder than necessary, and do not use the engine brake or speed retarder.</p>"
+    },
+    {
+      "question": "When testing the coupling of the double trailer, the landing gears of the rear trailer should be?",
+      "options": [
+        "Fully raised. ",
+        "Slightly raised. ",
+        "Fully lowered."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 7.2.1 - Coupling Double Trailers</strong></p><p>Raise landing gear slightly off ground to prevent damage if trailer moves.</p>"
+    },
+    {
+      "question": "You must drive through deep or flowing water, you should not?",
+      "options": [
+        "Drive through quickly.",
+        " Use a low gear.",
+        " Keep gentle pressure on the brakes while going through the water, and for a short distance after coming out."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Reason:</strong></p><p><strong>Section: 2.13.2 - Driving on Slippery Surfaces</strong></p><p>Avoid driving through deep puddles or flowing water if possible. If not, you should: Slow down and place transmission in a low gear. Gently put on the brakes. This presses linings against brake drums or discs and keeps mud, silt, sand, and water from getting in.</p>"
+    },
+    {
+      "question": "When you turn with the tractor/triple trailer combination, the wheels that off-track (cheat) the most are?",
+      "options": [
+        "The rear wheels of the tractor. ",
+        "The wheels of the first trailer.  ",
+        "The wheels of the last trailer."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Reason:</strong></p><p><strong>Section: 6.1.6 - Turn Wide</strong></p><p>Longer vehicles will off-track more. The rear wheels of the powered unit (truck or tractor) will off-track some, and the rear wheels of the trailer will off-track even more. If there is more than one trailer, the rear wheels of the last trailer will off-track the most.</p>"
+    },
+    {
+      "question": "How can you be sure you supplied air to a second trailer?",
+      "options": [
+        "Go the rear of the second trailer and open the emergency line shut-off.",
+        "Open the hand valve with the rig parked and watch for movement.",
+        " Watch for a drop of 30 psi on the air gauge for each trailer. "
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><br></p><p><strong>Section: 7.2.1 - Coupling Double Trailers</strong></p><p>Charge trailer brakes, and check for air at rear of second trailer by opening the emergency line shut-off. If air pressure is not there, something is wrong and the brakes won't work.</p>"
+    },
+    {
+      "question": "Before you can supply air to the air tanks of a second trailer you need to?",
+      "options": [
+        "Close the shut-off valves at the rear of the first trailer and open the shut-off valves at the rear of the second trailer.",
+        "Open the shut-off valves at the rear of both trailers.",
+        "Open the shut-off valves at the rear of the first trailer and close the shut-off valves at the rear of the second trailer."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Open shut-off valves at rea</strong>r of first trailer (and on dolly, if so equipped). Close converter dolly air tank petcock and shut-off valves at rear of second trailer.</p>"
+    },
+    {
+      "question": "The trailer air supply control should pop out when the air pressure falls into the pressure range of?",
+      "options": [
+        "60 to 85 psi.",
+        " 5 to 15 psi. ",
+        "20 to 45 psi."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 7.4.1 - Additional Air Brake Checks</strong></p><p>The trailer air supply control should pop out when the air pressure falls into the pressure range specified by the manufacturer. (Usually within the range of 20 to 45 psi)</p>"
+    },
+    {
+      "question": "What is likely to happen if the pintle hook is unlocked with the dolly still under the second trailer?",
+      "options": [
+        "The dolly tow bar may fly up. ",
+        "Nothing will happen until the rig rolls forward. ",
+        "The trailer brakes will unlock."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 7.2.2 - Uncoupling the Double Trailers</strong></p><p>Never unlock the pintle hook with the dolly still under the rear trailer. The dolly tow bar may fly up, possibly causing injury, and making it very difficult to re-couple.</p>"
+    },
+    {
+      "question": "You should check trailer height before connecting a converted dolly to a second or third trailer. The trailer height is right when?",
+      "options": [
+        "The trailer will be raised slightly when the converter dolly is backed under it. ",
+        "The fifth wheel will be touching the trailer. ",
+        "The center of the kingpin will line up with the locking jaws."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 7.2.1 - Coupling Double Trailers</strong></p><p>Make sure trailer height is correct. (It must be slightly lower than the center of the fifth wheel, so trailer is raised slightly when dolly is pushed under.)</p>"
+    },
+    {
+      "question": "The best way to keep brakes from getting too hot while going down long grades is to?",
+      "options": [
+        "Use a higher gear so you will not need to brake ",
+        " Go slow and use only light, steady pressure on the brakes.",
+        "Use only the trailer brakes."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 2.16 - Mountain Driving</strong></p><p>You must go slowly enough so your brakes can hold you back without getting too hot. If the brakes become too hot, they may start to fade. This means you have to apply them harder and harder to get the same stopping power. If you continue to use the brakes hard, they can keep fading until you cannot slow down or stop at all.</p>"
+    },
+    {
+      "question": "You are driving 100-foot truck with double trailers at 30 mph. The road is dry, and visibility is good. You should keep at least ahead of you. seconds of space?",
+      "options": [
+        "10 ",
+        "9 ",
+        "11"
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 2.7.1 - Space Ahead</strong></p><p>How much space should you keep in front of you? One good rule says you need at least 1 second for each 10 feet of vehicle length at speeds below 40 mph. At greater speeds, you must add 1 second for safety.</p>"
+    },
+    {
+      "question": "When driving a truck with more than one trailer, which trailer should be first behind the truck?",
+      "options": [
+        "The shortest. ",
+        "The heaviest. ",
+        "The lightest."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 7.2.1 - Coupling Double Trailers</strong></p><p>For the safest handling on the road, the more heavily loaded semitrailer should be in first position behind the tractor. The lighter trailer should be in the rear.</p>"
+    },
+    {
+      "question": "You are driving at night and you must dim your headlights for traffic. Good speed management says you should?",
+      "options": [
+        "Speed up. ",
+        "Slow down. ",
+        "Drop 5 mph until your eyes adjust."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 2.6.4 - Speed and Distance Ahead</strong></p><p>At night, you cannot see as far with low beams as you can with high beams. Slow down when you must use low beams.</p>"
+    },
+    {
+      "question": "Empty trucks?",
+      "options": [
+        "May have poor traction due to bouncing and wheel lockup.",
+        "Are the easiest to stop since there is no shifting cargo.",
+        " Require shorter stopping distance than full ones. "
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 2.6.1 - Stopping Distance</strong></p><p>Empty trucks require greater stopping distances because an empty vehicle has less traction.</p>"
+    },
+    {
+      "question": "Which of these statements about the handling of doubles and triples is true?",
+      "options": [
+        "Rearward amplification is the only thing that prevents the crack-the-whip effect from turning over all trailers.",
+        "The rear trailer of a 100-foot triple is less likely to turn over than a single semitrailer due to the crack-the-whip effect.",
+        "A sudden movement with the steering wheel can result in a tipped over rear trailer.tinned"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 7.1.2 - Beware of the Crack-the-whip Effect</strong></p><p>Doubles and triples are more likely to turn over than other combination vehicles because of the \"crack-the-whip\" effect</p>"
+    },
+    {
+      "question": "If you want to couple a second trailer to your combination vehicle, secure it by using?",
+      "options": [
+        "Both if available. ",
+        "The trailer's spring brakes. ",
+        "Wheel chocks."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 7.2.1 Coupling Double Trailers</strong></p><p>If the second trailer does not have spring brakes, drive the tractor close to the trailer, connect the emergency line, charge the trailer air tank, and disconnect the emergency line. This will set the trailer emergency brakes (if the slack adjusters are correctly adjusted).</p><p>Chock the wheels if you have any doubt about the brakes.</p>"
+    },
+    {
+      "question": "You are driving a 100-foot truck with double trailers at 50 mph. The road is dry, and visibility is good. You should keep at least ahead of you. seconds of space?",
+      "options": [
+        "10",
+        "11",
+        "9"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 2.7.1 - Space Ahead</strong></p><p>How much space should you keep in front of you? One good rule says you need at least 1 second for each 10 feet of vehicle length at speeds below 40 mph. At greater speeds, you must add 1 second for safety.</p>"
+    },
+    {
+      "question": "Which of these statements about quick steering movements and doubles/triples is true?",
+      "options": [
+        "You should apply the brakes at the same time as quick steering movements.",
+        "Counter steering is easier with doubles/triples than most other vehicles.",
+        " Doubles/triples turn over from quick steering moves more easily than many vehicles. "
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>You should apply the brakes at the same time as quick </strong>steering movements.</p><p>Doubles/triples turn over from quick steering moves more easily than many vehicles.</p><p>Counter steering is easier with doubles/triples than most other vehicles.</p>"
+    },
+    {
+      "question": "Converter dollies?",
+      "options": [
+        "Often do not have spring brakes. ",
+        "Usually need a glad hand converter.",
+        "Have little braking power because they are small. "
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.2.8 - Trailer Service, Parking, and Emergency Brakes</strong></p><p>Newer trailers have spring brakes just like trucks and truck tractors. However, converter dollies and trailers built before 1975 are not required to have spring brakes.</p>"
+    },
+    {
+      "question": "You want to hook your combination to a second trailer that has no spring brakes. To do this without wheel chocks you should?",
+      "options": [
+        "Supply air to the trailer air system with the tractor and then disconnect the emergency line. ",
+        " Make sure that the trailer will roll freely when coupling.",
+        "Hook the trailer electric cord to a portable generator for braking power."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>If the second trailer does not have spring brakes, drive the </strong>tractor close to the trailer, connect the emergency line, charge the trailer air tank, and disconnect the emergency line.</p>"
+    },
+    {
+      "question": "Which of these statements about managing space to the sides is true?",
+      "options": [
+        "You should keep your vehicle to the right side of your lane. ",
+        "You should avoid traveling ",
+        "High winds are not a problem for doubles and triples. "
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>There are 2 dangers in traveling alongside other vehicles: </strong>(1) Another driver may change lanes suddenly and turn into you. (2) You may be trapped when you need to change lanes.</p>"
+    },
+    
+      {
+        "question": "Some large trucks have curved mirrors. These mirrors:",
+        "options": [
+          "Do not need to be checked often because they show a larger area.",
+          "Make things seem smaller and further away than they really are.",
+          "Are against the law in some states."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 2.4.2 - Seeing to the Sides and Rear</strong></p><p>Many large vehicles have curved mirrors that show a wider area than flat mirrors. This is often helpful. But everything appears smaller in a convex mirror than it would if you were looking at it directly. Things also seem farther away than they really are.</p>"
+      },
+    
+    {
+      "question": "Crack-the-whip effect occurs when?",
+      "options": [
+        "Front tire rims crack. ",
+        "You make a quick lane change.",
+        "You aggressively apply the brakes. "
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 6.1.2 - Steer Gently</strong></p><p>When you make a quick lane change, the crack-the-whip effect can turn the trailer over. There are many accidents where only the trailer has overturned.</p>"
+    }
+  ],
+  "pt":[
+    {
+          "question": "Com a válvula de mão ligada, você deve testar os freios do reboque abrindo a válvula da linha de serviço na parte traseira do reboque. Quando você faz isso, você deve ouvir?",
+          "options": [
+            "A válvula de linha de emergência abrir e liberar o ar",
+            "Fuga de ar da válvula aberta",
+            "Os freios de serviço se movem lentamente para a posição totalmente aplicada."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>REASON:</strong></p><p>Seção: 7.4.1 Verificações adicionais do freio a ar</p><p>Use o freio de mão do reboque para fornecer ar à linha de serviço. Vá para a parte traseira da plataforma. Abra a válvula de desligamento da linha de emergência na parte traseira do último reboque. Você deve ouvir o ar escapando, mostrando que todo o sistema está carregado.</p>"
+    },
+    {
+        "question": "Você está dirigindo com reboques duplos e deve usar seus freios para evitar um acidente. Para frenagem de emergência você deveria?",
+          "options": [
+            "Use frenagem controlada ou com facada. ",
+            "Fuga de ar da válvula aberta",
+            "Use pressão leve e constante no pedal do freio."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>REASON:</forte></p><p>Seção: 7.1.6 - Condições adversas</p><p>Em situações de frenagem de emergência, use o método de frenagem controlada ou por faca para parar seu veículo</p>"
+    },
+    {
+          "question": "Qual dessas afirmações sobre direção de emergência é verdadeira?",
+          "options": [
+            "Se você tem tráfego em ambos os lados do seu veículo e algo está bloqueando sua faixa, um movimento para a direita ainda é a melhor escolha.",
+            "Você pode dirigir com mais rapidez e segurança se segurar o volante com uma mão.",
+            "Você quase sempre pode parar mais rápido do que pode virar."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p>Seção: 2.17.1 - Direção para evitar um acidente</p><p>Se você estiver bloqueado em ambos os lados, um movimento para a direita pode ser melhor. Pelo menos você não vai forçar ninguém a entrar em uma faixa de tráfego oposta e um possível acidente frontal.</p>"
+    },
+    {
+      "question": "A válvula de drenagem do tanque de ar dolly conversor em reboques duplos/triplos acoplados deve ser:",
+      "options": [
+        "Parcialmente aberto",
+        "Aberto",
+        "Fechado"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 7.3.1 - Verificações adicionais</strong></p><p>Reboques duplos e triplos: A válvula de drenagem do tanque de ar dolly conversor: CLOSED.</p>"
+},
+    {
+          "question": "Para verificar se o conversor dolly está firmemente acoplado ao reboque traseiro você deve?",
+          "options": [
+            "Options: Solte os freios de mola e verifique o movimento.",
+            "Puxe suavemente contra o pino do segundo trailer.",
+            "Faça um backup leve e faça a verificação visual do acoplamento."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>REASON:</forte></p><p>Seção: 7.2.1 Reboques duplos de acoplamento</p><p>Conecte o conversor Dolly ao reboque traseiro: Teste o acoplamento puxando contra o pino do segundo semirreboque.</p>"
+    },
+    {
+          "question": "Você está verificando visualmente o acoplamento de um conversor dolly ao reboque traseiro. Quanto espaço deve haver entre a quinta roda superior e inferior?",
+          "options": [
+            "Nenhuma.",
+            "1/2 a 3/4 polegadas.",
+            "Depende da carga."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>reason</forte>:</p><p>Seção: 7.2.1 - Acoplamento de reboques duplos</p><p>Conversor Dolly para reboque traseiro: Faça a verificação visual do acoplamento. (Não há espaço entre a quinta roda superior e inferior. Mandíbulas de bloqueio fechadas no pino de chefão.) </p>"
+    },
+    {
+          "question": "Você está fazendo uma inspeção de uma carreta dupla ou tripla. Você deve ter certeza de que as válvulas de drenagem do tanque de ar dolly conversor são gancho é e o pintle. ?",
+          "options": [
+            "fechado, travado",
+            " fechado, ",
+            "livre aberto, livre"
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>REASON:</strong></p><p>Seção: 7.3.1 - Verificações adicionais</p><p>Áreas do sistema de acoplamento: Conversor dolly válvula de drenagem do tanque de ar: Fechado. Certifique-se de que o gancho pintle está travado.</p>"
+    },
+    {
+          "question": "Durante a operação normal, os freios do reboque duplo/triplo são controlados por?",
+          "options": [
+            "Válvula de mão.",
+            "Bar Johnson. ",
+            "Pedal de pé"
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>REASON:</strong></p><p>Seção: 6.5.2 - Verificação de freio de veículo combinado</p><p>Teste dos freios de serviço do reboque: Os freios do reboque devem ser testados com a válvula de mão, mas controlados em operação normal com o pedal, que aplica ar aos freios de serviço em todas as rodas.</p>"
+    },
+    {
+          "question": "Qual delas resultará no melhor controle nas curvas?",
+          "options": [
+            "Diminua para a velocidade segura antes de entrar, depois acelere ligeiramente pela curva.",
+            "Freio e downshift durante a curva.",
+            "Diminua a velocidade antes de entrar na curva e, em seguida, desacelere a curva."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>REASON:</forte></p><p>Seção: 8.3.3 - Curvas</p><p>Desacelere antes das curvas e, em seguida, acelere ligeiramente através da curva. A velocidade postada para uma curva pode ser muito rápida para um veículo tanque.</p>"
+    },
+    {
+          "question": "A melhor maneira de parar qualquer derrapagem é?",
+          "options": [
+            "Use a travagem controlada ou com facada.",
+            "Contra-direção.",
+            "Restaurar a tração do pneu."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>REASON:</forte></p><p>Seção: 8.3.5 - Skids</p><p>Quando algum veículo começa a derrapar, você deve tomar medidas para restaurar a tração das rodas.</p>"
+    },
+    {
+        "question":"Você está dirigindo um conjunto de duplas e um conjunto de rodas de reboque entra em derrapagem. Qual delas é mais provável de ocorrer?",
+          "options": [
+            "Você vai ter um canivete de reboque.",
+            "A plataforma vai ficar em linha reta, mas deslizar para os lados.",
+            "A plataforma continuará se movendo em linha reta, não importa o quanto o volante esteja girado."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>REASON:</forte></p><p>Seção: 7.1.6 - Condições adversas</p><p>Fique atento ao canivete: Se as rodas motrizes do trator ou as rodas do reboque perderem tração, o veículo pode ser um canivete.</p>"
+    },
+    {
+          "question": "Você está dirigindo em uma estrada escorregadia durante o dia. O que o Manual do Motorista diz sobre quanto espaço você deve manter à frente do seu caminhão?",
+          "options": [
+            "Adicione um comprimento de carro para cada 10 mph.",
+            "Permita muito mais espaço do que o necessário para condições ideais de condução.",
+            "Permita um comprimento de veículo para cada 10.000 libras de peso bruto do veículo."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 2.13.2 - Dirigir em superfícies escorregadias</strong></p><p>Não dirija ao lado de outros veículos. Mantenha uma distância maior. Quando você vir um engarrafamento à frente, diminua a velocidade ou pare para esperar que ele seja liberado.</p>"
+    },
+    {
+          "question": "Qual destes NÃO é uma boa coisa a fazer ao dirigir em estradas escorregadias?",
+          "options": [
+            "Use um leve toque no pedal do acelerador e do freio. ",
+            "Mantenha outro tráfego fora do seu espaço lateral.",
+            "Use o freio motor ou retardador de velocidade."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>REASON:</forte></p><p><forte>Seção: 2.13.2 - Condução em superfícies escorregadias</forte></p><p>Não trave mais forte do que o necessário e não utilize o travão motor ou o retardador de velocidade.</p>"
+    },
+    {
+          "question": "Ao testar o acoplamento do reboque duplo, os trens de pouso do reboque traseiro devem ser?",
+          "options": [
+            "Totalmente levantado.",
+            "Levemente levantado.",
+            "Totalmente rebaixado."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "motivo": "<p><strong>Seção: 7.2.1 - Reboques duplos de acoplamento</strong></p><p>Elevar o trem de pouso ligeiramente fora do solo para evitar danos se o reboque se mover.</p>"
+    },
+    {
+          "question": "Você deve dirigir através de águas profundas ou correntes, você não deve?",
+          "options": [
+            "Dirija rapidamente.",
+            "Use uma marcha baixa.",
+            "Mantenha uma pressão suave nos freios enquanto atravessa a água e por uma curta distância depois de sair."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Reason:</strong></p><p><strong>Seção: 2.13.2 - Dirigir em superfícies escorregadias</strong></p><p>Evite dirigir através de poças profundas ou água corrente, se possível. Se não, você deve: Diminua a velocidade e coloque a transmissão em uma marcha baixa. Coloque suavemente no freio. Isso pressiona as lonas contra tambores ou discos de freio e impede que lama, lodo, areia e água entrem.</p>"
+    },
+    {
+          "question": "Quando você gira com a combinação trator/reboque triplo, as rodas que mais saem da pista (trapaceiam) são?",
+          "options": [
+            "As rodas traseiras do trator. ",
+            "As rodas do primeiro trailer.  ",
+            "As rodas do último trailer."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Reason:</forte></p><p><forte>Seção: 6.1.6 - Vire Wide</strong></p><p>Veículos mais longos sairão mais da pista. As rodas traseiras da unidade motorizada (caminhão ou trator) sairão da pista e as rodas traseiras do reboque sairão ainda mais da pista. Se houver mais de um reboque, as rodas traseiras do último reboque sairão mais da pista.</p>"
+    },
+    {
+          "question": "Como você pode ter certeza de que forneceu ar para um segundo trailer?",
+          "options": [
+            "Vá na parte traseira da segunda carreta e abra o desligamento da linha de emergência.",
+            "Abra a válvula de mão com a plataforma estacionada e observe o movimento.",
+            " Fique atento a uma queda de 30 psi no medidor de ar para cada trailer. "
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "motivo": "<p><br></p><p><strong>Seção: 7.2.1 - Acoplamento de reboques duplos</strong></p><p>Carregar freios de reboque e verificar se há ar na parte traseira do segundo reboque abrindo o desligamento da linha de emergência. Se a pressão do ar não estiver lá, algo está errado e os freios não funcionarão.</p>"
+    },
+    {
+          "question": "Antes que você possa fornecer ar para os tanques de ar de um segundo reboque que você precisa?",
+          "options": [
+            "Feche as válvulas de fecho na parte traseira do primeiro reboque e abra as válvulas de fecho na parte traseira do segundo reboque.",
+            "Abra as válvulas de fechamento na parte traseira de ambos os reboques.",
+            "Abra as válvulas de fechamento na parte traseira do primeiro reboque e feche as válvulas de fechamento na parte traseira do segundo reboque."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Abrir válvulas de bloqueio em rea</strong>r do primeiro reboque (e na dolly, se assim equipado). Conversor fechado dolly tanque de ar petcock e válvulas de fechamento na parte traseira do segundo reboque.</p>"
+    },
+    {
+          "question": "O controle de alimentação de ar do reboque deve aparecer quando a pressão do ar cai na faixa de pressão de?",
+          "options": [
+            "60 a 85 psi.",
+            " 5 a 15 psi. ",
+            "20 a 45 psi."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "motivo": "<p><strong>Seção: 7.4.1 - Verificações adicionais do freio pneumático</strong></p><p>O controle de alimentação de ar do reboque deve aparecer quando a pressão do ar cair na faixa de pressão especificada pelo fabricante. (Geralmente dentro da faixa de 20 a 45 psi)</p>"
+    },
+    {
+        "question":"O que é provável que aconteça se o gancho pintle for desbloqueado com o dolly ainda sob o segundo trailer?",
+          "options": [
+            "A barra de reboque dolly pode voar. ",
+            "Nada vai acontecer até que a plataforma avance.",
+            "Os freios do reboque vão destravar."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção: 7.2.2 - Desacoplamento dos reboques duplos</strong></p><p>Nunca destrave o gancho pintle com o dolly ainda sob o reboque traseiro. A barra de reboque dolly pode voar, possivelmente causando ferimentos e dificultando muito o reacoplamento.</p>"
+    },
+    {
+          "question": "Você deve verificar a altura do reboque antes de conectar um dolly convertido a um segundo ou terceiro reboque. A altura do trailer é exatamente quando?",
+          "options": [
+            "O reboque será ligeiramente elevado quando o dolly conversor estiver apoiado sob ele.",
+            "A quinta roda vai tocar o reboque.",
+            "O centro do chefão se alinhará com as mandíbulas travadas."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção: 7.2.1 - Reboques duplos de acoplamento</strong></p><p>Verifique se a altura do reboque está correta. (Deve ser ligeiramente mais baixo do que o centro da quinta roda, de modo que o reboque é levantado ligeiramente quando dolly é empurrado para baixo.) </p>"
+    },
+    {
+          "question": "A melhor maneira de evitar que os freios fiquem muito quentes ao descer longas grades é?",
+          "options": [
+            "Use uma marcha mais alta para não precisar frear",
+            "Vá devagar e use apenas pressão leve e constante nos freios.",
+            "Use apenas os freios do reboque."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 2.16 - Mountain Driving</strong></p><p>Você deve ir devagar o suficiente para que seus freios possam segurá-lo sem ficar muito quente. Se os freios ficarem muito quentes, eles podem começar a desaparecer. Isso significa que você tem que aplicá-los cada vez mais difícil para obter o mesmo poder de parada. Se você continuar a usar os freios com força, eles podem continuar desaparecendo até que você não possa desacelerar ou parar.</p>"
+    },
+    {
+          "question": "Você está dirigindo caminhão de 100 pés com reboques duplos a 30 mph. A estrada está seca e a visibilidade é boa. Você deve manter-se pelo menos à sua frente. segundos de espaço?",
+          "options": [
+            "10",
+            "9",
+            "11"
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção: 2.7.1 - Espaço à frente</forte></p><p>Quanto espaço você deve manter à sua frente? Uma boa regra diz que você precisa de pelo menos 1 segundo para cada 10 pés de comprimento do veículo em velocidades abaixo de 40 mph. Em velocidades maiores, você deve adicionar 1 segundo para segurança.</p>"
+    },
+    {
+          "question": "Ao dirigir um caminhão com mais de um reboque, qual reboque deve estar primeiro atrás do caminhão?",
+          "options": [
+            "O mais curto.",
+            "O mais pesado.",
+            "O mais leve."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 7.2.1 - Acoplamento de reboques duplos</strong></p><p>Para o manuseio mais seguro na estrada, o semirreboque mais carregado deve estar na primeira posição atrás do trator. O reboque mais leve deve estar na traseira.</p>"
+    },
+    {
+        "question": "Você está dirigindo à noite e deve escurecer os faróis para o trânsito. Uma boa gestão de velocidade diz que você deveria?",
+          "options": [
+            "Acelere.",
+            "Devagar. ",
+            "Baixe 5 mph até que seus olhos se ajustem."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 2.6.4 - Velocidade e distância à frente</forte></p><p>À noite, você não pode ver tão longe com faróis baixos quanto você pode com faróis altos. Diminua a velocidade quando precisar usar faróis baixos.</p>"
+    },
+    {
+          "question": "Caminhões vazios?",
+          "options": [
+            "Pode ter pouca tração devido a saltos e travamento das rodas.",
+            "São os mais fáceis de parar, já que não há deslocamento de carga.",
+            " Exigem distância de parada mais curta do que as completas. "
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção: 2.6.1 - Distância de parada</forte></p><p>Caminhões vazios exigem maiores distâncias de parada porque um veículo vazio tem menos tração.</p>"
+    },
+    {
+          "question": "Qual dessas afirmações sobre o manuseio de duplos e triplos é verdadeira?",
+          "options": [
+            "A amplificação traseira é a única coisa que impede que o efeito crack-the-whip vire todos os reboques.",
+            "O reboque traseiro de um triplo de 100 pés tem menos probabilidade de virar do que um único semirreboque devido ao efeito crack-the-whhip.",
+            "Um movimento brusco com o volante pode resultar em um tombamento sobre o reboque traseiro"
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 7.1.2 - Cuidado com o efeito Crack-the-whhip</strong></p><p>Duplos e triplos são mais propensos a virar do que outros veículos combinados por causa do  efeito \"crack-the-whip</p>"
+    },
+    {
+          "question": "Se você quiser acoplar um segundo reboque ao seu veículo combinado, proteja-o usando?",
+          "options": [
+            "Ambos se disponíveis.",
+            "Os freios de mola do trailer. ",
+            "Roda de chocks."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "motivo": "<p><strong>Seção: 7.2.1 Acoplamento de reboques duplos</strong></p><p>Se o segundo reboque não tiver freios de mola, dirija o trator para perto do reboque, conecte a linha de emergência, carregue o tanque de ar do reboque e desconecte a linha de emergência. Isso irá ajustar os freios de emergência do reboque (se os ajustadores de folga estiverem corretamente ajustados).</p><p>Chock as rodas se você tiver alguma dúvida sobre os freios.</p>"
+    },
+    {
+          "question": "Você está dirigindo um caminhão de 100 pés com reboques duplos a 50 mph. A estrada está seca e a visibilidade é boa. Você deve manter-se pelo menos à sua frente. segundos de espaço?",
+          "options": [
+            "10",
+            "11",
+            "9"
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 2.7.1 - Espaço à frente</forte></p><p>Quanto espaço você deve manter à sua frente? Uma boa regra diz que você precisa de pelo menos 1 segundo para cada 10 pés de comprimento do veículo em velocidades abaixo de 40 mph. Em velocidades maiores, você deve adicionar 1 segundo para segurança.</p>"
+    },
+    {
+          "question": "Qual dessas afirmações sobre movimentos rápidos de direção e duplos/triplos é verdadeira?",
+          "options": [
+            "Você deve aplicar os freios ao mesmo tempo em que movimentos rápidos de direção.",
+            "A contra-direção é mais fácil com duplos/triplos do que a maioria dos outros veículos.",
+            " Duplos/triplos se transformam a partir de movimentos rápidos de direção mais facilmente do que muitos veículos. "
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Você deve aplicar os freios ao mesmo tempo que movimentos rápidos </forte>direção.</p><p>Duplos/triplos virar a partir de movimentos rápidos de direção mais facilmente do que muitos veículos.</p><p>A direção contra é mais fácil com duplos/triplos do que a maioria dos outros veículos.</p>"
+    },
+    {
+          "question": "Conversor dollies?",
+          "options": [
+            "Muitas vezes não tem freios de mola.",
+            "Geralmente precisa de um conversor de mão feliz.",
+            "Têm pouca potência de frenagem porque são pequenos."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção: 6.2.8 - Serviço de reboque, estacionamento e freios de emergência</strong></p><p>Os reboques mais novos têm freios de mola, assim como caminhões e tratores de caminhão. No entanto, os dollies conversores e reboques construídos antes de 1975 não são obrigados a ter freios de mola.</p>"
+    },
+    {
+        "question":"Você quer prender sua combinação a um segundo reboque que não tenha freios de mola. Para fazer isso sem roda você deveria?",
+          "options": [
+            "Forneça ar para o sistema de ar do reboque com o trator e, em seguida, desconecte a linha de emergência. ",
+            "Certifique-se de que o reboque vai rolar livremente durante o engate.",
+            "Conecte o cabo elétrico do reboque a um gerador portátil para poder de frenagem."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "motivo": "<p><strong>Se o segundo reboque não tiver travões de mola, conduza o tractor </forte>se perto do reboque, ligue a linha de emergência, carregue o tanque de ar do reboque e desligue a linha de emergência.</p>"
+    },
+    {
+          "question": "Qual dessas afirmações sobre a gestão do espaço para os lados é verdadeira?",
+          "options": [
+            "Você deve manter seu veículo do lado direito da sua faixa. ",
+            "Você deve evitar viajar",
+            "Ventos fortes não são problema para duplas e triplas."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Existem 2 perigos em viajar ao lado de outros veículos: </forte>(1) Outro motorista pode mudar de faixa repentinamente e virar para você. (2) Você pode ficar preso quando precisar mudar de faixa.</p>"
+    },
+    {
+      "question":  "Alguns caminhões grandes têm espelhos curvos. Estes espelhos:",
+        "options": [
+          "Não precisam ser verificados com frequência, pois apresentam uma área maior.",
+          "Fazer as coisas parecerem menores e mais distantes do que realmente são.",
+          "São contra a lei em alguns estados."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><forte>Seção: 2.4.2 - Olhando para os lados e traseira</forte></p><p>Muitos veículos grandes têm espelhos curvos que mostram uma área mais ampla do que os espelhos planos. Isso muitas vezes é útil. Mas tudo parece menor em um espelho convexo do que se você estivesse olhando para ele diretamente. As coisas também parecem mais distantes do que realmente estão.</p>"
+      },
+    {
+          "question": "Efeito crack-o-chicote ocorre quando?",
+          "options": [
+            "As jantes dos pneus dianteiros racham. ",
+            "Você faz uma mudança rápida de faixa.",
+            "Você aplica agressivamente os freios."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 6.1.2 - Dirigir suavemente</forte></p><p>Quando você faz uma mudança rápida de faixa, o efeito de rachadura pode virar o reboque. Há muitos acidentes em que apenas a carreta capotou.</p>"
+    }
+    ],
+    "es":[
+      {
+            "question": "Con la válvula manual puesta, debe probar los frenos del remolque abriendo la válvula de la línea de servicio en la parte trasera del remolque Cuando hagas esto, ¿deberías escuchar?",
+            "options": [
+              "La válvula de la línea de emergencia se abre y libera el aire",
+              "Escape de aire de la válvula abierta",
+              "Los frenos de servicio se mueven lentamente a la posición completamente aplicada"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>REASON:</strong></p><p>Sección: 741 Comprobaciones adicionales de los frenos de aire</p><p>Utilice el freno de mano del remolque para suministrar aire a la línea de servicio Ve a la parte trasera de la plataforma Abra la válvula de cierre de la línea de emergencia en la parte trasera del último remolque Debería escuchar el escape de aire, lo que indica que todo el sistema está cargado</p>"
+      },
+      {
+            "question": "Está conduciendo con remolques dobles y debe usar los frenos para evitar un choque ¿Para el frenado de emergencia deberías?",
+            "options": [
+              "Use el frenado controlado o punzante ",
+              "Escape de aire de la válvula abierta",
+              "Presione el pedal del freno de manera ligera y constante "
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>REASON:</strong></p><p>Sección: 716 - Condiciones adversas</p><p>En situaciones de frenado de emergencia, utilice el método de frenado controlado o de puñalada para detener su vehículo</p>"
+      },
+      {
+            "question": "¿Cuál de estas afirmaciones sobre la dirección de emergencia es verdadera?",
+            "options": [
+              "Si tiene tráfico a ambos lados de su vehículo y algo está bloqueando su carril, moverse a la derecha sigue siendo la mejor opción",
+              "Puedes conducir de forma más rápida y segura si sostienes el volante con una mano",
+              "Casi siempre puedes detenerte más rápido de lo que puedes girar"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p>Sección: 2171 - Dirección para evitar un accidente</p><p>Si está bloqueado en ambos lados, lo mejor puede ser moverse hacia la derecha Al menos no forzarás a nadie a entrar en un carril de tráfico opuesto y un posible accidente frontal</p>"
+      },
+      {
+        "question": "La válvula de drenaje del tanque de aire de la plataforma rodante convertidora en remolques dobles/triples acoplados debe ser:",
+        "options": [
+          "Parcialmente abierto",
+          "Abierto",
+          "Cerrado"
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Sección: 7.3.1 - Comprobaciones adicionales</strong></p><p>Remolques dobles y triples: La válvula de drenaje del tanque de aire de la plataforma rodante del convertidor: CLOSED.</p>"
+},
+      {
+            "question": "¿Para comprobar si la plataforma rodante convertidora está bien acoplada al remolque trasero, debería?",
+            "options": [
+              "Options: Suelte los frenos de resorte y verifique el movimiento",
+              "Tire suavemente contra el pasador del segundo remolque",
+              "Retroceda ligeramente y realice la verificación visual del acoplamiento"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>REASON:</strong></p><p>Sección: 721 Acoplamiento de remolques dobles</p><p>Conecte la plataforma rodante convertidora al remolque trasero: Pruebe el acoplamiento tirando contra el pasador del segundo semirremolque</p>"
+      },
+      {
+            "question": "Está comprobando visualmente el acoplamiento de una plataforma rodante convertidora al remolque trasero ¿Cuánto espacio debe haber entre la quinta rueda superior e inferior?",
+            "options": [
+              "Ninguno",
+              "De 1/2 a 3/4 de pulgada",
+              "Depende de la carga"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Reason</strong>:</p><p>Sección: 721 - Acoplamiento de remolques dobles</p><p>Conecte el convertidor de la plataforma rodante al remolque trasero: Realice una comprobación visual del acoplamiento (No hay espacio entre la quinta rueda superior e inferior Cierre de las mandíbulas en el pivote) </p>"
+      },
+      {
+            "question": "Está haciendo una inspección de un remolque doble o triple Debe asegurarse de que las válvulas de drenaje del tanque de aire de la plataforma rodante del convertidor estén enganchadas y el pivote ?",
+            "options": [
+              "cerrado, pesticulado",
+              " cerrado, ",
+              "Libres, abiertos, libres"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>REASON:</strong></p><p>Sección: 731 - Comprobaciones adicionales</p><p>Áreas del sistema de acoplamiento: Válvula de drenaje del tanque de aire de la plataforma rodante convertidora: Cerrada Asegúrese de que el gancho de pivote esté trabado</p>"
+      },
+      {
+            "question": "Durante el funcionamiento normal, los frenos del remolque doble/triple están controlados por?",
+            "options": [
+              "Válvula de mano",
+              "Barra Johnson ",
+              "Pedal "
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>REASON:</strong></p><p>Sección: 652 - Comprobación de los frenos combinados del vehículo</p><p>Pruebe los frenos de servicio del remolque: Los frenos del remolque deben probarse con la válvula manual, pero controlarse en funcionamiento normal con el pedal, que aplica aire a los frenos de servicio en todas las ruedas</p>"
+      },
+      {
+            "question": "¿Cuál de los siguientes resultará en el mejor control en las curvas?",
+            "options": [
+              "Reduzca la velocidad a la velocidad segura antes de entrar, luego acelere ligeramente a través de la curva ",
+              "Frene y reduzca la marcha durante la curva",
+              "Reduzca la velocidad a una velocidad segura antes de entrar en la curva, luego avance por la curva"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>REASON:</strong></p><p>Sección: 833 - Curvas</p><p>Reduzca la velocidad antes de las curvas y, a continuación, acelere ligeramente a través de la curva La velocidad indicada para una curva puede ser demasiado rápida para un vehículo cisterna</p>"
+      },
+      {
+            "question": "¿La mejor manera de detener cualquier derrape es?",
+            "options": [
+              "Usar frenado punzante o controlado ",
+              "Contravirar",
+              "Restaure la tracción al neumático"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>REASON:</strong></p><p>Sección: 835 - Derrapes</p><p>Cuando un vehículo comienza a patinar, debe tomar medidas para restaurar la tracción a las ruedas</p>"
+      },
+      {
+            "question": "Estás conduciendo un juego de dobles y un juego de ruedas de remolque patina ¿Cuál de estos es más probable que ocurra?",
+            "options": [
+              "Tendrás una navaja de remolque ",
+              "La plataforma se mantendrá en línea recta pero se deslizará hacia los lados",
+              "La plataforma continuará moviéndose en línea recta sin importar cuánto gire el volante "
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>REASON:</strong></p><p>Sección: 716 - Condiciones adversas</p><p>Esté atento a las cuchillas: Si las ruedas motrices de su tractor o las ruedas de su remolque pierden tracción, su vehículo puede ser una navaja</p>"
+      },
+      {
+            "question": "Está conduciendo por una carretera resbaladiza durante el día ¿Qué dice el manual del conductor sobre cuánto espacio debe mantener delante de su camión?",
+            "options": [
+              "Agregue la longitud de un automóvil por cada 10 mph",
+              "Deje mucho más espacio del que se necesita para las condiciones ideales de conducción",
+              "Permita una longitud de vehículo por cada 10,000 libras de peso bruto del vehículo"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 2132 - Conducir sobre superficies resbaladizas</strong></p><p>No conduzca junto a otros vehículos Mantenga una distancia de seguimiento más larga Cuando vea un atasco de tráfico más adelante, reduzca la velocidad o deténgase para esperar a que se despeje</p>"
+      },
+      {
+            "question": "¿Cuál de las siguientes NO es una buena cosa para hacer cuando se conduce por carreteras resbaladizas?",
+            "options": [
+              "Use un ligero toque en el pedal del acelerador y del freno ",
+              "Mantenga el resto del tráfico fuera de su espacio lateral",
+              "Use el freno motor o el retardador de velocidad"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>REASON:</strong></p><p><strong>Sección: 2132 - Conducir sobre superficies resbaladizas</strong></p><p>No frene más fuerte de lo necesario y no utilice el freno motor ni el retardador de velocidad</p>"
+      },
+      {
+            "question": "Al probar el acoplamiento del remolque doble, ¿los trenes de aterrizaje del remolque trasero deben ser?",
+            "options": [
+              "Totalmente levantado ",
+              "Ligeramente levantado ",
+              "Totalmente rebajado"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 721 - Acoplamiento de remolques dobles</strong></p><p>Levante el tren de aterrizaje ligeramente del suelo para evitar daños si el remolque se mueve</p>"
+      },
+      {
+            "question": "Debes conducir a través de aguas profundas o corrientes, ¿no deberías?",
+            "options": [
+              "Conduzca rápido",
+              "Usa una marcha baja",
+              "Mantenga una presión suave sobre los frenos mientras pasa por el agua y durante una corta distancia después de salir"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Reason:</strong></p><p><strong>Sección: 2132 - Conducir sobre superficies resbaladizas</strong></p><p>Evite conducir a través de charcos profundos o agua corriente si es posible De lo contrario, debe: Reduzca la velocidad y coloque la transmisión en una marcha baja Frena suavemente Esto presiona los forros contra los tambores o discos de freno y evita que entre barro, limo, arena y agua</p>"
+      },
+      {
+            "question": "Cuando giras con la combinación de tractor / remolque triple, ¿las ruedas que más se salen de la pista (hacen trampa) son?",
+            "options": [
+              "Las ruedas traseras del tractor ",
+              "Las ruedas del primer remolque  ",
+              "Las ruedas del último remolque"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Reason:</strong></p><p><strong>Sección: 616 - Giro ancho</strong></p><p>Los vehículos más largos se desviarán más de la pista Las ruedas traseras de la unidad motriz (camión o tractor) se desviarán un poco, y las ruedas traseras del remolque se desviarán aún más Si hay más de un remolque, las ruedas traseras del último remolque serán las que más se salgan de la pista</p>"
+      },
+      {
+            "question": "¿Cómo puede estar seguro de que suministró aire a un segundo remolque?",
+            "options": [
+              "Ve a la parte trasera del segundo remolque y abre el cierre de la línea de emergencia",
+              "Abra la válvula manual con la plataforma estacionada y observe si hay movimiento",
+              " Esté atento a una caída de 30 psi en el indicador de aire para cada remolque "
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><br></p><p><strong>Sección: 721 - Acoplamiento de remolques dobles</strong></p><p>Cargar los frenos del remolque y comprobar si hay aire en la parte trasera del segundo remolque abriendo el cierre de la línea de emergencia Si no hay presión de aire, algo anda mal y los frenos no funcionan</p>"
+      },
+      {
+            "question": "¿Antes de que pueda suministrar aire a los tanques de aire de un segundo remolque, necesita hacerlo?",
+            "options": [
+              "Cierre las válvulas de cierre en la parte trasera del primer remolque y abra las válvulas de cierre en la parte trasera del segundo remolque",
+              "Abra las válvulas de cierre en la parte trasera de ambos remolques",
+              "Abra las válvulas de cierre en la parte trasera del primer remolque y cierre las válvulas de cierre en la parte trasera del segundo remolque"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Abra las válvulas de cierre en rea</strong>r del primer remolque (y en la plataforma rodante, si está equipada) Cierre la llave de paso del tanque de aire del tanque de aire de la plataforma rodante del convertidor y las válvulas de cierre en la parte trasera del segundo remolque</p>"
+      },
+      {
+            "question": "¿El control de suministro de aire del remolque debe salir cuando la presión del aire cae en el rango de presión de?",
+            "options": [
+              "De 60 a 85 psi",
+              " 5 a 15 psi ",
+              "De 20 a 45 psi"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 741 - Comprobaciones adicionales de los frenos de aire</strong></p><p>El control de suministro de aire del remolque debe salir cuando la presión de aire cae dentro del rango de presión especificado por el fabricante (Por lo general, dentro del rango de 20 a 45 psi)</p>"
+      },
+      {
+            "question": "¿Qué es probable que suceda si el gancho de pivote se desbloquea con la plataforma rodante aún debajo del segundo remolque?",
+            "options": [
+              "La barra de remolque de la plataforma rodante puede volar hacia arriba ",
+              "No pasará nada hasta que la plataforma avance",
+              "Los frenos del remolque se desbloquearán"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 722 - Desacoplar los remolques dobles</strong></p><p>Nunca desbloquee el gancho de pivote con la plataforma rodante aún debajo del remolque trasero La barra de remolque de la plataforma rodante puede salir volando, lo que puede causar lesiones y dificultar mucho el reenganche</p>"
+      },
+      {
+            "question": "Debe verificar la altura del remolque antes de conectar una plataforma rodante convertida a un segundo o tercer remolque ¿La altura del remolque es la correcta, cuándo?",
+            "options": [
+              "El remolque se elevará ligeramente cuando la plataforma rodante del convertidor esté respaldada debajo de él ",
+              "La quinta rueda tocará el remolque ",
+              "El centro del pivote se alineará con las mordazas de bloqueo"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 721 - Acoplamiento de remolques dobles</strong></p><p>Asegúrese de que la altura del remolque sea la correcta (Debe estar ligeramente más bajo que el centro de la quinta rueda, de modo que el remolque se eleve ligeramente cuando se empuja la plataforma rodante hacia abajo) </p>"
+      },
+      {
+            "question": "¿La mejor manera de evitar que los frenos se calienten demasiado al bajar pendientes largas es?",
+            "options": [
+              "Usa una marcha más alta para que no tengas que frenar",
+              "Vaya despacio y use solo una presión ligera y constante en los frenos",
+              "Use solo los frenos del remolque"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 216 - Conducción en montaña</strong></p><p>Debes ir lo suficientemente despacio para que tus frenos puedan detenerte sin calentarte demasiado Si los frenos se calientan demasiado, pueden comenzar a desvanecerse Esto significa que tienes que aplicarlos cada vez más fuerte para obtener la misma potencia de frenado Si continúa usando los frenos con fuerza, pueden seguir desvaneciéndose hasta que no pueda reducir la velocidad o detenerse en absoluto</p>"
+      },
+      {
+            "question": "Está conduciendo un camión de 100 pies con remolques dobles a 30 mph La carretera está seca y la visibilidad es buena Debes mantenerte al menos por delante de ti segundos de espacio?",
+            "options": [
+              "10",
+              "9",
+              "11"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 271 - Espacio por delante</strong></p><p>¿Cuánto espacio debes mantener frente a ti? Una buena regla dice que necesita al menos 1 segundo por cada 10 pies de longitud del vehículo a velocidades inferiores a 40 mph A velocidades más altas, debe agregar 1 segundo por seguridad</p>"
+      },
+      {
+            "question": "Al conducir un camión con más de un remolque, ¿qué remolque debe estar primero detrás del camión?",
+            "options": [
+              "El más corto ",
+              "El más pesado ",
+              "El más ligero"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 721 - Acoplamiento de remolques dobles</strong></p><p>Para un manejo más seguro en la carretera, el semirremolque más cargado debe estar en primera posición detrás del tractor El remolque más ligero debe estar en la parte trasera</p>"
+      },
+      {
+            "question": "Está conduciendo de noche y debe atenuar las luces delanteras para el tráfico ¿Una buena gestión de la velocidad dice que deberías hacerlo?",
+            "options": [
+              "Acelera ",
+              "Reduzca la velocidad ",
+              "Baja 5 mph hasta que tus ojos se adapten"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 264 - Velocidad y distancia por delante</strong></p><p>Por la noche, no se puede ver tan lejos con las luces bajas como con las luces altas Reduzca la velocidad cuando deba usar luces bajas</p>"
+      },
+      {
+            "question": "¿Camiones vacíos?",
+            "options": [
+              "Puede tener poca tracción debido al rebote y al bloqueo de las ruedas",
+              "Son los más fáciles de detener, ya que no hay carga móvil",
+              " Requieren una distancia de frenado más corta que las completas "
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 261 - Distancia de frenado</strong></p><p>Los camiones vacíos requieren mayores distancias de frenado porque un vehículo vacío tiene menos tracción</p>"
+      },
+      {
+            "question": "¿Cuál de estas afirmaciones sobre el manejo de dobles y triples es verdadera?",
+            "options": [
+              "La amplificación hacia atrás es lo único que evita que el efecto de chasquido del látigo voltee todos los remolques",
+              "Es menos probable que el remolque trasero de un triple de 100 pies se vuelque que un solo semirremolque debido al efecto de chasquido del látigo",
+              "Un movimiento brusco con el volante puede provocar que el remolque trasero se vuelque"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 712 - Cuidado con el efecto de chasquido del látigo</strong></p><p>Los dobles y triples tienen más probabilidades de volcarse que otros vehículos combinados debido al  efecto \"chasquido del látigo\"</p>"
+      },
+      {
+            "question": "Si desea acoplar un segundo remolque a su vehículo combinado, asegúrelo usando?",
+            "options": [
+              "Ambas cosas si están disponibles",
+              "Los frenos de resorte del remolque ",
+              "Calzos de rueda"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 721 Acoplamiento de remolques dobles</strong></p><p>Si el segundo remolque no tiene frenos de resorte, conduzca el tractor cerca del remolque, conecte la línea de emergencia, cargue el tanque de aire del remolque y desconecte la línea de emergencia Esto activará los frenos de emergencia del remolque (si los ajustadores de holgura están correctamente ajustados)</p><p>Calza las ruedas si tienes alguna duda sobre los frenos</p>"
+      },
+      {
+            "question": "Está conduciendo un camión de 100 pies con remolques dobles a 50 mph La carretera está seca y la visibilidad es buena Debes mantenerte al menos por delante de ti segundos de espacio?",
+            "options": [
+              "10",
+              "11",
+              "9"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 271 - Espacio por delante</strong></p><p>¿Cuánto espacio debes mantener frente a ti? Una buena regla dice que necesita al menos 1 segundo por cada 10 pies de longitud del vehículo a velocidades inferiores a 40 mph A velocidades más altas, debe agregar 1 segundo por seguridad</p>"
+      },
+      {
+            "question": "¿Cuál de estas afirmaciones sobre los movimientos rápidos de la dirección y los dobles/triples es verdadera?",
+            "options": [
+              "Debes aplicar los frenos al mismo tiempo que los movimientos rápidos de la dirección",
+              "El contravolante es más fácil con dobles/triples que con la mayoría de los otros vehículos",
+              " Los dobles/triples se dan la vuelta a partir de movimientos rápidos de dirección más fácilmente que muchos vehículos "
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Debes aplicar los frenos al mismo tiempo que los movimientos rápidos > </dirección fuerte</p><p>Los dobles/triples giran con movimientos rápidos de dirección más fácilmente que muchos vehículos</p><p>El contravolante es más fácil con dobles/triples que la mayoría de los otros vehículos</p>"
+      },
+      {
+            "question": "¿Dollies convertidores?",
+            "options": [
+              "A menudo no tienen frenos de resorte ",
+              "Por lo general, necesito un convertidor de mano alegre",
+              "Tienen poca potencia de frenado porque son pequeños "
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 628 - Servicio de remolques, estacionamiento y frenos de emergencia</strong></p><p>Los remolques más nuevos tienen frenos de resorte al igual que los camiones y tractores de camiones Sin embargo, no se requiere que las plataformas rodantes y los remolques convertidores construidos antes de 1975 tengan frenos de resorte</p>"
+      },
+      {
+            "question": "Desea conectar su combinación a un segundo remolque que no tenga frenos de resorte ¿Para hacer esto sin calzos en las ruedas, deberías?",
+            "options": [
+              "Suministre aire al sistema de aire del remolque con el tractor y luego desconecte la línea de emergencia ",
+              "Asegúrese de que el remolque ruede libremente cuando se acople",
+              "Conecte el cable eléctrico del remolque a un generador portátil para obtener potencia de frenado"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Si el segundo remolque no tiene frenos de resorte, conduzca el tractor </strong> cerca del remolque, conecte la línea de emergencia, cargue el tanque de aire del remolque y desconecte la línea de emergencia</p>"
+      },
+      {
+            "question": "¿Cuál de estas afirmaciones sobre la gestión del espacio hacia los lados es verdadera?",
+            "options": [
+              "Debe mantener su vehículo en el lado derecho de su carril ",
+              "Debes evitar viajar",
+              "Los vientos fuertes no son un problema para dobles y triples "
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Hay 2 peligros al viajar junto a otros vehículos: </strong>(1) Otro conductor puede cambiar de carril repentinamente y girar hacia usted (2) Es posible que quede atrapado cuando necesite cambiar de carril</p>"
+      },
+      {
+        "question": "Algunos camiones grandes tienen espejos curvos. Estos espejos:",
+        "options": [
+          "No es necesario revisarlos con frecuencia porque muestran un área más grande.",
+          "Haz que las cosas parezcan más pequeñas y más lejanas de lo que realmente son",
+          "Están en contra de la ley en algunos estados"
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Sección: 2.4.2 - Ver a los lados y hacia atrás</strong></p><p>Muchos vehículos grandes tienen espejos curvos que muestran un área más amplia que los espejos planos. Esto suele ser útil. Pero todo parece más pequeño en un espejo convexo de lo que sería si lo estuvieras mirando directamente. Las cosas también parecen más lejanas de lo que realmente están.</p>"
+      },
+      {
+            "question": "¿Cuándo se produce el efecto de chasquido del látigo?",
+            "options": [
+              "Las llantas de los neumáticos delanteros se agrietan ",
+              "Haces un cambio rápido de carril",
+              "Aplicas los frenos agresivamente "
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 612 - Conducir suavemente</strong></p><p>Cuando haces un cambio rápido de carril, el efecto de chasquido del látigo puede volcar el remolque Hay muchos accidentes en los que solo el remolque se ha volcado</p>"
+      }
+      ]
+      
+      
+    
+    
+}

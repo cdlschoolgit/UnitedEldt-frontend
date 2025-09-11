@@ -1,0 +1,2352 @@
+{
+  "en":[
+    {
+      "question": " Where should the tractor be when you inspect the landing gear after unhooking the trailer?",
+      "options": [
+        "Completely cleaned from the trailer.",
+        "With the tractor frame under the trailer.",
+        "With the fifth wheel just below the boss."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 6.4.2 - Tractor-semi-trailer uncoupling</strong></p><p>Step 7: Stop with the tractor frame under the trailer (prevents the trailer from falling to the ground if the landing gear collapses or sinks).</p>"
+    },
+    {
+      "question": " When driving behind another vehicle, in good conditions, you should allow at least one second between your vehicle and the vehicle ahead for every meter of the vehicle's length.",
+      "options": [
+        "30",
+        "20",
+        "10"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong style=\"color: black;\">Section: 6.1.2 - Driving Smoothly</strong></p><p><span style=\"color: black;\">Go far enough behind other vehicles (at least 1 second for every 10 feet of your vehicle's length, plus one second if you exceed 40 mph).</span></p>"
+    },
+    {
+      "question": " There are two things a driver can do to prevent a rollover. They are: (1) keeping the load as close to the ground as possible and (2):",
+      "options": [
+        "Go slow in the corners.",
+        "Make sure the brakes are properly adjusted.",
+        "Keep both hands firmly on the streering wheel."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong style=\"color: black;\">Section: 6.1.1 - Rollover Hazards</strong></p><p><span style=\"color: black;\">The following two things will help prevent rollover: keep the load as close to the ground as possible and drive slowly around corners.</span></p>"
+    },
+    {
+      "question": "The air leakage rate for a combined vehicle (engine off, brakes off) should not exceed psi—- per minute.",
+      "options": [
+        "2",
+        "3",
+        "1/2"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong style=\"color: black;\">Section: 5.3.3 - Step 7 Air Brake Final Check: Static Leak Test</strong></p><p><span style=\"color: black;\">Air pressure should not drop more than: 3 psi for a combination of two vehicles.</span></p>"
+    },
+    {
+      "question": "If you are unable to complete your turn without entering another lane of traffic, you should:",
+      "options": [
+        "Turn well before starting the turn.",
+        "Turn wide as you complete the turn.",
+        "Do not make a turn and move to another location where you can make a turn without crossing another lane."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong style=\"color: black;\">Section: 6.1.6 - Turn Wide</strong></p><p><span style=\"color: black;\">If you are unable to complete your turn without entering another lane of traffic, turn wide when completing the turn. This is better than swinging to the left before starting the turn because it will prevent other riders from passing you on the right.</span></p>"
+    },
+    {
+      "question": "The higher your truck's center of gravity, the:",
+      "options": [
+        "More stable when rotating.",
+        "Easier to turn the corner.",
+        "Easier to turn over."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong style=\"color: black;\">Section: 6.1.1 - Rollover Hazards</strong></p><p><span style=\"color: black;\">When more cargo is stacked on a truck, the \"center of gravity\" moves higher off the road. The truck becomes easier to turn.</span></p>"
+    },
+    {
+      "question": "If the service line comes one piece while you're driving a combination vehicle, but the emergency line stays attached, what happens immediately?",
+      "options": [
+        "The emergency trailer brake will be applied.",
+        "The trailer brakes will turn on.",
+        "Nothing will happen until you try to apply the brakes."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong style=\"color: black;\">Section: 6.2.8 - Towing Service, Parking and Emergency Brakes</strong></p><p><span style=\"color: black;\">You may not notice a major leak in the service line until you try to put on the brakes. Then, the air loss from the leak will decrease the pressure of the air tank quickly. If it gets low enough, the trailer's emergency brakes will turn on.</span></p>"
+    },
+    {
+      "question": "Happy hands are usually connecting, which of these?",
+      "options": [
+        "From the trailer to the locking jaws of the fifth wheel.",
+        "Power lines from tractor to trailer.",
+        "Vehicle service and emergency overhead lines for towing."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong style=\"color: black;\">Section: 6.2.5 - Hose Couplers (Glad Hands)</strong></p><p><span style=\"color: black;\">Cheerful hands are coupling devices used to connect the overhead service and emergency lines of the truck or tractor to the trailer. The couplers have a rubber seal, which prevents air from escaping.</span></p>"
+    },
+    {
+      "question": "A driver crosses overhead lines when connecting to an old trailer. What's going to happen?",
+      "options": [
+        "The hand valve will apply the tractor brakes instead of the trailer brakes.",
+        "The brake lights come on when the brake pedal is pressed.",
+        "If the trailer doesn't have spring brakes, you can walk away, but you won't have trailer brakes."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong style=\"color: black;\">Section: 6.2.5 - Hose Couplers (Glad Hands)</strong></p><p><span style=\"color: black;\">If you crossed the overhead lines, you could walk away, but you wouldn't have tow brakes. That would be very dangerous.</span></p>"
+    },
+    {
+      "question": "The hand valve should be used:",
+      "options": [
+        "To test the trailer brakes.",
+        "Like a parking brake.",
+        "Only with a foot brake."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong style=\"color: black;\">Section: 6.2.1 – Trailer Hand Valve</strong></p><p><span style=\"color: black;\">The trailer hand valve (also called the trolley valve or Johnson bar) works the brakes of the trailer.</span></p>"
+    },
+    {
+      "question": "When driving a set of doubles, it is necessary to close which shut-off valve on the last trailer:",
+      "options": [
+        "Back valve.",
+        "Medium section valve.",
+        "Valvula frontal."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong style=\"color: black;\">Section: 6.2.7 - Shut-Off Valves</strong></p><p><span style=\"color: black;\">Shut-off valves (also called shut-off taps) are used in the service and supply the air lines at the rear of trailers used to tow other trailers. These valves allow you to close the air lines when another trailer is not being towed. You should check that all shut-off valves are in the open position, except for those on the rear of the last trailer, which should be closed.</span></p>"
+    },
+    {
+      "question": "You are about to prop up your tractor under a semi-trailer. The trailer is at the right height when:",
+      "options": [
+        "The trailer will be lifted slightly when the tractor goes back under it.",
+        "Kingpin is about 1 1/4 inches above the fifth wheel.",
+        "The boss's end is even with the top of the fifth wheel."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 6: The trailer should be low enough to be lifted slightly by the tractor when the tractor is resting under it. Raise or lower the trailer as needed.</p>"
+    },
+    {
+      "question": "Your emergency air line breaks or breaks while you're driving. Loss of pressure will cause:",
+      "options": [
+        "Air compressor to discharge instead of pumping air.",
+        "Emergency trailer brakes to turn on.",
+        "Trailer feed valve to open."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong style=\"color: black;\">Section: 6.2.4 – Trailer Air Lines</strong></p><p><span style=\"color: black;\">The loss of air pressure in the emergency line causes the trailer's emergency brakes to kick in. Loss of pressure can be caused by a trailer coming loose, thus tearing the emergency air hose.</span></p>"
+    },
+    {
+      "question": "If the spring brakes are not released when you pushed the trailer's air supply valve, you should:",
+      "options": [
+        "Cross the airlines.",
+        "Check the airline connection.",
+        "Check the electrical cord."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 6.2.5 - Hose Couplers</strong></p><p>If the spring brakes do not release when you push the trailer's air supply control, check the air line connections.</p>"
+    },
+    {
+      "question": "Trailers equipped with air brakes manufactured before 1975:",
+      "options": [
+        "It cannot be legally operated on interstate highways.",
+        "They are not required to have spring brakes.",
+        "Usually need a happy hand converter."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 6.2.8 - Towing Service</strong></p><p>Newer trailers have spring brakes, just like trucks and truck tractors. However, converter dollies and trailers built before 1975 are not required to have spring brakes.</p>"
+    },
+    {
+      "question": "There are two things a driver can do to avoid a rollover: They are: (1) going slowly around corners and (2):",
+      "options": [
+        "Make sure the brakes are properly balanced.",
+        "Keep the load as close to the ground as possible.",
+        "Keep both hands steady on the steering wheel."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 6.1.1 - Rollover Hazards</strong></p><p>&nbsp;The following two things will help prevent rollover: keep the load as close to the ground as possible and drive slowly around corners.</p>"
+    },
+    {
+      "question": "After turning on the overhead lines, but before supporting under the trailer, you should:",
+      "options": [
+        "Supply air to the trailer system, then pull the air feed knob.",
+        "Make sure the trailer brakes are off.",
+        "Walk around the platform to make sure it is clear."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 8: Supply air to the trailer: From the cab, push the \"air feed\" button or move the tractor's skid valve control from the \"emergency\" position to the \"normal\" position to supply air to the trailer's brake system</p>"
+    },
+    {
+      "question": " Which part of the boss should clench the jaw?",
+      "options": [
+        "The shank.",
+        "Cinnamon.",
+        "The head."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 13 (Inspect coupling): Go under the trailer and look at the rear of the fifth wheel. Make sure that the jaws of the fifth wheel have closed around the boss's rod.</p>"
+    },
+    {
+      "question": " How much space should be allowed between the upper and lower fifth wheel after hitching?",
+      "options": [
+        "None.",
+        "Just enough to sit on.",
+        "The head1/4 pulley."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 13: Inspect the Coupling - Make sure there is no gap between the upper and lower fifth wheel. If there's room, something's wrong (the boss could be on top of the closed jaws of the fifth wheel, and the trailer would come loose too easily).</p>"
+    },
+    {
+      "question": "You pushed the trailer's air feed valve. You should not support a tractor under a trailer until the entire air system is:",
+      "options": [
+        "Entre 60 and 80 psi.",
+        "Empty.",
+        "At normal pressure."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 8: Supply air to the trailer - Wait until the air pressure is normal.&nbsp;semi-trailer; You've connected the airlines. Before supporting under the trailer, you should:</p>"
+    },
+    {
+      "question": " semi-trailer; You've connected the airlines. Before supporting under the trailer, you should:",
+      "options": [
+        "Pull forward to test the happy hands connection.",
+        "Supply air to the trailer system, then pull the air feed knob.",
+        "Supply air to the trailer system, then pull the air feed knob."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 9: Lock the trailer brakes – Pull the \"air feed\" button or move the tractor's skid valve control from \"normal\" to \"emergency\".</p>"
+    },
+    {
+      "question": "semi-trailer and have backup, but are not under it. What should you connect before backing up?",
+      "options": [
+        "Nothing. Back up and lock the fifth wheel.",
+        "Emergency and service airlines.",
+        "The electrical service cord.  "
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling</strong></p><p>You're hitching a tractor to a semi-trailer and you've backed it up, but you're not underneath it. What should you connect before backing up?</p>"
+    },
+    {
+      "question": "Towing requires the least amount of stopping distance.",
+      "options": [
+        "Empty",
+        "Fully Charged",
+        "Partially Charged "
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 6.1.3 - Early Brake</strong></p><p>Control your fully loaded or empty speed. Large combined vehicles take longer to stop when they are empty than when they are fully loaded.</p>"
+    },
+    {
+      "question": " After attaching the trailer, you must raise the landing gear using:",
+      "options": [
+        "High gear.",
+        "Low gear.",
+        "Idler gear."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 15: Raise the Front Trailer Mounts – Use the low travel range (if so equipped) to begin raising the landing gear. Once weight-free, switch to the high-gear range.</p>"
+    },
+    {
+      "question": "You supply air to the trailer tanks by:",
+      "options": [
+        "Pushing the trailer air supply valve.",
+        "Connecting the service line happy hands.",
+        "Pulling the air supply valve from the trailer."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 6.2.3 – Trailer Air Supply Control</strong></p><p>The trailer air supply control on newer vehicles is an eight-sided red button, which you use to control the tractor's protection valve. You push it to fill the trailer with air and pull it out to turn off the air and put on the trailer's emergency brakes.</p>"
+    },
+    {
+      "question": "There are two things a driver can do to prevent a rollover. They are: (1) taking slow turns and (2):",
+      "options": [
+        "Keep the free play of the fifth wheel as small as possible.",
+        "Make sure the brakes are properly balanced.",
+        "Keep the load as close to the ground as possible."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 6.1.1 - Rollover Hazards</strong></p><p>The following two things will help prevent rollover: keep the load as close to the ground as possible and drive slowly around corners.</p>"
+    },
+    {
+      "question": " Why Should You Make Sure The Fifth Wheel Plate Is Greased As Needed?",
+      "options": [
+        "To ensure a good electrical connection.",
+        "To reduce heat and noise.",
+        "To avoid steering problems."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Tractor-Semi-Trailer Coupling</strong></p><p>Step 1: Inspecting the Fifth Wheel – Make sure the fifth wheel plate is greased as needed. Failure to keep the fifth wheel plate lubricated can cause steering problems because of friction between the tractor and the trailer.</p>"
+    },
+    {
+      "question": " Your emergency air line breaks or breaks while you're driving. Loss of pressure will cause:",
+      "options": [
+        "Air from the tractor to dump into the trailer tank through the service line.",
+        "Emergency trailer brakes to turn on.",
+        "Air compressor to discharge instead of pumping air."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 6.5.2 - Combined Vehicle Brake Check</strong></p><p>If the tractor's protection valve does not work properly, a leak in the trailer's air hose or brake can drain all the air from the tractor. This would cause the emergency brakes to be applied, with possible loss of control.</p>"
+    },
+    {
+      "question": "When connecting the merry hands, press the two seals with the couplers together to what degree of each other?",
+      "options": [
+        "90 degrees.",
+        "180 degrees.",
+        "45 degrees."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.2.5 - Hose Couplers</strong></p><p>When connecting the merry hands, press the two seals together with the couplers at a 90-degree angle from each other.</p>"
+    },
+    {
+      "question": " Which of these statements is true?",
+      "options": [
+        "Light vehicles need more braking power to stop than heavy vehicles.",
+        "Combined vehicle braking and suspension systems work best with a light load.",
+        "Bobtail tractors can take longer to stop than a combined vehicle loaded to maximum gross weight."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 6.1.3 - Early Brake</strong></p><p>Tests have shown that bobtails can be very difficult to stop without any problems. They take longer to stop than a semi-trailer loaded to maximum gross weight.</p>"
+    },
+    {
+      "question": "Why should you attach the tractor hand-in-hand to each other (or dummy couplers) when you're not towing a trailer?",
+      "options": [
+        "The connected brake circuit becomes a backup air tank.",
+        "It will keep dirt or water out of the lines.",
+        "Bobtail tractors can take longer to stop than a combined vehicle loaded to maximum gross weight."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 6.2.5 - Hose Couplers</strong></p><p>Some vehicles have \"dead-end\" or dummy couplers to which hoses can be attached when not in use. This will prevent water and dirt from entering the coupler and air lines. Use the dummy couplers when air lines are not connected to a trailer. If there are no dummy couplers, merry hands can sometimes be locked together (depending on the couplings). It is very important to keep the air supply clean.</p>"
+    },
+    {
+      "question": "When supporting a tractor under a trailer, you must:",
+      "options": [
+        "Always use the lowest reverse gear.",
+        "Always approach the trailer at a slight angle.",
+        "Do this quickly to make sure the boss is stuck on the fifth wheel."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 10: Back to trailer - Use lower reverse gear.</p>"
+    },
+    {
+      "question": "After the trailer has been attached to the tractor, the tractor protection control valve should be placed in what position?",
+      "options": [
+        "Down Position",
+        "Ascending position",
+        "Normal Position"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 8: Supply Air to the Trailer – From the cab, push the \"air feed\" button or move the tractor's skid valve control from the \"emergency\" position to the \"normal\" position to supply air to the trailer's brake system.</p>"
+    },
+    {
+      "question": "The fifth wheel locking lever does not lock after the jaws close around the pin. This means that:",
+      "options": [
+        "The trailer will not rotate on the fifth wheel.",
+        "The parking lock is off and you can walk away.",
+        "The coupling is not correct and must be secured before actuating the coupled unit."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 13: Inspect the Coupling – If the coupling is not correct, do not drive the coupled unit; fix it.</p>"
+    },
+    {
+      "question": " Out of tracking or cheating causes which one to take the widest path when making a turn?",
+      "options": [
+        "Tractor towing a 45-foot trailer.",
+        "Tractor with two 27-foot trailers.",
+        "Bobtail of 53 feet."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 6.1.6 - Turn Wide</strong></p><p>When a vehicle turns around a curve, the rear wheels follow a different path than the front wheels. This is called offtracking or \"cheating.\" Longer vehicles will go off the track more. The rear wheels of the power unit (truck or tractor) will come off a bit, and the rear wheels of the trailer will come off even more. If there is more than one trailer, the rear wheels of the last trailer will go further off the track.</p>"
+    },
+    {
+      "question": " The iron trailer brackets are upwards and the trailer is supported on the tractor. Make sure:",
+      "options": [
+        "There is enough clearance between the upper and lower fifth wheels.",
+        "The safety lock is in the unlocked position.",
+        "There is enough clearance between the tractor frame and the landing gear."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling</strong></p><p>Tractor-semi-trailers</p><p>Step 15: Lift the Front Trailer Mounts – Make sure there is enough space between the rear of the tractor frame and the landing gear. (When the tractor turns sharply, it should not hit the landing gear.)</p>"
+    },
+    {
+      "question": "When uncoupling a loaded trailer, you should lower the landing gear until:",
+      "options": [
+        "Make firm contact with the ground, turn crank in low gear a few extra turns.",
+        "Make contact with the ground and leave the trailer off the fifth wheel.",
+        "It hits the ground."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.4.2 - Tractor DecouplingSemi-trailers</strong></p><p>Step 4: Lower the Landing Gear – If the trailer is loaded, after the landing gear makes firm contact with the ground, turn the crank in low gear a few extra turns. This will take some weight off the tractor.</p>"
+    },
+    {
+      "question": "What happens if overhead lines are crossed when you connect to an old trailer?",
+      "options": [
+        "The hand valve will apply the tractor brakes instead of the trailer brakes.",
+        "The brake lights come on when the brake pedal is pressed.",
+        "If the trailer doesn't have spring brakes, you can walk away, but you won't have trailer brakes."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 6.2.5 - Hose Couplers</strong></p><p>Older trailers do not have spring brakes. If the air supply to the trailer's air tank has leaked, there will be no emergency brakes, and the trailer wheels will rotate freely.</p>"
+    },
+    {
+      "question": " To stop a towing skid you must:",
+      "options": [
+        "Use the trailer's handbrakes.",
+        "Counter-direction.",
+        "Release the brakes."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 6.1.5 - Prevent Towing Skids</strong></p><p>Stop using the brake: Release the brakes to regain traction. Do not use the trailer handbrake (if you have one) to \"straighten the platform\". That's the wrong thing to do, since the brakes on the trailer's wheels caused the skid in the first place.</p>"
+    },
+    {
+      "question": "The air lines in a combination vehicle are often colored to prevent them from mixing. The emergency line is the service line is",
+      "options": [
+        "Red, Blue",
+        "Blue, Red",
+        "Black, Yellow"
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.2.4 – Trailer Air Lines</strong></p><p>Emergency lines are often coded in red color (red hose, red couplers, or other parts) to prevent them from being confused with the blue service line.</p>"
+    },
+    {
+      "question": "Semi-trailers manufactured before 1975 fitted with air brakes:",
+      "options": [
+        "Have only one service airline.",
+        "It often doesn't have spring brakes.",
+        "Usually need a happy hand converter."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 6.2.8 - Towing Service, Parking and Emergency Brakes</strong></p><p>Newer trailers have spring brakes, just like trucks and truck tractors. However, converter dollies and trailers built before 1975 are not required to have spring brakes. Those that don't have spring brakes have emergency brakes, which work from the air stored in the trailer's air tank.</p>"
+    },
+    {
+      "question": "The air leakage rate for a combined vehicle (engine off, brakes on) should not exceed psi per minute.",
+      "options": [
+        "4",
+        "2",
+        "3"
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 5.3.3 - Step 7 Final Air Brake Check: Leak Test Applied</strong></p><p>The maximum allowable air loss rate for your vehicle: 4 psi for a combination of 2 vehicles.</p>"
+    },
+    {
+      "question": " Compared to a straight truck or bus, there are things to inspect in combination vehicles.",
+      "options": [
+        "More",
+        "Less",
+        "Same number"
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.5 - Inspecting a Combined Vehicle</strong></p><p>Use the seven-step inspection procedure described in section 2 to inspect your combined vehicle. There are more things to inspect in a combined vehicle than in a single vehicle.</p>"
+    },
+    {
+      "question": "When checking the trailer's emergency brakes, in which position should the tractor protection control valve be placed?",
+      "options": [
+        "Normal",
+        "Emergency",
+        "Neutral"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 6.5.2 - Combined Vehicle Brake Check</strong></p><p>Load the trailer's air brake system and check if the trailer rolls freely. Next, stop and pull the trailer's air supply control (also called tractor skid valve control or trailer emergency valve), or put it in the \"emergency\" position. Gently pull the trailer with the tractor to check that the trailer's emergency brakes are on.</p>"
+    },
+    {
+      "question": "In normal driving, some drivers use the hand valve before the brake pedal to avoid a pocket knife. Which of the statements is true?",
+      "options": [
+        "This should not be done.",
+        "This results in less slippage than using the brake pedal alone.",
+        "It's the best way to brake and keep the truck straight."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.2.1 – Trailer Hand Valve</strong></p><p>The trailer hand valve should only be used to test the trailer brakes. Do not use it while driving due to the danger of causing the trailer to skid.</p>"
+    },
+    {
+      "question": "When checking that the trailer is securely attached to the tractor, the landing gears should be:",
+      "options": [
+        "Fully recessed.",
+        "Slightly elevated.",
+        "Fully lifted."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 11: Check the Connection for Safety – Lift the trailer landing gear slightly off the ground</p>"
+    },
+    {
+      "question": "The air and electrical lines from the tractor to the trailer should be:",
+      "options": [
+        "Safe, but looping enough to rotate.",
+        "Totally tight, but pulled away a bit in a loop.",
+        "Supported on the tractor frame."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.5.1 - Additional things to check during the tour</strong></p><p>Check the air and electrical lines for towing: Electrical cable firmly connected and secured.</p>"
+    },
+    {
+      "question": "You have a big leak in the service line and you slam on the brakes. Service air will escape and cause:",
+      "options": [
+        "Emergency trailer brakes to turn on.",
+        "Tractor spring brakes for braking.",
+        "Loss of pressure from the trailer tank."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.2.8 - Towing Service, Parking and Emergency Brakes</strong></p><p>You may not notice a major leak in the service line until you try to put on the brakes. Then, the air loss from the leak will decrease the pressure of the air tank quickly. If it gets low enough, the trailer's emergency brakes will turn on.</p>"
+    },
+    {
+      "question": "A tractor with a trailer requires the greatest amount of stopping distance.",
+      "options": [
+        "Lightly loaded",
+        "Fully Charged",
+        "Empty"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 6.1.3 - Early Brake</strong></p><p>Control your fully loaded or empty speed. Large combined vehicles take longer to stop when they are empty than when they are fully loaded.</p>"
+    },
+    {
+      "question": "When you prepare to go back under a semi-trailer, you should line up:",
+      "options": [
+        "The kingpin to engage the driver's side-locking jaw first.",
+        "The left rear double wheel with the head pin.",
+        "Directly in front of the trailer."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 3: Place the tractor directly in front of the trailer. (Never go back under the trailer at an angle because you can push the trailer sideways and break the landing gear.)</p>"
+    },
+    {
+      "question": " You should not support a tractor under a trailer until the air system is:",
+      "options": [
+        "At normal pressure.",
+        "Entre 60 and 80 psi.",
+        "Empty."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 8: Supply air to the trailer - Wait until the air pressure is normal.</p>"
+    },
+    {
+      "question": " After locking the head on the fifth wheel, you should check the connection by:",
+      "options": [
+        "Pull the tractor forward gently with the trailer brakes locked.",
+        "Pulling forward 50 feet, turning right and then left.",
+        "Backing up with trailer brakes released."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 11: Check the Connection for Safety – Gently pull the tractor forward while the trailer brakes are still locked to verify that the trailer is attached to the tractor</p>"
+    },
+    {
+      "question": "When to use the manual valve to park a combination vehicle?",
+      "options": [
+        "Never.",
+        "To park on a note.",
+        "To park at the loading docks."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.2.1 – Trailer Hand Valve</strong></p><p>Never use the hand valve for parking, as all the air can leak out, unlocking the brakes (on trailers that don't have spring brakes).</p><p>Always use the parking brakes when parking.</p>"
+    },
+    {
+      "question": "Have you coupled with a semi-trailer, where should you put the iron trailer brackets before you leave?",
+      "options": [
+        "Raised 1/2 way with the crank attached to its bracket.",
+        "3 Shuts off the top with the crank attached to its mount.",
+        "Fully raised with the crank handle attached to its holder."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Tractor-Semi-Trailer Coupling</strong></p><p>Step 15: Lift the Front Trailer Mounts – Lift the landing gear to the top. (Never drive with landing gear only partially up, it can catch on train tracks or other things.) After lifting the landing gear, secure the crank securely.</p>"
+    },
+    {
+      "question": " The safety lock of the fifth wheel locking lever must be engaged to be complete. for a",
+      "options": [
+        "Over  the Locking Lever",
+        "Under the locking lever",
+        "Straight"
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 13: Inspect the Coupling – Check that the safety lock is positioned over the locking lever. (On some fifth wheels, the catch must be placed by hand.)</p>"
+    },
+    {
+      "question": "After supplying air to the trailer, make sure that the air lines are not crossed and the trailer brakes are working. This is done by:",
+      "options": [
+        "Apply and release the brakes on the trailer and listen for the sound of the brake.",
+        "Under the locking lever",
+        "Lifting the brake pedal."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 8: Supply Air to the Trailer - Check the brake system for crossed air lines: Apply and release the trailer brakes and listen for the sound of the trailer brakes being applied and released. You should hear the brakes move when applied and air escape when the brakes are released.</p>"
+    },
+    {
+      "question": "Before you get back under a trailer, make sure that:",
+      "options": [
+        "The tractor protection valve is normal.",
+        "The air feed button is inside.",
+        "The trailer brakes are locked."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 9: Lock the trailer brakes – Pull the \"air feed\" button or move the tractor's skid valve control from \"normal\" to \"emergency\".</p>"
+    },
+    {
+      "question": " How to test the tractor-semitrailer connection for safety?",
+      "options": [
+        "Rocking the trailer back and forth with the trailer brakes locked.",
+        "Gently pull forward in low gear against the brakes of the locked trailer and look at it carefully.",
+        "Look closely."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 11: Check the Connection for Safety – Pull the tractor gently forward while the trailer brakes are still locked to check if the trailer is attached to the tractor.</p>"
+    },
+    {
+      "question": "The front trailer supports are upwards and the trailer is resting on the tractor. Make sure:",
+      "options": [
+        "There is enough clearance between the tractor frame and the landing gear.",
+        "There is enough space between the top of the tractor tires and the nose of the trailer.",
+        "Both options are correct."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 15: Lift the Front Trailer Mounts – (1) Check that there is sufficient clearance between the rear of the tractor frame and the landing gear. (When the tractor turns sharply, it should not hit the landing gear.) (2): Check that there is enough clearance between the top of the tractor tires and the nose of the trailer</p>"
+    },
+    {
+      "question": " To unlock the fifth wheel, the locking lever must be set into position.",
+      "options": [
+        "Open",
+        "Neutral",
+        "Closed"
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.4.2 - Decoupling Tractor-semi-trailers</strong></p><p>Step 6: Unlock the Fifth Wheel - Pull the release handle to the \"open\" position.</p>"
+    },
+    {
+      "question": "The tractor's protection valve will close and the trailer's emergency brakes will apply when there is a large leak in the brake line.",
+      "options": [
+        "Parking lot",
+        "Service",
+        "Emergency"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 6.2.2 – Tractor Protection Valve</strong></p><p>When the tractor's protection valve closes, it prevents any air from leaving the tractor. It also lets air out of the trailer's emergency line. This causes the trailer's emergency brakes to kick in, with possible loss of control.</p>"
+    },
+    {
+      "question": "In hitching, the proper position of the fifth wheel is:",
+      "options": [
+        "Tilted up at the end of the trailer.",
+        "Tilted down towards the end of the trailer.",
+        "Ground level."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 6.4.1 - Coupling Tractor-semi-trailers</strong></p><p>Step 1: Inspect the fifth wheel - Check that the fifth wheel is in a proper position for coupling: The wheel is tilted downward towards the rear of the tractor.</p>"
+    },
+    {
+      "question": "What gear should the tractor engine be in after you uncouple the trailer and are inspecting the trailer mounts?",
+      "options": [
+        "Neutral.",
+        "Loud reverse.",
+        "Low reverse."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.4.2 - Tractor-semi-trailer uncoupling</strong></p><p>Step 8: Tractor Safe – Set the transmission to Neutral.</p>"
+    },
+    {
+      "question": " When uncoupling the trailer, after disconnecting the air supply to the trailer and locking the trailer brakes, you should:",
+      "options": [
+        "Put on the tractor parking brakes.",
+        "Lower trailer landing gear.",
+        "Gently back up to relieve pressure on the fifth wheel."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 6.4.2 - Decoupling Tractor-semi-trailers</strong></p><p>Step 2: Relieve Pressure on the Locking Jaws - Relieve pressure on the locking jaws of the fifth wheel by backing up gently. (This will help you release the fifth wheel locking lever.)</p>"
+    },
+    {
+      "question": "You are driving a combined vehicle when the trailer breaks apart, separating the two airlines. You wait for the trailer brakes to kick in and:",
+      "options": [
+        "The tractor protection valve to close.",
+        "The trailer feed valve to stay open.",
+        "The tractor to lose air pressure."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 6.2.4 – Trailer Air Lines</strong></p><p>Loss of pressure can be caused by a trailer coming loose, thus tearing the emergency air hose. Or it could be caused by a hose, metal pipe, or other part breaking, letting air out. When the emergency line loses pressure, it also causes the tractor's protection valve to close (the air supply button will come off).</p>"
+    }
+  ],
+  "pt":[
+    {
+          "question": "Onde o trator deve estar quando você inspeciona o trem de pouso depois de desengatar o reboque?",
+          "options": [
+            "Completamente limpo do trailer.",
+            "Com a estrutura do trator sob o reboque.",
+            "Com a quinta roda logo abaixo do chefe."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 6.4.2 - Desacoplamento trator-semirreboque</forte></p><p>Passo 7: Pare com a estrutura do trator sob o reboque (evita que o reboque caia no chão se o trem de pouso desabar ou afundar).</p>"
+    },
+    {
+        "question": "Ao dirigir atrás de outro veículo, em boas condições, você deve permitir pelo menos um segundo entre seu veículo e o veículo à frente para cada metro de comprimento do veículo.",
+          "options": [
+            "30",
+            "20",
+            "10"
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><estilo forte=\"cor: preto;\">Seção: 6.1.2 - Condução suave</forte></p><p><span style=\"cor: preto;\">Vá longe o suficiente atrás de outros veículos (pelo menos 1 segundo para cada 10 pés do comprimento do seu veículo, mais um segundo se você exceder 40 mph).</span></p>"
+    },
+    {
+          "question": " Há duas coisas que um motorista pode fazer para evitar um capotamento. São eles: (1) manter a carga o mais próxima possível do solo e (2):",
+          "options": [
+            "Vá devagar nos cantos.",
+            "Certifique-se de que os freios estejam devidamente ajustados.",
+            "Mantenha as duas mãos firmes na roda de streering."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><estilo forte=\"cor: preto;\">Seção: 6.1.1 - Riscos de capotamento</strong></p><p><span style=\"cor: preto;\">As duas coisas a seguir ajudarão a evitar o capotamento: manter a carga o mais próximo possível do solo e dirigir lentamente nas curvas.</span></p>"
+    },
+    {
+          "question": "A taxa de fuga de ar para um veículo combinado (motor desligado, travões desligados) não deve exceder psi - - por minuto.",
+          "options": [
+            "2",
+            "3",
+            "1/2"
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><estilo forte=\"cor: preto;\">Seção: 5.3.3 - Etapa 7 Verificação final do freio pneumático: Teste de vazamento estático</strong></p><p><span style=\"cor: preto;\">A pressão do ar não deve cair mais do que: 3 psi para uma combinação de dois veículos.</span></p>"
+    },
+    {
+          "question": "Se você não conseguir completar sua curva sem entrar em outra faixa de tráfego, você deve:",
+          "options": [
+            "Vire bem antes de começar a curva.",
+            "Vire largo ao completar a curva.",
+            "Não faça uma curva e se desloque para outro local onde possa fazer uma curva sem atravessar outra faixa."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><estilo forte=\"cor: preto;\">Seção: 6.1.6 - Vire Wide</strong></p><p><span style=\"cor: preto;\">Se você não conseguir completar sua curva sem entrar em outra faixa de tráfego, vire largo ao completar a curva. Isso é melhor do que balançar para a esquerda antes de iniciar a curva, porque evitará que outros pilotos passem por você à direita.</span></p>"
+    },
+    {
+          "question": "Quanto maior o centro de gravidade do seu caminhão, o:",
+          "options": [
+            "Mais estável ao girar.",
+            "Mais fácil virar a esquina.",
+            "Mais fácil de entregar."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><estilo forte=\"cor: preto;\">Seção: 6.1.1 - Riscos de capotamento</strong></p><p><span style=\"cor: preto;\">Quando mais carga é empilhada em um caminhão, o \"centro de gravidade\" se move mais alto fora da estrada. O caminhão fica mais fácil de girar.</span></p>"
+    },
+    {
+          "question": "Se a linha de serviço vem uma peça enquanto você está dirigindo um veículo combinado, mas a linha de emergência permanece ligada, o que acontece imediatamente?",
+          "options": [
+            "Será aplicado o freio emergencial da carreta.",
+            "Os freios do reboque vão ligar.",
+            "Nada vai acontecer até que você tente frear."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><estilo forte=\"cor: preto;\">Seção: 6.2.8 - Serviço de reboque, estacionamento e freios de emergência</strong></p><p><span style=\"cor: preto;\">Você pode não notar um grande vazamento na linha de serviço até tentar pisar no freio. Então, a perda de ar do vazamento diminuirá a pressão do tanque de ar rapidamente. Se ficar baixo o suficiente, os freios de emergência do reboque serão ligados.</span></p>"
+    },
+    {
+          "question": "Mãos felizes geralmente estão se conectando, qual dessas?",
+          "options": [
+            "Do reboque às mandíbulas de travamento da quinta roda.",
+            "Linhas de energia do trator ao reboque.",
+            "Serviço de veículos e linhas aéreas de emergência para reboque."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><estilo forte=\"cor: preto;\">Seção: 6.2.5 - Acopladores de mangueira (Glad Hands)</strong></p><p><span style=\"cor: preto;\">Mãos alegres são dispositivos de acoplamento usados para conectar o serviço aéreo e as linhas de emergência do caminhão ou trator ao reboque. Os acopladores possuem vedação de borracha, que impede a saída de ar.</vão></p>"
+    },
+    {
+          "question": "Um motorista atravessa linhas aéreas ao se conectar a um reboque antigo. O que vai acontecer?",
+          "options": [
+            "A válvula de mão aplicará os freios do trator em vez dos freios do reboque.",
+            "As luzes de freio acendem quando o pedal do freio é pressionado.",
+            "Se o reboque não tiver freios de mola, você pode ir embora, mas não terá freios de reboque."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><estilo forte=\"cor: preto;\">Seção: 6.2.5 - Acopladores de mangueira (Glad Hands)</strong></p><p><span style=\"cor: preto;\">Se você cruzasse as linhas aéreas, poderia ir embora, mas não teria freios de reboque. Isso seria muito perigoso.</span></p>"
+    },
+    {
+          "question": "A válvula de mão deve ser usada:",
+          "options": [
+            "Para testar os freios do reboque.",
+            "Como um freio de estacionamento.",
+            "Só com freio de pé."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><estilo forte=\"cor: preto;\">Seção: 6.2.1 – Válvula de Mão do Reboque</strong></p><p><span style=\"cor: preto;\">A válvula de mão do reboque (também chamada de válvula do carrinho ou barra Johnson) trabalha os freios do reboque.</span></p>"
+    },
+    {
+          "question": "Ao conduzir um conjunto de duplos, é necessário fechar a válvula de fecho do último reboque:",
+          "options": [
+            "Válvula traseira.",
+            "Válvula de seção média.",
+            "Valvula frontal."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><estilo forte=\"cor: preto;\">Seção: 6.2.7 - Válvulas de Fechamento</strong></p><p><span style=\"cor: preto;\">As válvulas de fechamento (também chamadas de torneiras de fechamento) são usadas no serviço e abastecem as linhas de ar na parte traseira dos reboques usados para rebocar outros reboques. Essas válvulas permitem que você feche as linhas de ar quando outro reboque não está sendo rebocado. Você deve verificar se todas as válvulas de fechamento estão na posição aberta, exceto as da parte traseira do último reboque, que devem estar fechadas.</span></p>"
+    },
+    {
+          "question": "Você está prestes a sustentar seu trator sob um semirreboque. O reboque está na altura certa quando:",
+          "options": [
+            "O reboque será levantado ligeiramente quando o trator voltar para debaixo dele.",
+            "Kingpin está cerca de 1 1/4 polegadas acima da quinta roda.",
+            "O fim do patrão é mesmo com o topo da quinta roda."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 6: O reboque deve ser baixo o suficiente para ser levantado ligeiramente pelo trator quando o trator estiver descansando sob ele. Levante ou abaixe o reboque conforme necessário.</p>"
+    },
+    {
+          "question": "Sua linha aérea de emergência quebra ou quebra enquanto você está dirigindo. A perda de pressão causará:",
+          "options": [
+            "Compressor de ar para descarregar em vez de bombear ar.",
+            "Freios de reboque de emergência para ligar.",
+            "Válvula de alimentação do reboque para abrir."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><estilo forte=\"cor: preto;\">Seção: 6.2.4 – Linhas de ar de reboque</strong></p><p><span style=\"cor: preto;\">A perda de pressão do ar na linha de emergência faz com que os freios de emergência do reboque entrem em ação. A perda de pressão pode ser causada por um reboque se soltando, rasgando assim a mangueira de ar de emergência.</span></p>"
+    },
+    {
+          "question": "Se os travões de mola não forem libertados quando empurrou a válvula de alimentação de ar do reboque, deverá:",
+          "options": [
+            "Atravesse as companhias aéreas.",
+            "Verifique a conexão da companhia aérea.",
+            "Verifique o cabo elétrico."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 6.2.5 - Acopladores de mangueira</strong></p><p>Se os freios de mola não soltarem quando você empurrar o controle de alimentação de ar do reboque, verifique as conexões da linha de ar.</p>"
+    },
+    {
+          "question": "Reboques equipados com travões pneumáticos fabricados antes de 1975:",
+          "options": [
+            "Não pode ser operado legalmente em rodovias interestaduais.",
+            "Eles não são obrigados a ter freios de mola.",
+            "Geralmente precisa de um conversor de mão feliz."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 6.2.8 - Serviço de reboque</strong></p><p>Os reboques mais novos têm freios de mola, assim como caminhões e tratores de caminhão. No entanto, os dollies conversores e reboques construídos antes de 1975 não são obrigados a ter freios de mola.</p>"
+    },
+    {
+          "question": "Há duas coisas que um piloto pode fazer para evitar um capotamento: são: (1) dar a volta lenta nas curvas e (2):",
+          "options": [
+            "Certifique-se de que os freios estejam devidamente balanceados.",
+            "Mantenha a carga o mais próximo possível do solo.",
+            "Mantenha as duas mãos firmes no volante."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 6.1.1 - Riscos de capotamento</strong></p><p>&nbsp; As duas coisas a seguir ajudarão a evitar o capotamento: manter a carga o mais próximo possível do solo e dirigir lentamente nas curvas.</p>"
+    },
+    {
+          "question": "Depois de ligar as linhas aéreas, mas antes de apoiar sob o reboque, você deve:",
+          "options": [
+            "Forneça ar para o sistema do reboque e, em seguida, puxe o botão de alimentação de ar.",
+            "Certifique-se de que os freios do reboque estão desligados.",
+            "Caminhe pela plataforma para ter certeza de que está claro."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 8: Fornecer ar para o reboque: Da cabine, pressione o  botão \"alimentação de ar\" ou mova o controle da válvula de derrapagem do trator da  posição \"emergência\" para a  posição \"normal\" para fornecer ar ao sistema de freio do reboque</p>"
+    },
+    {
+          "question": "Qual parte do chefe deve apertar a mandíbula?",
+          "options": [
+            "A perninha",
+            "Canela",
+            "A cabeça."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 13 (Inspecionar engate): Passe por baixo do reboque e olhe para a parte traseira da quinta roda. Certifique-se de que as mandíbulas da quinta roda se fecharam em torno da haste do chefe.</p>"
+    },
+    {
+          "question": "Quanto espaço deve ser permitido entre a quinta roda superior e inferior depois de engate?",
+          "options": [
+            "Nenhuma.",
+            "Só o suficiente para sentar.",
+            "A polia head1/4."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 13: Inspecione o Engate - Certifique-se de que não há espaço entre a quinta roda superior e inferior. Se houver espaço, algo está errado (o chefe poderia estar em cima das mandíbulas fechadas da quinta roda, e o trailer se soltaria com muita facilidade).</p>"
+    },
+    {
+        "question":"Você empurrou a válvula de alimentação de ar do reboque. Não deve apoiar um tractor debaixo de um reboque até que todo o sistema de ar seja:",
+          "options": [
+            "Entre 60 e 80 psi.",
+            "Vazio.",
+            "Com pressão normal."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 8: Fornecer ar para o reboque - Aguarde até que a pressão do ar esteja normal.&nbsp; semirreboque; Você conectou as companhias aéreas. Antes de apoiar sob o reboque, você deve:</p>"
+    },
+    {
+          "question": " semirreboque; Você conectou as companhias aéreas. Antes de apoiar sob o reboque, você deve:",
+          "options": [
+            "Puxe para frente para testar a conexão mãos felizes.",
+            "Forneça ar para o sistema do reboque e, em seguida, puxe o botão de alimentação de ar.",
+            "Forneça ar para o sistema do reboque e, em seguida, puxe o botão de alimentação de ar."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 9: Trave os freios do reboque – Puxe o  botão \"alimentação de ar\" ou mova o controle da válvula de derrapagem do trator de \"normal\" para \"emergência\".</p>"
+    },
+    {
+          "question": "semirreboque e tem backup, mas não estão sob ele. O que você deve conectar antes de fazer backup?",
+          "options": [
+            "Nada. Volte e trave a quinta roda.",
+            "Companhias aéreas de emergência e de serviço.",
+            "O cabo de serviço elétrico.  "
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento</forte></p><p>Você está amarrando um trator em um semirreboque e o apoiou, mas não está embaixo dele. O que você deve conectar antes de fazer backup?</p>"
+    },
+    {
+          "question": "O reboque requer a menor quantidade de distância de parada.",
+          "options": [
+            "Vazio",
+            "Totalmente carregado",
+            "Parcialmente cobrado"
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 6.1.3 - Freio Antecipado</strong></p><p>Controle sua velocidade totalmente carregada ou vazia. Os grandes veículos combinados demoram mais tempo a parar quando estão vazios do que quando estão totalmente carregados.</p>"
+    },
+    {
+          "question": " Depois de acoplar o reboque, você deve levantar o trem de pouso usando:",
+          "options": [
+            "Alta velocidade.",
+            "Velocidade baixa.",
+            "Engrenagem ociosa."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 15: Levante os suportes do reboque dianteiro – Use o alcance de curso baixo (se assim equipado) para começar a elevar o trem de pouso. Uma vez sem peso, mude para a faixa de alta engrenagem.</p>"
+    },
+    {
+          "question": "Você fornece ar para os tanques de reboque por:",
+          "options": [
+            "Empurrando a válvula de alimentação de ar do reboque.",
+            "Conectando a linha de serviço mãos felizes.",
+            "Puxando a válvula de alimentação de ar do reboque."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Seção: 6.2.3 – Controle de Alimentação de Ar de Reboque</strong></p><p>O controle de alimentação de ar de reboque em veículos mais novos é um botão vermelho de oito lados, que você usa para controlar a válvula de proteção do trator. Você o empurra para encher o reboque de ar e o puxa para fora para desligar o ar e colocar os freios de emergência do reboque.</p>"
+    },
+    {
+        "question": "Há duas coisas que um motorista pode fazer para evitar um capotamento. São eles: (1) dar voltas lentas e (2):",
+          "options": [
+            "Mantenha o jogo livre da quinta roda o menor possível.",
+            "Certifique-se de que os freios estejam devidamente balanceados.",
+            "Mantenha a carga o mais próximo possível do solo."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Seção: 6.1.1 - Riscos de capotamento</strong></p><p>As duas coisas a seguir ajudarão a evitar o capotamento: manter a carga o mais próximo possível do solo e dirigir lentamente nas curvas.</p>"
+    },
+    {
+          "question": "Por que você deve se certificar de que a placa da quinta roda está untada conforme necessário?",
+          "options": [
+            "Para garantir uma boa conexão elétrica.",
+            "Para reduzir o calor e o ruído.",
+            "Para evitar problemas de direção."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboque</strong></p><p>Passo 1: Inspecionando a quinta roda – Certifique-se de que a placa da quinta roda esteja untada conforme necessário. A falha em manter a placa da quinta roda lubrificada pode causar problemas de direção devido ao atrito entre o trator e o reboque.</p>"
+    },
+    {
+          "question": " Sua linha aérea de emergência quebra ou quebra enquanto você está dirigindo. A perda de pressão causará:",
+          "options": [
+            "Ar do trator para despejar no tanque do reboque através da linha de serviço.",
+            "Freios de reboque de emergência para ligar.",
+            "Compressor de ar para descarregar em vez de bombear ar."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 6.5.2 - Verificação combinada do freio do veículo</strong></p><p>Se a válvula de proteção do trator não funcionar corretamente, um vazamento na mangueira de ar ou no freio do reboque pode drenar todo o ar do trator. Isso faria com que os freios de emergência fossem acionados, com possível perda de controle.</p>"
+    },
+    {
+          "question": "Ao conectar as mãos alegres, pressione os dois selos com os acopladores juntos até que grau um do outro?",
+          "options": [
+            "90 graus.",
+            "180 graus.",
+            "45 graus."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção: 6.2.5 - Acopladores de mangueira</strong></p><p>Ao conectar as mãos alegres, pressione os dois selos junto com os acopladores em um ângulo de 90 graus um do outro.</p>"
+    },
+    {
+          "question": "Qual dessas afirmações é verdadeira?",
+          "options": [
+            "Os veículos leves precisam de mais potência de frenagem para parar do que os veículos pesados.",
+            "Os sistemas combinados de frenagem e suspensão do veículo funcionam melhor com uma carga leve.",
+            "Os tratores Bobtail podem levar mais tempo para parar do que um veículo combinado carregado até o peso bruto máximo."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Seção: 6.1.3 - Early Brake</strong></p><p>Os testes mostraram que os bobtails podem ser muito difíceis de parar sem problemas. Eles levam mais tempo para parar do que um semirreboque carregado até o peso bruto máximo.</p>"
+    },
+    {
+          "question": "Por que você deve prender o trator de mãos dadas um ao outro (ou acopladores fictícios) quando você não está rebocando um reboque?",
+          "options": [
+            "O circuito de freio conectado se torna um tanque de ar reserva.",
+            "Vai manter a sujeira ou a água fora das linhas.",
+            "Os tratores Bobtail podem levar mais tempo para parar do que um veículo combinado carregado até o peso bruto máximo."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 6.2.5 - Acopladores de mangueira</strong></p><p>Alguns veículos possuem acopladores sem saída ou fictícios aos quais as mangueiras podem ser acopladas quando não estão em uso. Isso evitará que água e sujeira entrem no acoplador e nas linhas de ar. Use os acopladores fictícios quando as linhas de ar não estiverem conectadas a um reboque. Se não houver acopladores fictícios, mãos alegres às vezes podem ser travadas juntas (dependendo dos acoplamentos). É muito importante manter o suprimento de ar limpo.</p>"
+    },
+    {
+          "question": "Ao apoiar um tractor debaixo de um reboque, deve:",
+          "options": [
+            "Use sempre a marcha à ré mais baixa.",
+            "Sempre se aproxime do trailer em um leve ângulo.",
+            "Faça isso rapidamente para garantir que o chefe esteja preso na quinta roda."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semi-reboques</strong></p><p>Passo 10: Voltar ao reboque - Use marcha à ré mais baixa.</p>"
+    },
+    {
+          "question": "Depois de o reboque ter sido ligado ao tractor, a válvula de controlo de protecção do tractor deve ser colocada em que posição?",
+          "options": [
+            "Posição para baixo",
+            "Posição ascendente",
+            "Posição normal"
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 8: Fornecer ar ao reboque – Da cabine, pressione o  botão \"alimentação de ar\" ou mova o controle da válvula de derrapagem do trator da  posição \"emergência\" para a  posição \"normal\" para fornecer ar ao sistema de freio do reboque.</p>" 
+    },
+    {
+          "question": "A alavanca de travamento da quinta roda não trava depois que as mandíbulas se fecham ao redor do pino. Isto significa que:",
+          "options": [
+            "O reboque não vai girar na quinta roda.",
+            "O bloqueio do estacionamento está desligado e você pode ir embora.",
+            "O acoplamento não está correto e deve ser fixado antes de acionar a unidade acoplada."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 13: Inspecionar o Acoplamento – Se o acoplamento não estiver correto, não acione a unidade acoplada; corrigi-lo.</p>"
+    },
+    {
+          "question": "Fora de rastreamento ou trapaça faz com que alguém tome o caminho mais largo ao fazer uma curva?",
+          "options": [
+            "Trator rebocando uma carreta de 45 pés.",
+            "Trator com duas carretas de 27 pés.",
+            "Bobtail de 53 pés."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 6.1.6 - Vire Largo</forte></p><p>Quando um veículo vira em uma curva, as rodas traseiras seguem um caminho diferente das rodas dianteiras. Isso é chamado de offtracking ou \"trapaça. Veículos mais longos sairão mais da pista. As rodas traseiras da unidade de potência (caminhão ou trator) sairão um pouco, e as rodas traseiras do reboque sairão ainda mais. Se houver mais de um reboque, as rodas traseiras do último reboque irão mais longe da pista.</p>"
+    },
+    {
+          "question": " Os suportes do reboque de ferro são para cima e o reboque está apoiado no trator. Certifique-se:",
+          "options": [
+            "Há espaço suficiente entre as quintas rodas superior e inferior.",
+            "A trava de segurança está na posição destravada.",
+            "Há folga suficiente entre a estrutura do trator e o trem de pouso."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento</forte></p><p>Semirreboques-tratores</p><p>Passo 15: Levante os suportes do reboque dianteiro – Verifique se há espaço suficiente entre a parte traseira do quadro do trator e o trem de pouso. (Quando o trator gira bruscamente, ele não deve atingir o trem de pouso.) </p>"
+    },
+    {
+          "question": "Ao desengatar um reboque carregado, deve baixar o trem de aterragem até:",
+          "options": [
+            "Faça contato firme com o solo, gire a manivela em marcha baixa algumas voltas extras.",
+            "Faça contato com o solo e deixe o reboque fora da quinta roda.",
+            "Bate no chão."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção: 6.4.2 - Desacoplamento de TratoresSemirreboques</strong></p><p>Passo 4: Abaixe o trem de pouso – Se o reboque estiver carregado, após o trem de pouso fazer contato firme com o solo, gire a manivela em marcha baixa algumas voltas extras. Isso vai tirar um pouco de peso do trator.</p>"
+    },
+    {
+          "question": "O que acontece se as linhas aéreas forem cruzadas quando você se conecta a um trailer antigo?",
+          "options": [
+            "A válvula de mão aplicará os freios do trator em vez dos freios do reboque.",
+            "As luzes de freio acendem quando o pedal do freio é pressionado.",
+            "Se o reboque não tiver freios de mola, você pode ir embora, mas não terá freios de reboque."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Seção: 6.2.5 - Acopladores de mangueira</strong></p><p>Os reboques mais antigos não têm freios de mola. Se o suprimento de ar para o tanque de ar do reboque vazou, não haverá freios de emergência e as rodas do reboque girarão livremente.</p>"
+    },
+    {
+          "question": "Para parar um reboque você deve:",
+          "options": [
+            "Use o freio de mão do reboque.",
+            "Contra-direção",
+            "Solte os freios."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 6.1.5 - Impedir o reboque Skids</strong></p><p>Pare de usar o freio: Solte os freios para recuperar a tração. Não use o freio de mão do reboque (se você tiver um) para \"endireitar a plataforma\". Isso é a coisa errada a fazer, já que os freios nas rodas do reboque causaram a derrapagem em primeiro lugar.</p>"
+    },
+    {
+          "question": "As linhas de ar em um veículo combinado são muitas vezes coloridas para evitar que se misturem. A linha de emergência é a linha de serviço é",
+          "options": [
+            "Vermelho, Azul",
+            "Azul, Vermelho",
+            "Preto, Amarelo"
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção: 6.2.4 – Linhas de ar de reboque</strong></p><p>As linhas de emergência são frequentemente codificadas na cor vermelha (mangueira vermelha, acopladores vermelhos ou outras peças) para evitar que sejam confundidas com a linha de serviço azul.</p>"
+    },
+    {
+          "question": "Semirreboques fabricados antes de 1975 equipados com travões pneumáticos:",
+          "options": [
+            "Tenha apenas uma companhia aérea de serviço.",
+            "Muitas vezes não tem freios de mola.",
+            "Geralmente precisa de um conversor de mão feliz."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 6.2.8 - Serviço de reboque, estacionamento e freios de emergência</strong></p><p>Os reboques mais novos têm freios de mola, assim como caminhões e tratores de caminhão. No entanto, os dollies conversores e reboques construídos antes de 1975 não são obrigados a ter freios de mola. Aqueles que não têm freios de mola têm freios de emergência, que funcionam a partir do ar armazenado no tanque de ar do reboque.</p>"
+    },
+    {
+          "question": "A taxa de fuga de ar para um veículo combinado (motor desligado, travões ligados) não deve exceder psi por minuto.",
+          "options": [
+            "4",
+            "2",
+            "3"
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção: 5.3.3 - Etapa 7 Verificação final do freio pneumático: Teste de estanqueidade aplicado</strong></p><p>A taxa máxima de perda de ar permitida para o seu veículo: 4 psi para uma combinação de 2 veículos.</p>"
+    },
+    {
+        "question": "Em comparação com um caminhão ou ônibus reto, há coisas para inspecionar em veículos combinados.",
+          "options": [
+            "Mais",
+            "Menos",
+            "Mesmo número"
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção: 6.5 - Inspecionar um veículo combinado</strong></p><p>Use o procedimento de inspeção de sete etapas descrito na seção 2 para inspecionar seu veículo combinado. Há mais coisas para inspecionar em um veículo combinado do que em um único veículo.</p>"
+    },
+    {
+          "question": "Ao verificar os travões de emergência do reboque, em que posição deve ser colocada a válvula de controlo de protecção do tractor?",
+          "options": [
+            "Normal",
+            "Emergência",
+            "Neutro"
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 6.5.2 - Verificação combinada do freio do veículo</strong></p><p>Carregue o sistema de freio a ar do reboque e verifique se o reboque rola livremente. Em seguida, pare e puxe o controle de alimentação de ar do reboque (também chamado de controle de válvula de derrapagem de trator ou válvula de emergência de reboque), ou coloque-o na  posição \"emergência\". Puxe suavemente o reboque com o trator para verificar se os freios de emergência do reboque estão ligados.</p>"
+    },
+    {
+        "question":"Na condução normal, alguns motoristas usam a válvula de mão antes do pedal do freio para evitar um canivete. Qual das afirmações é verdadeira?",
+          "options": [
+            "Isso não deve ser feito.",
+            "Isso resulta em menos derrapagem do que usar o pedal do freio sozinho.",
+            "É a melhor maneira de frear e manter o caminhão reto."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção: 6.2.1  Válvula de mão do reboque</strong></p><p>A válvula de mão do reboque só deve ser usada para testar os freios do reboque. Não o utilize durante a condução devido ao perigo de fazer derrapar o reboque.</p>"
+    },
+    {
+          "question": "Ao verificar se o reboque está firmemente preso ao tractor, os trens de aterragem devem ser:",
+          "options": [
+            "Totalmente rebaixado.",
+            "Ligeiramente elevado.",
+            "Totalmente levantado."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 11: Verifique a conexão para segurança – Levante o trem de pouso do reboque ligeiramente do chão</p>"
+    },
+    {
+          "question": "As linhas de ar e eléctricas do tractor ao reboque devem ser:",
+          "options": [
+            "Seguro, mas em looping o suficiente para girar.",
+            "Totalmente apertado, mas afastado um pouco em um loop.",
+            "Apoiado na estrutura do trator."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção: 6.5.1 - Coisas adicionais para verificar durante o passeio</strong></p><p>Verifique as linhas aéreas e elétricas para reboque: Cabo elétrico firmemente conectado e fixo.</p>"
+    },
+    {
+        "question":"Você tem um grande vazamento na linha de serviço e pisa no freio. O ar de serviço escapará e causará:",
+          "options": [
+            "Freios de reboque de emergência para ligar.",
+            "Freios de mola de trator para frenagem.",
+            "Perda de pressão do tanque da carreta."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção: 6.2.8 - Serviço de reboque, estacionamento e freios de emergência</strong></p><p>Você pode não notar um grande vazamento na linha de serviço até tentar pisar os freios. Então, a perda de ar do vazamento diminuirá a pressão do tanque de ar rapidamente. Se ficar baixo o suficiente, os freios de emergência do reboque serão ligados.</p>"
+    },
+    {
+          "question": "Um trator com reboque requer a maior quantidade de distância de parada.",
+          "options": [
+            "Levemente carregado",
+            "Totalmente carregado",
+            "Vazio"
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Seção: 6.1.3 - Freio Antecipado</strong></p><p>Controle sua velocidade totalmente carregada ou vazia. Os grandes veículos combinados demoram mais tempo a parar quando estão vazios do que quando estão totalmente carregados.</p>"
+    },
+    {
+          "question": "Quando você se prepara para voltar sob um semirreboque, você deve alinhar:",
+          "options": [
+            "O chefão para acionar a mandíbula do motorista primeiro.",
+            "A roda dupla traseira esquerda com o pino da cabeça.",
+            "Diretamente na frente do trailer."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 3: Coloque o trator diretamente na frente do reboque. (Nunca volte para debaixo do reboque em um ângulo porque você pode empurrar o reboque para os lados e quebrar o trem de pouso.) </p>"
+    },
+    {
+          "question": "Você não deve apoiar um trator sob um reboque até que o sistema de ar seja:",
+          "options": [
+            "Com pressão normal.",
+            "Entre 60 e 80 psi.",
+            "Vazio."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 8: Fornecer ar para o reboque - Aguarde até que a pressão do ar esteja normal.</p>"
+    },
+    {
+          "question": "Depois de travar a cabeça na quinta roda, você deve verificar a conexão por:",
+          "options": [
+            "Puxe o trator para a frente suavemente com os freios do reboque travados.",
+            "Puxando para a frente 50 pés, virando à direita e depois à esquerda.",
+            "Fazendo backup com freios de reboque liberados."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 11: Verifique a conexão para segurança – Puxe suavemente o trator para frente enquanto os freios do reboque ainda estão travados para verificar se o reboque está preso ao trator</p>"
+    },
+    {
+          "question": "Quando usar a válvula manual para estacionar um veículo combinado?",
+          "options": [
+            "Nunca.",
+            "Para estacionar em uma nota.",
+            "Para estacionar nas docas de carga."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção: 6.2.1 – Válvula de mão do reboque</strong></p><p>Nunca use a válvula de mão para estacionar, pois todo o ar pode vazar, destravando os freios (em reboques que não têm freios de mola).</p><p>Sempre use os freios de estacionamento ao estacionar.</p>"
+    },
+    {
+          "question": "Você acoplou com um semirreboque, onde você deve colocar os suportes de reboque de ferro antes de sair?",
+          "options": [
+            "Levantou 1/2 caminho com a manivela presa ao seu suporte.",
+            "3 Desliga o topo com a manivela presa à sua montaria.",
+            "Totalmente levantado com a manivela presa ao seu suporte."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboque</strong></p><p>Passo 15: Levante os suportes do reboque dianteiro – Levante o trem de pouso até o topo. (Nunca dirija com trem de pouso apenas parcialmente para cima, ele pode pegar em trilhos de trem ou outras coisas.) Depois de levantar o trem de pouso, prenda a manivela com segurança.</p>"
+    },
+    {
+          "question": " A trava de segurança da alavanca de bloqueio da quinta roda deve ser engatada para estar completa. para um",
+          "options": [
+            "Sobre a alavanca de travamento",
+            "Sob a alavanca de travamento",
+            "Reto"
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 13: Inspecione o Engate – Verifique se a trava de segurança está posicionada sobre a alavanca de travamento. (Em algumas quintas rodas, a captura deve ser colocada à mão.) </p>"
+    },
+    {
+          "question": "Depois de fornecer ar ao reboque, certifique-se de que as linhas de ar não estão cruzadas e os freios do reboque estão funcionando. Isso é feito por:",
+          "options": [
+            "Aplique e solte os freios no reboque e ouça o som do freio.",
+            "Sob a alavanca de travamento",
+            "Levantando o pedal do freio."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 8: Fornecimento de ar para o reboque - Verifique o sistema de freio para linhas de ar cruzadas: Aplique e solte os freios do reboque e ouça o som dos freios do reboque sendo aplicados e liberados. Você deve ouvir os freios se moverem quando aplicados e o ar escapar quando os freios forem liberados.</p>"
+    },
+    {
+          "question": "Antes de voltar para debaixo de um trailer, certifique-se de que:",
+          "options": [
+            "A válvula de proteção do trator é normal.",
+            "O botão de alimentação de ar está dentro.",
+            "Os freios do reboque estão travados."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 9: Trave os freios do reboque – Puxe o  botão \"alimentação de ar\" ou mova o controle da válvula de derrapagem do trator de \"normal\" para \"emergência\".</p>"
+    },
+    {
+          "question": "Como testar a conexão trator-semirreboque para segurança?",
+          "options": [
+            "Balançando o reboque para frente e para trás com os freios do reboque travados.",
+            "Puxe suavemente para a frente em marcha baixa contra os freios do reboque travado e olhe para ele com cuidado.",
+            "Olhe com atenção."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 11: Verifique a conexão para segurança – Puxe o trator suavemente para frente enquanto os freios do reboque ainda estão travados para verificar se o reboque está preso ao trator.</p>"
+    },
+    {
+          "question": "Os suportes do reboque dianteiro estão para cima e o reboque está apoiado no trator. Certifique-se:",
+          "options": [
+            "Há folga suficiente entre a estrutura do trator e o trem de pouso.",
+            "Há espaço suficiente entre a parte superior dos pneus do trator e o nariz do reboque.",
+            "Ambas as options estão corretas."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 15: Levante os suportes do reboque dianteiro – (1) Verifique se há folga suficiente entre a parte traseira do chassi do trator e o trem de pouso. (Quando o trator gira bruscamente, ele não deve atingir o trem de pouso.) (2): Verifique se há folga suficiente entre a parte superior dos pneus do trator e o nariz do reboque</p>"
+    },
+    {
+        "question":"Para desbloquear a quinta roda, a alavanca de travamento deve ser colocada na posição.",
+          "options": [
+            "Aberto",
+            "Neutro",
+            "Fechado"
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção: 6.4.2 - Desacoplamento Trator-semirreboques</strong></p><p>Passo 6: Destrave a Quinta Roda - Puxe a alça de liberação para a  posição \"open\".</p>"
+    },
+    {
+          "question": "A válvula de proteção do trator fechará e os freios de emergência do reboque serão acionados quando houver um grande vazamento na linha de freio.",
+          "options": [
+            "Estacionamento",
+            "Serviço",
+            "Emergência"
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Seção: 6.2.2 – Válvula de proteção do trator</strong></p><p>Quando a válvula de proteção do trator fecha, impede que qualquer ar saia do trator. Ele também deixa o ar sair da linha de emergência do trailer. Isso faz com que os freios de emergência do reboque entrem em ação, com possível perda de controle.</p>"
+    },
+    {
+          "question": "No engate, a posição adequada da quinta roda é:",
+          "options": [
+            "Inclinado para cima no final do trailer.",
+            "Inclinado para baixo no final do trailer.",
+            "Nível do solo."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 6.4.1 - Acoplamento Trator-semirreboques</strong></p><p>Passo 1: Inspecione a quinta roda - Verifique se a quinta roda está em posição adequada para o engate: A roda está inclinada para baixo em direção à traseira do trator.</p>"
+    },
+    {
+          "question": "Em que marcha deve estar o motor do trator depois que você desacoplar o reboque e estiver inspecionando os suportes do reboque?",
+          "options": [
+            "Neutro",
+            "Reverso alto.",
+            "Reverso baixo."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção: 6.4.2 - Desacoplamento trator-semirreboque</forte></p><p>Passo 8: Seguro do trator – Ajuste a transmissão para Neutro.</p>"
+    },
+    {
+          "question": " Ao desengatar o reboque, depois de desligar a alimentação de ar ao reboque e de travar os travões do reboque, deve:",
+          "options": [
+            "Coloque os freios de estacionamento do trator.",
+            "Trem de pouso de reboque mais baixo.",
+            "Recue suavemente para aliviar a pressão na quinta roda."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 6.4.2 - Desacoplamento Trator-semirreboques</strong></p><p>Passo 2: Aliviar a pressão sobre as mandíbulas de travamento - Aliviar a pressão sobre as mandíbulas de travamento da quinta roda, fazendo backup suavemente. (Isso ajudará você a liberar a alavanca de travamento da quinta roda.) </p>"
+    },
+    {
+        "question": "Você está dirigindo um veículo combinado quando o reboque se rompe, separando as duas companhias aéreas. Você espera os freios do reboque entrarem em ação e:",
+          "options": [
+            "A válvula de proteção do trator para fechar.",
+            "A válvula de alimentação do reboque para ficar aberta.",
+            "O trator para perder a pressão do ar."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção: 6.2.4 – Linhas de ar do reboque</strong></p><p>A perda de pressão pode ser causada por um reboque se soltando, rasgando assim a mangueira de ar de emergência. Ou pode ser causada por uma mangueira, tubo de metal ou outra parte quebrando, deixando o ar sair. Quando a linha de emergência perde pressão, também faz com que a válvula de proteção do trator feche (o botão de alimentação de ar vai sair).</p>"
+    }
+    ],
+    "es":[
+      {
+            "question": "¿Dónde debe estar el tractor cuando inspecciona el tren de aterrizaje después de desenganchar el remolque?",
+            "options": [
+              "Completamente limpio del remolque",
+              "Con el bastidor del tractor debajo del remolque",
+              "Con la quinta rueda justo debajo del jefe"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 642 - Desacoplamiento tractor-semirremolque</strong></p><p>Paso 7: Deténgase con el bastidor del tractor debajo del remolque (evita que el remolque caiga al suelo si el tren de aterrizaje se colapsa o se hunde)</p>"
+      },
+      {
+            "question": "Cuando conduzca detrás de otro vehículo, en buenas condiciones, debe dejar al menos un segundo entre su vehículo y el vehículo de adelante por cada metro de longitud del vehículo",
+            "options": [
+              "30",
+              "20",
+              "10"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong style=\"color: negro;\">Sección: 612 - Conducción suave</strong></p><p><span style=\"color: negro;>Vaya lo suficientemente lejos detrás de otros vehículos (al menos 1 segundo por cada 10 pies de longitud de su vehículo, más un segundo si excede las 40 mph)</span></p>"
+      },
+      {
+            "question": " Hay dos cosas que un conductor puede hacer para evitar un vuelco Ellos son: (1) mantener la carga lo más cerca posible del suelo y (2):",
+            "options": [
+              "Ve despacio en las curvas",
+              "Asegúrese de que los frenos estén bien ajustados",
+              "Mantenga ambas manos firmemente en la rueda de arrastre"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong style=\"color: negro;\">Sección: 611 - Peligros de vuelco</strong></p><p><span style=\"color: negro;>Las siguientes dos cosas ayudarán a evitar el vuelco: mantenga la carga lo más cerca posible del suelo y conduzca lentamente en las esquinas</span></p>"
+      },
+      {
+            "question": "La tasa de fuga de aire para un vehículo combinado (motor apagado, frenos apagados) no debe exceder psi por minuto",
+            "options": [
+              "2",
+              "3",
+              "1/2"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong style=\"color: negro;\">Sección: 533 - Paso 7 Comprobación final del freno de aire: prueba de fugas estáticas</strong></p><p><span style=\"color: negro;\">La presión de aire no debe caer más de: 3 psi para una combinación de dos vehículos</span></p>"
+      },
+      {
+            "question": "Si no puede completar su giro sin entrar en otro carril de tráfico, debe:",
+            "options": [
+              "Gire bien antes de comenzar el giro",
+              "Gira de par en par a medida que completas el giro",
+              "No haga un giro y muévase a otro lugar donde pueda hacer un giro sin cruzar otro carril"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong style=\"color: negro;\">Sección: 616 - Girar ancho</fuerte></p><p><span style=\"color: negro;\">Si no puede completar su giro sin ingresar a otro carril de tráfico, gire de par en par al completar el giro Esto es mejor que girar hacia la izquierda antes de comenzar el giro porque evitará que otros ciclistas lo pasen por la derecha</span></p>"
+      },
+      {
+            "question": "Cuanto más alto sea el centro de gravedad de su camión, se:",
+            "options": [
+              "Más estable al girar",
+              "Es más fácil doblar la esquina",
+              "Más fácil de voltear"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong style=\"color: negro;\">Sección: 611 - Peligros de vuelco</strong></p><p><span style=\"color: negro;>Cuando se apila más carga en un camión, el centro de gravedad se mueve más alto fuera de la carretera El camión se vuelve más fácil de girar</span></p>"
+      },
+      {
+            "question": "Si la línea de servicio viene de una sola pieza mientras conduce un vehículo combinado, pero la línea de emergencia permanece conectada, ¿qué sucede de inmediato?",
+            "options": [
+              "Se aplicará el freno de emergencia del remolque",
+              "Los frenos del remolque se encenderán",
+              "No pasará nada hasta que intentes aplicar los frenos"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong style=\"color: negro;\">Sección: 628 - Servicio de remolque, estacionamiento y frenos de emergencia</strong></p><p><span style=\"color: negro;>Es posible que no note una fuga importante en la línea de servicio hasta que intente frenar Luego, la pérdida de aire de la fuga disminuirá la presión del tanque de aire rápidamente Si baja lo suficiente, los frenos de emergencia del remolque se encenderán</span></p>"
+      },
+      {
+            "question": "Las manos felices suelen conectarse, ¿cuál de estas?",
+            "options": [
+              "Desde el remolque hasta las mordazas de bloqueo de la quinta rueda",
+              "Líneas eléctricas desde el tractor hasta el remolque",
+              "Servicio de vehículos y líneas aéreas de emergencia para remolque"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong style=\"color: negro;\">Sección: 625 - Acopladores de manguera (Manos alegres)</strong></p><p><span style=\"color: negro;>Las manos alegres son dispositivos de acoplamiento que se utilizan para conectar las líneas aéreas de servicio y emergencia del camión o tractor al remolque Los acopladores tienen un sello de goma, que evita que el aire se escape</span></p>"
+      },
+      {
+            "question": "Un conductor cruza las líneas aéreas cuando se conecta a un remolque viejo ¿Qué va a pasar?",
+            "options": [
+              "La válvula manual aplicará los frenos del tractor en lugar de los frenos del remolque",
+              "Las luces de freno se encienden cuando se pisa el pedal del freno",
+              "Si el remolque no tiene frenos de resorte, puede alejarse, pero no tendrá frenos de remolque"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong style=\"color: negro;\">Sección: 625 - Acopladores de manguera (Manos alegres)</strong></p><p><span style=\"color: negro;>Si cruzabas las líneas aéreas, podías alejarte, pero no tenías frenos de remolque Eso sería muy peligroso</span></p>"
+      },
+      {
+            "question": "Se debe usar la válvula manual:",
+            "options": [
+              "Para probar los frenos del remolque",
+              "Como un freno de mano",
+              "Solo con un freno de pie"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong style=\"color: negro;\">Sección: 621 – Válvula manual de remolque</strong></p><p><span style=\"color: negro;\">La válvula manual del remolque (también llamada válvula del carro o barra Johnson) acciona los frenos del remolque</span></p>"
+      },
+      {
+            "question": "Al conducir un conjunto de dobles, es necesario cerrar la válvula de cierre del último remolque:",
+            "options": [
+              "Válvula trasera",
+              "Válvula de sección media",
+              "Valvula frontal"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong style=\"color: negro;\">Sección: 627 - Válvulas de cierre</strong></p><p><span style=\"color: negro;>Las válvulas de cierre (también llamadas grifos de cierre) se utilizan en el servicio y suministran las líneas de aire en la parte trasera de los remolques que se utilizan para remolcar otros remolques Estas válvulas le permiten cerrar las líneas de aire cuando no se está remolcando otro remolque Debe verificar que todas las válvulas de cierre estén en la posición abierta, excepto las de la parte trasera del último remolque, que deben estar cerradas</span></p>"
+      },
+      {
+            "question": "Está a punto de apoyar su tractor debajo de un semirremolque El remolque está a la altura correcta cuando:",
+            "options": [
+              "El remolque se levantará ligeramente cuando el tractor vuelva a pasar por debajo de él",
+              "Kingpin está aproximadamente 1 1/4 pulgadas por encima de la quinta rueda",
+              "El final del jefe está a la par con la parte superior de la quinta rueda"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento Tractores-semirremolques</strong></p><p>Paso 6: El remolque debe estar lo suficientemente bajo como para que el tractor lo levante ligeramente cuando el tractor esté descansando debajo de él Suba o baje el remolque según sea necesario</p>"
+      },
+      {
+            "question": "Su línea de aire de emergencia se rompe o se rompe mientras conduce La pérdida de presión provocará:",
+            "options": [
+              "Compresor de aire para descargar en lugar de bombear aire",
+              "Frenos de remolque de emergencia para encender",
+              "Válvula de alimentación del remolque para abrir"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong style=\"color: negro;\">Sección: 624 – Líneas aéreas de remolque</strong></p><p><span style=\"color: negro;>La pérdida de presión de aire en la línea de emergencia hace que los frenos de emergencia del remolque se activen La pérdida de presión puede ser causada por un remolque que se suelta, rompiendo así la manguera de aire de emergencia</span></p>"
+      },
+      {
+            "question": "Si los frenos de resorte no se sueltan cuando empuja la válvula de suministro de aire del remolque, debe:",
+            "options": [
+              "Cruza las aerolíneas",
+              "Revisa la conexión de la aerolínea",
+              "Revisa el cable eléctrico"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 625 - Acopladores de manguera</strong></p><p>Si los frenos de resorte no se sueltan cuando presiona el control de suministro de aire del remolque, verifique las conexiones de la línea de aire</p>"
+      },
+      {
+            "question": "Remolques equipados con frenos de aire fabricados antes de 1975:",
+            "options": [
+              "No se puede operar legalmente en carreteras interestatales",
+              "No están obligados a tener frenos de resorte",
+              "Por lo general, necesito un convertidor de manos feliz"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 628 - Servicio de remolque</strong></p><p>Los remolques más nuevos tienen frenos de resorte, al igual que los camiones y los tractores de camiones Sin embargo, no se requiere que las plataformas rodantes y los remolques convertidores construidos antes de 1975 tengan frenos de resorte</p>"
+      },
+      {
+            "question": "Hay dos cosas que un conductor puede hacer para evitar un vuelco: son: (1) ir despacio en las curvas y (2):",
+            "options": [
+              "Asegúrese de que los frenos estén bien equilibrados",
+              "Mantenga la carga lo más cerca posible del suelo",
+              "Mantén ambas manos firmes en el volante"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 611 - Peligros de vuelco</strong></p><p>&nbsp; Las siguientes dos cosas ayudarán a evitar el vuelco: mantenga la carga lo más cerca posible del suelo y conduzca lentamente en las esquinas</p>"
+      },
+      {
+            "question": "Después de encender las líneas aéreas, pero antes de apoyar debajo del remolque, debe:",
+            "options": [
+              "Suministre aire al sistema del remolque, luego tire de la perilla de alimentación de aire",
+              "Asegúrese de que los frenos del remolque estén apagados",
+              "Camina alrededor de la plataforma para asegurarte de que esté despejada"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "motivo": "<p><strong>Sección: 641 - Acoplamiento Tractores-semirremolques</strong></p><p>Paso 8: Suministro de aire al remolque: Desde la cabina, presione el  botón \"alimentación de aire\" o mueva el control de la válvula de deslizamiento del tractor de la  posición \"emergencia\" a la  posición \"normal\" para suministrar aire al sistema de frenos del remolque</p>"
+      },
+      {
+            "question": "¿Qué parte del jefe debe apretar la mandíbula?",
+            "options": [
+              "El vástago",
+              "Canela",
+               "La cabeza"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento Tractores-semirremolques</strong></p><p>Paso 13 (Inspeccionar el acoplamiento): Pase por debajo del remolque y mire la parte trasera de la quinta rueda Asegúrese de que las mordazas de la quinta rueda se hayan cerrado alrededor de la varilla del jefe</p>"
+      },
+      {
+            "question": "¿Cuánto espacio debe dejarse entre la quinta rueda superior e inferior después del enganche?",
+            "options": [
+              "Ninguno",
+              "Lo suficiente para sentarse",
+              "La polea de 1/4 de cabeza"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento Tractores-semirremolques</strong></p><p>Paso 13: Inspeccione el acoplamiento - Asegúrese de que no haya espacio entre la quinta rueda superior e inferior Si hay espacio, algo anda mal (el jefe podría estar encima de las mandíbulas cerradas de la quinta rueda, y el remolque se soltaría con demasiada facilidad)</p>"
+      },
+      {
+            "question": "Empujó la válvula de alimentación de aire del remolque No debe sostener un tractor debajo de un remolque hasta que todo el sistema de aire esté:",
+            "options": [
+              "Entre 60 y 80 psi",
+              "Vacío",
+              "A presión normal"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento Tractores-semirremolques</strong></p><p>Paso 8: Suministrar aire al remolque - Espere hasta que la presión de aire sea normal semirremolque; Has conectado las aerolíneas Antes de apoyar debajo del remolque, debe:</p>"
+      },
+      {
+            "question": " semirremolque; Has conectado las aerolíneas Antes de apoyar debajo del remolque, debe:",
+            "options": [
+              "Tira hacia adelante para probar la conexión de las manos felices",
+              "Suministre aire al sistema del remolque, luego tire de la perilla de alimentación de aire",
+              "Suministre aire al sistema del remolque, luego tire de la perilla de alimentación de aire"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento Tractores-semirremolques</strong></p><p>Paso 9: Bloquee los frenos del remolque – Tire del  botón \"alimentación de aire\" o mueva el control de la válvula de deslizamiento del tractor de \"normal\" a \"emergencia\"</p>"
+      },
+      {
+            "Question": "semirremolque y tienen respaldo, pero no están debajo de él ¿Qué debe conectar antes de hacer una copia de seguridad?",
+            "options": [
+              "Nada Retrocede y bloquea la quinta rueda",
+              "Aerolíneas de emergencia y servicios",
+              "El cable de servicio eléctrico  "
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento</strong></p><p>Estás enganchando un tractor a un semirremolque y lo has retrocedido, pero no estás debajo de él ¿Qué debe conectar antes de hacer una copia de seguridad?</p>"
+      },
+      {
+            "question": "El remolque requiere la menor cantidad de distancia de frenado",
+            "options": [
+              "Vacío",
+              "Completamente cargado",
+              "Parcialmente cargado"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 613 - Early Brake</strong></p><p>Controle su velocidad a plena carga o en vacío Los vehículos combinados grandes tardan más en detenerse cuando están vacíos que cuando están completamente cargados</p>"
+      },
+      {
+            "question": "Después de colocar el remolque, debe levantar el tren de aterrizaje usando:",
+            "options": [
+              "Marcha alta",
+              "Marcha baja",
+              "Engranaje loco"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento de tractores-semirremolques</strong></p><p>Paso 15: Levante los soportes delanteros del remolque - Utilice el rango de recorrido bajo (si está equipado) para comenzar a levantar el tren de aterrizaje Una vez libre de peso, cambie a la gama de marchas altas</p>"
+      },
+      {
+            "question": "Usted suministra aire a los tanques de remolque mediante:",
+            "options": [
+              "Empujando la válvula de suministro de aire del remolque",
+              "Conectando la línea de servicio manos felices",
+              "Tirando de la válvula de suministro de aire del remolque"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 623 – Control del suministro de aire del remolque</strong></p><p>El control del suministro de aire del remolque en los vehículos más nuevos es un botón rojo de ocho lados, que se utiliza para controlar la válvula de protección del tractor Lo empujas para llenar el remolque con aire y lo sacas para apagar el aire y poner los frenos de emergencia del remolque</p>"
+      },
+      {
+            "question": "Hay dos cosas que un conductor puede hacer para evitar un vuelco Ellos son: (1) tomar giros lentos y (2):",
+            "options": [
+              "Mantenga el juego libre de la quinta rueda lo más pequeño posible",
+              "Asegúrese de que los frenos estén bien equilibrados",
+              "Mantenga la carga lo más cerca posible del suelo"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 611 - Peligros de vuelco</strong></p><p>Las siguientes dos cosas ayudarán a evitar el vuelco: mantenga la carga lo más cerca posible del suelo y conduzca lentamente en las esquinas</p>"
+      },
+      {
+            "question": "¿Por qué debe asegurarse de que la placa de la quinta rueda esté engrasada según sea necesario?",
+            "options": [
+              "Para garantizar una buena conexión eléctrica",
+              "Para reducir el calor y el ruido",
+              "Para evitar problemas de dirección"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento tractor-semirremolque</strong></p><p>Paso 1: Inspección de la quinta rueda: asegúrese de que la placa de la quinta rueda esté engrasada según sea necesario Si no se mantiene lubricada la placa de la quinta rueda, se pueden producir problemas de dirección debido a la fricción entre el tractor y el remolque</p>"
+      },
+      {
+            "question": " Su línea de aire de emergencia se rompe o se rompe mientras conduce La pérdida de presión provocará:",
+            "options": [
+              "Aire del tractor para descargar en el tanque del remolque a través de la línea de servicio",
+              "Frenos de remolque de emergencia para encender",
+              "Compresor de aire para descargar en lugar de bombear aire"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 652 - Comprobación combinada de los frenos del vehículo</strong></p><p>Si la válvula de protección del tractor no funciona correctamente, una fuga en la manguera de aire o en el freno del remolque puede drenar todo el aire del tractor Esto provocaría que se aplicaran los frenos de emergencia, con posible pérdida de control</p>"
+      },
+      {
+            "question": "Al conectar las manos alegres, presione los dos sellos con los acopladores juntos en qué grado entre sí?",
+            "options": [
+              "90 grados",
+              "180 grados",
+              "45 grados"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 625 - Acopladores de manguera</strong></p><p>Al conectar las manecillas alegres, presione los dos sellos junto con los acopladores en un ángulo de 90 grados entre sí</p>"
+      },
+      {
+            "question": "¿Cuál de estas afirmaciones es verdadera?",
+            "options": [
+              "Los vehículos ligeros necesitan más potencia de frenado para detenerse que los vehículos pesados",
+              "Los sistemas combinados de frenado y suspensión de vehículos funcionan mejor con una carga ligera",
+              "Los tractores Bobtail pueden tardar más en detenerse que un vehículo combinado cargado hasta el peso bruto máximo"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 613 - Freno temprano</strong></p><p>Las pruebas han demostrado que los bobtails pueden ser muy difíciles de detener sin ningún problema Tardan más en detenerse que un semirremolque cargado hasta el peso bruto máximo</p>"
+      },
+      {
+            "question": "¿Por qué debería acoplar el tractor de la mano uno al otro (o acopladores ficticios) cuando no está remolcando un remolque?",
+            "options": [
+              "El circuito de freno conectado se convierte en un tanque de aire de respaldo",
+              "Mantendrá la suciedad o el agua fuera de las líneas",
+              "Los tractores Bobtail pueden tardar más en detenerse que un vehículo combinado cargado hasta el peso bruto máximo"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 625 - Acopladores de manguera</strong></p><p>Algunos vehículos tienen acopladores falsos o callejones sin salida a los que se pueden conectar mangueras cuando no están en uso Esto evitará que el agua y la suciedad entren en el acoplador y las líneas de aire Utilice los acopladores ficticios cuando las líneas de aire no estén conectadas a un remolque Si no hay acopladores ficticios, a veces se pueden unir las manos alegres (dependiendo de los acoplamientos) Es muy importante mantener limpio el suministro de aire</p>"
+      },
+      {
+            "question": "Al apoyar un tractor debajo de un remolque, debe:",
+            "options": [
+              "Utilice siempre la marcha atrás más baja",
+              "Acérquese siempre al remolque en un ligero ángulo",
+              "Haz esto rápidamente para asegurarte de que el jefe esté atascado en la quinta rueda"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento Tractores-semirremolques</strong></p><p>Paso 10: Volver al remolque - Utilizar la marcha atrás más baja</p>"
+      },
+      {
+            "question": "Después de que el remolque se haya conectado al tractor, ¿en qué posición se debe colocar la válvula de control de protección del tractor?",
+            "options": [
+              "Posición hacia abajo",
+              "Posición ascendente",
+              "Posición normal"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento de tractores-semirremolques</strong></p><p>Paso 8: Suministro de aire al remolque – Desde la cabina, presione el  botón de alimentación de aire bo mueva el control de la válvula de deslizamiento del tractor de la  posición de emergenciaa la  posición normal para suministrar aire al sistema de frenos del remolque</p>" 
+      },
+      {
+            "question": "La palanca de bloqueo de la quinta rueda no se bloquea después de que las mordazas se cierran alrededor del pasador Esto significa que:",
+            "options": [
+              "El remolque no girará sobre la quinta rueda",
+              "La cerradura de estacionamiento está cerrada y puedes irte",
+              "El acoplamiento no es correcto y debe asegurarse antes de accionar la unidad acoplada"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento Tractores-semirremolques</strong></p><p>Paso 13: Inspeccione el acoplamiento – Si el acoplamiento no es correcto, no conduzca la unidad acoplada; arreglarlo</p>"
+      },
+      {
+            "question": "Fuera de seguimiento o trampa hace que uno tome el camino más ancho al hacer un giro?",
+            "options": [
+              "Tractor remolcando un remolque de 45 pies",
+              "Tractor con dos remolques de 27 pies",
+              "Bobtail de 53 pies"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 616 - Giro ancho</fuerte></p><p>Cuando un vehículo gira en una curva, las ruedas traseras siguen una trayectoria diferente a la de las ruedas delanteras A esto se le llama offtracking o trampa Los vehículos más largos se saldrán más de la pista Las ruedas traseras de la unidad de potencia (camión o tractor) se desprenderán un poco, y las ruedas traseras del remolque se desprenderán aún más Si hay más de un remolque, las ruedas traseras del último remolque se alejarán de la vía</p>"
+      },
+      {
+            "question": " Los soportes de hierro del remolque están hacia arriba y el remolque está apoyado en el tractor Asegúrense:",
+            "options": [
+              "Hay suficiente espacio libre entre la quinta rueda superior e inferior",
+              "La cerradura de seguridad está en la posición de desbloqueo",
+              "Hay suficiente espacio libre entre el bastidor del tractor y el tren de aterrizaje"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento</strong></p><p>Tractores-semirremolques</p><p>Paso 15: Levante los soportes delanteros del remolque – Asegúrese de que haya suficiente espacio entre la parte trasera del bastidor del tractor y el tren de aterrizaje (Cuando el tractor gira bruscamente, no debe golpear el tren de aterrizaje) </p>"
+      },
+      {
+            "question": "Al desacoplar un remolque cargado, debe bajar el tren de aterrizaje hasta:",
+            "options": [
+              "Haz contacto firme con el suelo, gira la manivela en marcha baja unas cuantas vueltas más",
+              "Haga contacto con el suelo y deje el remolque fuera de la quinta rueda",
+              "Golpea el suelo"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 642 - Desacoplamiento del tractorSemirremolques</strong></p><p>Paso 4: Baje el tren de aterrizaje - Si el remolque está cargado, después de que el tren de aterrizaje haga contacto firme con el suelo, gire la manivela en marcha baja unas cuantas vueltas más Esto le quitará algo de peso al tractor</p>"
+      },
+      {
+            "question": "¿Qué sucede si se cruzan las líneas aéreas cuando se conecta a un remolque viejo?",
+            "options": [
+              "La válvula manual aplicará los frenos del tractor en lugar de los frenos del remolque",
+              "Las luces de freno se encienden cuando se pisa el pedal del freno",
+              "Si el remolque no tiene frenos de resorte, puede alejarse, pero no tendrá frenos de remolque"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 625 - Acopladores de manguera</strong></p><p>Los remolques más antiguos no tienen frenos de resorte Si el suministro de aire al tanque de aire del remolque tiene fugas, no habrá frenos de emergencia y las ruedas del remolque girarán libremente</p>"
+      },
+      {
+            "question": "Para detener un derrape de remolque debe:",
+            "options": [
+              "Usa los frenos de mano del remolque",
+              "Contradirección",
+              "Suelta los frenos"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 615 - Evite los patines de remolque</strong></p><p>Deje de usar el freno: Suelte los frenos para recuperar la tracción No utilice el freno de mano del remolque (si tiene uno) para enderezar la plataforma Eso es lo incorrecto, ya que los frenos de las ruedas del remolque causaron el derrape en primer lugar</p>"
+      },
+      {
+            "question": "Las líneas de aire en un vehículo combinado a menudo están coloreadas para evitar que se mezclen La línea de emergencia es la línea de servicio es",
+            "options": [
+              "Rojo, Azul",
+              "Azul, Rojo",
+              "Negro, amarillo"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 624 – Líneas de aire de remolque</strong></p><p>Las líneas de emergencia a menudo están codificadas en color rojo (manguera roja, acopladores rojos u otras partes) para evitar que se confundan con la línea de servicio azul</p>"
+      },
+      {
+            "question": "Semirremolques fabricados antes de 1975 equipados con frenos de aire:",
+            "options": [
+              "Tener una sola aerolínea de servicio",
+              "A menudo no tiene frenos de resorte",
+              "Por lo general, necesito un convertidor de manos feliz"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 628 - Servicio de remolque, estacionamiento y frenos de emergencia</strong></p><p>Los remolques más nuevos tienen frenos de resorte, al igual que los camiones y los tractores de camiones Sin embargo, las plataformas rodantes y los remolques convertidores construidos antes de 1975 no están obligados a tener frenos de resorte Los que no tienen frenos de resorte tienen frenos de emergencia, que funcionan con el aire almacenado en el tanque de aire del remolque</p>"
+      },
+      {
+            "question": "La tasa de fuga de aire para un vehículo combinado (motor apagado, frenos encendidos) no debe exceder los psi por minuto",
+            "options": [
+              "4",
+              "2",
+              "3"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 533 - Paso 7 Comprobación final de los frenos de aire: Prueba de fugas aplicada</strong></p><p>La tasa máxima permitida de pérdida de aire para su vehículo: 4 psi para una combinación de 2 vehículos</p>"
+      },
+      {
+            "question": "En comparación con un camión o autobús recto, hay cosas que inspeccionar en los vehículos combinados",
+            "options": [
+              "Más",
+              "Menos",
+              "Mismo número"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 65 - Inspección de un vehículo combinado</strong></p><p>Utilice el procedimiento de inspección de siete pasos descrito en la sección 2 para inspeccionar su vehículo combinado Hay más cosas que inspeccionar en un vehículo combinado que en un solo vehículo</p>"
+      },
+      {
+            "question": "Al comprobar los frenos de emergencia del remolque, ¿en qué posición se debe colocar la válvula de control de protección del tractor?",
+            "options": [
+              "Normal",
+              "Emergencia",
+              "Neutral"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 652 - Comprobación combinada de los frenos del vehículo</strong></p><p>Cargue el sistema de frenos de aire del remolque y compruebe si el remolque rueda libremente A continuación, deténgase y tire del control de suministro de aire del remolque (también llamado control de la válvula de deslizamiento del tractor o válvula de emergencia del remolque), o colóquelo en la  posición de emergencia Tire suavemente del remolque con el tractor para verificar que los frenos de emergencia del remolque estén activados</p>"
+      },
+      {
+            "question": "En la conducción normal, algunos conductores usan la válvula manual antes del pedal del freno para evitar una navaja ¿Cuál de las afirmaciones es verdadera?",
+            "options": [
+              "Esto no debería hacerse",
+              "Esto da como resultado menos deslizamiento que usar solo el pedal del freno",
+              "Es la mejor manera de frenar y mantener el camión recto"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 621 – Válvula manual del remolque</strong></p><p>La válvula manual del remolque solo debe usarse para probar los frenos del remolque No lo use mientras conduce debido al peligro de hacer que el remolque patine</p>"
+      },
+      {
+            "question": "Al comprobar que el remolque está bien sujeto al tractor, los trenes de aterrizaje deben estar:",
+            "options": [
+              "Totalmente empotrado",
+              "Ligeramente elevado",
+              "Totalmente levantado"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento de tractores-semirremolques</strong></p><p>Paso 11: Compruebe la seguridad de la conexión – Levante el tren de aterrizaje del remolque ligeramente del suelo</p>"
+      },
+      {
+            "question": "Las líneas de aire y electricidad desde el tractor hasta el remolque deben ser:",
+            "options": [
+              "Seguro, pero lo suficientemente en bucle como para girar",
+              "Totalmente apretado, pero se alejó un poco en un bucle",
+              "Apoyado en el bastidor del tractor"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 651 - Cosas adicionales a verificar durante el recorrido</strong></p><p>Verifique las líneas de aire y eléctricas para remolcar: Cable eléctrico firmemente conectado y asegurado</p>"
+      },
+      {
+            "question": "Tienes una gran fuga en la línea de servicio y frenas de golpe El aire de servicio se escapará y causará:",
+            "options": [
+              "Frenos de remolque de emergencia para encender",
+              "Frenos de resorte del tractor para frenar",
+              "Pérdida de presión del tanque del remolque"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 628 - Servicio de remolque, estacionamiento y frenos de emergencia</strong></p><p>Es posible que no note una fuga importante en la línea de servicio hasta que intente pisar los frenos Luego, la pérdida de aire de la fuga disminuirá la presión del tanque de aire rápidamente Si baja lo suficiente, los frenos de emergencia del remolque se encenderán</p>"
+      },
+      {
+            "question": "Un tractor con remolque requiere la mayor cantidad de distancia de frenado",
+            "options": [
+              "Ligeramente cargado",
+              "Completamente cargado",
+              "Vacío"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 613 - Early Brake</strong></p><p>Controle su velocidad a plena carga o en vacío Los vehículos combinados grandes tardan más en detenerse cuando están vacíos que cuando están completamente cargados</p>"
+      },
+      {
+            "question": "Cuando te prepares para volver debajo de un semirremolque, debes alinearte:",
+            "options": [
+              "El pivote para enganchar primero la mandíbula de bloqueo lateral del conductor",
+              "La rueda doble trasera izquierda con el pasador de cabeza",
+              "Directamente en frente del remolque"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento Tractores-semirremolques</strong></p><p>Paso 3: Coloque el tractor directamente delante del remolque (Nunca vuelva a pasar por debajo del remolque en ángulo porque puede empujar el remolque hacia los lados y romper el tren de aterrizaje) </p>"
+      },
+      {
+            "question": "No debe apoyar un tractor debajo de un remolque hasta que el sistema de aire esté:",
+            "options": [
+              "A presión normal",
+              "Entre 60 y 80 psi",
+              "Vacío"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento Tractores-semirremolques</strong></p><p>Paso 8: Suministrar aire al remolque - Esperar hasta que la presión de aire sea normal</p>"
+      },
+      {
+            "question": " Después de bloquear la cabeza en la quinta rueda, debe verificar la conexión de la siguiente manera:",
+            "options": [
+              "Tire del tractor hacia adelante suavemente con los frenos del remolque bloqueados",
+              "Tirando hacia adelante 50 pies, girando a la derecha y luego a la izquierda",
+              "Retroceder con los frenos del remolque liberados"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento de tractores-semirremolques</strong></p><p>Paso 11: Verifique la seguridad de la conexión - Tire suavemente del tractor hacia adelante mientras los frenos del remolque aún están bloqueados para verificar que el remolque esté conectado al tractor</p>"
+      },
+      {
+            "question": "¿Cuándo usar la válvula manual para estacionar un vehículo combinado?",
+            "options": [
+              "Nunca",
+              "Aparcar en una nota",
+              "Aparcar en los muelles de carga"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 621 – Válvula manual del remolque</strong></p><p>Nunca use la válvula manual para estacionar, ya que todo el aire puede filtrarse, desbloqueando los frenos (en remolques que no tienen frenos de resorte)</p><p>Siempre use los frenos de estacionamiento al estacionar</p>"
+      },
+      {
+            "question": "¿Se ha acoplado con un semirremolque, dónde debe colocar los soportes de hierro del remolque antes de irse?",
+            "options": [
+              "Elevado 1/2 vía con la manivela unida a su soporte",
+              "3 Cierra la parte superior con la manivela unida a su montura",
+              "Completamente levantado con la manivela unida a su soporte"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento tractor-semirremolque</strong></p><p>Paso 15: Levante los soportes delanteros del remolque - Levante el tren de aterrizaje hasta la parte superior (Nunca conduzca con el tren de aterrizaje solo parcialmente levantado, puede engancharse en las vías del tren u otras cosas) Después de levantar el tren de aterrizaje, asegure la manivela de forma segura</p>"
+      },
+      {
+            "question": " El bloqueo de seguridad de la palanca de bloqueo de la quinta rueda debe estar activado para que esté completo fora",
+            "options": [
+              "Sobre la palanca de bloqueo",
+              "Debajo de la palanca de bloqueo",
+              "Recto"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento Tractores-semirremolques</strong></p><p>Paso 13: Inspeccione el acoplamiento – Compruebe que el bloqueo de seguridad esté colocado sobre la palanca de bloqueo (En algunas quintas ruedas, el pestillo debe colocarse a mano) </p>"
+      },
+      {
+            "question": "Después de suministrar aire al remolque, asegúrese de que las líneas de aire no estén cruzadas y que los frenos del remolque estén funcionando Esto se hace mediante:",
+            "options": [
+              "Aplique y suelte los frenos del remolque y escuche el sonido del freno",
+              "Debajo de la palanca de bloqueo",
+              "Levantar el pedal del freno"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento de tractores-semirremolques</strong></p><p>Paso 8: Suministrar aire al remolque - Compruebe si hay líneas de aire cruzadas en el sistema de frenos: Aplique y suelte los frenos del remolque y escuche el sonido de los frenos del remolque al aplicarse y soltarse Debería escuchar que los frenos se mueven cuando se aplican y el aire se escapa cuando se sueltan los frenos</p>"
+      },
+      {
+            "question": "Antes de volver a meterte debajo de un remolque, asegúrate de que:",
+            "options": [
+              "La válvula de protección del tractor es normal",
+              "El botón de alimentación de aire está adentro",
+              "Los frenos del remolque están bloqueados"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento Tractores-semirremolques</strong></p><p>Paso 9: Bloquee los frenos del remolque – Tire del  botón \"alimentación de aire\" o mueva el control de la válvula de deslizamiento del tractor de \"normal\" a \"emergencia\"</p>"
+      },
+      {
+            "question": "¿Cómo probar la conexión tractor-semirremolque para la seguridad?",
+            "options": [
+              "Balancear el remolque hacia adelante y hacia atrás con los frenos del remolque bloqueados",
+              "Tire suavemente hacia adelante en marcha baja contra los frenos del remolque bloqueado y mírelo con atención",
+              "Mira de cerca"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento de tractores-semirremolques</strong></p><p>Paso 11: Compruebe la seguridad de la conexión – Tire suavemente del tractor hacia delante mientras los frenos del remolque siguen bloqueados para comprobar si el remolque está unido al tractor</p>"
+      },
+      {
+            "question": "Los soportes delanteros del remolque están hacia arriba y el remolque descansa sobre el tractor Asegúrense:",
+            "options": [
+              "Hay suficiente espacio libre entre el bastidor del tractor y el tren de aterrizaje",
+              "Hay suficiente espacio entre la parte superior de los neumáticos del tractor y la nariz del remolque",
+              "Ambas options son correctas"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento de tractores-semirremolques</strong></p><p>Paso 15: Levante los soportes delanteros del remolque – (1) Compruebe que haya suficiente espacio libre entre la parte trasera del bastidor del tractor y el tren de aterrizaje (Cuando el tractor gira bruscamente, no debe golpear el tren de aterrizaje) (2): Verifique que haya suficiente espacio libre entre la parte superior de los neumáticos del tractor y la nariz del remolque</p>"
+      },
+      {
+            "question": "Para desbloquear la quinta rueda, la palanca de bloqueo debe colocarse en su posición",
+            "options": [
+              "Abierto",
+              "Neutral",
+              "Cerrado"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 642 - Desacoplamiento de tractores-semirremolques</strong></p><p>Paso 6: Desbloqueo de la quinta rueda - Tire de la manija de liberación a la  posición \"open\"</p>"
+      },
+      {
+            "question": "La válvula de protección del tractor se cerrará y los frenos de emergencia del remolque se aplicarán cuando haya una gran fuga en la línea de freno",
+            "options": [
+              "Estacionamiento",
+              "Servicio",
+              "Emergencia"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 622 – Válvula de protección del tractor</strong></p><p>Cuando la válvula de protección del tractor se cierra, impide que el aire salga del tractor También deja salir el aire de la línea de emergencia del remolque Esto hace que los frenos de emergencia del remolque se activen, con posible pérdida de control</p>"
+      },
+      {
+            "question": "En el enganche, la posición correcta de la quinta rueda es:",
+            "options": [
+              "Inclinado hacia arriba al final del remolque",
+              "Inclinado hacia el final del remolque",
+              "A nivel del suelo"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 641 - Acoplamiento Tractores-semirremolques</strong></p><p>Paso 1: Inspeccione la quinta rueda - Compruebe que la quinta rueda está en la posición adecuada para el acoplamiento: La rueda está inclinada hacia abajo, hacia la parte trasera del tractor</p>"
+      },
+      {
+            "question": "¿En qué marcha debe estar el motor del tractor después de desacoplar el remolque e inspeccionar los soportes del remolque?",
+            "options": [
+              "Neutral",
+              "Fuerte marcha atrás",
+              "Marcha atrás baja"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 642 - Desacoplamiento tractor-semirremolque</strong></p><p>Paso 8: Tractor seguro – Ajuste la transmisión a Neutral</p>"
+      },
+      {
+            "question": "Al desacoplar el remolque, después de desconectar el suministro de aire al remolque y bloquear los frenos del remolque, debe:",
+            "options": [
+              "Ponga los frenos de mano del tractor",
+              "Tren de aterrizaje del remolque inferior",
+              "Retroceda suavemente para aliviar la presión en la quinta rueda"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 642 - Desacoplamiento de tractores-semirremolques</strong></p><p>Paso 2: Alivie la presión sobre las mordazas de bloqueo - Alivie la presión sobre las mordazas de bloqueo de la quinta rueda retrocediendo suavemente (Esto le ayudará a soltar la palanca de bloqueo de la quinta rueda) </p>"
+      },
+      {
+            "question": "Está conduciendo un vehículo combinado cuando el remolque se rompe, separando las dos aerolíneas Esperas a que los frenos del remolque se activen y:",
+            "options": [
+              "La válvula de protección del tractor para cerrar",
+              "La válvula de alimentación del remolque debe permanecer abierta",
+              "El tractor pierde presión de aire"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 624  Líneas de aire del remolque</strong></p><p>La pérdida de presión puede ser causada por un remolque que se suelta, rompiendo así la manguera de aire de emergencia O podría ser causado por una manguera, tubería de metal u otra parte que se rompe, dejando salir el aire Cuando la línea de emergencia pierde presión, también hace que la válvula de protección del tractor se cierre (el botón de suministro de aire se desprenderá)</p>"
+      }
+      ]
+      
+      
+    
+    
+}

@@ -1,0 +1,190 @@
+.mainlabel{
+    padding: 8px;
+    color: #2C292A;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 160%; /* 25.6px */
+letter-spacing: 0.8px;
+}
+.certificatemain{
+    width: 100%;
+    height: 700px;
+    background-image: url("./certificateimage.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+ 
+}
+@media (min-width: 1440px){
+    .certificatemain{
+        width: 1440px;
+        margin: 0 auto;
+    }
+}
+.certificatetitle{
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+    text-align: center;
+    margin-top: 100px;
+}
+.persentedto{
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+    text-align: center;
+}
+.persentedto b{
+    font-weight: 700;
+}
+.certificatemain-content{
+ position: relative;
+ bottom: 20px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.innerofcertificate{
+    display: none;
+}
+.hidden-print-certificate{
+    /* position: fixed;
+    left: -10000px;
+    top: -10000px; */
+ 
+    pointer-events: none;
+}
+.backbtn{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+/* .maincontainerforstudent .customcard{
+    display: none;
+} */
+/* .maincontainerforstudent .buynewcourse{
+    display: block;
+} */
+
+.accordion-arrow {
+    transition: transform 0.3s ease;
+}
+.accordion-button::after {
+    display: none;
+}
+.accordion-button{
+    justify-content: space-between;
+    border: none;
+}
+
+
+.accordion{
+    border-radius: 20px;
+    border:none;
+    margin-top:35px;
+    overflow: hidden;
+  }
+.accordion-body{
+    padding-top: 0px;
+    padding-left:20px;
+    padding-right:20px
+
+  }
+.progress-bar-container {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    border-top:  1px solid #DBDBDB;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+.accordion-button:not(.collapsed){
+    background-color: #F5F5F5 !important;
+    color: black !important;
+}
+.graph{
+    width: 63px;
+    height: 63px;
+    background-color: grey;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.progressrange{
+   
+    background-color: yellow;
+   
+    
+}
+@media (min-width : 1440px) {
+    .maincontainerforstudent .navigationbtn{
+        width:95%;
+        left: 0;
+        right: 20px;
+    }
+}
+@media (min-width : 1800px) {
+    .maincontainerforstudent .navigationbtn{
+        width: 102%;
+       
+    }
+  
+    .maincontainerforstudent .navigationbtn .nextbtns{
+margin-right: 50px;  
+position: relative; 
+right: 40px; }
+}
+@media (max-width : 1440px) {
+   
+    .maincontainerforstudent  .card-content {
+        width: 50%;
+    }
+}
+@media (max-width : 1070px) {
+   
+    .maincontainerforstudent .card-content {
+        width: 80%;
+    }
+}
+@media (max-width : 786px) {
+   
+    .maincontainerforstudent  .card-content {
+        width: 100%;
+    }
+}
+.warning{
+    
+    display: flex;
+    width: 134px;
+    height: 48px;
+    /* padding: 169px 24px; */
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 8px;
+    background: #FBB723;
+}
+.newlineitem{
+    margin-left: 10px;
+}
+@media (max-width:786px) {
+    .progress-bar-container{
+        display:block;
+    }
+    .warning{
+        margin-top: 20px;
+        margin-bottom: 20px;
+
+    }
+    .newlineitem{
+        display: flex;
+        white-space: nowrap; 
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+
+}

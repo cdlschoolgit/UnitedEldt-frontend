@@ -1,0 +1,2064 @@
+{
+  "en":[
+    {
+      "question": "Animal and human foodstuffs should not be loaded in the same vehicle with:",
+      "options": [
+        "Poisons",
+        "Explosives",
+        "Oxidizers"
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 9.4.1 - General Loading Requirements</strong></p><p>Please see the \"Do Not Load Table.\" Animal or human food unless the poison package is over packed in an approved way. Foodstuffs are anything you swallow. However, mouthwash, toothpaste, and skin creams are not foodstuff.</p>"
+    },
+    {
+      "question": "A driver who transports controlled radioactive material must have had special training by the carrier within the last years.",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.0 - Hazardous Materials</strong></p><p>The regulations require that hazardous materials employees be trained and tested at least once every three years. All drivers must be trained in the security risks of hazardous materials transportation. This training must include how to recognize and respond to possible security threats.</p>"
+    },
+    {
+      "question": "Whenever your vehicle is placarded, do not drive near open fire unless you:",
+      "options": [
+        "Have an enclosed cargo compartment.",
+        "Are equipped with a fire sprinkler.",
+        "Can safely pass the fire without stopping."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.6.5 - Route Restrictions</strong></p><p>Never drive a placarded vehicle near open fires unless you can safely pass without stopping.</p>"
+    },
+    {
+      "question": "Which signals may be used to warn of a stopped vehicle which contains explosives?",
+      "options": [
+        "Signal fires.",
+        "Reflective triangles.",
+        "Flares."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.6.4 - No Flares!</strong></p><p>You might break down and have to use stopped vehicle signals. Use reflective triangles or red electric lights. Never use burning signals, such as flares or fuses.</p>"
+    },
+    {
+      "question": "A hazard class name or ID number may not be used to describe:",
+      "options": [
+        "Hazardous waste.",
+        "A reportable quantity of a hazardous substance.",
+        "Non-hazardous materials."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.3.5 - The Item Description</strong></p><p>Total quantity, number, and type of packages must appear before or after the basic description. The shipper of hazardous wastes must put the word WASTE before the proper shipping name of the material on the shipping paper (hazardous waste manifest).</p>"
+    },
+    {
+      "question": "A vehicle placarded for hazardous materials must have placards on sides.",
+      "options": [
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.3.3 - Lists of Regulated Products</strong></p><p>A placarded vehicle must have at least 4 identical placards. They are put on the front, rear, and both sides of the vehicle.</p>"
+    },
+    {
+      "question": "Who is responsible for packaging, labeling, and preparing the hazardous material shipping papers for a common carrier?",
+      "options": [
+        "Carrier",
+        "Driver",
+        "Shipper"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.3.7 - Package Markings and Labels</strong></p><p>Shippers print required markings directly on the package, an attached label, or tag. An important package marking is the name of the hazardous material. It is the same name as the one on the shipping paper. The requirements for marking vary by package size and material being transported.</p>"
+    },
+    {
+      "question": "The intent of the Hazardous Materials regulation has three parts: (1) to ensure safety of drivers and equipment (2) to communicate the risk and (3)?",
+      "options": [
+        "To allow state enforcement.",
+        "To contain the materials.",
+        "To tax the shipper correctly."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 2.23.2 - Why Are There Rules</strong></p><p>(1) Ensure safe drivers and equipment (2) Communicate the risk (3) Contain the product.</p>"
+    },
+    {
+      "question": "There are two lists that drivers, shippers, and carriers use to find out if a material is a regulated product. One of these is the:",
+      "options": [
+        "EPA (U.S. Environmental Protection Agency) Dangerous Materials Table.",
+        "Department of Transportation Hazard Chart.",
+        "List of Hazardous Materials and Reportable Quantities."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.3.3 - Lists of Regulated Products</strong></p><p>There are 3 main lists used by shippers, carriers, and drivers when trying to identify hazardous materials. Before transporting a material, look for its name on 3 lists. Some materials are on all lists, others on only one. Always check the following lists: (1) the Hazardous Materials Table (2) the List of Hazardous Substances and Reportable Quantities (3) the List of Marine Pollutants</p>"
+    },
+    {
+      "question": "If an X or RQ is in the hazardous materials column of a shipper paper entry, the:",
+      "options": [
+        "Entry refers to the materials that must be top loaded.",
+        "Shipment is regulated by hazardous materials regulations.",
+        "Material on that line is the biggest part of the shipment."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.3.8 - Recognizing Hazardous Materials</strong></p><p>Learn to recognize shipments of hazardous materials. To find out if the shipment includes hazardous materials, look at the shipping paper.Does it have: A highlighted entry or one with an X or RQ in the hazardous materials column.</p>"
+    },
+    {
+      "question": "Only one of these shipping papers description for a hazardous material is in the right order. Which one is it?",
+      "options": [
+        "Hexane, UN1208, Flammable Liquid.",
+        "UN1048, Hydrogen Bromide, Non-flammable gas.",
+        "Corrosive Material, Hydrochloric Acid, UN1789."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.3.5 - The Item Description</strong></p><p>The basic description of hazardous materials includes the ID number, proper shipping name, hazard class or division, and packing group, if any, in that order.</p>"
+    },
+    {
+      "question": "A vehicle carrying explosives has crashed with another vehicle. You should not pull them apart until:",
+      "options": [
+        "At least 30 minutes have passed.",
+        "The explosives have been placed at least 200 feet away from the vehicles and occupied buildings.",
+        "The shipper's loading foreman is present."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.7.4 - Responses to Specific Hazards</strong></p><p>Remove all explosives before separating vehicles involved in an accident. Place the explosives at least 200 feet from vehicles and occupied buildings. Stay a safe distance away.</p>"
+    },
+    {
+      "question": "You may not park a vehicle carrying hazardous materials within open fire. feet of an",
+      "options": [
+        "200",
+        "300",
+        "400"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.6.1 - Parking With Division 1.1, 1.2, or 1.3 Explosives</strong></p><p>Except for short periods of time needed for vehicle operation necessities (e.g., fueling), do not park within 300 feet of: (1) A bridge, tunnel, or building. (2) A place where people gather. (3) An open fire.</p>"
+    },
+    {
+      "question": "The transport index of a radioactive material:",
+      "options": [
+        "Is another way of writing the weight of the package.",
+        "Is something that only the shipper needs to worry about.",
+        "Tells the degree of control needed during transportation."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.4.1 - General Loading Requirements</strong></p><p>Class 7 (Radioactive) Materials: The transport index tells the degree of control needed during transportation. The total transport index of all packages in a single vehicle must not exceed 50.</p>"
+    },
+    {
+      "question": "When hauling hazardous materials, you must check your dual tires:",
+      "options": [
+        "After 11 hours of driving.",
+        "Every 2 hours.",
+        "At the start of each trip, when you park, and each time you stop."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.6.9 - Check Tires</strong></p><p>Check placarded vehicles with dual tires at the start of each trip and when you park. You must check the tires each time you stop.</p>"
+    },
+    {
+      "question": "You should stop nearest rail. feet before the",
+      "options": [
+        "10 to 35",
+        "5 to 20",
+        "15 to 50"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.6.12 - Stop Before Railroad Crossings</strong></p><p>You must stop 15 to 50 feet before the nearest rail.</p>"
+    },
+    {
+      "question": "You are transporting hazardous materials. When you are not behind the wheel, the shipping papers must be on the driver's seat or:",
+      "options": [
+        "On the dashboard in clear view.",
+        "In the driver's door pouch.",
+        "15 to 50"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.3.1 - Definitions</strong></p><p>Drivers to keep hazardous materials shipping papers in or on: A pouch on the driver's door, Clear view within immediate reach while the seat belt is fastened while driving, or the driver's seat when out of the vehicle.</p>"
+    },
+    {
+      "question": "If hazardous material is spilling from your vehicle, do not move your vehicle:",
+      "options": [
+        "In an upwind direction.",
+        "Any more than 500 feet.",
+        "Any more than safety requires."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.7.3 - Fires</strong></p><p>If hazardous materials are spilling from your vehicle, do not move it any more than safety requires.</p>"
+    },
+    {
+      "question": "The hazard class of a two-liter bottle of material is Flammable Liquid. If the description also says Poison Inhalation Hazard you should:",
+      "options": [
+        "Placard the vehicle POISON only if no other cargo requires it.",
+        "Placard the vehicle POISON and remove all other placards.",
+        "Placard the vehicle with both the  POISON and hazard class placards."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.3.3 - Lists of Regulated Products</strong></p><p>If the words INHALATION HAZARD appear on the shipping paper or package, the rules require display of the POISON INHALATION HAZARD or POISON GAS placards, as appropriate. These placards must be used in addition to other placards, which may be required by the product's hazard class. Always display the hazard class and POISON INHALATION HAZARD placards, even for small amounts.</p>"
+    },
+    {
+      "question": "You are going to be hauling hazardous materials over a route you do not know well. When should you check the route and the permits needed for the trip?",
+      "options": [
+        "Within 24 hours of the end of the trip.",
+        "While you are still on a part of the route that you know.",
+        "Before starting the trip."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.6.5 - Route Restrictions</strong></p><p>Some states and counties require permits to transport hazardous materials or wastes. They may limit the routes you can use. Local rules about routes and permits change often. It is your job as driver to find out if you need permits or must use special routes. Make sure you have all needed papers before starting.</p>"
+    },
+    {
+      "question": "Carriers must give each driver who transports Class 1.1 or 1.2 explosives:",
+      "options": [
+        "A list of rest stops the driver may use.",
+        "A copy of FMCSR (Federal Motor Carrier Safety Regulation) part 397.",
+        "An extra fire bottle."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.6.10 - Where to Keep Shipping Papers and Emergency Response Information</strong></p><p>A carrier must give each driver transporting Division 1.1, 1.2, or 1.3 explosives a copy of FMCSR, Part 397.</p>"
+    },
+    {
+      "question": "You should stop before crossing a railroad grade if your vehicle is carrying chlorine. of",
+      "options": [
+        "55 gallons",
+        "Any amount",
+        "110 gallons"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.6.12 - Stop Before Railroad Crossings</strong></p><p>Stop before a railroad crossing if your vehicle: Carries any amount of chlorine.</p>"
+    },
+    {
+      "question": "You are hauling hazardous materials and you find that one of your tires is leaking, you must:",
+      "options": [
+        "Report it to your carrier immediately.",
+        "Continue at reduced speed, and check that tire every 25 miles.",
+        "Stop at the nearest safe place and fix it."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.6.9 - Check Tires</strong></p><p>Do not drive with a tire that is leaking or flat except to the nearest safe place to fix it. Remove any overheated tire. Place it a safe distance from your vehicle. Do not drive until you correct the cause of the overheating.</p>"
+    },
+    {
+      "question": "When shippers package hazardous materials, they must certify that this was done according to regulations. The only exception is when:",
+      "options": [
+        "The shipment is a hazardous waste.",
+        "The driver is given a sealed cargo compartment.",
+        "The shipper is a private carrier carrying their own product."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.2.1 - The Shipper</strong></p><p>Must certify on the shipping paper that the shipment has been prepared according to the rules (unless you are pulling cargo tanks supplied by you or your employer).</p>"
+    },
+    {
+      "question": "When fueling a placarded vehicle someone must always be:",
+      "options": [
+        "Within 10 feet of the pump with a fire extinguisher.",
+        "At the emergency power shut-off for the pump.",
+        "At the nozzle, controlling the fuel flow."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.6.7 - Refuel With Engine Off</strong></p><p>Turn off your engine before fueling a motor vehicle containing hazardous materials. Someone must always be at the nozzle, controlling fuel flow.</p>"
+    },
+    {
+      "question": "The total transport index of all radioactive materials packages in a single vehicle must not exceed",
+      "options": [
+        "50",
+        "100",
+        "10"
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Section: 9.4.1 - General Loading Requirements</strong></p><p>The transport index tells the degree of control needed during transportation. The total transport index of all packages in a single vehicle must not exceed 50.</p>"
+    },
+    {
+      "question": "Who is responsible for checking that the shipper correctly named, labeled, and marked a hazardous materials shipment?",
+      "options": [
+        "Shipper",
+        "Manufacturer",
+        "Carrier"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.2.2 - The Carrier</strong></p><p>Prior to transportation, checks that the shipper correctly described, marked, labeled, and otherwise prepared the shipment for transportation.</p>"
+    },
+    {
+      "question": "If there is an RQ before or after the item description on the shipping paper, it means the:",
+      "options": [
+        "Material is in a package containing no other materials.",
+        "Material has an insurance value of over $1,000.",
+        "Carrier must report a spill of this material."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p>Section: 9.3.3 - Lists of Regulated Products</p><p>The letters RQ may appear before or after the basic description. You or your employer must report any spill of these materials, which occurs in an RQ.</p>"
+    },
+    {
+      "question": "You need to warn other motorists of a stopped vehicle which has a tank used for flammable liquid or gases. You may use:",
+      "options": [
+        "Signal fires.",
+        "Reflective triangles.",
+        "Flares."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.6.4 - No Flares!</strong></p><p>You might break down and have to use stopped vehicle signals. Use reflective triangles or red electric lights. Never use burning signals, such as flares or fuses.</p>"
+    },
+    {
+      "question": "You have hazardous materials leaking from a container but not spilling from your vehicle. Drive to the closest area where you can get help:",
+      "options": [
+        "In repacking the leaking materials with plastic overwrap.",
+        "And call emergency personnel if they are needed.",
+        "As fast as you can if it is damaging your truck."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.7.3 - Fires</strong></p><p>Never move your vehicle, if doing so will cause contamination or damage the vehicle. Keep upwind and away from roadside rest stops, truck stops, cafes, and businesses. Never try to repack leaking containers. Unless you have the training and equipment to repair leaks safely, do not try it. Call your dispatcher or supervisor for instructions and, if needed, emergency personnel.</p>"
+    },
+    {
+      "question": "You have loaded a hazardous material into a cargo tank. What must you do before you move the vehicle?",
+      "options": [
+        "Place shipping papers within your reach.",
+        "Have the loading observers sign off on the shipping papers.",
+        "Close all manholes and valves and be sure they are free of leaks."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.5.2 - Tank Loading</strong></p><p>Close all manholes and valves before moving a tank of hazardous materials, no matter how small the amount in the tank or how short the distance. Manholes and valves must be closed to prevent leaks. It is illegal to move a cargo tank with open valves or covers unless it is empty according to CFR, Title 49 section 173.29.</p>"
+    },
+    {
+      "question": "When transporting chlorine in a cargo tank, you must have:",
+      "options": [
+        "An approved gas mask.",
+        "An emergency kit for controlling leaks in fittings on the dome cover plate.",
+        "Both."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.6.11 - Equipment for Chlorine</strong></p><p>A driver transporting chlorine in cargo tanks must have an approved gas mask in the vehicle. The driver must also have an emergency kit for controlling leaks in dome cover plate fittings on the cargo tank.</p>"
+    },
+    {
+      "question": "If the word Forbidden appears in the hazard class column of an entry in the hazardous materials table:",
+      "options": [
+        "A shipment of this material must never be larger than RQ.",
+        "The carrier may not open the package or container.",
+        "A common carrier must never transport the material."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.3.3 - Lists of Regulated Products</strong></p><p>Column 3: shows a material's hazard class or division, or the entry \"Forbidden.\" Never transport a \"forbidden\" material.</p>"
+    },
+    {
+      "question": "Your vehicle contains explosives, oxidizer or flammables. No one may smoke within feet of the vehicle.",
+      "options": [
+        "15",
+        "35",
+        "25"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.6.6 - No Smoking</strong></p><p>Do not smoke within 25 feet of a placarded cargo tank used for Class 3 (flammable liquids) or Division 2.1 (gases).</p>"
+    },
+    {
+      "question": "When handling packages of explosives, you must:",
+      "options": [
+        "Double wrap wet boxes in plastic to prevent staining.",
+        "Never use hooks or other metal tools.",
+        "Roll the packages carefully, with no sharp or jarring actions."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.4.1 - General Loading Requirements</strong></p><p>Use extra care to protect explosives. Never use hooks or other metal tools. Never drop, throw, or roll packages. Protect explosive packages from other cargo that might cause damage.</p>"
+    },
+    {
+      "question": "Who is responsible for safely transporting a hazardous material shipment without delay and keeping the shipping papers in the right place?",
+      "options": [
+        "The carrier.",
+        "The shipper.",
+        "The driver."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.2.3 - The Driver</strong></p><p>Safely transports the shipment without delay.</p>"
+    },
+    {
+      "question": "A railroad crossing is ahead of you and you are hauling hazardous material. When you stop for the crossing, you can stop as far away as feet from the nearest rail.",
+      "options": [
+        "75",
+        "100",
+        "50"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.6.12 - Stop Before Railroad Crossings</strong></p><p>You must stop 15 to 50 feet before the nearest rail. Proceed only when you are sure no train is coming and you can clear the tracks without stopping. Do not shift gears while crossing the tracks.</p>"
+    },
+    {
+      "question": "The basic description of a hazardous material includes the hazard class, the identification number and the proper shipping name. Which one must appear first in the shipping paper?",
+      "options": [
+        "The hazard class.",
+        "The identification number.",
+        "The proper shipping name."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.3.5 - The Item Description</strong></p><p>The basic description of hazardous materials includes the ID number, proper shipping name, hazard class or division, and packing group, if any, in that order.</p>"
+    },
+    {
+      "question": "Class 1.1 explosives must not be transported in a combination vehicle if it includes:",
+      "options": [
+        "Two or more trailers.",
+        "A placarded cargo tank.",
+        "A vehicle carrying foodstuffs."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.4.1 - General Loading Requirements</strong></p><p>Do not transport Division 1.1 or 1.2 explosives in vehicle combinations if: There is a marked or placarded cargo tank in the combination.</p>"
+    },
+    {
+      "question": "You find an overheated tire during inspection. If you are hauling hazardous materials, you must:",
+      "options": [
+        "Wait at least 2 hours before continuing on your trip.",
+        "Cool the tire, then check it every 2 hours.",
+        "Remove the tire and place it at a distance from the vehicle."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.6.9 - Check Tires</strong></p><p>Do not drive with a tire that is leaking or flat except to the nearest safe place to fix it. Remove any overheated tire. Place it a safe distance from your vehicle. Do not drive until you correct the cause of the overheating.</p>"
+    },
+    {
+      "question": "The power unit of a placarded vehicle must have a fire extinguisher with a UL rating of B:C or more.",
+      "options": [
+        "5",
+        "10",
+        "15"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.6.8 - 10 B: C Fire Extinguisher</strong></p><p>The power unit of placarded vehicles must have a fire extinguisher with an Underwriters Laboratories (UL) rating of 10 B:C or more.</p>"
+    },
+    {
+      "question": "If you need to placard a vehicle for hazardous materials, how many placards will you need?",
+      "options": [
+        "2",
+        "4",
+        "3"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.3.3 - Lists of Regulated Products</strong></p><p>A placarded vehicle must have at least 4 identical placards. They are put on the front, rear, and both sides of the vehicle.</p>"
+    },
+    {
+      "question": "A dated certificate of radioactive materials training must be:",
+      "options": [
+        "Signed by your insurance agent.",
+        "Kept in the driver's vehicle.",
+        "Carried by the driver."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.0 - Hazardous Materials</strong></p><p>Continuous Training Requirements: The regulations also require that drivers have special training before driving a vehicle transporting certain flammable gas materials or highway-route controlled quantities of radioactive materials. In addition, drivers transporting cargo tanks and portable tanks must receive specialized training. Each driver's employer or his or her designated representative must provide such training.</p>"
+    },
+    {
+      "question": "A properly prepared Uniform Hazardous Waste Manifest:",
+      "options": [
+        "Is the same as any other shipping paper.",
+        "Is required only if there is a loss of cargo during transport.",
+        "Must be signed and carried by anyone transporting a hazardous waste."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.3.9 - Hazardous Waste Manifest</strong></p><p>Each carrier transporting the shipment must sign by hand the manifest. After you deliver the shipment, keep your copy of the manifest. Each copy must have all needed signatures and dates, including those of the person to whom you delivered the waste.</p>"
+    },
+    {
+      "question": "With most hazardous materials, you may park within 5 feet of the road briefly, if your work requires it. The materials, which are the exception and do not allow parking this close to the roadside, are:",
+      "options": [
+        "Acids and poisons.",
+        "Explosives 1.1 and 1.2.",
+        "Corrosives and oxidizers."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.6.1 - Parking With Division 1.1, 1.2, or 1.3 Explosives</strong></p><p>Never park with Division 1.1, 1.2, or 1.3 explosives within 5 feet of the traveled part of the road.</p>"
+    },
+    {
+      "question": "You have a vehicle without racks to hold cylinders of compressed gas. You may load such cylinders only if they are:",
+      "options": [
+        "Labeled Non-flammable gas.",
+        "Loaded upright or braced laying down flat.",
+        "Less than a half of the load."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.4.1 - General Loading Requirements</strong></p><p>If your vehicle does not have racks to hold cylinders, the cargo space floor must be flat. The cylinders must be: (1) Held upright. (2) Cylinders may be loaded in a horizontal position (lying down) if it is designed so the relief valve is in the vapor space.</p>"
+    },
+    {
+      "question": "Who is responsible for finding out what permits or special routes you will need to haul hazardous materials?",
+      "options": [
+        "The carrier.",
+        "The driver.",
+        "The shipper."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.0 - Hazardous Materials</strong></p><p>Some locations require permits to transport certain explosives or bulk hazardous wastes. States and counties also may require drivers to follow special hazardous materials routes. The federal government may require permits or exemptions for special hazardous materials cargo such as rocket fuel. Find out about permits, exemptions, and special routes for the places you drive.</p>"
+    },
+    {
+      "question": "If you are in an accident involving hazardous materials, you should:",
+      "options": [
+        "Prevent a panic by acting like nothing is wrong.",
+        "Tell only the Emergency Response Team about the hazard.",
+        "Keep all people away and upwind of the accident."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.7.2 - Accidents/Incidents</strong></p><p>As a professional driver, your job at the scene of an accident or an incident is to: Keep people away from the scene, Keep people far away and upwind.</p>"
+    },
+    {
+      "question": "The intent of the Hazardous Materials regulation has three parts: (1) to ensure safe drivers and equipment (2) to contain the materials and (3)?",
+      "options": [
+        "To allow state enforcement.",
+        "To tax shippers correctly.",
+        "To communicate the risk."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 2.23.2 - Why Are There Rules</strong></p><p>(1) Ensure safe drivers and equipment (2) Communicate the risk (3) Contain the product</p>"
+    },
+    {
+      "question": "You are behind the wheel of a truck carrying a hazardous material shipment. The shipping papers must be on the pouch on the driver's door or in:",
+      "options": [
+        "A pouch on the inside of the trailer door.",
+        "The glove compartment.",
+        "Clear view within your reach."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.3.1 - Definitions</strong></p><p>Clear view within immediate reach while the seat belt is fastened while driving.</p>"
+    },
+    {
+      "question": "To find out if a shipment includes a hazardous material, you should:",
+      "options": [
+        "Look at the shipping license.",
+        "Open and inspect every package and container.",
+        "Look at the shipping papers."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.3.8 - Recognizing Hazardous Materials</strong></p><p>Learn to recognize shipments of hazardous materials. To find out if the shipment includes hazardous materials, look at the shipping paper.</p>"
+    },
+    {
+      "question": "A vehicle contains 500 pounds each of explosives class 1.1 and 1.2. You must use:",
+      "options": [
+        "Dangerous placards.",
+        "Explosives and Dangerous placards.",
+        "Explosives 1.1 placards."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Section: 9.3.10 - Placarding</strong></p><p>Please see figure 9.7: Placard Table #1</p>"
+    },
+    {
+      "question": "Which of the following must drivers have in their possession while transporting Class 1.1 or 1.2 explosives?",
+      "options": [
+        "The carrier's insurance policy.",
+        "The written route plan.",
+        "A citizen's band radio."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.6.5 - Route Restrictions</strong></p><p>If transporting Division 1.1, 1.2, or 1.3 explosives, you must have a written route plan and follow that plan.</p>"
+    },
+    {
+      "question": "An X in the hazardous materials column of a shipping paper entry means:",
+      "options": [
+        "This is an exception to the hazardous materials regulations.",
+        "The entry is for a hazardous material.",
+        "The material is not a hazardous material."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.3.8 - Recognizing Hazardous Materials</strong></p><p>Learn to recognize shipments of hazardous materials. To find out if the shipment includes hazardous materials, look at the shipping paper.Does it have: A highlighted entry or one with an X or RQ in the hazardous materials column.</p>"
+    },
+    {
+      "question": "While loading or unloading a cargo tank, a qualified person must be watching and be within feet of the tank.",
+      "options": [
+        "15",
+        "25",
+        "20"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.5.2 - Tank Loading</strong></p><p>The person in charge of loading and unloading a cargo tank must be sure a qualified person is always watching. This person watching the loading or unloading must: Be within 25 feet of the tank.</p>"
+    },
+    {
+      "question": "You are driving a vehicle loaded with explosives, when is it safe to leave the vehicle unattended?",
+      "options": [
+        "When parked in a truck stop.",
+        "When parked in a designated safe haven.",
+        "Never."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.6.1 - Parking with Division 1.1, 1.2, or 1.3 Explosives</strong></p><p>You are allowed to leave your vehicle unattended in a safe haven. A safe haven is an approved place for parking unattended vehicles loaded with explosives. Designation of authorized safe havens is usually made by local authorities.</p>"
+    },
+    {
+      "question": "Nitric acid should not be loaded:",
+      "options": [
+        "Below any other product.",
+        "Above any other product.",
+        "Adjacent to any other product."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Section: 9.4.1 - General Loading Requirements</strong></p><p>Class 8 (Corrosive) Materials: Do not load nitric acid above any other product.</p>"
+    }
+  ],
+  "pt":[
+    {
+          "question": "Os géneros alimentícios animais e humanos não devem ser carregados no mesmo veículo com:",
+          "options": [
+            "Venenos",
+            "Explosivos",
+            "Oxidantes"
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><strong>Seção: 9.4.1 - Requisitos gerais de carregamento</strong></p><p>Consulte a  tabela \"Não carregar.\" Alimentos para animais ou humanos, a menos que a embalagem de veneno esteja sobreembalada de forma aprovada. Alimentos são qualquer coisa que você engole. No entanto, enxaguante bucal, creme dental e cremes para a pele não são alimentos.</p>"
+    },
+    {
+          "question": "Um motorista que transporta material radioativo controlado deve ter recebido treinamento especial do transportador nos últimos anos.",
+          "options": [
+            "1",
+            "2",
+            "3"
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Seção: 9.0 - Materiais Perigosos</strong></p><p>Os regulamentos exigem que os funcionários de materiais perigosos sejam treinados e testados pelo menos uma vez a cada três anos. Todos os motoristas devem ser treinados sobre os riscos de segurança do transporte de materiais perigosos. Esse treinamento deve incluir como reconhecer e responder a possíveis ameaças à segurança.</p>"
+    },
+    {
+          "question": "Sempre que o seu veículo estiver sinalizado, não conduza perto de fogo aberto, a menos que:",
+          "options": [
+            "Tenha um compartimento de carga fechado.",
+            "Estão equipados com um aspersor de incêndio.",
+            "Pode passar o fogo com segurança sem parar."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Seção: 9.6.5 - Restrições de rota</strong></p><p>Nunca dirija um veículo com placas perto de fogueiras, a menos que você possa passar com segurança sem parar.</p>"
+    },
+    {
+          "question": "Que sinais podem ser utilizados para avisar de um veículo parado que contenha explosivos?",
+          "options": [
+            "Sinalizar incêndios.",
+            "Triângulos reflexivos.",
+            "Sinalizadores"
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 9.6.4 - Sem Flares!</strong></p><p>Você pode quebrar e ter que usar sinais de veículos parados. Use triângulos refletivos ou luzes elétricas vermelhas. Nunca use sinais de queima, como sinalizadores ou fusíveis.</p>"
+    },
+    {
+          "question": "Um nome de classe de perigo ou número de identificação não pode ser usado para descrever:",
+          "options": [
+            "Resíduos perigosos",
+            "Uma quantidade reportável de uma substância perigosa.",
+            "Materiais não perigosos."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Seção: 9.3.5 - A descrição do item</strong></p><p>A quantidade, o número e o tipo de pacotes totais devem aparecer antes ou depois da descrição básica. O expedidor de resíduos perigosos deve colocar a palavra RESÍDUOS antes do nome de transporte adequado do material no papel de transporte (manifesto de resíduos perigosos).</p>"
+    },
+    {
+          "question": "Um veículo com placas para materiais perigosos deve ter cartazes nas laterais.",
+          "options": [
+            "2",
+            "3",
+            "4"
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 9.3.3 - Listas de Produtos Regulamentados</strong></p><p>Um veículo com placa deve ter pelo menos 4 placas idênticas. Eles são colocados na frente, atrás e em ambos os lados do veículo.</p>"
+    },
+    {
+          "question": "Quem é responsável por embalar, rotular e preparar os papéis de transporte de materiais perigosos para uma transportadora comum?",
+          "options": [
+            "Transportadora",
+            "Motorista",
+            "Expedidor"
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "motivo": "<p><strong>Seção: 9.3.7 - Marcas e etiquetas da embalagem</strong></p><p>Os expedidores imprimem as marcações necessárias diretamente na embalagem, em uma etiqueta anexada ou na etiqueta. Uma marcação importante da embalagem é o nome do material perigoso. É o mesmo nome do papel de envio. Os requisitos para a marcação variam de acordo com o tamanho da embalagem e o material a ser transportado.</p>"
+    },
+    {
+          "question": "A intenção do regulamento de Materiais Perigosos tem três partes: (1) garantir a segurança dos motoristas e equipamentos, (2) comunicar o risco e (3)?",
+          "options": [
+            "Para permitir a fiscalização estatal.",
+            "Para conter os materiais.",
+            "Tributar o embarcador corretamente."
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção: 2.23.2 - Por que existem regras</strong></p><p>(1) Garantir a segurança de motoristas e equipamentos (2) Comunicar o risco (3) Conter o produto.</p>"
+    },
+    {
+          "Question": "Existem duas listas que motoristas, embarcadores e transportadores usam para descobrir se um material é um produto regulamentado. Uma delas é a:",
+          "options": [
+            "Tabela de Materiais Perigosos da EPA (Agência de Proteção Ambiental dos EUA).",
+            "Carta de Perigo do Departamento de Transportes",
+            "Lista de Materiais Perigosos e Quantidades Reportáveis."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Seção: 9.3.3 - Listas de Produtos Regulamentados</strong></p><p>Existem 3 listas principais usadas por embarcadores, transportadores e motoristas ao tentar identificar materiais perigosos. Antes de transportar um material, procure seu nome em 3 listas. Alguns materiais estão em todas as listas, outros em apenas uma. Verifique sempre as seguintes listas: (1) a Tabela de Materiais Perigosos (2) a Lista de Substâncias Perigosas e Quantidades Reportáveis (3) a Lista de Poluentes Marinhos</p>"
+    },
+    {
+          "question": "Se um X ou RQ estiver na coluna de materiais perigosos de uma entrada de papel do expedidor, o:",
+          "options": [
+            "Entrada refere-se aos materiais que devem ser carregados superiormente.",
+            "O envio é regulado por regulamentos de materiais perigosos.",
+            "O material dessa linha é a maior parte da remessa."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 9.3.8 - Reconhecendo materiais perigosos</strong></p><p>Aprenda a reconhecer remessas de materiais perigosos. Para saber se a remessa inclui materiais perigosos, consulte o documento de remessa. Tem: Uma entrada destacada ou com um X ou RQ na coluna de materiais perigosos.</p>"
+    },
+    {
+          "question": "Apenas uma dessas descrições de documentos de remessa para um material perigoso está na ordem correta. Qual é?",
+          "options": [
+            "Hexano, UN1208, Líquido inflamável.",
+            "UN1048, Brometo de hidrogênio, gás não inflamável.",
+            "Material corrosivo, ácido clorídrico, UN1789."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "motivo": "<p><strong>Seção: 9.3.5 - A Descrição do Item</strong></p><p>A descrição básica dos materiais perigosos inclui o número de identificação, nome próprio do navio, classe ou divisão de perigo e grupo de embalagem, se houver, nessa ordem.</p>"
+    },
+    {
+        "question":"Um veículo que transportava explosivos colidiu com outro veículo. Você não deve separá-los até:",
+          "options": [
+            "Pelo menos 30 minutos se passaram.",
+            "Os explosivos foram colocados a pelo menos 200 metros de distância dos veículos e dos edifícios ocupados.",
+            "O capataz de carregamento do embarcador está presente."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 9.7.4 - Respostas a perigos específicos</forte></p><p>Remover todos os explosivos antes de separar os veículos envolvidos em um acidente. Coloque os explosivos a pelo menos 200 metros de veículos e edifícios ocupados. Fique a uma distância segura.</p>"
+    },
+    {
+          "question": "Você não pode estacionar um veículo transportando materiais perigosos dentro de fogo aberto. pés de um",
+          "options": [
+            "200",
+            "300",
+            "400"
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 9.6.1 - Estacionamento com Divisão 1.1, 1.2 ou 1.3 Explosivos</strong></p><p>Exceto por curtos períodos de tempo necessários para necessidades de operação do veículo (por exemplo, abastecimento), não estacione a menos de 300 pés de: (1) Uma ponte, túnel ou edifício. (2) Um lugar onde as pessoas se reúnem. (3) Uma fogueira.</p>"
+    },
+    {
+          "question": "Índice de transporte de uma matéria radioactiva:",
+          "options": [
+            "É outra forma de escrever o peso do pacote.",
+            "É algo que só o embarcador precisa se preocupar.",
+            "Informa o grau de controle necessário durante o transporte."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 9.4.1 - Requisitos Gerais de Carregamento</strong></p><p>Classe 7 (Radioativos) Materiais: O índice de transporte informa o grau de controle necessário durante o transporte. O índice de transporte total de todos os volumes num único veículo não deve exceder 50,</p>"
+    },
+    {
+          "question": "Ao transportar materiais perigosos, deve verificar os pneus duplos:",
+          "options": [
+            "Depois de 11 horas de condução.",
+            "A cada 2 horas.",
+            "No início de cada viagem, quando você estaciona e cada vez que você para."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 9.6.9 - Verifique Pneus</forte></p><p>Verifique veículos com pneus duplos no início de cada viagem e quando estacionar. Você deve verificar os pneus cada vez que parar.</p>"
+    },
+    {
+          "question": "Você deve parar o trem mais próximo. pés antes do",
+          "options": [
+            "10 a 35",
+            "5 a 20",
+            "15 a 50"
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Seção: 9.6.12 - Parar antes das travessias ferroviárias</strong></p><p>Você deve parar de 15 a 50 pés antes do trilho mais próximo.</p>"
+    },
+    {
+          "question": "Você está transportando materiais perigosos. Quando não estiver ao volante, os documentos de envio devem estar no banco do condutor ou:",
+          "options": [
+            "No painel em visão clara.",
+            "Na bolsa da porta do motorista.",
+            "15 a 50"
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 9.3.1 - Definições</forte></p><p>Motoristas para manter papéis de transporte de materiais perigosos dentro ou em: Uma bolsa na porta do motorista, Visão clara ao alcance imediato enquanto o cinto de segurança é preso durante a condução, ou o banco do motorista quando fora do veículo.</p>"
+    },
+    {
+          "question": "Se houver derramamento de material perigoso do seu veículo, não mova o seu veículo:",
+          "options": [
+            "Em uma direção ascendente.",
+            "Qualquer mais de 500 pés.",
+            "Mais do que a segurança exige."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "motivo": "<p><forte>Seção: 9.7.3 - Incêndios</forte></p><p>Se materiais perigosos estiverem derramando do seu veículo, não o mova mais do que a segurança exige.</p>"
+    },
+    {
+          "question": "A classe de perigo de uma garrafa de dois litros de material é Líquido inflamável. Se a descrição também diz Perigo de inalação de veneno, você deve:",
+          "options": [
+            "Placard o veículo POISON somente se nenhuma outra carga exigir.",
+            "Placard o veículo POISON e remover todos os outros cartazes.",
+            "Placard o veículo com os cartazes POISON e hazard class."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 9.3.3 - Listas de Produtos Regulamentados</strong></p><p>Se as palavras PERIGO DE INALAÇÃO aparecerem no papel ou embalagem de remessa, as regras exigem a exibição dos cartazes PERIGO DE INALAÇÃO DE VENENO ou GÁS VENENOSO, conforme o caso. Estes cartazes devem ser utilizados em complemento de outros cartazes, que podem ser exigidos pela classe de perigo do produto. Exiba sempre a classe de perigo e os cartazes de PERIGO DE INALAÇÃO DE VENENO, mesmo para pequenas quantidades.</p>"
+    },
+    {
+          "question": "Você vai estar transportando materiais perigosos por uma rota que você não conhece bem. Quando você deve verificar a rota e as autorizações necessárias para a viagem?",
+          "options": [
+            "Dentro de 24 horas após o fim da viagem.",
+            "Enquanto você ainda está em uma parte da rota que você conhece.",
+            "Antes de começar a viagem."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 9.6.5 - Restrições de rota</strong></p><p>Alguns estados e municípios exigem autorizações para transportar materiais ou resíduos perigosos. Eles podem limitar as rotas que você pode usar. As regras locais sobre rotas e permissões mudam com frequência. É seu trabalho como motorista descobrir se você precisa de licenças ou deve usar rotas especiais. Certifique-se de ter todos os documentos necessários antes de começar.</p>"
+    },
+    {
+          "question": "Os transportadores devem fornecer a cada condutor que transporte explosivos das classes 1.1 ou 1.2:",
+          "options": [
+            "Uma lista de paradas de descanso que o motorista pode usar.",
+            "Uma cópia do FMCSR (Federal Motor Carrier Safety Regulation) parte 397.",
+            "Uma garrafa de fogo extra."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 9.6.10 - Onde manter os documentos de remessa e informações de resposta a emergências</strong></p><p>Uma transportadora deve fornecer a cada motorista que transporta explosivos da Divisão 1.1, 1.2 ou 1.3 uma cópia do FMCSR, Parte 397.</p>"
+    },
+    {
+          "question": "Você deve parar antes de atravessar uma linha férrea se seu veículo estiver transportando cloro. de",
+          "options": [
+            "55 galões",
+            "Qualquer montante",
+            "110 galões"
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 9.6.12 - Pare antes da travessia ferroviária</strong></p><p>Pare antes de uma travessia ferroviária se o seu veículo: Transportar qualquer quantidade de cloro.</p>"
+    },
+    {
+          "question": "Você está transportando materiais perigosos e descobre que um de seus pneus está vazando, você deve:",
+          "options": [
+            "Denuncie à sua operadora imediatamente.",
+            "Continue em velocidade reduzida e verifique o pneu a cada 25 quilômetros.",
+            "Pare no local seguro mais próximo e conserte."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 9.6.9 - Verifique Pneus</strong></p><p>Não dirija com um pneu que esteja vazando ou furado, exceto para o local seguro mais próximo para consertá-lo. Remova qualquer pneu superaquecido. Coloque-o a uma distância segura do seu veículo. Não dirija até corrigir a causa do superaquecimento.</p>"
+    },
+    {
+          "question": "Quando os expedidores embalam materiais perigosos, eles devem certificar que isso foi feito de acordo com os regulamentos. A única exceção é quando:",
+          "options": [
+            "O carregamento é um resíduo perigoso.",
+            "O motorista recebe um compartimento de carga lacrado.",
+            "O embarcador é um transportador privado que transporta seu próprio produto."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Seção: 9.2.1 - O Expedidor</strong></p><p>Deve certificar no papel de embarque que a remessa foi preparada de acordo com as regras (a menos que você esteja puxando tanques de carga fornecidos por você ou seu empregador).</p>"
+    },
+    {
+          "question": "Ao abastecer um veículo com placa alguém deve estar sempre:",
+          "options": [
+            "A 10 metros da bomba com um extintor de incêndio.",
+            "No desligamento emergencial da bomba.",
+            "No bico, controlando o fluxo de combustível."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Seção: 9.6.7 - Reabastecer com o motor desligado</strong></p><p>Desligue o motor antes de abastecer um veículo a motor que contenha materiais perigosos. Alguém deve estar sempre no bico, controlando o fluxo de combustível.</p>"
+    },
+    {
+          "question": "O índice total de transporte de todos os pacotes de materiais radioactivos num único veículo não deve exceder",
+          "options": [
+            "50",
+            "100",
+            "10"
+    ],
+          "correctAnswer": [
+            0
+    ],
+          "reason": "<p><forte>Seção: 9.4.1 - Requisitos Gerais de Carregamento</strong></p><p>O índice de transporte informa o grau de controle necessário durante o transporte. O índice de transporte total de todos os volumes num único veículo não deve exceder 50,</p>"
+    },
+    {
+          "question": "Quem é responsável por verificar se o remetente nomeou, rotulou e marcou corretamente uma remessa de materiais perigosos?",
+          "options": [
+            "Expedidor",
+            "Fabricante",
+            "Transportadora"
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "motivo": "<p><strong>Seção: 9.2.2 - O Transportador</strong></p><p>Antes do transporte, verifica se o remetente corretamente descreveu, marcou, rotulou e preparou corretamente a remessa para o transporte.</p>"
+    },
+    {
+          "question": "Se houver um RQ antes ou depois da descrição do item no papel de remessa, significa o:",
+          "options": [
+            "O material está em uma embalagem que não contém outros materiais.",
+            "O material tem um valor de seguro de mais de US$ 1.000.",
+            "O transportador deve relatar um vazamento desse material."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "motivo": "<p>Seção: 9.3.3 - Listas de Produtos Regulamentados</p><p>As letras RQ podem aparecer antes ou depois da descrição básica. Você ou seu empregador devem relatar qualquer derramamento desses materiais, que ocorra em um RQ.</p>"
+    },
+    {
+        "question": "Você precisa avisar outros motoristas de um veículo parado que tem um tanque usado para líquidos ou gases inflamáveis. Você pode usar:",
+          "options": [
+            "Sinalizar incêndios.",
+            "Triângulos reflexivos.",
+            "Sinalizadores"
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 9.6.4 - Sem Flares!</strong></p><p>Você pode quebrar e ter que usar sinais de veículos parados. Use triângulos refletivos ou luzes elétricas vermelhas. Nunca use sinais de queima, como sinalizadores ou fusíveis.</p>"
+    },
+    {
+          "question": "Você tem materiais perigosos vazando de um contêiner, mas não derramando do seu veículo. Dirija até a área mais próxima, onde você pode obter ajuda:",
+          "options": [
+            "Ao reembalar os materiais vazados com overwrap plástico.",
+            "E chame o pessoal de emergência se for necessário.",
+            "O mais rápido possível se estiver danificando seu caminhão."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "motivo": "<p><forte>Seção: 9.7.3 - Incêndios</forte></p><p>Nunca mova seu veículo, se isso causar contaminação ou danificar o veículo. Mantenha-se ao vento e longe de paradas de descanso à beira da estrada, paradas de caminhões, cafés e empresas. Nunca tente reembalar recipientes com vazamento. A menos que você tenha treinamento e equipamentos para reparar vazamentos com segurança, não tente. Ligue para seu despachante ou supervisor para obter instruções e, se necessário, pessoal de emergência.</p>"
+    },
+    {
+          "question": "Você carregou um material perigoso em um tanque de carga. O que você deve fazer antes de mover o veículo?",
+          "options": [
+            "Coloque os papéis de envio ao seu alcance.",
+            "Peça aos observadores de carregamento que aprovem os papéis de embarque.",
+            "Feche todos os bueiros e válvulas e certifique-se de que estão livres de vazamentos."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 9.5.2 - Carregamento do tanque</forte></p><p>Feche todos os bueiros e válvulas antes de mover um tanque de materiais perigosos, não importa quão pequena seja a quantidade no tanque ou quão curta seja a distância. Os bueiros e válvulas devem ser fechados para evitar vazamentos. É ilegal mover um tanque de carga com válvulas ou tampas abertas, a menos que esteja vazio de acordo com a CFR, Título 49, seção 173.29.</p>"
+    },
+    {
+          "question": "Ao transportar cloro em um tanque de carga, você deve ter:",
+          "options": [
+            "Uma máscara de gás aprovada.",
+            "Um kit de emergência para controle de vazamentos em encaixes na placa de cobertura da cúpula.",
+            "Os dois."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "motivo": "<p><forte>Seção: 9.6.11 - Equipamento para cloro</forte></p><p>O motorista que transporta cloro em tanques de carga deve ter uma máscara de gás aprovada no veículo. O motorista também deve ter um kit de emergência para controlar vazamentos nos encaixes da placa de cobertura da cúpula no tanque de carga.</p>"
+    },
+    {
+          "question": "Se a palavra Proibido aparecer na coluna de classe de perigo de uma entrada no quadro de matérias perigosas:",
+          "options": [
+            "Uma remessa desse material nunca deve ser maior do que a RQ.",
+            "A transportadora não pode abrir o pacote ou o contêiner.",
+            "Um transportador comum nunca deve transportar o material."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 9.3.3 - Listas de Produtos Regulamentados</strong></p><p>Coluna 3: mostra a classe ou divisão de perigo de um material, ou a entrada \"Proibido.\" Nunca transporte um  material \"proibido\".</p>"
+    },
+    {
+          "question": "Seu veículo contém explosivos, oxidantes ou inflamáveis. Ninguém pode fumar a poucos metros do veículo",
+          "options": [
+            "15",
+            "35",
+            "25"
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 9.6.6 - Não fumar</forte></p><p>Não fume a menos de 25 pés de um tanque de carga placarded usado para a Classe 3 (líquidos inflamáveis) ou Divisão 2.1 (gases).</p>"
+    },
+    {
+          "question": "Ao manusear pacotes de explosivos, deve:",
+          "options": [
+            "Envolva duplamente as caixas molhadas em plástico para evitar manchas.",
+            "Nunca use ganchos ou outras ferramentas de metal.",
+            "Enrole os pacotes com cuidado, sem ações bruscas ou chocantes."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 9.4.1 - Requisitos gerais de carregamento</strong></p><p>Use cuidado extra para proteger explosivos. Nunca use ganchos ou outras ferramentas de metal. Nunca solte, jogue ou enrole pacotes. Proteja pacotes explosivos de outras cargas que possam causar danos.</p>"
+    },
+    {
+          "question": "Quem é responsável por transportar com segurança uma remessa de material perigoso sem demora e manter os documentos de embarque no lugar certo?",
+          "options": [
+            "A transportadora.",
+            "O embarcador.",
+            "O motorista."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Seção: 9.2.3 - O Motorista</strong></p><p>Transporta a remessa com segurança sem demora.</p>"
+    },
+    {
+          "question": "Uma travessia ferroviária está à sua frente e você está transportando material perigoso. Quando você para para a travessia, você pode parar a poucos metros do trilho mais próximo.",
+          "options": [
+            "75",
+            "100",
+            "50"
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Seção: 9.6.12 - Parar antes da travessia ferroviária</strong></p><p>Você deve parar de 15 a 50 pés antes do trilho mais próximo. Prossiga apenas quando tiver certeza de que nenhum trem está chegando e você pode limpar os trilhos sem parar. Não mude de marcha ao atravessar as pistas.</p>"
+    },
+    {
+          "question": "A descrição básica de uma matéria perigosa inclui a classe de perigo, o número de identificação e o nome de expedição adequado. Qual deles deve aparecer primeiro no papel de remessa?",
+          "options": [
+            "A classe de risco.",
+            "O número de identificação.",
+            "O nome de envio adequado."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "motivo": "<p><strong>Seção: 9.3.5 - A Descrição do Item</strong></p><p>A descrição básica dos materiais perigosos inclui o número de identificação, nome próprio do navio, classe ou divisão de perigo e grupo de embalagem, se houver, nessa ordem.</p>"
+    },
+    {
+          "question": "Os explosivos da classe 1.1 não devem ser transportados num veículo combinado se este incluir:",
+          "options": [
+            "Dois ou mais reboques.",
+            "Um tanque de carga com cartazes.",
+            "Um veículo que transportava alimentos."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "motivo": "<p><forte>Seção: 9.4.1 - Requisitos gerais de carregamento</strong></p><p>Não transportar explosivos da divisão 1.1 ou 1.2 em combinações de veículos se: Há um tanque de carga marcado ou afixado na combinação.</p>"
+    },
+    {
+          "question": "Você encontra um pneu superaquecido durante a inspeção. Se estiver a transportar matérias perigosas, deve:",
+          "options": [
+            "Espere pelo menos 2 horas antes de continuar sua viagem.",
+            "Resfrie o pneu e verifique a cada 2 horas.",
+            "Retire o pneu e coloque-o a uma distância do veículo."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 9.6.9 - Verifique Pneus</strong></p><p>Não dirija com um pneu que esteja vazando ou furado, exceto para o local seguro mais próximo para consertá-lo. Remova qualquer pneu superaquecido. Coloque-o a uma distância segura do seu veículo. Não dirija até corrigir a causa do superaquecimento.</p>"
+    },
+    {
+          "question": "A unidade de potência de um veículo com placa deve ter um extintor de incêndio com uma classificação UL de B:C ou mais.",
+          "options": [
+            "5",
+            "10",
+            "15"
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 9.6.8 - 10 B: C Extintor de incêndio</forte></p><p>A unidade de potência dos veículos placardizados deve ter um extintor de incêndio com uma classificação Underwriters Laboratories (UL) de 10 B:C ou mais.</p>"
+    },
+    {
+          "question": "Se você precisa de placas de um veículo para materiais perigosos, quantas placas você vai precisar?",
+          "options": [
+            "2",
+            "4",
+            "3"
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 9.3.3 - Listas de Produtos Regulamentados</strong></p><p>Um veículo com placa deve ter pelo menos 4 placas idênticas. Eles são colocados na frente, atrás e em ambos os lados do veículo.</p>"
+    },
+    {
+          "question": "Um certificado datado de formação em materiais radioactivos deve ser:",
+          "options": [
+            "Assinado pelo seu agente de seguros.",
+            "Mantido no veículo do motorista.",
+            "Carregado pelo motorista."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "motivo": "<p><forte>Seção: 9.0 - Materiais Perigosos</strong></p><p>Requisitos de treinamento contínuo: Os regulamentos também exigem que os motoristas tenham treinamento especial antes de dirigir um veículo que transporte certos materiais de gás inflamável ou quantidades controladas de materiais radioativos em rodovias. Além disso, os motoristas que transportam tanques de carga e tanques portáteis devem receber treinamento especializado. O empregador de cada condutor ou o seu representante designado deve ministrar essa formação.</p>"
+    },
+    {
+          "question": "Um manifesto uniforme de resíduos perigosos devidamente preparado:",
+          "options": [
+            "É o mesmo que qualquer outro papel de transporte.",
+            "É obrigatório apenas se houver perda de carga durante o transporte.",
+            "Deve ser assinado e transportado por qualquer pessoa que transporte um resíduo perigoso."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "motivo": "<p><strong>Seção: 9.3.9 - Manifesto de Resíduos Perigosos</strong></p><p>Cada transportador que transporta a remessa deve assinar à mão o manifesto. Depois de entregar a remessa, guarde sua cópia do manifesto. Cada cópia deve ter todas as assinaturas e datas necessárias, incluindo as da pessoa a quem entregou os resíduos.</p>"
+    },
+    {
+          "question": "Com a maioria dos materiais perigosos, você pode estacionar a menos de 5 metros da estrada brevemente, se seu trabalho exigir. Os materiais, que são a exceção e não permitem estacionar este perto da beira da estrada, são:",
+          "options": [
+            "Ácidos e venenos.",
+            "Explosivos 1.1 e 1.2.",
+            "Corrosivos e oxidantes."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 9.6.1 - Estacionamento com Divisão 1.1, 1.2 ou 1.3 Explosivos</strong></p><p>Nunca estacione com explosivos da Divisão 1.1, 1.2 ou 1.3 a menos de 5 metros da parte percorrida da estrada.</p>"
+    },
+    {
+        "question":"Você tem um veículo sem racks para armazenar cilindros de gás comprimido. Só pode carregar essas garrafas se forem:",
+          "options": [
+            "Gás não inflamável rotulado.",
+            "Carregado na vertical ou apoiado, deitado.",
+            "Menos da metade da carga."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 9.4.1 - Requisitos Gerais de Carregamento</strong></p><p>Se o seu veículo não tiver racks para armazenar cilindros, o piso do espaço de carga deve ser plano. Os cilindros devem ser: (1) Mantidos na vertical. (2) As garrafas podem ser carregadas numa posição horizontal (deitadas) se forem concebidas de modo a que a válvula de alívio se situe no espaço de vapor.</p>"
+    },
+    {
+          "question": "Quem é responsável por descobrir quais licenças ou rotas especiais você precisará para transportar materiais perigosos?",
+          "options": [
+            "A transportadora.",
+            "O motorista.",
+            "O embarcador."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><strong>Seção: 9.0 - Materiais perigosos</strong></p><p>Alguns locais exigem autorizações para transportar certos explosivos ou resíduos perigosos a granel. Estados e municípios também podem exigir que os motoristas sigam rotas especiais de materiais perigosos. O governo federal pode exigir autorizações ou isenções para cargas de materiais perigosos especiais, como combustível para foguetes. Informe-se sobre permissões, isenções e rotas especiais para os lugares que você dirige.</p>"
+    },
+    {
+          "question": "Se você está em um acidente envolvendo materiais perigosos, você deve:",
+          "options": [
+            "Evite o pânico agindo como se nada estivesse errado.",
+            "Informe apenas a Equipe de Resposta a Emergências sobre o perigo.",
+            "Mantenha todas as pessoas afastadas e ao vento do acidente."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 9.7.2 - Acidentes/Incidentes</forte></p><p>Como motorista profissional, seu trabalho no local de um acidente ou incidente é: Manter as pessoas longe do local, Manter as pessoas longe e ao vento.</p>"
+    },
+    {
+          "question": "A intenção do regulamento de Materiais Perigosos tem três partes: (1) garantir motoristas e equipamentos seguros, (2) conter os materiais e (3)?",
+          "options": [
+            "Para permitir a fiscalização estatal.",
+            "Tributar corretamente os embarcadores.",
+            "Para comunicar o risco."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Seção: 2.23.2 - Por que existem regras</strong></p><p>(1) Garantir a segurança de motoristas e equipamentos (2) Comunicar o risco (3) Conter o produto</p>"
+    },
+    {
+          "question": "Você está ao volante de um caminhão transportando um carregamento de material perigoso. Os documentos de embarque devem estar na bolsa na porta do motorista ou em:",
+          "options": [
+            "Uma bolsa no interior da porta do trailer.",
+            "O porta-luvas.",
+            "Visão clara ao seu alcance."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 9.3.1 - Definições</forte></p><p>Visão clara ao alcance imediato enquanto o cinto de segurança é fixado durante a condução.</p>"
+    },
+    {
+          "question": "Para saber se uma remessa inclui um material perigoso, você deve:",
+          "options": [
+            "Olhe para a licença de envio.",
+            "Abra e inspecione cada pacote e recipiente.",
+            "Olhe para os papéis de envio."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><forte>Seção: 9.3.8 - Reconhecendo materiais perigosos</strong></p><p>Aprenda a reconhecer remessas de materiais perigosos. Para saber se a remessa inclui materiais perigosos, veja o papel de remessa.</p>"
+    },
+    {
+          "question": "Um veículo contém 500 libras cada de explosivos das classes 1.1 e 1.2. Você deve usar:",
+          "options": [
+            "Armários perigosos.",
+            "Explosivos e cartazes perigosos",
+            "Explosivos 1.1 cartazes."
+    ],
+          "correctAnswer": [
+            2
+    ],
+          "reason": "<p><strong>Seção: 9.3.10 - Placarding</strong></p><p>Ver figura 9.7: Placard Tabela #1</p>"
+    },
+    {
+          "question": "Qual dos seguintes condutores deve ter na sua posse durante o transporte de explosivos das classes 1.1 ou 1.2?",
+          "options": [
+            "A apólice de seguro da transportadora.",
+            "O plano de rota escrito.",
+            "Uma rádio de banda cidadã"
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 9.6.5 - Restrições de rota</strong></p><p>Se transportar explosivos da Divisão 1.1, 1.2 ou 1.3, você deve ter um plano de rota escrito e seguir esse plano.</p>"
+    },
+    {
+          "question": "Um X na coluna de matérias perigosas de uma entrada em papel de remessa significa:",
+          "options": [
+            "Esta é uma exceção aos regulamentos de materiais perigosos.",
+            "A entrada é para um material perigoso.",
+            "O material não é perigoso."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 9.3.8 - Reconhecendo materiais perigosos</strong></p><p>Aprenda a reconhecer remessas de materiais perigosos. Para saber se a remessa inclui materiais perigosos, consulte o documento de remessa. Tem: Uma entrada destacada ou com um X ou RQ na coluna de materiais perigosos.</p>"
+    },
+    {
+          "question": "Ao carregar ou descarregar um tanque de carga, uma pessoa qualificada deve estar observando e estar a poucos metros do tanque.",
+          "options": [
+            "15",
+            "25",
+            "20"
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "motivo": "<p><forte>Seção: 9.5.2 - Carregamento do tanque</forte></p><p>A pessoa encarregada de carregar e descarregar um tanque de carga deve ter certeza de que uma pessoa qualificada está sempre observando. Esta pessoa que observa a carga ou descarga deve: Estar a menos de 25 pés do tanque.</p>"
+    },
+    {
+          "question": "Você está dirigindo um veículo carregado de explosivos, quando é seguro deixar o veículo sem vigilância?",
+          "options": [
+            "Quando estacionado em uma parada de caminhão.",
+            "Quando estacionado em um porto seguro designado.",
+            "Nunca."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "reason": "<p><forte>Seção: 9.6.1 - Estacionamento com Divisão 1.1, 1.2 ou 1.3 Explosivos</strong></p><p>Você está autorizado a deixar seu veículo sem vigilância em um porto seguro. Um porto seguro é um local aprovado para estacionar veículos sem vigilância carregados de explosivos. A designação de portos seguros autorizados é geralmente feita pelas autoridades locais.</p>"
+    },
+    {
+          "question": "O ácido nítrico não deve ser carregado:",
+          "options": [
+            "Abaixo de qualquer outro produto.",
+            "Acima de qualquer outro produto.",
+            "Adjacente a qualquer outro produto."
+    ],
+          "correctAnswer": [
+            1
+    ],
+          "motivo": "<p><forte>Seção: 9.4.1 - Requisitos gerais de carregamento</strong></p><p>Classe 8 (corrosivo) Materiais: Não carregue ácido nítrico acima de qualquer outro produto.</p>"
+    }
+    ],
+    "es":[
+      {
+            "question": "Los alimentos para animales y humanos no deben cargarse en el mismo vehículo con:",
+            "options": [
+              "Venenos",
+              "Explosivos",
+              "Oxidantes"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 941 - Requisitos generales de carga</strong></p><p>Consulte la tabla \"No cargarAlimentos para animales o humanos, a menos que el paquete de veneno esté sobreempaquetado de manera aprobada Los alimentos son cualquier cosa que se trague Sin embargo, el enjuague bucal, la pasta de dientes y las cremas para la piel no son productos alimenticios</p>"
+      },
+      {
+            "question": "Un conductor que transporta material radiactivo controlado debe haber recibido una capacitación especial por parte del transportista en los últimos años",
+            "options": [
+              "1",
+              "2",
+              "3"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 90 - Materiales peligrosos</strong></p><p>Las regulaciones requieren que los empleados de materiales peligrosos sean capacitados y probados al menos una vez cada tres años Todos los conductores deben estar capacitados en los riesgos de seguridad del transporte de materiales peligrosos Esta capacitación debe incluir cómo reconocer y responder a posibles amenazas de seguridad</p>"
+      },
+      {
+            "question": "Siempre que su vehículo esté con carteles, no conduzca cerca de fuego abierto a menos que:",
+            "options": [
+              "Tener un compartimiento de carga cerrado",
+              "Están equipados con un rociador contra incendios",
+              "Puede pasar el fuego de manera segura sin detenerse"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 965 - Restricciones de ruta</strong></p><p>Nunca conduzca un vehículo con cartel cerca de fogatas abiertas a menos que pueda pasar de manera segura sin detenerse</p>"
+      },
+      {
+            "question": "¿Qué señales se pueden utilizar para advertir de un vehículo detenido que contiene explosivos?",
+            "options": [
+              "Fuegos de señal",
+              "Triángulos reflectantes",
+              "Bengalas"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 964 - ¡No hay bengalas!</strong></p><p>Es posible que se averíe y tenga que usar las señales de vehículos detenidos Use triángulos reflectantes o luces eléctricas rojas Nunca use señales de combustión, como bengalas o fusibles</p>"
+      },
+      {
+            "question": "No se puede utilizar el nombre o el número de identificación de una clase de peligro para describir:",
+            "options": [
+              "Residuos peligrosos",
+              "Una cantidad reportable de una sustancia peligrosa",
+              "Materiales no peligrosos"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 935 - La descripción del artículo</strong></p><p>La cantidad total, el número y el tipo de paquetes deben aparecer antes o después de la descripción básica El expedidor de desechos peligrosos debe poner la palabra WASTE antes del nombre de envío correcto del material en el papel de envío (manifiesto de desechos peligrosos)</p>"
+      },
+      {
+            "question": "Un vehículo con carteles para materiales peligrosos debe tener carteles en los costados",
+            "options": [
+              "2",
+              "3",
+              "4"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 933 - Listas de productos regulados</strong></p><p>Un vehículo con carteles debe tener al menos 4 carteles idénticos Se colocan en la parte delantera, trasera y a ambos lados del vehículo</p>"
+      },
+      {
+            "question": "¿Quién es responsable de empaquetar, etiquetar y preparar los documentos de envío de materiales peligrosos para un transportista común?",
+            "options": [
+              "Transportista",
+              "Conductor",
+              "Cargador"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 937 - Marcas y etiquetas del paquete</strong></p><p>Los remitentes imprimen las marcas requeridas directamente en el paquete, una etiqueta adjunta o una etiqueta Una marca importante del paquete es el nombre del material peligroso Es el mismo nombre que el que aparece en el papel de envío Los requisitos para el marcado varían según el tamaño del paquete y el material que se transporta</p>"
+      },
+      {
+            "question": "La intención de la regulación de materiales peligrosos tiene tres partes: (1) garantizar la seguridad de los conductores y el equipo (2) comunicar el riesgo y (3)?",
+            "options": [
+              "Permitir la aplicación de la ley por parte del Estado",
+              "Para contener los materiales",
+              "Para gravar correctamente al remitente"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 2232 - ¿Por qué hay reglas</strong></p><p>(1) Garantizar la seguridad de los conductores y los equipos (2) Comunicar el riesgo (3) Contener el producto</p>"
+      },
+      {
+            "question": "Hay dos listas que los conductores, cargadores y transportistas utilizan para averiguar si un material es un producto regulado Uno de ellos es el:",
+            "options": [
+              "Tabla de materiales peligrosos de la EPA (Agencia de Protección Ambiental de EE UU)",
+              "Tabla de peligros del Departamento de Transporte",
+              "Lista de Materiales Peligrosos y Cantidades Reportables"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 933 - Listas de productos regulados</strong></p><p>Hay 3 listas principales utilizadas por los cargadores, transportistas y conductores cuando intentan identificar materiales peligrosos Antes de transportar un material, busque su nombre en 3 listas Algunos materiales están en todas las listas, otros en una sola Revise siempre las siguientes listas: (1) la Tabla de Materiales Peligrosos (2) la Lista de Sustancias Peligrosas y Cantidades Reportables (3) la Lista de Contaminantes Marinos </p>"
+      },
+      {
+            "question": "Si hay una X o una RQ en la columna de materiales peligrosos de una entrada de papel del remitente, el:",
+            "options": [
+              "La entrada se refiere a los materiales que deben ser cargados en la parte superior",
+              "El envío está regulado por las regulaciones de materiales peligrosos",
+              "El material en esa línea es la mayor parte del envío"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 938 - Reconocimiento de materiales peligrosos</strong></p><p>Aprenda a reconocer los envíos de materiales peligrosos Para saber si el envío incluye materiales peligrosos, mire el documento de envío ¿Tiene: Una entrada resaltada o una con una X o RQ en la columna de materiales peligrosos</p>"
+      },
+      {
+            "question": "Solo una de estas descripciones de documentos de envío para un material peligroso está en el orden correcto ¿Cuál es?",
+            "options": [
+              "Hexano, UN1208, líquido inflamable",
+              "UN1048, bromuro de hidrógeno, gas no inflamable",
+              "Material corrosivo, ácido clorhídrico, UN1789"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 935 - La descripción del artículo</strong></p><p>La descripción básica de los materiales peligrosos incluye el número de identificación, el nombre correcto del envío, la clase o división de peligro y el grupo de embalaje, si lo hubiera, en ese orden</p>"
+      },
+      {
+            "question": "Un vehículo que transportaba explosivos se ha estrellado con otro vehículo No debes separarlos hasta que:",
+            "options": [
+              "Han pasado al menos 30 minutos",
+              "Los explosivos han sido colocados al menos a 200 pies de distancia de los vehículos y edificios ocupados",
+              "El capataz de carga del cargador está presente"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 974 - Respuestas a peligros específicos</strong></p><p>Retire todos los explosivos antes de separar los vehículos involucrados en un accidente Coloque los explosivos al menos a 200 pies de distancia de vehículos y edificios ocupados Manténgase a una distancia segura</p>"
+      },
+      {
+            "question": "No puede estacionar un vehículo que transporta materiales peligrosos dentro de un fuego abierto pies de un",
+            "options": [
+              "200",
+              "300",
+              "400"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 961 - Estacionamiento con explosivos de la División 11, 12 o 13</strong></p><p>Excepto por períodos cortos de tiempo necesarios para las necesidades de operación del vehículo (por ejemplo, abastecimiento de combustible), no estacione a menos de 300 pies de: (1) Un puente, túnel o edificio (2) Un lugar donde la gente se reúne (3) Un fuego abierto</p>"
+      },
+      {
+            "question": "El índice de transporte de un material radiactivo:",
+            "options": [
+              "Es otra forma de escribir el peso del paquete",
+              "Es algo de lo que solo el remitente debe preocuparse",
+              "Indica el grado de control necesario durante el transporte"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 941 - Requisitos generales de carga</strong></p><p>Clase 7 (Radiactivos) Materiales: El índice de transporte indica el grado de control necesario durante el transporte El índice de transporte total de todos los bultos en un solo vehículo no debe exceder de 50,</p>"
+      },
+      {
+            "question": "Al transportar materiales peligrosos, debe revisar sus neumáticos dobles:",
+            "options": [
+              "Después de 11 horas de conducción",
+              "Cada 2 horas",
+              "Al comienzo de cada viaje, cuando estacionas y cada vez que te detienes"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 969 - Revise los neumáticos</strong></p><p>Revise los vehículos con carteles con neumáticos dobles al comienzo de cada viaje y cuando se estacione Debe revisar los neumáticos cada vez que se detenga</p>"
+      },
+      {
+            "question": "Deberías detenerte en el tren más cercano pies antes que el",
+            "options": [
+              "De 10 a 35",
+              "5 a 20",
+              "De 15 a 50"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 9612 - Deténgase antes de los cruces de ferrocarril</strong></p><p>Debe detenerse de 15 a 50 pies antes del riel más cercano</p>"
+      },
+      {
+            "question": "Está transportando materiales peligrosos Cuando no esté detrás del volante, los documentos de envío deben estar en el asiento del conductor o:",
+            "options": [
+              "En el salpicadero a la vista",
+               "En la bolsa de la puerta del conductor",
+              "De 15 a 50"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 931 - Definiciones</strong></p><p>Conductores deben mantener los documentos de envío de materiales peligrosos dentro o en: Una bolsa en la puerta del conductor, Visión clara al alcance de la mano mientras el cinturón de seguridad está abrochado mientras se conduce, o el asiento del conductor cuando está fuera del vehículo</p>"
+      },
+      {
+            "question": "Si se está derramando material peligroso de su vehículo, no mueva su vehículo:",
+            "options": [
+              "En dirección a barlovento",
+              "Más de 500 pies",
+              "Más de lo que la seguridad requiere"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 973 - Incendios</strong></p><p>Si se están derramando materiales peligrosos de su vehículo, no lo mueva más de lo que la seguridad requiere</p>"
+      },
+      {
+            "question": "La clase de peligro de una botella de material de dos litros es líquido inflamable Si la descripción también dice Peligro de inhalación de veneno, usted debe:",
+            "options": [
+              "Ponga un letrero en el vehículo con VENENO solo si ninguna otra carga lo requiere",
+              "Ponga un letrero en el vehículo con VENENO y retire todos los demás letreros",
+              "Coloque un letrero en el vehículo con los letreros de VENENO y clase de peligro"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 933 - Listas de Productos Regulados</strong></p><p>Si las palabras PELIGRO DE INHALACIÓN aparecen en el papel de envío o en el paquete, las reglas requieren la exhibición de los carteles de PELIGRO DE INHALACIÓN DE VENENO o GAS VENENOSO, según corresponda Estos carteles deben utilizarse además de otros carteles, que pueden ser requeridos por la clase de peligro del producto Exhiba siempre los carteles de clase de peligro y PELIGRO DE INHALACIÓN DE VENENO, incluso para pequeñas cantidades</p>"
+      },
+      {
+            "question": "Vas a transportar materiales peligrosos por una ruta que no conoces bien ¿Cuándo hay que comprobar la ruta y los permisos necesarios para el viaje?",
+            "options": [
+              "Dentro de las 24 horas posteriores al final del viaje",
+              "Mientras todavía estás en una parte de la ruta que conoces",
+              "Antes de iniciar el viaje"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 965 - Restricciones de ruta</strong></p><p>Algunos estados y condados requieren permisos para transportar materiales o desechos peligrosos Es posible que limiten las rutas que puede utilizar Las reglas locales sobre rutas y permisos cambian con frecuencia Es su trabajo como conductor averiguar si necesita permisos o debe utilizar rutas especiales Asegúrese de tener todos los documentos necesarios antes de comenzar</p>"
+      },
+      {
+            "question": "Los transportistas deberán entregar a cada conductor que transporte explosivos de clase 11 o 12:",
+            "options": [
+              "Una lista de paradas de descanso que el conductor puede usar",
+              "Una copia de la parte 397 del Reglamento Federal de Seguridad de Autotransportes (FMCSR, por sus siglas en inglés)",
+              "Una botella de fuego extra"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 9610 - Dónde guardar los documentos de envío y la información de respuesta a emergencias</strong></p><p>Un transportista debe entregar a cada conductor que transporte explosivos de la División 11, 12 o 13 una copia de FMCSR, Parte 397</p>"
+      },
+      {
+            "question": "Debe detenerse antes de cruzar una vía férrea si su vehículo transporta cloro de",
+            "options": [
+              "55 galones",
+              "Cualquier cantidad",
+              "110 galones"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 9612 - Deténgase antes de los cruces de ferrocarril</strong></p><p>Deténgase antes de un cruce de ferrocarril si su vehículo: Transporta cualquier cantidad de cloro</p>"
+      },
+      {
+            "question": "Está transportando materiales peligrosos y encuentra que uno de sus neumáticos tiene fugas, debe:",
+            "options": [
+              "Repórtalo a tu proveedor de inmediato",
+              "Continúe a velocidad reducida y revise ese neumático cada 25 millas",
+              "Detente en el lugar seguro más cercano y arréglalo"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 969 - Revise los neumáticos</strong></p><p>No conduzca con un neumático que tenga fugas o esté desinflado, excepto al lugar seguro más cercano para arreglarlo Retire cualquier neumático sobrecalentado Colóquelo a una distancia segura de su vehículo No conduzca hasta que corrija la causa del sobrecalentamiento</p>"
+      },
+      {
+            "question": "Cuando los remitentes empaquetan materiales peligrosos, deben certificar que esto se hizo de acuerdo con las regulaciones La única excepción es cuando:",
+            "options": [
+              "El envío es un residuo peligroso",
+              "Al conductor se le da un compartimiento de carga sellado",
+              "El remitente es un transportista privado que transporta su propio producto"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 921 - El remitente</strong></p><p>Debe certificar en el documento de envío que el envío ha sido preparado de acuerdo con las reglas (a menos que esté tirando de tanques de carga suministrados por usted o su empleador)</p>"
+      },
+      {
+            "question": "Al repostar un vehículo con cartel, alguien siempre debe estar:",
+            "options": [
+              "A menos de 10 pies de la bomba con un extintor de incendios",
+              "En el corte de energía de emergencia de la bomba",
+              "En la boquilla, controlando el flujo de combustible"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 967 - Repostar con el motor apagado</strong></p><p>Apague el motor antes de repostar un vehículo motorizado que contenga materiales peligrosos Siempre debe haber alguien en la boquilla, controlando el flujo de combustible</p>"
+      },
+      {
+            "question": "El índice total de transporte de todos los paquetes de materiales radiactivos en un solo vehículo no debe exceder",
+            "options": [
+              "50",
+              "100",
+              "10"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Sección: 941 - Requisitos generales de carga</strong></p><p>El índice de transporte indica el grado de control necesario durante el transporte El índice de transporte total de todos los bultos en un solo vehículo no debe exceder de 50,</p>"
+      },
+      {
+            "question": "¿Quién es responsable de verificar que el remitente haya nombrado, etiquetado y marcado correctamente un envío de materiales peligrosos?",
+            "options": [
+              "Cargador",
+              "Fabricante",
+              "Transportista"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 922 - El transportista</strong></p><p>Antes del transporte, verifica que el remitente haya descrito, marcado, etiquetado y preparado correctamente el envío para el transporte</p>"
+      },
+      {
+            "question": "Si hay un RQ antes o después de la descripción del artículo en el documento de envío, significa el:",
+            "options": [
+              "El material está en un paquete que no contiene otros materiales",
+              "El material tiene un valor de seguro de más de $1,000",
+              "El transportista debe reportar un derrame de este material"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p>Sección: 933 - Listas de Productos Regulados</p><p>Las letras RQ pueden aparecer antes o después de la descripción básica Usted o su empleador deben reportar cualquier derrame de estos materiales, que ocurra en un RQ</p>"
+      },
+      {
+            "question": "Debe advertir a otros automovilistas de un vehículo detenido que tiene un tanque utilizado para líquidos o gases inflamables Puede usar:",
+            "options": [
+              "Fuegos de señal",
+              "Triángulos reflectantes",
+              "Bengalas"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 964 - ¡No hay bengalas!</strong></p><p>Es posible que se averíe y tenga que usar las señales de vehículos detenidos Use triángulos reflectantes o luces eléctricas rojas Nunca use señales de combustión, como bengalas o fusibles</p>"
+      },
+      {
+            "question": "Tiene materiales peligrosos que se escapan de un contenedor pero no se derraman de su vehículo Conduzca hasta el área más cercana donde pueda obtener ayuda:",
+            "options": [
+              "En volver a empaquetar los materiales con fugas con envoltura de plástico",
+              "Y llame al personal de emergencia si es necesario",
+              "Tan rápido como puedas si está dañando tu camión"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 973 - Incendios</strong></p><p>Nunca mueva su vehículo, si hacerlo causará contaminación o dañará el vehículo Manténgase contra el viento y lejos de las paradas de descanso en la carretera, las paradas de camiones, los cafés y los negocios Nunca intente volver a empacar los recipientes con fugas A menos que tenga la capacitación y el equipo para reparar las fugas de manera segura, no lo intente Llame a su despachador o supervisor para recibir instrucciones y, si es necesario, personal de emergencia</p>"
+      },
+      {
+            "question": "Ha cargado un material peligroso en un tanque de carga ¿Qué debe hacer antes de mover el vehículo?",
+            "options": [
+              "Pon los papeles de envío a tu alcance",
+              "Haga que los observadores de carga firmen los documentos de envío",
+              "Cierre todas las alcantarillas y válvulas y asegúrese de que estén libres de fugas"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 952 - Carga del tanque</strong></p><p>Cierre todas las bocas de inspección y válvulas antes de mover un tanque de materiales peligrosos, sin importar cuán pequeña sea la cantidad en el tanque o cuán corta sea la distancia Las arquetas y las válvulas deben estar cerradas para evitar fugas Es ilegal mover un tanque de carga con válvulas o cubiertas abiertas a menos que esté vacío de acuerdo con CFR, Título 49 sección 17329</p>"
+      },
+      {
+            "question": "Cuando transporte cloro en un tanque de carga, debe tener:",
+            "options": [
+              "Una máscara antigás aprobada",
+              "Un kit de emergencia para controlar fugas en los accesorios de la placa de cubierta de la cúpula",
+             " Las dos cosas"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 9611 - Equipo para cloro</fuerte></p><p>Un conductor que transporte cloro en tanques de carga debe tener una máscara de gas aprobada en el vehículo El conductor también debe tener un kit de emergencia para controlar las fugas en los accesorios de la placa de cubierta del domo en el tanque de carga</p>"
+      },
+      {
+            "question": "Si la palabra Prohibido aparece en la columna de clase de peligro de una entrada de la tabla de materiales peligrosos:",
+            "options": [
+              "Un envío de este material nunca debe ser más grande que RQ",
+              "El transportista no puede abrir el paquete o contenedor",
+              "Un transportista común nunca debe transportar el material"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 933 - Listas de productos regulados</strong></p><p>Columna 3: muestra la clase o división de peligro de un material, o la entrada \"Forbidden\" Nunca transporte un  material \"prohibido\"</p>"
+      },
+      {
+            "question": "Su vehículo contiene explosivos, oxidantes o inflamables Nadie puede fumar a menos de unos metros del vehículo",
+            "options": [
+              "15",
+              "35",
+              "25"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 966 - No fumar</fuerte></p><p>No fume a menos de 25 pies de un tanque de carga con carteles utilizado para Clase 3 (líquidos inflamables) o División 21 (gases)</p>"
+      },
+      {
+            "question": "Cuando manipule paquetes de explosivos, usted debe:",
+            "options": [
+              "Envuelva dos veces las cajas húmedas en plástico para evitar manchas",
+              "Nunca use ganchos u otras herramientas de metal",
+              "Enrolle los paquetes con cuidado, sin acciones bruscas o discordantes"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 941 - Requisitos generales de carga</strong></p><p>Tenga especial cuidado para proteger los explosivos Nunca use ganchos u otras herramientas metálicas Nunca deje caer, tire o enrolle paquetes Proteja los paquetes explosivos de otras cargas que puedan causar daños</p>"
+      },
+      {
+            "question": "¿Quién es responsable de transportar de forma segura un envío de material peligroso sin demora y de mantener los documentos de envío en el lugar correcto?",
+            "options": [
+               "El portaaviones",
+               "El cargador",
+               "El conductor"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 923 - El conductor</strong></p><p>Transporta el envío de forma segura y sin demora</p>"
+      },
+      {
+            "question": "Un cruce de ferrocarril está delante de usted y está transportando material peligroso Cuando te detienes para cruzar, puedes detenerte a una distancia de hasta unos metros del ferrocarril más cercano",
+            "options": [
+              "75",
+              "100",
+              "50"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 9612 - Deténgase antes de los cruces de ferrocarril</strong></p><p>Debe detenerse de 15 a 50 pies antes del riel más cercano Proceda solo cuando esté seguro de que no viene ningún tren y puede despejar las vías sin detenerse No cambie de marcha mientras cruza las vías</p>"
+      },
+      {
+            "question": "La descripción básica de un material peligroso incluye la clase de peligro, el número de identificación y el nombre correcto del envío ¿Cuál debe aparecer primero en el papel de envío?",
+            "options": [
+              "La clase de peligro",
+              "",
+              "El nombre correcto del envío"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 935 - La descripción del artículo</strong></p><p>La descripción básica de los materiales peligrosos incluye el número de identificación, el nombre correcto del envío, la clase o división de peligro y el grupo de embalaje, si lo hubiera, en ese orden</p>"
+      },
+      {
+            "question": "Los explosivos de la clase 11 no deben transportarse en un vehículo combinado si incluye:",
+            "options": [
+              "Dos o más remolques",
+              "Un tanque de carga con carteles",
+              "Un vehículo que transporta alimentos"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 941 - Requisitos generales de carga</strong></p><p>No transporte explosivos de las divisiones 11 o 12 en combinaciones de vehículos si: Hay un tanque de carga marcado o con carteles en la combinación</p>"
+      },
+      {
+            "question": "Encuentra un neumático sobrecalentado durante la inspección Si está transportando materiales peligrosos, debe:",
+            "options": [
+              "Espere al menos 2 horas antes de continuar su viaje",
+              "Enfríe el neumático y luego revíselo cada 2 horas",
+              "Retire la llanta y colóquela a cierta distancia del vehículo"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 969 - Revise los neumáticos</strong></p><p>No conduzca con un neumático que tenga fugas o esté desinflado, excepto al lugar seguro más cercano para arreglarlo Retire cualquier neumático sobrecalentado Colóquelo a una distancia segura de su vehículo No conduzca hasta que corrija la causa del sobrecalentamiento</p>"
+      },
+      {
+            "question": "La unidad de potencia de un vehículo con cartel debe tener un extintor de incendios con una clasificación UL de B:C o más",
+            "options": [
+              "5",
+              "10",
+              "15"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 968 - 10 B: C Extintor de incendios</fuerte></p><p>La unidad de potencia de los vehículos con carteles debe tener un extintor de incendios con una clasificación Underwriters Laboratories (UL) de 10 B:C o más</p>"
+      },
+      {
+            "question": "Si necesita colocar un cartel en un vehículo para materiales peligrosos, ¿cuántos carteles necesitará?",
+            "options": [
+              "2",
+              "4",
+              "3"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 933 - Listas de productos regulados</strong></p><p>Un vehículo con carteles debe tener al menos 4 carteles idénticos Se colocan en la parte delantera, trasera y a ambos lados del vehículo</p>"
+      },
+      {
+            "question": "Un certificado fechado de formación en materiales radiactivos debe ser:",
+            "options": [
+              "Firmado por su agente de seguros",
+              "Guardado en el vehículo del conductor",
+              "Llevado por el conductor"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 90 - Materiales peligrosos</strong></p><p>Requisitos de capacitación continua: Las regulaciones también requieren que los conductores tengan una capacitación especial antes de conducir un vehículo que transporta ciertos materiales de gases inflamables o cantidades controladas de materiales radiactivos en rutas de carreteras Además, los conductores que transportan tanques de carga y tanques portátiles deben recibir capacitación especializada El empleador de cada conductor o su representante designado debe proporcionar dicha capacitación</p>"
+      },
+      {
+            "question": "Un manifiesto uniforme sobre residuos peligrosos debidamente preparado:",
+            "options": [
+              "Es lo mismo que cualquier otro papel de envío",
+              "Se requiere solo si hay una pérdida de carga durante el transporte",
+              "Debe ser firmado y portado por cualquier persona que transporte un residuo peligroso"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 939 - Manifiesto de Residuos Peligrosos</strong></p><p>Cada transportista que transporte el envío debe firmar a mano el manifiesto Después de entregar el envío, conserve su copia del manifiesto Cada copia debe tener todas las firmas y fechas necesarias, incluidas las de la persona a la que entregó los desechos</p>"
+      },
+      {
+            "question": "Con la mayoría de los materiales peligrosos, puede estacionarse a menos de 5 pies de la carretera brevemente, si su trabajo lo requiere Los materiales, que son la excepción y no permiten estacionar tan cerca del borde de la carretera, son:",
+            "options": [
+              "Ácidos y venenos",
+              "Explosivos 11 y 12",
+              "Corrosivos y oxidantes"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 961 - Estacionar con explosivos de las divisiones 11, 12 o 13</strong></p><p>Nunca estacione con explosivos de las divisiones 11, 12 o 13 a menos de 5 pies de la parte transitada de la carretera</p>"
+      },
+      {
+            "question": "Tiene un vehículo sin bastidores para contener cilindros de gas comprimido Podrá cargar dichos cilindros sólo si son:",
+            "options": [
+              "Etiquetado como gas no inflamable",
+              "Cargado en posición vertical o arriostrado, acostado en posición horizontal",
+              "Menos de la mitad de la carga"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 941 - Requisitos generales de carga</strong></p><p>Si su vehículo no tiene portaequipajes para sostener cilindros, el piso del espacio de carga debe ser plano Los cilindros deben estar: (1) en posición vertical (2) Los cilindros pueden cargarse en posición horizontal (acostados) si están diseñados de manera que la válvula de alivio esté en el espacio de vapor</p>"
+      },
+      {
+            "question": "¿Quién es el responsable de averiguar qué permisos o rutas especiales necesitará para transportar materiales peligrosos?",
+            "options": [
+               "El portaaviones",
+               "El conductor",
+               "El cargador"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 90 - Materiales peligrosos</strong></p><p>Algunos lugares requieren permisos para transportar ciertos explosivos o desechos peligrosos a granel Los estados y condados también pueden exigir a los conductores que sigan rutas especiales de materiales peligrosos El gobierno federal puede requerir permisos o exenciones para la carga de materiales peligrosos especiales, como el combustible para cohetes Infórmese sobre permisos, exenciones y rutas especiales para los lugares en los que conduce</p>"
+      },
+      {
+            "question": "Si usted está en un accidente que involucra materiales peligrosos, debe:",
+            "options": [
+              "Evita el pánico actuando como si no pasara nada",
+              "Infórmele solo al Equipo de Respuesta a Emergencias sobre el peligro",
+              "Mantenga a todas las personas alejadas y a barlovento del accidente"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 972 - Accidentes/Incidentes</strong></p><p>Como conductor profesional, su trabajo en la escena de un accidente o incidente es: Mantener a las personas alejadas de la escena, Mantener a las personas alejadas y contra el viento</p>"
+      },
+      {
+            "question": "La intención de la regulación de materiales peligrosos tiene tres partes: (1) garantizar la seguridad de los conductores y el equipo (2) contener los materiales y (3)?",
+            "options": [
+              "Permitir la aplicación de la ley por parte del Estado",
+              "Para gravar correctamente a los transportistas",
+              "Para comunicar el riesgo"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 2232 - ¿Por qué hay reglas</strong></p><p>(1) Garantizar la seguridad de los conductores y los equipos (2) Comunicar el riesgo (3) Contener el producto</p>"
+      },
+      {
+            "question": "Está al volante de un camión que transporta un cargamento de materiales peligrosos Los documentos de envío deben estar en la bolsa de la puerta del conductor o en:",
+            "options": [
+              "Una bolsa en el interior de la puerta del remolque",
+               "La guantera",
+              "Una vista clara a tu alcance"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 931 - Definiciones</strong></p><p>Visión clara al alcance de la mano mientras se abrocha el cinturón de seguridad mientras se conduce</p>"
+      },
+      {
+            "question": "Para saber si un envío incluye un material peligroso, usted debe:",
+            "options": [
+              "Mira la licencia de envío",
+              "Abra e inspeccione todos los paquetes y contenedores",
+              "Mira los papeles de envío"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 938 - Reconocimiento de materiales peligrosos</strong></p><p>Aprenda a reconocer los envíos de materiales peligrosos Para saber si el envío incluye materiales peligrosos, mire el documento de envío</p>"
+      },
+      {
+            "question": "Un vehículo contiene 500 libras de explosivos de clase 11 y 12 Debes usar:",
+            "options": [
+              "Armarios peligrosos",
+              "Explosivos y carteles peligrosos",
+              "Carteles de explosivos 11"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Sección: 9310 - Carteles</strong></p><p>Por favor, vea la figura 97: Tabla de carteles #1</p>"
+      },
+      {
+            "question": "¿Cuál de los siguientes elementos debe tener en su poder el conductor mientras transporta explosivos de la clase 11 o 12?",
+            "options": [
+              "La póliza de seguro de la compañía",
+              "El plan de ruta escrito",
+              "Una radio de banda ciudadana"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 965 - Restricciones de ruta</strong></p><p>Si transporta explosivos de la División 11, 12 o 13, debe tener un plan de ruta por escrito y seguir ese plan</p>"
+      },
+      {
+            "question": "Una X en la columna de materiales peligrosos de una entrada en papel de envío significa:",
+            "options": [
+              "Esta es una excepción a las regulaciones de materiales peligrosos",
+              "La entrada es para un material peligroso",
+              "El material no es peligroso"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 938 - Reconocimiento de materiales peligrosos</strong></p><p>Aprenda a reconocer los envíos de materiales peligrosos Para saber si el envío incluye materiales peligrosos, mire el documento de envío ¿Tiene: Una entrada resaltada o una con una X o RQ en la columna de materiales peligrosos</p>"
+      },
+      {
+            "question": "Mientras carga o descarga un tanque de carga, una persona calificada debe estar observando y estar a pocos pies del tanque",
+            "options": [
+              "15",
+              "25",
+              "20"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 952 - Carga del tanque</strong></p><p>La persona a cargo de cargar y descargar un tanque de carga debe asegurarse de que una persona calificada esté siempre observando Esta persona que vigila la carga o descarga debe: Estar a menos de 25 pies del tanque</p>"
+      },
+      {
+            "question": "Está conduciendo un vehículo cargado de explosivos, ¿cuándo es seguro dejar el vehículo desatendido?",
+            "options": [
+              "Cuando está estacionado en una parada de camiones",
+              "Cuando se estaciona en un refugio seguro designado",
+              "Nunca"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 961 - Estacionamiento con explosivos de la División 11, 12 o 13</strong></p><p>Se le permite dejar su vehículo desatendido en un lugar seguro Un refugio seguro es un lugar aprobado para estacionar vehículos desatendidos cargados de explosivos La designación de refugios seguros autorizados suele ser realizada por las autoridades locales</p>"
+      },
+      {
+            "question": "El ácido nítrico no debe cargarse:",
+            "options": [
+              "Por debajo de cualquier otro producto",
+              "Por encima de cualquier otro producto",
+              "Adyacente a cualquier otro producto"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Sección: 941 - Requisitos generales de carga</strong></p><p>Clase 8 (corrosivos) Materiales: No cargue ácido nítrico por encima de ningún otro producto</p>"
+      }
+      ]
+      
+      
+    
+    
+}

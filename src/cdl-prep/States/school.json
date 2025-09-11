@@ -1,0 +1,1456 @@
+{
+    "en":[
+      {
+        "question": "The driver who misses a student's unloading stop should",
+        "options": [
+          "Discharge the child on the   stop.",
+          "Follow the local procedures.",
+          "Back up to the missed stop"
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 10.2.3 - Unloading Procedures on the Route</strong></p><p><span class=\"ql-cursor\"></span>If you miss a student's unloading stop, do not back up. Be sure to follow local procedures.</p>"
+      },
+      {
+        "question": "Which of the following statements about bus evacuation procedure is true?",
+        "options": [
+          "If time allows, notify the dispatcher about evacuation location, conditions, and type of assistance needed.",
+          "If time allows, walk through the bus and close all windows.",
+          "If time allows, back up to the stop before evacuating."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 10.3.2 - Evacuation Procedures</strong></p><p><br></p><p>If time allows, notify your dispatch office of the evacuation location, conditions, and type of assistance needed.</p>"
+      },
+      {
+        "question": "Which of the following is the recommended procedure when unloading students?",
+        "options": [
+          "Put the transmission in neutral gear and put on the brakes.",
+          "Tell students to remain seated until they are told to exit.",
+          "Position yourself outside of the bus to supervise unloading."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 10.2.3 - Unloading Procedures on the Route</strong></p><p>Have the students remain seated until told to exit.</p>"
+      },
+      {
+        "question": "The most dangerous time during the school bus ride is:",
+        "options": [
+          "When the students become unruly on the bus.",
+          "Crossing railway crossing.",
+          "When loading and unloading students."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 10.2 - Loading and Unloading</strong></p><p>More students are killed while getting on or off a school bus each year than are killed as passengers inside of a school bus. As a result, knowing what to do before, during, and after loading or unloading students is critical.</p>"
+      },
+      {
+        "question": "When stopping on a railroad crossing, the driver must stop no closer than:",
+        "options": [
+          "20 feet",
+          "10 feet",
+          "15 feet"
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 10.4.3 - Recommended Procedures</strong></p><p>At the Crossing: Stop no closer than 15 feet and no farther than 50 feet from the nearest rail, where you have the best view of the tracks.</p>"
+      },
+      {
+        "question": "If students must cross the street after unloading off the bus, which statement is true?",
+        "options": [
+          "When the driver signals that it is safe to proceed, the students must run across the street.",
+          "If the bus is equipped with the crossing gate, the children will not be in any danger.",
+          "Crossing students should make eye contact with the bus driver and wait for the driver's signal that it is safe to proceed."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 10.2.3 - Unloading Procedures on the Route</strong></p><p>When students reach the edge of the roadway, they should: Make eye contact with you. Wait for you to give the universal crossing signal before crossing the roadway.</p>"
+      },
+      {
+        "question": "You should adjust the outside left and right-side flat mirrors to see:",
+        "options": [
+          "The entire area to the rear of the mirror along the side of the bus.",
+          "The rear right and left tires touching the ground.",
+          "200 feet behind the bus."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 10.1.3 - Outside Left and Right Side Flat Mirrors</strong></p><p>Ensure that the mirrors are properly adjusted so you can see: 200 feet or 4 bus lengths behind the bus.</p>"
+      },
+      {
+        "question": "If the gate comes down after you have started to cross the railroad crossing you should:",
+        "options": [
+          "Back up until you are completely off the tracks.",
+          "Stop immediately and call your dispatcher.",
+          "Drive through the gate."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 10.4.3 - Recommended Procedures</strong></p><p>If the gate comes down after you have started across, drive through it, even if it means you will break the gate.</p>"
+      },
+      {
+        "question": "While loading and unloading students you should check your mirrors:",
+        "options": [
+          "After you close the door.",
+          "Continuously.",
+          "After entering traffic."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 10.2.2 - Loading Procedures and 10.2.3 Unloading Procedures on the Route</strong></p><p>Monitor all mirrors continuously. Perform a safe stop at designated unloading areas: Check all mirrors</p>"
+      },
+      {
+        "question": "Which of the following should you do while driving the school bus in high wind?",
+        "options": [
+          "Avoid pulling off the road to wait.",
+          "Keep a strong grip on the steering wheel and try to anticipate gust.",
+          "Speed up to get away from the wind as quickly as possible."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 10.7.2 - Driving in High Winds</strong></p><p>If you are caught in strong winds: Keep a strong grip on the steering wheel. Try to anticipate gusts.</p><p>&nbsp;Question 11 of 40</p>"
+      },
+      {
+        "question": "According to the CDL manual, the final step when picking up students at the bus stop is:",
+        "options": [
+          "Make a final check to confirm all traffic stops before opening the bus door and signaling students to approach.",
+          "Place transmission in park or neutral and set parking brake.",
+          "Open the service door just enough to activate the alternating red light when traffic is in a safe distance from the bus."
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 10.2.1 - Approaching the Stop</strong></p><p>Make a final check to see that all traffic has stopped before completely opening the door and signaling students to approach.</p>"
+      },
+      {
+        "question": "Which of the following statements about loading and unloading students is true?",
+        "options": [
+          "Students should be told to leave any dropped object where it is, and to move to a point of safety out of the danger zone, and then attempt to get the driver's attention to retrieve the object.",
+          "Students should be told to pick up any dropped objects as long as it is not under the bus.",
+          "Students should be told not to use the handrails when exiting the bus due to the possibility of causing a clothing hang up."
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 10.2.5 - Special Dangers of Loading and Unloading</strong></p><p>Students should be told to leave any dropped object and move to a point of safety out of the danger zones and attempt to get the driver's attention to retrieve the object.</p>"
+      },
+      {
+        "question": "Which of the following people are allowed to remove or suspend a student from riding the bus?",
+        "options": [
+          "The school principal",
+          "The school administrator or the police.",
+          "The school bus driver"
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 10.5.2 - Handling Serious Problems</strong></p><p>Never put a student off the bus except at school or at his or her designated school bus stop. If you feel that the offense is serious enough that you cannot safely drive the bus, call for a school administrator or the police to come and remove the student.</p>"
+      },
+      {
+        "question": "Which of the following best describes the danger zone of a school bus?",
+        "options": [
+          "The area on the right side of the bus not visible by any of your mirrors.",
+          "The area anywhere outside of the bus where children are in the most danger of being hit, either by another vehicle or their own bus.",
+          "The area behind the bus while picking up students."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 10.1.1 - Danger Zones</strong></p><p>The danger zone is the area on all sides of the bus where children are in the most danger of being hit, either by another vehicle or their own bus.</p>"
+      },
+      {
+        "question": "What is a passive highway rail crossing?",
+        "options": [
+          "This type of crossing does have a traffic control device.",
+          "This type of crossing has a lane to pass slow moving vehicles.",
+          "This type of crossing does not have any type of traffic control device."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 10.4.1 - Types of Crossings</strong></p><p>This type of crossing does not have any type of traffic control device. You must stop at these crossings and follow proper procedures.</p>"
+      },
+      {
+        "question": "You are unloading students along your route. Where should students walk to after exiting the bus?",
+        "options": [
+          "Tell students to exit the bus and walk straight home and do not talk to any strangers.",
+          "Tell students to exit the bus and walk at least 10 feet away from the side of the bus to a position where the driver can plainly see all students.",
+          "Tell students to exit the bus and walk at least 100 feet away from the side of the bus to a position where the driver can plainly count all of the students."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 10.2.3 - Unloading Procedures on the Route</strong></p><p>Tell students to exit the bus and walk at least 10 feet away from the side of the bus to a position where the driver can plainly see all students.</p>"
+      },
+      {
+        "question": "How should you use your brakes if your vehicle is equipped with anti-lock brakes?",
+        "options": [
+          "Brake earlier than you normally would.",
+          "Pump the brakes evenly.",
+          "Brake the same way, regardless of whether you have ABS on the bus."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 2.18.6 - Braking With ABS</strong></p><p>Brake the same way, regardless of whether you have ABS on the bus, tractor, the trailer, or both.</p>"
+      },
+      {
+        "question": "What should you be able to see if the outside convex mirrors are adjusted properly?",
+        "options": [
+          "Front of the rear tires touching the ground, and the entire side of the bus up to the mirror mounts.",
+          "The entire side of the bus up to the mirror mounts, front of the rear tires touching the ground, and at least one traffic lane on either side of the bus.",
+          "Brake the same way, regardless of At least one traffic lane on either side of  the bus, and the entire side of the bus up to the mirror mounts.you have ABS on the bus."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 10.1.4 - Outside Left and Right Side Convex Mirrors</strong></p><p>You should position these mirrors to see: (1) The entire side of the bus up to the mirror mounts. (2)</p><p>The front of the rear tires touching the ground. (3)</p><p>At least 1 traffic lane on either side of the bus.</p>"
+      },
+      {
+        "question": "Backing a school bus is:",
+        "options": [
+          "Illegal in most states.",
+          "Strongly discouraged.",
+          "Fine, if you have a helper."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 10.7.3 - Backing</strong></p><p>Backing a school bus is strongly discouraged. You should back your bus only when you have no other safe way to move the vehicle.</p>"
+      },
+      {
+        "question": "You are loading students along the route. When should you activate your alternating flashing amber warning lamps?",
+        "options": [
+          "Never activate these lights unless there is an emergency.",
+          "If the school bus is so equipped, activate alternating flashing amber warning lamps before the school bus stop in accordance with state law.",
+          "These lights are always flashing when the bus is running."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 10.2.1 - Approaching the Stop</strong></p><p>If the school bus is so equipped, activate alternating flashing amber warning lights at least 200 feet or approximately 5-10 seconds before the school bus stop or in accordance with state law.</p>"
+      },
+      {
+        "question": "What should you be able to see if the outside flat mirrors are adjusted properly?",
+        "options": [
+          "200 feet or 4 bus lengths behind the bus. Along the sides of the bus. The rear tires touching the ground.",
+          "300 feet or 4 bus lengths behind the bus. Along the sides of the bus. The rear tires touching the ground.",
+          "100 feet or 3 bus lengths behind the bus. Along the sides of the bus. The rear tires touching the ground."
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 10.1.3 - Outside Left and Right Side Flat Mirrors</strong></p><p>Ensure that the mirrors are properly adjusted so you can see: (1) 200 feet or 4 bus lengths behind the bus. (2) Along the sides of the bus. (3) The rear tires touching the ground.</p>"
+      },
+      {
+        "question": "What mirror is used to monitor passenger activity inside the bus?",
+        "options": [
+          "Side crossover mirrors.",
+          "Overhead rearview mirror.",
+          "Side convex mirrors."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 10.1.6 - Overhead Inside Rearview Mirror</strong></p><p>This mirror is mounted directly above the windshield on the driver's side area of the bus. This mirror is used to monitor passenger activity inside the bus.</p>"
+      },
+      {
+        "question": "Why should you be extra cautious at a passive crossing?",
+        "options": [
+          "This type of crossing does not have any type of traffic control device and the decision to proceed rests entirely in your hands.",
+          "This type of crossing is used for crossing high speed train tracks.",
+          "This type of crossing has a passing lane and you need to be alert for passing vehicles."
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 10.4.1 - Types of Crossings</strong></p><p>This type of crossing does not have any type of traffic control device. You must stop at these crossings and follow proper procedures.</p>"
+      },
+      {
+        "question": "A safe place for the students will be at least feet off the road in the direction of oncoming traffic.",
+        "options": [
+          "100",
+          "150",
+          "200"
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 10.3.2 - Evacuation Procedures</strong></p><p>A safe place for the students will be at least 100 feet off the road in the direction of oncoming traffic.</p>"
+      },
+      {
+        "question": "The zone that extends as much as 30 feet from the front bumper, 10 feet from the left and right sides of the bus and 10 feet behind the rear bumper of the school bus is called what?",
+        "options": [
+          "Perimeter Zone.",
+          "Safety Zone.",
+          "Danger Zone."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 10.1.1 - Danger Zones</strong></p><p>The danger zones may extend as much as 30 feet from the front bumper (with the first 10 feet being the most dangerous), 10 feet from the left and right sides of the bus, and 10 feet behind the rear bumper of the school bus.</p>"
+      },
+      {
+        "question": "If the bus is on fire what is the first thing the driver should do?",
+        "options": [
+          "Conduct an investigation.",
+          "Evacuate the bus.",
+          "Grab the fire extinguisher and attempt to put out the fire."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 10.3.1 - Planning for Emergencies</strong></p><p>The driver must evacuate the bus when: The bus is on fire or there is a threat of a fire.</p>"
+      },
+      {
+        "question": "How far from the nearest rail should you stop at a highway rail-crossing?",
+        "options": [
+          "Stop no closer than 20 feet and no farther than 30 feet from the nearest rail, where you have the best view of the tracks.",
+          "Stop no closer than 5 feet and no farther than 25 feet from the nearest rail, where you have the best view of the tracks.",
+          "Stop no closer than 15 feet and no farther than 50 feet from the nearest rail, where you have the best view of the tracks."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 10.4.3 - Recommended Procedures</strong></p><p>Stop no closer than 15 feet and no farther than 50 feet from the nearest rail, where you have the best view of the tracks.</p>"
+      },
+      {
+        "question": "In flat mirrors you should be able to see?",
+        "options": [
+          "Full side of the bus and rear of bus.",
+          "200 feet behind the bus.",
+          "Pedestrians on the sidewalk on both sides of the bus."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 10.1.3 - Outside Left and Right Side Flat Mirrors</strong></p><p>Ensure that the mirrors are properly adjusted so you can see: 200 feet or 4 bus lengths behind the bus.</p>"
+      },
+      {
+        "question": "What mirrors are used to monitor traffic and to check clearances and students on the sides and to the rear of the bus?",
+        "options": [
+          "Outside left and right-side flat mirrors.",
+          "Outside left and right-side Convex mirrors.",
+          "Outside left and right-side cross view mirrors."
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 10.1.3 - Outside Left and Right Side Flat Mirrors</strong></p><p>These mirrors are mounted at the left and right front corners of the bus at the side or front of the windshield. They are used to monitor traffic, check clearances, and check for students on the sides and to the rear of the bus.</p>"
+      },
+      {
+        "question": "What mirrors are used to see the danger zone?",
+        "options": [
+          "Outside left and right-side flat mirrors.",
+          "Outside left and right-side cross view mirrors.",
+          "Outside left and right-side Convex mirrors."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 10.1.5 - Outside Left and Right Side Crossover Mirrors</strong></p><p>These mirrors are mounted on both the left and right front corners of the bus. They are used to see the front bumper \"danger zone\" area directly in front of the bus that is not visible by direct vision, and to view the \"danger zone\" area to the left and right side of the bus, including the service door and front wheel area.</p>"
+      },
+      {
+        "question": "More students are killed while each year than are killed as passengers inside of a school bus.",
+        "options": [
+          "running towards the bus",
+          "getting on or off a school bus",
+          "crossing the street"
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 10.2 - Loading and Unloading</strong></p><p>More students are killed while getting on or off a school bus each year than are killed as passengers inside of a school bus.</p>"
+      },
+      {
+        "question": "When approaching a bus stop, you should:",
+        "options": [
+          "Pay close attention to the children, ignore pedestrians, and traffic.",
+          "Approach cautiously, at a constant speed.",
+          "Approach cautiously, at a slow rate of speed."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 10.2.1 - Approaching the Stop</strong></p><p>When approaching the stop, you should: Approach cautiously at a slow rate of speed.</p>"
+      },
+      {
+        "question": "While loading, if you cannot account for a student outside you should",
+        "options": [
+          "Call your dispatcher.",
+          "Continue your route, you may be penalized for being late.",
+          "Secure the bus, turn off the engine, take the key, set the brake and check around and underneath the bus."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 10.2.2 - Loading Procedures</strong></p><p>If you cannot account for a student, secure the bus, take the key, and check around and underneath the bus.</p>"
+      },
+      {
+        "question": "Before crossing the roadway, students will wait for you to:",
+        "options": [
+          "Wave when it is safe to cross.",
+          "Nod your head.  ",
+          "Give the universal crossing signal."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 10.2.3 - Unloading Procedures on the Route</strong></p><p>When students reach the edge of the roadway, they should: Wait for you to give the universal crossing signal before crossing the roadway.</p>"
+      },
+      {
+        "question": "Which of the following will result in a mandatory evacuation?",
+        "options": [
+          "A student has thrown a piece of paper in your direction.",
+          "A hazardous materials spill.",
+          "There is an altercation between two students."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 10.3.2 - Evacuation Procedures</strong></p><p>Mandatory Evacuations - The driver must evacuate the bus when: There is a need to quickly evacuate because of a hazardous materials spill.</p>"
+      },
+      {
+        "question": "This type of crossing has a traffic control device installed at the crossing to regulate traffic.",
+        "options": [
+          "Active Crossings",
+          "Flashing Crossings",
+          "Passive Crossings"
+        ],
+        "correctAnswer": [
+          0
+        ],
+        "reason": "<p><strong>Section: 10.4.1 - Types of Crossings</strong></p><p>Active Crossings: This type of crossing has a traffic control device installed at the crossing to regulate traffic at the crossing.</p>"
+      },
+      {
+        "question": "The bus is trapped on the tracks, you should:",
+        "options": [
+          "Keep students calm and call your dispatcher.",
+          "Get everyone out of the bus and off the tracks immediately.",
+          "Call 911 and wait for instructions."
+        ],
+        "correctAnswer": [
+          1
+        ],
+        "reason": "<p><strong>Section: 10.4.4 - Special Situations</strong></p><p>If your bus stalls or is trapped on the tracks, get everyone out and off the tracks immediately.</p>"
+      },
+      {
+        "question": "Your bus is equipped with roof-mounted, white strobe lights. When should the overhead strobe lights be used?",
+        "options": [
+          "At all times.",
+          "When traffic is heavy.",
+          "When you have limited visibility."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 10.7.1 - Strobe Lights</strong></p><p>Some school buses are equipped with roof-mounted, white strobe lights. If your bus is so equipped, the overhead strobe light should be used when you have limited visibility.</p>"
+      },
+      {
+        "question": "Which of the following should you NOT do when driving in high winds?",
+        "options": [
+          "You should slow down to lessen the effect of the wind or pull off the roadway and wait.",
+          "Contact your dispatcher to get more information about what to do.",
+          "Speed up to get away from the wind as quickly as possible."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 10.7.2 - Driving in High Winds</strong></p><p>If you are caught in strong winds: (1) Keep a strong grip on the steering wheel. Try to anticipate gusts. (2) You should slow down to lessen the effect of the wind, or pull off the roadway and wait. (3) Contact your dispatcher to get more information on how to proceed.</p>"
+      },
+      {
+        "question": "Backing a school bus is:",
+        "options": [
+          "A normal operation which every driver should be comfortable maneuvering.",
+          "OK, if traffic is clear or light.",
+          "Strongly discouraged, you should back your bus only when you have no other safe way to move the vehicle."
+        ],
+        "correctAnswer": [
+          2
+        ],
+        "reason": "<p><strong>Section: 10.7.3 - Backing</strong></p><p>Backing a school bus is strongly discouraged. You should back your bus only when you have no other safe way to move the vehicle</p>"
+      }
+    ],
+    "pt":[
+      {
+            "question": "O motorista que perder a parada de descarga de um aluno deveria",
+            "options": [
+              "Dê alta à criança na parada.",
+              "Siga os procedimentos locais.",
+              "Voltar para a parada perdida"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 10.2.3 - Procedimentos de descarga na rota</strong></p><p><span class=\"ql-cursor\"></span>Se você perder a parada de descarga de um aluno, não faça backup. Certifique-se de seguir os procedimentos locais.</p>"
+      },
+      {
+            "question": "Qual das seguintes afirmações sobre o procedimento de evacuação de ônibus é verdadeira?",
+            "options": [
+              "Se o tempo permitir, notifique o despachante sobre o local de evacuação, as condições e o tipo de assistência necessária.",
+              "Se o tempo permitir, passe pelo ônibus e feche todas as janelas.",
+              "Se o tempo permitir, volte para a parada antes de evacuar."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Seção: 10.3.2 - Procedimentos de evacuação</strong></p><p><br></p><p>Se o tempo permitir, notifique seu escritório de expedição sobre o local de evacuação, as condições e o tipo de assistência necessária.</p>"
+      },
+      {
+            "question": "Qual dos seguintes procedimentos é recomendado para descarregar alunos?",
+            "options": [
+              "Coloque a transmissão em marcha neutra e pise no freio.",
+              "Diga aos alunos que permaneçam sentados até que sejam instruídos a sair.",
+              "Posicione-se fora do ônibus para supervisionar a descarga."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><forte>Seção: 10.2.3 - Procedimentos de Descarga na Rota</strong></p><p>Fazer com que os alunos permaneçam sentados até serem orientados a sair.</p>"
+      },
+      {
+            "question": "O momento mais perigoso durante a viagem de ônibus escolar é:",
+            "options": [
+              "Quando os alunos ficam indisciplinados no ônibus.",
+              "Travessia de ferrovia",
+              "Ao carregar e descarregar alunos."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 10.2 - Carga e Descarga</forte></p><p>Mais estudantes são mortos ao entrar ou sair de um ônibus escolar a cada ano do que são mortos como passageiros dentro de um ônibus escolar. Por isso, saber o que fazer antes, durante e depois de carregar ou descarregar os alunos é fundamental.</p>"
+      },
+      {
+            "question": "Ao parar em uma travessia ferroviária, o motorista não deve parar mais perto do que:",
+            "options": [
+              "20 pés",
+              "10 pés",
+              "15 pés"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 10.4.3 - Procedimentos recomendados</strong></p><p>Na travessia: Pare não mais de 15 pés e não mais de 50 pés do trilho mais próximo, onde você tem a melhor visão dos trilhos.</p>"
+      },
+      {
+            "question": "Se os alunos devem atravessar a rua depois de descarregar o ônibus, qual afirmação é verdadeira?",
+            "options": [
+              "Quando o motorista sinaliza que é seguro prosseguir, os alunos devem correr para o outro lado da rua.",
+              "Se o ônibus estiver equipado com o portão de travessia, as crianças não correrão perigo.",
+              "Os alunos de travessia devem fazer contato visual com o motorista do ônibus e aguardar o sinal do motorista de que é seguro prosseguir."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 10.2.3 - Procedimentos de Descarga na Rota</strong></p><p>Quando os alunos chegarem à beira da estrada, eles devem: Faça contato visual com você. Espere que você dê o sinal de travessia universal antes de atravessar a estrada.</p>"
+      },
+      {
+            "question": "Você deve ajustar os espelhos planos externos esquerdo e direito para ver:",
+            "options": [
+              "Toda a área na parte traseira do espelho ao longo da lateral do ônibus.",
+              "Os pneus traseiros direito e esquerdo tocando o chão.",
+              "200 metros atrás do ônibus."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 10.1.3 - Espelhos planos externos do lado esquerdo e direito</strong></p><p>Certifique-se de que os espelhos estejam devidamente ajustados para que você possa ver: 200 pés ou 4 comprimentos de ônibus atrás do ônibus.</p>"
+      },
+      {
+            "question": "Se o portão descer depois de você ter começado a atravessar a travessia ferroviária, você deveria:",
+            "options": [
+              "Volte até que você esteja completamente fora dos trilhos.",
+              "Pare imediatamente e ligue para seu despachante.",
+              "Dirija pelo portão."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 10.4.3 - Procedimentos recomendados</strong></p><p>Se o portão descer depois de você ter começado a atravessar, dirija por ele, mesmo que isso signifique que você vai quebrar o portão.</p>"
+      },
+      {
+            "question": "Ao carregar e descarregar alunos, você deve verificar seus espelhos:",
+            "options": [
+              "Depois que você fechar a porta.",
+              "Continuamente.",
+              "Depois de entrar no trânsito."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Seção: 10.2.2 - Procedimentos de Carregamento e 10.2.3 Procedimentos de Descarga na Rota</strong></p><p>Monitorar todos os espelhos continuamente. Realizar uma parada segura nas áreas de descarga designadas: Verifique todos os espelhos</p>"
+      },
+      {
+            "question": "Qual das seguintes options você deve fazer enquanto dirige o ônibus escolar em vento forte?",
+            "options": [
+              "Evite sair da estrada para esperar.",
+              "Mantenha uma forte aderência no volante e tente antecipar a rajada.",
+              "Acelere para fugir do vento o mais rápido possível."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><forte>Seção: 10.7.2 - Dirigir em ventos fortes</forte></p><p>Se você for pego em ventos fortes: Mantenha uma forte aderência no volante. Tente antecipar rajadas.</p><p>&nbsp; Question 11 de 40</p>"
+      },
+      {
+            "question": "De acordo com o manual da CDL, o passo final ao buscar os alunos no ponto de ônibus é:",
+            "options": [
+              "Faça uma verificação final para confirmar todas as paradas de trânsito antes de abrir a porta do ônibus e sinalizar os alunos para se aproximarem.",
+              "Coloque a transmissão no parque ou neutro e acione o freio de estacionamento.",
+              "Abra a porta de serviço apenas o suficiente para ativar o sinal vermelho alternado quando o trânsito estiver a uma distância segura do ônibus."
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><forte>Seção: 10.2.1 - Aproximando-se do Stop</strong></p><p>Faça uma verificação final para ver se todo o tráfego parou antes de abrir completamente a porta e sinalizar os alunos para se aproximarem.</p>"
+      },
+      {
+            "question": "Qual das seguintes afirmações sobre carga e descarga de alunos é verdadeira?",
+            "options": [
+              "Os alunos devem ser instruídos a deixar qualquer objeto caído onde ele está, e a se mover para um ponto de segurança fora da zona de perigo e, em seguida, tentar chamar a atenção do motorista para recuperar o objeto.",
+              "Os alunos devem ser orientados a pegar qualquer objeto caído, desde que não esteja embaixo do ônibus.",
+              "Os alunos devem ser orientados a não usar os corrimãos ao sair do ônibus devido à possibilidade de causar um desligamento da roupa."
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><forte>Seção: 10.2.5 - Perigos Especiais de Carga e Descarga</forte></p><p>Os alunos devem ser instruídos a deixar qualquer objeto caído e mover-se para um ponto de segurança fora das zonas de perigo e tentar chamar a atenção do motorista para recuperar o objeto.</p>"
+      },
+      {
+            "question": "Qual das seguintes pessoas está autorizada a remover ou suspender um aluno de andar de ônibus?",
+            "options": [
+              "O diretor da escola",
+              "O administrador da escola ou a polícia.",
+              "O motorista do ônibus escolar"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><forte>Seção: 10.5.2 - Lidando com problemas graves</strong></p><p>Nunca coloque um aluno fora do ônibus, exceto na escola ou em seu ponto de ônibus escolar designado. Se você achar que a infração é grave o suficiente para que você não possa dirigir o ônibus com segurança, chame um administrador da escola ou a polícia para vir e remover o aluno.</p>"
+      },
+      {
+            "question": "Qual dos seguintes descreve melhor a zona de perigo de um ônibus escolar?",
+            "options": [
+              "A área do lado direito do ônibus não é visível por nenhum de seus espelhos.",
+              "A área fora do ônibus onde as crianças correm mais risco de serem atingidas, seja por outro veículo ou pelo próprio ônibus.",
+              "A área atrás do ônibus enquanto pega os alunos."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><forte>Seção: 10.1.1 - Zonas de perigo</forte></p><p>A zona de perigo é a área em todos os lados do ônibus onde as crianças correm mais risco de serem atingidas, seja por outro veículo ou pelo próprio ônibus.</p>"
+      },
+      {
+            "question": "O que é uma travessia ferroviária rodoviária passiva?",
+            "options": [
+              "Esse tipo de travessia tem um dispositivo de controle de tráfego.",
+              "Esse tipo de travessia tem faixa para passar veículos lentos.",
+              "Esse tipo de travessia não tem nenhum tipo de dispositivo de controle de tráfego."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 10.4.1 - Tipos de travessias</forte></p><p>Este tipo de travessia não possui nenhum tipo de dispositivo de controle de tráfego. Você deve parar nessas travessias e seguir os procedimentos adequados.</p>"
+      },
+      {
+            "question": "Você está descarregando alunos ao longo do seu percurso. Para onde os alunos devem ir depois de sair do ônibus?",
+            "options": [
+              "Diga aos alunos para saírem do ônibus e caminharem direto para casa e não falarem com estranhos.",
+              "Diga aos alunos que saiam do ônibus e caminhem pelo menos 10 metros de distância da lateral do ônibus até uma posição em que o motorista possa ver claramente todos os alunos.",
+              "Diga aos alunos para saírem do ônibus e caminharem pelo menos 100 metros de distância da lateral do ônibus até uma posição em que o motorista possa contar claramente todos os alunos."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 10.2.3 - Procedimentos de descarga na rota</strong></p><p>Diga aos alunos para sair do ônibus e caminhar pelo menos 10 metros de distância da lateral do ônibus até uma posição em que o motorista possa ver claramente todos os alunos.</p>"
+      },
+      {
+            "question": "Como você deve usar seus freios se seu veículo está equipado com freios antitravamento?",
+            "options": [
+              "Freie mais cedo do que normalmente faria.",
+              "Bombeie os freios uniformemente.",
+              "Freie da mesma forma, independentemente de ter ABS no ônibus."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 2.18.6 - Frenagem com ABS</strong></p><p>Freie da mesma forma, independentemente de ter ABS no ônibus, trator, reboque ou ambos.</p>"
+      },
+      {
+            "question": "O que você deve ser capaz de ver se os espelhos convexos externos estão ajustados corretamente?",
+            "options": [
+              "Pneus dianteiros traseiros tocando o solo, e toda a lateral do ônibus até o espelho retrovisor é montada.",
+              "Todo o lado do ônibus até o espelho retrovisor é montado, os pneus dianteiros tocando o solo e pelo menos uma faixa de tráfego em cada lado do ônibus.",
+              "Freie da mesma forma, independentemente de pelo menos uma faixa de tráfego em cada lado do ônibus, e todo o lado do ônibus até o espelho monta.você tem ABS no ônibus."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Seção: 10.1.4 - Espelhos convexos externos do lado esquerdo e direito</strong></p><p>Você deve posicionar esses espelhos para ver: (1) Todo o lado do ônibus até o espelho é montado. (2) </p><p>A frente dos pneus traseiros tocando o solo. (3)</p><p>Pelo menos 1 faixa de tráfego em cada lado do ônibus.</p>"
+      },
+      {
+            "question": "Apoiar um ônibus escolar é:",
+            "options": [
+              "Ilegal na maioria dos estados.",
+              "Fortemente desencorajado.",
+              "Tudo bem, se você tiver um ajudante."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><forte>Seção: 10.7.3 - Apoio</forte></p><p>Apoiar um ônibus escolar é fortemente desencorajado. Você deve voltar seu ônibus apenas quando não tiver outra maneira segura de mover o veículo.</p>"
+      },
+      {
+            "question": "Você está carregando alunos ao longo do percurso. Quando você deve ativar suas lâmpadas de aviso âmbar intermitentes alternadas?",
+            "options": [
+              "Nunca ative essas luzes, a menos que haja uma emergência.",
+              "Se o ônibus escolar estiver assim equipado, ative lâmpadas de advertência âmbar intermitentes alternadas antes do ponto de ônibus escolar, de acordo com a lei estadual.",
+              "Essas luzes estão sempre piscando quando o ônibus está rodando."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Seção: 10.2.1 - Aproximando-se do Stop</strong></p><p>Se o ônibus escolar estiver assim equipado, ative luzes de advertência âmbar intermitentes alternadas pelo menos 200 pés ou aproximadamente 5-10 segundos antes do ponto de ônibus escolar ou de acordo com a lei estadual.</p>"
+      },
+      {
+            "question": "O que você deve ser capaz de ver se os espelhos planos externos estão ajustados corretamente?",
+            "options": [
+              "200 pés ou 4 comprimentos de ônibus atrás do ônibus. Ao longo das laterais do ônibus. Os pneus traseiros tocando o chão.",
+              "300 pés ou 4 comprimentos de ônibus atrás do ônibus. Ao longo das laterais do ônibus. Os pneus traseiros tocando o chão.",
+              "100 pés ou 3 comprimentos de ônibus atrás do ônibus. Nas laterais do ônibus. Os pneus traseiros tocando o chão."
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Seção: 10.1.3 - Espelhos planos externos do lado esquerdo e direito</strong></p><p>Certifique-se de que os espelhos estejam devidamente ajustados para que você possa ver: (1) 200 pés ou 4 comprimentos de ônibus atrás do ônibus. (2) Ao longo das laterais do ônibus. (3) Os pneus traseiros tocando o solo.</p>"
+      },
+      {
+            "question": "Qual espelho é usado para monitorar a atividade dos passageiros dentro do ônibus?",
+            "options": [
+              "Espelhos cruzados laterais.",
+              "Retrovisor aéreo.",
+              "Espelhos convexos laterais."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Seção: 10.1.6 - Retrovisor interno</strong></p><p>Este espelho é montado diretamente acima do para-brisa na área lateral do motorista do ônibus. Este espelho é usado para monitorar a atividade do passageiro dentro do ônibus.</p>"
+      },
+      {
+            "question": "Por que você deve ser mais cauteloso em uma travessia passiva?",
+            "options": [
+              "Esse tipo de travessia não tem nenhum tipo de dispositivo de controle de tráfego e a decisão de prosseguir cabe inteiramente em suas mãos.",
+              "Esse tipo de travessia é usado para atravessar trilhos de trens de alta velocidade.",
+              "Esse tipo de travessia tem faixa de passagem e é preciso ficar atento para veículos que passam."
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><forte>Seção: 10.4.1 - Tipos de travessias</forte></p><p>Este tipo de travessia não possui nenhum tipo de dispositivo de controle de tráfego. Você deve parar nessas travessias e seguir os procedimentos adequados.</p>"
+      },
+      {
+          "question": "Um lugar seguro para os alunos estará a pelo menos metros da estrada na direção do tráfego que se aproxima.",
+            "options": [
+              "100",
+              "150",
+              "200"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Seção: 10.3.2 - Procedimentos de evacuação</strong></p><p>Um local seguro para os alunos estará a pelo menos 100 metros da estrada na direção do tráfego que se aproxima.</p>"
+      },
+      {
+            "question": "A zona que se estende até 30 pés do para-choque dianteiro, 10 pés dos lados esquerdo e direito do ônibus e 10 pés atrás do para-choque traseiro do ônibus escolar é chamada de quê?",
+            "options": [
+              "Zona de perímetro",
+              "Zona de segurança",
+              "Zona de perigo"
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 10.1.1 - Zonas de perigo</forte></p><p>As zonas de perigo podem se estender até 30 pés do para-choque dianteiro (com os primeiros 10 pés sendo os mais perigosos), 10 pés dos lados esquerdo e direito do ônibus e 10 pés atrás do para-choque traseiro do ônibus escolar.</p>"
+      },
+      {
+            "question": "Se o ônibus está pegando fogo, qual é a primeira coisa que o motorista deve fazer?",
+            "options": [
+              "Conduza uma investigação.",
+              "Evacue o ônibus.",
+              "Pegue o extintor e tente apagar o fogo."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><forte>Seção: 10.3.1 - Planejamento para emergências</strong></p><p>O motorista deve evacuar o ônibus quando: O ônibus está pegando fogo ou há ameaça de incêndio.</p>"
+      },
+      {
+            "question": "A que distância do trem mais próximo você deve parar em uma travessia de trilhos de rodovia?",
+            "options": [
+              "Pare não mais perto do que 20 pés e não mais do que 30 pés do trilho mais próximo, onde você tem a melhor vista dos trilhos.",
+              "Não pare mais perto do que 5 pés e não mais do que 25 pés do trilho mais próximo, onde você tem a melhor vista dos trilhos.",
+              "Não pare mais perto do que 15 pés e não mais do que 50 pés do trilho mais próximo, onde você tem a melhor vista dos trilhos."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 10.4.3 - Procedimentos recomendados</strong></p><p>Pare não mais perto do que 15 pés e não mais do que 50 pés do trilho mais próximo, onde você tem a melhor visão dos trilhos.</p>"
+      },
+      {
+            "question": "Em espelhos planos você deve ser capaz de ver?",
+            "options": [
+              "Lado inteiro do ônibus e traseira do ônibus.",
+              "200 metros atrás do ônibus.",
+              "Pedestres na calçada dos dois lados do ônibus."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Seção: 10.1.3 - Espelhos planos externos do lado esquerdo e direito</strong></p><p>Certifique-se de que os espelhos estejam devidamente ajustados para que você possa ver: 200 pés ou 4 comprimentos de ônibus atrás do ônibus.</p>"
+      },
+      {
+            "question": "Que espelhos são usados para monitorar o tráfego e verificar as folgas e os alunos nas laterais e na parte traseira do ônibus?",
+            "options": [
+              "Espelhos planos do lado esquerdo e do lado direito.",
+              "Espelhos convexos do lado esquerdo e do lado direito.",
+              "Espelhos retrovisores cruzados do lado esquerdo e direito."
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><strong>Seção: 10.1.3 - Espelhos planos externos do lado esquerdo e direito</strong></p><p>Estes espelhos são montados nos cantos dianteiros esquerdo e direito do ônibus, na lateral ou na frente do para-brisa. Eles são usados para monitorar o tráfego, verificar as folgas e verificar se há alunos nas laterais e na parte traseira do ônibus.</p>"
+      },
+      {
+            "question": "Que espelhos são usados para ver a zona de perigo?",
+            "options": [
+              "Espelhos planos do lado esquerdo e do lado direito.",
+              "Espelhos retrovisores cruzados do lado esquerdo e direito.",
+              "Espelhos convexos do lado esquerdo e do lado direito."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Seção: 10.1.5 - Espelhos cruzados externos do lado esquerdo e direito</strong></p><p>Esses espelhos são montados nos cantos dianteiros esquerdo e direito do ônibus. Eles são usados para ver a área do para-choque dianteiro \"zona de perigo\" diretamente na frente do ônibus que não é visível por visão direta, e para visualizar a  área \"zona de perigo\" para o lado esquerdo e direito do ônibus, incluindo a porta de serviço e a área da roda dianteira.</p>"
+      },
+      {
+            "question": "Mais estudantes são mortos a cada ano do que são mortos como passageiros dentro de um ônibus escolar.",
+            "options": [
+              "correndo em direção ao ônibus",
+              "entrar ou descer de um ônibus escolar",
+              "Atravessar a rua"
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><forte>Seção: 10.2 - Carga e Descarga</forte></p><p>Mais estudantes são mortos ao entrar ou sair de um ônibus escolar a cada ano do que são mortos como passageiros dentro de um ônibus escolar.</p>"
+      },
+      {
+            "question": "Ao se aproximar de um ponto de ônibus, você deve:",
+            "options": [
+              "Preste muita atenção às crianças, ignore os pedestres e o trânsito.",
+              "Aproxime-se com cautela, em uma velocidade constante.",
+              "Aproxime-se com cautela, em um ritmo lento de velocidade."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 10.2.1 - Aproximando-se do Stop</strong></p><p>Ao se aproximar da parada, você deve: Aproxime-se cautelosamente a uma velocidade lenta.</p>"
+      },
+      {
+            "question": "Durante o carregamento, se você não pode contabilizar um aluno fora você deveria",
+            "options": [
+              "Ligue para o seu despachante.",
+              "Continue sua rota, você pode ser penalizado por se atrasar.",
+              "Proteja o ônibus, desligue o motor, pegue a chave, ajuste o freio e verifique ao redor e embaixo do ônibus."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 10.2.2 - Procedimentos de carregamento</strong></p><p>Se você não puder prestar contas para um aluno, proteja o ônibus, pegue a chave e verifique ao redor e embaixo do ônibus.</p>"
+      },
+      {
+            "question": "Antes de atravessar a estrada, os alunos vão esperar por você:",
+            "options": [
+              "Acenar quando for seguro atravessar.",
+              "Acene com a cabeça.  ",
+              "Dê o sinal de cruzamento universal."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 10.2.3 - Procedimentos de descarga na rota</strong></p><p>Quando os alunos chegarem à beira da estrada, eles devem: Espere que você dê o sinal de travessia universal antes de atravessar a estrada.</p>"
+      },
+      {
+            "question": "Qual dos seguintes resultará em uma evacuação obrigatória?",
+            "options": [
+              "Um aluno jogou um pedaço de papel na sua direção.",
+              "Um vazamento de materiais perigosos.",
+              "Há uma briga entre dois alunos."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><strong>Seção: 10.3.2 - Procedimentos de evacuação</strong></p><p>Evacuações obrigatórias - O motorista deve evacuar o ônibus quando: Há necessidade de evacuar rapidamente por causa de um vazamento de materiais perigosos.</p>"
+      },
+      {
+          "question":"Esse tipo de travessia tem um dispositivo de controle de tráfego instalado na travessia para regular o tráfego.",
+            "options": [
+              "Travessias ativas",
+              "Travessias intermitentes",
+              "Travessias passivas"
+      ],
+            "correctAnswer": [
+              0
+      ],
+            "reason": "<p><forte>Seção: 10.4.1 - Tipos de Travessias</forte></p><p>Travessias ativas: Este tipo de travessia possui um dispositivo de controle de tráfego instalado no cruzamento para regular o tráfego no cruzamento.</p>"
+      },
+      {
+            "question": "O ônibus está preso nos trilhos, você deveria:",
+            "options": [
+              "Mantenha os alunos calmos e ligue para seu despachante.",
+              "Tire todo mundo do ônibus e saia dos trilhos imediatamente.",
+              "Ligue para o 911 e aguarde instruções."
+      ],
+            "correctAnswer": [
+              1
+      ],
+            "reason": "<p><forte>Seção: 10.4.4 - Situações Especiais</forte></p><p>Se seu ônibus parar ou ficar preso nos trilhos, tire todos dos trilhos imediatamente.</p>"
+      },
+      {
+            "question": "Seu ônibus está equipado com luzes estroboscópicas brancas montadas no teto. Quando as luzes estroboscópicas aéreas devem ser usadas?",
+            "options": [
+              "Em todos os momentos.",
+              "Quando o trânsito é pesado.",
+              "Quando você tem visibilidade limitada."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><strong>Seção: 10.7.1 - Luzes estroboscópicas</strong></p><p>Alguns ônibus escolares são equipados com luzes estroboscópicas brancas montadas no teto. Se o seu ônibus estiver tão equipado, a luz estroboscópica aérea deve ser usada quando você tiver visibilidade limitada.</p>"
+      },
+      {
+            "question": "Qual dos seguintes itens você NÃO deve fazer ao dirigir com ventos fortes?",
+            "options": [
+              "Você deve diminuir a velocidade para diminuir o efeito do vento ou sair da estrada e esperar.",
+              "Entre em contato com seu despachante para obter mais informações sobre o que fazer.",
+              "Acelere para fugir do vento o mais rápido possível."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 10.7.2 - Condução em ventos fortes</forte></p><p>Se for apanhado por ventos fortes: (1) Mantenha uma forte aderência ao volante. Tente antecipar rajadas. (2) Você deve diminuir a velocidade para diminuir o efeito do vento, ou sair da estrada e esperar. (3) Entre em contato com seu despachante para obter mais informações sobre como proceder.</p>"
+      },
+      {
+            "question": "Apoiar um ônibus escolar é:",
+            "options": [
+              "Uma operação normal que todo motorista deve estar confortável manobrando.",
+              "OK, se o trânsito estiver claro ou leve.",
+              "Fortemente desencorajado, você deve voltar seu ônibus apenas quando não tiver outra maneira segura de mover o veículo."
+      ],
+            "correctAnswer": [
+              2
+      ],
+            "reason": "<p><forte>Seção: 10.7.3 - Apoio</forte></p><p>Apoiar um ônibus escolar é fortemente desencorajado. Você só deve voltar seu ônibus quando não tiver outra maneira segura de mover o veículo</p>"
+      }
+      ],
+      "es":[
+        {
+              "question": "El conductor que pierde la parada de descarga de un estudiante debe",
+              "options": [
+                "Despida al niño en la parada",
+                "Siga los procedimientos locales",
+                "Volver a la parada perdida"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 1023 - Procedimientos de descarga en la ruta</strong></p><p><span class=\"ql-cursor\"></span>Si pierde la parada de descarga de un estudiante, no retroceda Asegúrese de seguir los procedimientos locales</p>"
+        },
+        {
+              "question": "¿Cuál de las siguientes afirmaciones sobre el procedimiento de evacuación de autobuses es verdadera?",
+              "options": [
+                "Si el tiempo lo permite, notifique al despachador sobre el lugar de evacuación, las condiciones y el tipo de asistencia necesaria",
+                "Si el tiempo lo permite, camine por el autobús y cierre todas las ventanas",
+                "Si el tiempo lo permite, retroceda hasta la parada antes de evacuar"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 1032 - Procedimientos de evacuación</strong></p><p><br></p><p>Si el tiempo lo permite, notifique a su oficina de despacho el lugar de evacuación, las condiciones y el tipo de asistencia necesaria</p>"
+        },
+        {
+              "question": "¿Cuál de los siguientes es el procedimiento recomendado para descargar a los estudiantes?",
+              "options": [
+                "Pon la transmisión en punto muerto y frena",
+                "Dígales a los estudiantes que permanezcan sentados hasta que se les diga que salgan",
+                "Colóquese fuera del autobús para supervisar la descarga"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 1023 - Procedimientos de descarga en la ruta</strong></p><p>Haga que los estudiantes permanezcan sentados hasta que se les indique que salgan</p>"
+        },
+        {
+              "question": "El momento más peligroso durante el viaje en autobús escolar es:",
+              "options": [
+                "Cuando los estudiantes se vuelven rebeldes en el autobús",
+                "Cruce de vías férreas",
+                "Al cargar y descargar estudiantes"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 102 - Carga y descarga</strong></p><p>Más estudiantes mueren al subir o bajar de un autobús escolar cada año que los que mueren como pasajeros dentro de un autobús escolar Como resultado, es fundamental saber qué hacer antes, durante y después de cargar o descargar a los estudiantes</p>"
+        },
+        {
+              "question": "Al detenerse en un cruce de ferrocarril, el conductor no debe detenerse más cerca de:",
+              "options": [
+                "20 pies",
+                "10 pies",
+                "15 pies"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 1043 - Procedimientos recomendados</strong></p><p>En el cruce: Deténgase a no menos de 15 pies y no más de 50 pies del riel más cercano, donde tenga la mejor vista de las vías</p>"
+        },
+        {
+              "question": "Si los estudiantes deben cruzar la calle después de bajar del autobús, ¿qué afirmación es verdadera?",
+              "options": [
+                "Cuando el conductor indica que es seguro continuar, los estudiantes deben cruzar la calle corriendo",
+                "Si el autobús está equipado con la puerta de cruce, los niños no correrán ningún peligro",
+                "Los estudiantes que cruzan deben hacer contacto visual con el conductor del autobús y esperar la señal del conductor de que es seguro continuar"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 1023 - Procedimientos de descarga en la ruta</strong></p><p>Cuando los estudiantes lleguen al borde de la carretera, deben: Hacer contacto visual con usted Espere a que dé la señal de cruce universal antes de cruzar la calzada</p>"
+        },
+        {
+              "question": "Debe ajustar los espejos planos exteriores izquierdo y derecho para ver:",
+              "options": [
+                "Toda el área hasta la parte trasera del espejo a lo largo del costado del autobús",
+                "Los neumáticos traseros derecho e izquierdo tocando el suelo",
+                "200 pies detrás del autobús"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 1013 - Espejos planos exteriores izquierdo y derecho</strong></p><p>Asegúrese de que los espejos estén correctamente ajustados para que pueda ver: 200 pies o 4 longitudes de autobús detrás del autobús</p>"
+        },
+        {
+              "question": "Si la puerta se baja después de haber comenzado a cruzar el cruce de ferrocarril, debe:",
+              "options": [
+                "Retrocede hasta que estés completamente fuera de las vías",
+                "Deténgase inmediatamente y llame a su despachador",
+                "Conduzca a través de la puerta"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 1043 - Procedimientos recomendados</strong></p><p>Si la puerta se cae después de haber comenzado a cruzar, conduzca a través de ella, incluso si eso significa que romperá la puerta</p>"
+        },
+        {
+              "question": "Al cargar y descargar estudiantes debes revisar tus espejos:",
+              "options": [
+                "Después de cerrar la puerta",
+                "Continuamente",
+                "Después de entrar en el tráfico"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 1022 - Procedimientos de carga y 1023 Procedimientos de descarga en la ruta</strong></p><p>Supervise todos los espejos de forma continua Realice una parada segura en las áreas de descarga designadas: Revise todos los espejos</p>"
+        },
+        {
+              "question": "¿Cuál de las siguientes cosas debe hacer mientras conduce el autobús escolar con viento fuerte?",
+              "options": [
+                "Evite salirse de la carretera para esperar",
+                "Mantenga un agarre fuerte en el volante y trate de anticiparse a las ráfagas",
+                "Acelera para alejarte del viento lo más rápido posible"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 1072 - Conducir con vientos fuertes</strong></p><p>Si te atrapan vientos fuertes: Mantén un fuerte agarre en el volante Trate de anticiparse a las ráfagas</p><p>&nbsp; Pregunta 11 de 40</p>"
+        },
+        {
+              "question": "De acuerdo con el manual de CDL, el último paso al recoger a los estudiantes en la parada de autobús es:",
+              "options": [
+                "Haga una verificación final para confirmar todas las paradas de tráfico antes de abrir la puerta del autobús y hacer señas a los estudiantes para que se acerquen",
+                "Coloque la transmisión en estacionamiento o punto muerto y ponga el freno de mano",
+                "Abra la puerta de servicio lo suficiente para activar la luz roja alterna cuando el tráfico esté a una distancia segura del autobús"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 1021 - Acercarse a la parada</strong></p><p>Haga una verificación final para ver que todo el tráfico se haya detenido antes de abrir completamente la puerta y hacer señas a los estudiantes para que se acerquen</p>"
+        },
+        {
+              "question": "¿Cuál de las siguientes afirmaciones sobre la carga y descarga de estudiantes es verdadera?",
+              "options": [
+                "Se les debe decir a los estudiantes que dejen cualquier objeto caído donde está, y que se muevan a un punto seguro fuera de la zona de peligro, y luego intenten llamar la atención del conductor para recuperar el objeto",
+                "Se les debe decir a los estudiantes que recojan cualquier objeto que se les caiga siempre y cuando no esté debajo del autobús",
+                "Se les debe decir a los estudiantes que no usen los pasamanos al salir del autobús debido a la posibilidad de que la ropa se cuelgue"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 1025 - Peligros especiales de la carga y descarga</strong></p><p>Se debe decir a los estudiantes que dejen cualquier objeto caído y se muevan a un punto seguro fuera de las zonas de peligro e intenten llamar la atención del conductor para recuperar el objeto</p>"
+        },
+        {
+              "question": "¿A cuál de las siguientes personas se le permite retirar o suspender a un estudiante para que no viaje en el autobús?",
+              "options": [
+                "El director de la escuela",
+                "El administrador de la escuela o la policía",
+                "El conductor del autobús escolar"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 1052 - Manejo de problemas serios</strong></p><p>Nunca baje a un estudiante del autobús excepto en la escuela o en su parada de autobús escolar designada Si cree que la ofensa es lo suficientemente grave como para que no pueda conducir el autobús de manera segura, llame a un administrador de la escuela o a la policía para que vengan y retiren al estudiante><"
+        },
+        {
+              "question": "¿Cuál de las siguientes options describe mejor la zona de peligro de un autobús escolar?",
+              "options": [
+                "El área en el lado derecho del autobús no es visible por ninguno de sus espejos",
+                "El área fuera del autobús donde los niños corren el mayor peligro de ser atropellados, ya sea por otro vehículo o por su propio autobús",
+                "El área detrás del autobús mientras recoge a los estudiantes"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 1011 - Zonas de peligro</strong></p><p>La zona de peligro es el área en todos los lados del autobús donde los niños corren el mayor peligro de ser atropellados, ya sea por otro vehículo o por su propio autobús</p>"
+        },
+        {
+              "question": "¿Qué es un cruce ferroviario pasivo de carretera?",
+              "options": [
+                "Este tipo de cruce tiene un dispositivo de control de tráfico",
+                "Este tipo de cruce tiene un carril para rebasar a los vehículos que se mueven lentamente",
+                "Este tipo de cruce no tiene ningún tipo de dispositivo de control de tráfico"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 1041 - Tipos de cruces</strong></p><p>Este tipo de cruce no dispone de ningún tipo de dispositivo de control de tráfico Debe detenerse en estos cruces y seguir los procedimientos adecuados</p>"
+        },
+        {
+              "question": "Estás descargando estudiantes a lo largo de tu ruta ¿A dónde deben caminar los estudiantes después de salir del autobús?",
+              "options": [
+                "Dígales a los estudiantes que salgan del autobús y caminen directamente a casa y que no hablen con extraños",
+                "Dígales a los estudiantes que salgan del autobús y caminen al menos a 10 pies de distancia del costado del autobús hasta una posición donde el conductor pueda ver claramente a todos los estudiantes",
+                "Dígales a los estudiantes que salgan del autobús y caminen al menos 100 pies de distancia desde el costado del autobús hasta una posición donde el conductor pueda contar claramente a todos los estudiantes"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 1023 - Procedimientos de descarga en la ruta</strong></p><p>Dígales a los estudiantes que salgan del autobús y caminen al menos a 10 pies de distancia del costado del autobús hasta una posición donde el conductor pueda ver claramente a todos los estudiantes</p>"
+        },
+        {
+              "question": "¿Cómo debe usar los frenos si su vehículo está equipado con frenos antibloqueo?",
+              "options": [
+                "Frena antes de lo normal",
+                "Bombea los frenos de manera uniforme",
+                "Frene de la misma manera, independientemente de si tiene ABS en el autobús"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 2186 - Frenado con ABS</strong></p><p>Frene de la misma manera, independientemente de si tiene ABS en el autobús, el tractor, el remolque o ambos</p>"
+        },
+        {
+              "question": "¿Qué debería poder ver si los espejos exteriores convexos están ajustados correctamente?",
+              "options": [
+                "Los neumáticos delanteros de los traseros tocan el suelo y todo el costado del autobús hasta los soportes de los espejos",
+                "Todo el costado del autobús hasta los soportes de los espejos, la parte delantera de los neumáticos traseros tocando el suelo y al menos un carril de tráfico a cada lado del autobús",
+                "Frene de la misma manera, independientemente de Al menos un carril de tráfico a cada lado del autobús, y todo el costado del autobús hasta los soportes de los espejos"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 1014 - Espejos convexos exteriores del lado izquierdo y derecho</strong></p><p>Debe colocar estos espejos para ver: (1) Todo el costado del autobús hasta los soportes de los espejos (2)</p><p>La parte delantera de los neumáticos traseros tocando el suelo (3)</p><p>Al menos 1 carril de circulación a cada lado del autobús</p>"
+        },
+        {
+              "question": "Dar marcha atrás a un autobús escolar es:",
+              "options": [
+                "Ilegal en la mayoría de los estados",
+                "Muy desaconsejado",
+                "Está bien, si tienes un ayudante"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 1073 - Respaldo</strong></p><p>Se desaconseja encarecidamente dar marcha atrás a un autobús escolar Debe retroceder su autobús solo cuando no tenga otra forma segura de mover el vehículo</p>"
+        },
+        {
+              "question": "Estás cargando estudiantes a lo largo de la ruta ¿Cuándo debe activar sus luces de advertencia ámbar intermitentes alternas?",
+              "options": [
+                "Nunca actives estas luces a menos que haya una emergencia",
+                "Si el autobús escolar está equipado de esa manera, active las luces de advertencia ámbar intermitentes alternas antes de la parada del autobús escolar de acuerdo con la ley estatal",
+                "Estas luces siempre parpadean cuando el autobús está en marcha"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 1021 - Acercándose a la parada</strong></p><p>Si el autobús escolar está equipado de esa manera, active las luces de advertencia ámbar intermitentes alternas al menos 200 pies o aproximadamente 5-10 segundos antes de la parada del autobús escolar o de acuerdo con la ley estatal</p>"
+        },
+        {
+              "question": "¿Qué debería poder ver si los espejos planos exteriores están ajustados correctamente?",
+              "options": [
+                "200 pies o 4 longitudes de autobús detrás del autobús A lo largo de los lados del autobús Los neumáticos traseros tocando el suelo",
+                "300 pies o 4 longitudes de autobús detrás del autobús, a lo largo de los lados del autobús Los neumáticos traseros tocando el suelo",
+                "100 pies o 3 longitudes de autobús detrás del autobús A lo largo de los costados del autobús Los neumáticos traseros tocando el suelo"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 1013 - Espejos planos exteriores izquierdo y derecho</strong></p><p>Asegúrese de que los espejos estén correctamente ajustados para que pueda ver: (1) 200 pies o 4 longitudes de autobús detrás del autobús (2) A lo largo de los lados del autobús (3) Los neumáticos traseros tocan el suelo</p>"
+        },
+        {
+              "question": "¿Qué espejo se utiliza para monitorear la actividad de los pasajeros dentro del autobús?",
+              "options": [
+                "Espejos cruzados laterales",
+                "Espejo retrovisor superior",
+                "Espejos convexos laterales"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 1016 - Espejo retrovisor interior superior</strong></p><p>Este espejo está montado directamente sobre el parabrisas en el área del lado del conductor del autobús Este espejo se utiliza para monitorear la actividad de los pasajeros dentro del autobús</p>"
+        },
+        {
+              "question": "¿Por qué deberías ser más cauteloso en un cruce pasivo?",
+              "options": [
+                "Este tipo de cruce no tiene ningún tipo de dispositivo de control de tráfico y la decisión de proceder está totalmente en sus manos",
+                "Este tipo de cruce se utiliza para cruzar vías de tren de alta velocidad",
+                "Este tipo de cruce tiene un carril de adelantamiento y hay que estar atento a los vehículos que pasan"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 1041 - Tipos de cruces</strong></p><p>Este tipo de cruce no dispone de ningún tipo de dispositivo de control de tráfico Debe detenerse en estos cruces y seguir los procedimientos adecuados</p>"
+        },
+        {
+              "question": "Un lugar seguro para los estudiantes será al menos a unos pies de la carretera en la dirección del tráfico que se aproxima",
+              "options": [
+                "100",
+                "150",
+                "200"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 1032 - Procedimientos de evacuación</strong></p><p>Un lugar seguro para los estudiantes será al menos a 100 pies de la carretera en la dirección del tráfico que se aproxima</p>"
+        },
+        {
+              "question": "La zona que se extiende hasta 30 pies desde el parachoques delantero, 10 pies desde los lados izquierdo y derecho del autobús y 10 pies detrás del parachoques trasero del autobús escolar se llama ¿qué?",
+              "options": [
+                "Zona perimetral",
+                "Zona de seguridad",
+                "Zona de peligro"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 1011 - Zonas de peligro</strong></p><p>Las zonas de peligro pueden extenderse hasta 30 pies desde el parachoques delantero (siendo los primeros 10 pies los más peligrosos), 10 pies desde los lados izquierdo y derecho del autobús, y 10 pies detrás del parachoques trasero del autobús escolar</p>"
+        },
+        {
+              "question": "Si el autobús está en llamas, ¿qué es lo primero que debe hacer el conductor?",
+              "options": [
+                "Lleva a cabo una investigación",
+                "Evacúen el autobús",
+                "Agarra el extintor e intenta apagar el fuego"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 1031 - Planificación para Emergencias</strong></p><p>El conductor debe evacuar el autobús cuando: El autobús está en llamas o hay amenaza de incendio</p>"
+        },
+        {
+              "question": "¿A qué distancia del ferrocarril más cercano debe detenerse en un cruce de ferrocarril de carretera?",
+              "options": [
+                "Deténgase a no menos de 20 pies y no más de 30 pies del riel más cercano, donde tenga la mejor vista de las vías",
+                "Deténgase a no menos de 5 pies y no más de 25 pies del riel más cercano, donde tenga la mejor vista de las vías",
+                "Deténgase a no menos de 15 pies y no más de 50 pies del riel más cercano, donde tenga la mejor vista de las vías"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 1043 - Procedimientos recomendados</strong></p><p>No se detenga a menos de 15 pies y no más de 50 pies del riel más cercano, donde tenga la mejor vista de las vías</p>"
+        },
+        {
+              "question": "¿En los espejos planos deberías poder ver?",
+              "options": [
+                "Lado completo del autobús y parte trasera del autobús",
+                "200 pies detrás del autobús",
+                "Peatones en la acera a ambos lados del autobús"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 1013 - Espejos planos exteriores izquierdo y derecho</strong></p><p>Asegúrese de que los espejos estén correctamente ajustados para que pueda ver: 200 pies o 4 longitudes de autobús detrás del autobús</p>"
+        },
+        {
+              "question": "¿Qué espejos se utilizan para controlar el tráfico y para comprobar los espacios libres y los estudiantes a los lados y en la parte trasera del autobús?",
+              "options": [
+                "Espejos planos exteriores izquierdo y derecho",
+                "Espejos convexos exteriores izquierdo y derecho",
+                "Espejos retrovisores exteriores izquierdo y derecho"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 1013 - Espejos planos exteriores izquierdo y derecho</strong></p><p>Estos espejos están montados en las esquinas delanteras izquierda y derecha del autobús, en el costado o en la parte delantera del parabrisas Se utilizan para monitorear el tráfico, verificar los espacios libres y verificar si hay estudiantes a los lados y en la parte trasera del autobús</p>"
+        },
+        {
+              "question": "¿Qué espejos se utilizan para ver la zona de peligro?",
+              "options": [
+                "Espejos planos exteriores izquierdo y derecho",
+                "Espejos retrovisores exteriores izquierdo y derecho",
+                "Espejos convexos exteriores izquierdo y derecho"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 1015 - Espejos cruzados exteriores izquierdo y derecho</strong></p><p>Estos espejos están montados en las esquinas delanteras izquierda y derecha del autobús Se utilizan para ver el  área de la zona de peligro' del parachoques delantero  directamente frente al autobús que no es visible por visión directa, y para ver el  área de la 'zona de peligro'a la izquierda y derecha del autobús, incluida la puerta de servicio y el área de la rueda delantera><"
+        },
+        {
+              "question": "Más estudiantes mueren cada año que los que mueren como pasajeros dentro de un autobús escolar",
+              "options": [
+                "corriendo hacia el autobús",
+                "subir o bajar de un autobús escolar",
+                "Cruzando la calle"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 102 - Carga y descarga</strong></p><p>Más estudiantes mueren al subir o bajar de un autobús escolar cada año que los que mueren como pasajeros dentro de un autobús escolar</p>"
+        },
+        {
+              "question": "Al acercarse a una parada de autobús, usted debe:",
+              "options": [
+                "Preste mucha atención a los niños, ignore a los peatones y al tráfico",
+                "Acércate con cautela, a una velocidad constante",
+                "Acércate con cautela, a una velocidad lenta"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 1021 - Aproximación a la parada</strong></p><p>Al acercarse a la parada, debe: Acérquese con precaución a una velocidad lenta</p>"
+        },
+        {
+              "question": "Mientras se carga, si no puede dar cuenta de un estudiante de afuera, debe hacerlo",
+              "options": [
+                "Llame a su despachador",
+                "Continúa tu ruta, puedes ser penalizado por llegar tarde",
+                "Asegure el autobús, apague el motor, tome la llave, ponga el freno y revise alrededor y debajo del autobús"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 1022 - Procedimientos de carga</strong></p><p>Si no puede dar cuenta de un estudiante, asegure el autobús, tome la llave y revise alrededor y debajo del autobús</p>"
+        },
+        {
+              "question": "Antes de cruzar la calzada, los estudiantes esperarán a que usted:",
+              "options": [
+                "Saluda cuando sea seguro cruzar",
+                "Asiente con la cabeza  ",
+                "Dar la señal de cruce universal"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 1023 - Procedimientos de descarga en la ruta</strong></p><p>Cuando los estudiantes lleguen al borde de la calzada, deben: Espere a que dé la señal de cruce universal antes de cruzar la calzada</p>"
+        },
+        {
+              "question": "¿Cuál de las siguientes options resultará en una evacuación obligatoria?",
+              "options": [
+                "Un estudiante ha tirado un pedazo de papel en tu dirección",
+                "Un derrame de materiales peligrosos",
+                "Hay un altercado entre dos estudiantes"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 1032 - Procedimientos de evacuación</strong></p><p>Evacuaciones obligatorias - El conductor debe evacuar el autobús cuando: Existe la necesidad de evacuar rápidamente debido a un derrame de materiales peligrosos</p>"
+        },
+        {
+              "question": "Este tipo de cruce tiene un dispositivo de control de tráfico instalado en el cruce para regular el tráfico",
+              "options": [
+                "Cruces activos",
+                "Cruces intermitentes",
+                "Cruces pasivos"
+        ],
+              "correctAnswer": [
+                0
+        ],
+              "reason": "<p><strong>Sección: 1041 - Tipos de cruces</strong></p><p>Pasos activos: Este tipo de cruce tiene un dispositivo de control de tráfico instalado en el cruce para regular el tráfico en el cruce</p>"
+        },
+        {
+              "question": "El autobús está atrapado en las vías, usted debe:",
+              "options": [
+                "Mantenga a los estudiantes tranquilos y llame a su despachador",
+                "Saquen a todos del autobús y de las vías inmediatamente",
+                "Llame al 911 y espere instrucciones"
+        ],
+              "correctAnswer": [
+                1
+        ],
+              "reason": "<p><strong>Sección: 1044 - Situaciones especiales</strong></p><p>Si su autobús se detiene o queda atrapado en las vías, saque a todos de las vías inmediatamente</p>"
+        },
+        {
+              "question": "Su autobús está equipado con luces estroboscópicas blancas montadas en el techo ¿Cuándo se deben usar las luces estroboscópicas del techo?",
+              "options": [
+                "En todo momento",
+                "Cuando el tráfico es pesado",
+                "Cuando tienes una visibilidad limitada"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 1071 - Luces estroboscópicas</strong></p><p>Algunos autobuses escolares están equipados con luces estroboscópicas blancas montadas en el techo Si su autobús está equipado de esta manera, la luz estroboscópica del techo debe usarse cuando tenga visibilidad limitada</p>"
+        },
+        {
+              "question": "¿Cuál de las siguientes options NO debe hacer cuando conduce con vientos fuertes?",
+              "options": [
+                "Debes reducir la velocidad para disminuir el efecto del viento o salirte de la carretera y esperar",
+                "Póngase en contacto con su despachador para obtener más información sobre qué hacer",
+                "Acelera para alejarte del viento lo más rápido posible"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 1072 - Conducir con vientos fuertes</strong></p><p>Si está atrapado en vientos fuertes: (1) Mantenga un agarre fuerte en el volante Trate de anticiparse a las ráfagas (2) Debe reducir la velocidad para disminuir el efecto del viento, o salirse de la carretera y esperar (3) Póngase en contacto con su despachador para obtener más información sobre cómo proceder</p>"
+        },
+        {
+              "question": "Dar marcha atrás a un autobús escolar es:",
+              "options": [
+                "Una operación normal en la que todos los conductores deberían sentirse cómodos maniobrando",
+                "Está bien, si el tráfico está despejado o es ligero",
+                "Se desaconseja encarecidamente que retroceda su autobús solo cuando no tenga otra forma segura de mover el vehículo"
+        ],
+              "correctAnswer": [
+                2
+        ],
+              "reason": "<p><strong>Sección: 1073 - Respaldo</strong></p><p>Se desaconseja encarecidamente dar marcha atrás a un autobús escolar Debe retroceder su autobús solo cuando no tenga otra forma segura de mover el vehículo</p>"
+        }
+        ]
+          
+        
+        
+        
+      
+      
+    
+  
+  }
