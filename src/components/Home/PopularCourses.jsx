@@ -193,6 +193,7 @@ export default function PopularCourses({ language, showCancelButton, handleNavig
   const [purchase, setpurchase] = useState("")
   const [succ, setSucc] = useState(false)
   const [err, setErr] = useState(false)
+  const [errorMessage, setErrorMessage] = useState("")
   const [available, setAvailable] = useState(false)
   const [coulan, setCoulan] = useState("English")
   const [plans, setPlans] = useState([]);
@@ -230,7 +231,8 @@ export default function PopularCourses({ language, showCancelButton, handleNavig
   const visibleModal = () => {
     setSucc(true)
   }
-  const errModal = () => {
+  const errModal = (message = "") => {
+    setErrorMessage(message)
     setErr(true)
   }
   const availblemodal = () => {
@@ -244,8 +246,8 @@ export default function PopularCourses({ language, showCancelButton, handleNavig
   }
   const errhideModal = () => {
     setErr(false)
+    setErrorMessage("")
     setModalVisible(true);
-
   }
 
   const showModal = async (courseId) => {
@@ -360,7 +362,9 @@ export default function PopularCourses({ language, showCancelButton, handleNavig
 
         if (confirmError) {
           console.error('Payment confirmation error:', confirmError);
-          errModal();
+          // Get the user-friendly error message from Stripe
+          const errorMsg = confirmError.message || 'Payment failed. Please try again.';
+          errModal(errorMsg);
           handleCancel();
           setModalVisible(false);
         } else if (paymentIntent && paymentIntent.status === 'succeeded') {
@@ -392,8 +396,9 @@ export default function PopularCourses({ language, showCancelButton, handleNavig
           } catch (enrollmentError) {
             console.error('Enrollment error:', enrollmentError);
             // Payment succeeded but enrollment failed - you might want to handle this differently
-            openNotification("error", "Payment succeeded but enrollment failed. Please contact support.");
-            errModal();
+            const errorMsg = enrollmentError.response?.data?.message || enrollmentError.message || "Payment succeeded but enrollment failed. Please contact support.";
+            openNotification("error", errorMsg);
+            errModal(errorMsg);
             handleCancel();
             setModalVisible(false);
           }
@@ -405,8 +410,19 @@ export default function PopularCourses({ language, showCancelButton, handleNavig
       }
 
     } catch (error) {
-      console.error('Payment error:', error.message);
-      errModal();
+      console.error('Payment error:', error);
+      // Extract error message from various possible sources
+      let errorMsg = "An error occurred while processing your payment. Please try again.";
+      
+      if (error.response?.data?.message) {
+        errorMsg = error.response.data.message;
+      } else if (error.response?.data?.error) {
+        errorMsg = error.response.data.error;
+      } else if (error.message) {
+        errorMsg = error.message;
+      }
+      
+      errModal(errorMsg);
       handleCancel()
       setModalVisible(false);
     } finally {
@@ -668,7 +684,9 @@ export default function PopularCourses({ language, showCancelButton, handleNavig
               <img src={errir} alt="success" />
             </div>
             <span className="message" style={{ marginTop: "24px" }}>Error processing payment</span><br></br>
-            <span className="exp" >Please try again. If the issue persists, contact your card issuer or try using another card.</span>
+            <span className="exp" >
+              {errorMessage || "Please try again. If the issue persists, contact your card issuer or try using another card."}
+            </span>
             <button className="buybtn" onClick={errhideModal}>To try again</button>
           </div>
         </Modal>
