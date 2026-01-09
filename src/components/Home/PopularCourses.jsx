@@ -21,10 +21,165 @@ import { useSelector } from "react-redux";
 import bannerimage from "./images/Selo.svg"
 import GooglePay from "./Googlepay";
 import {
-  Elements
+  Elements,
+  CardElement,
+  useStripe,
+  useElements
 } from '@stripe/react-stripe-js';
 import { loadStripe } from '@stripe/stripe-js';
-const stripePromise = loadStripe('pk_test_51O5F9gFZtgAr5eHPPYRptE8ZBDBXAtaLj7XGBnSp106qIqacE80PBnqGyndDPhtDYDpBWNvpJ8YmObgxijiNX22o00C8ueO5lb'); // Replace with your actual public key
+// Stripe public key - Get this from your Stripe Dashboard
+// For production, use: process.env.REACT_APP_STRIPE_PUBLIC_KEY
+const stripePromise = loadStripe(process.env.REACT_APP_STRIPE_PUBLIC_KEY || 'pk_live_51O5F9gFZtgAr5eHPy7jeusMjQh38l6JqMLq0cHutTr7nfyFbqPZOsNMJaGjfdxZ77lBlz2l7HsTDq8zSqplkasAm00agQNCSx0');
+
+// Payment Form Component that uses Stripe hooks
+function PaymentForm({ 
+  purchase, 
+  cardholderName, 
+  email, 
+  confirmemail, 
+  billingAddress, 
+  zip, 
+  userId,
+  loading,
+  handlePayment,
+  handleCancel,
+  handleupward,
+  removeErrorBorder,
+  setCardholderName,
+  setEmail,
+  setConfirmemail,
+  setBillingAddress,
+  setZip
+}) {
+  const stripe = useStripe();
+  const elements = useElements();
+
+  return (
+    <div className="main-content paymentmodal">
+      <input
+        type="text"
+        className=" fnam"
+        id="cardholderName"
+        placeholder="Full Name"
+        value={userId !== null ? userId.Name : cardholderName}
+        readOnly={userId !== null}
+        onChange={(e) => {
+          setCardholderName(e.target.value);
+          removeErrorBorder('cardholderName');
+        }}
+      />
+      <input
+        type="text"
+        className=" fnam"
+        id="email"
+        placeholder="Email address"
+        value={userId !== null ? userId.Email : email}
+        readOnly={userId !== null}
+        onClick={() => { handleupward("email") }}
+        onFocus={() => { handleupward("cardholderName") }}
+        onChange={(e) => {
+          setEmail(e.target.value.toLowerCase());
+          removeErrorBorder('email');
+        }}
+      />
+      <input
+        type="text"
+        className="fnam"
+        id="confirmedemail"
+        placeholder="Confirm Email address"
+        value={userId !== null ? userId.Email : confirmemail}
+        readOnly={userId !== null}
+        onClick={() => { handleupward("confirmedemail") }}
+        onFocus={() => { handleupward("cardholderName") }}
+        onChange={(e) => {
+          setConfirmemail(e.target.value.toLowerCase());
+        }}
+      />
+
+      <label className="labeltext">
+        <span className="pasword">Payment information</span>
+        <span className="secure"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+          <path d="M13 5.5H3C2.72386 5.5 2.5 5.72386 2.5 6V13C2.5 13.2761 2.72386 13.5 3 13.5H13C13.2761 13.5 13.5 13.2761 13.5 13V6C13.5 5.72386 13.2761 5.5 13 5.5Z" stroke="#2C292A" strokeWidth="1.33333" strokeLinecap="round" strokeLinejoin="round" />
+          <path d="M5.75 5.5V3.25C5.75 2.65326 5.98705 2.08097 6.40901 1.65901C6.83097 1.23705 7.40326 1 8 1C8.59674 1 9.16903 1.23705 9.59099 1.65901C10.0129 2.08097 10.25 2.65326 10.25 3.25V5.5" stroke="#2C292A" strokeWidth="1.33333" strokeLinecap="round" strokeLinejoin="round" />
+        </svg> Secure</span>
+      </label>
+
+      <div style={{ padding: '12px', border: '1px solid #ccc', borderRadius: '4px', marginBottom: '12px' }}>
+        <CardElement
+          options={{
+            style: {
+              base: {
+                fontSize: '16px',
+                color: '#424770',
+                '::placeholder': {
+                  color: '#aab7c4',
+                },
+              },
+              invalid: {
+                color: '#9e2146',
+              },
+            },
+          }}
+        />
+      </div>
+
+      <label className="labeltext">
+        <span className="pasword">Country or region</span>
+      </label>
+
+      <input
+        type="text"
+        className=" fnam"
+        id="billingAddress"
+        placeholder="Address"
+        value={userId !== null ? userId.Address : billingAddress}
+        readOnly={userId !== null}
+        onClick={() => { handleupward("billingAddress") }}
+        onFocus={() => { handleupward("cardholderName") }}
+        onChange={(e) => {
+          setBillingAddress(e.target.value);
+          removeErrorBorder('billingAddress');
+        }}
+      />
+
+      <input
+        type="text"
+        className=" fnam"
+        placeholder="Zip code"
+        id="zip"
+        value={userId !== null ? userId.zip : zip}
+        readOnly={userId !== null}
+        onClick={() => { handleupward("zip") }}
+        onFocus={() => { handleupward("cardholderName") }}
+        onChange={(e) => {
+          setZip(e.target.value);
+          removeErrorBorder('zip');
+        }}
+      />
+      <div className="termdiv">
+        <span className="term"> By continuing, you agree to the  <span className="condition">Terms of service </span></span>
+      </div>
+      <button 
+        className="buybtn" 
+        onClick={() => handlePayment(stripe, elements)}
+        disabled={!stripe || loading}
+      >
+        {
+          loading ? (
+            <>
+              Processing...
+            </>
+          ) : (
+            <>
+              Place your order: ${purchase.price}.00 USD
+            </>
+          )
+        }
+      </button>
+    </div>
+  );
+}
+
 export default function PopularCourses({ language, showCancelButton, handleNavigationClick, large, medium }) {
   const userState = useSelector((state) => state.user);
   const [loading, setLoading] = useState(true);
@@ -43,9 +198,6 @@ export default function PopularCourses({ language, showCancelButton, handleNavig
   const [plans, setPlans] = useState([]);
   const [userId, setUserId] = useState(null);
   const [confirmemail, setConfirmemail] = useState("");
-  const [cardNumber, setCardNumber] = useState("");
-  const [date, setDate] = useState("");
-  const [cardCode, setCardCode] = useState("");
   const location = useLocation();
 
 
@@ -135,7 +287,12 @@ export default function PopularCourses({ language, showCancelButton, handleNavig
       return false;
     }
   }
-  const handlePayment = async () => {
+  const handlePayment = async (stripe, elements) => {
+    if (!stripe || !elements) {
+      openNotification("error", "Stripe is not loaded. Please refresh the page.");
+      return;
+    }
+
     if (!isValidEmail(email)) {
       openNotification("error", "Please enter a valid email address");
       return;
@@ -156,18 +313,15 @@ export default function PopularCourses({ language, showCancelButton, handleNavig
     try {
       setLoading(false);
 
-      // Create payment intent
-      const response = await axios.post('https://unitedeldtserver.vercel.app/api/create-payment-transactions', {
-        amount: purchase.price,
-        cardCode,
-        cardNumber,
-        date,
+      // Create payment intent on backend
+      const paymentIntentResponse = await axios.post('https://unitedeldtserver.vercel.app/api/create-payment-transactions', {
+        amount: Math.round(purchase.price * 100), // Convert to cents
         courseEnrollments: [
           {
             courseId: purchase._id,
             lessonIndex: 0,
             language: purchase.language || 'English',
-            name:purchase.courseName
+            name: purchase.courseName
           },
         ],
         fullName: cardholderName,
@@ -176,14 +330,78 @@ export default function PopularCourses({ language, showCancelButton, handleNavig
         address: billingAddress,
         zip: zip,
       });
-      if (response.data.available === true) {
+
+      if (paymentIntentResponse.data.available === true) {
         availblemodal()
         handleCancel()
+        setLoading(true);
+        return;
       }
-      if (response.data.transactionId.transactionResponse.messages.message[0].code = 1) {
-        visibleModal()
-        handleCancel()
-        return
+
+      // Confirm payment with Stripe
+      if (paymentIntentResponse.data.clientSecret) {
+        const cardElement = elements.getElement(CardElement);
+        const { error: confirmError, paymentIntent } = await stripe.confirmCardPayment(
+          paymentIntentResponse.data.clientSecret,
+          {
+            payment_method: {
+              card: cardElement,
+              billing_details: {
+                name: cardholderName,
+                email: email,
+                address: {
+                  line1: billingAddress,
+                  postal_code: zip,
+                },
+              },
+            },
+          }
+        );
+
+        if (confirmError) {
+          console.error('Payment confirmation error:', confirmError);
+          errModal();
+          handleCancel();
+          setModalVisible(false);
+        } else if (paymentIntent && paymentIntent.status === 'succeeded') {
+          // Payment succeeded, now enroll the student
+          try {
+            const enrollmentResponse = await axios.post('https://unitedeldtserver.vercel.app/api/confirm-payment-enrollment', {
+              paymentIntentId: paymentIntentResponse.data.paymentIntentId,
+              Email: email,
+              courseEnrollments: [
+                {
+                  courseId: purchase._id,
+                  lessonIndex: 0,
+                  language: purchase.language || 'English',
+                  name: purchase.courseName
+                },
+              ],
+              fullName: cardholderName,
+              price: purchase.price,
+              address: billingAddress,
+              zip: zip,
+            });
+
+            if (enrollmentResponse.data.success) {
+              visibleModal();
+              handleCancel();
+            } else {
+              throw new Error('Enrollment failed');
+            }
+          } catch (enrollmentError) {
+            console.error('Enrollment error:', enrollmentError);
+            // Payment succeeded but enrollment failed - you might want to handle this differently
+            openNotification("error", "Payment succeeded but enrollment failed. Please contact support.");
+            errModal();
+            handleCancel();
+            setModalVisible(false);
+          }
+        }
+      } else if (paymentIntentResponse.data.success) {
+        // Payment already processed on backend
+        visibleModal();
+        handleCancel();
       }
 
     } catch (error) {
@@ -231,18 +449,6 @@ export default function PopularCourses({ language, showCancelButton, handleNavig
 
 
 
-  const handleMonthYearChange = (e) => {
-    let input = e.target.value.replace(/\D/g, ''); // Remove non-numeric characters
-    let formattedDate = '';
-
-    if (input.length <= 2) {
-      formattedDate = input;
-    } else {
-      formattedDate = input.slice(0, 2) + '/' + input.slice(2);
-    }
-
-    setDate(formattedDate);
-  };
 
 
 
@@ -406,126 +612,28 @@ export default function PopularCourses({ language, showCancelButton, handleNavig
             </span>
           </div>
 
-          {/* <Elements stripe={stripePromise}>
-            <Applepay/>
-          </Elements> */}
           <GooglePay purchase={purchase} cardholderName={cardholderName} />
-          <div className="main-content paymentmodal">
-
-
-
-            <input
-              type="text"
-              className=" fnam"
-              id="cardholderName"
-              placeholder="Full Name"
-              value={userId !== null ? userId.Name : cardholderName}
-              readOnly={userId !== null}
-
-              onChange={(e) => {
-                setCardholderName(e.target.value);
-                removeErrorBorder('cardholderName');
-              }}
+          <Elements stripe={stripePromise}>
+            <PaymentForm
+              purchase={purchase}
+              cardholderName={cardholderName}
+              email={email}
+              confirmemail={confirmemail}
+              billingAddress={billingAddress}
+              zip={zip}
+              userId={userId}
+              loading={!loading}
+              handlePayment={handlePayment}
+              handleCancel={handleCancel}
+              handleupward={handleupward}
+              removeErrorBorder={removeErrorBorder}
+              setCardholderName={setCardholderName}
+              setEmail={setEmail}
+              setConfirmemail={setConfirmemail}
+              setBillingAddress={setBillingAddress}
+              setZip={setZip}
             />
-            <input
-              type="text"
-              className=" fnam"
-              id="email"
-              placeholder="Email address"
-              value={userId !== null ? userId.Email : email}
-              readOnly={userId !== null}
-              onClick={() => { handleupward("email") }}
-              onFocus={() => { handleupward("cardholderName") }}
-              onChange={(e) => {
-                setEmail(e.target.value.toLowerCase());
-                removeErrorBorder('email'); // Call removeErrorBorder to remove error class
-              }}
-            />
-            <input
-              type="text"
-              className="fnam"
-              id="confirmedemail"
-              placeholder="Confirm Email address"
-              value={userId !== null ? userId.Email : confirmemail}
-              readOnly={userId !== null}
-              onClick={() => { handleupward("confirmedemail") }}
-              onFocus={() => { handleupward("cardholderName") }}
-
-              onChange={(e) => {
-                setConfirmemail(e.target.value.toLowerCase());
-              }}
-            />
-
-            <label className="labeltext">
-              <span className="pasword">Payment information</span>
-              <span className="secure"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-                <path d="M13 5.5H3C2.72386 5.5 2.5 5.72386 2.5 6V13C2.5 13.2761 2.72386 13.5 3 13.5H13C13.2761 13.5 13.5 13.2761 13.5 13V6C13.5 5.72386 13.2761 5.5 13 5.5Z" stroke="#2C292A" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round" />
-                <path d="M5.75 5.5V3.25C5.75 2.65326 5.98705 2.08097 6.40901 1.65901C6.83097 1.23705 7.40326 1 8 1C8.59674 1 9.16903 1.23705 9.59099 1.65901C10.0129 2.08097 10.25 2.65326 10.25 3.25V5.5" stroke="#2C292A" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round" />
-              </svg> Secure</span>
-            </label>
-
-            <input className="card-element numcard" onChange={(e) => { setCardNumber(e.target.value) }} placeholder="424242424242424242" />
-            <div className="d-flex">
-              <input
-                className="card-element numcard2"
-                value={date}
-                onChange={handleMonthYearChange}
-                placeholder="MM / YY"
-                maxLength="5"
-              />
-              <input className="card-element numcard3" onChange={(e) => { setCardCode(e.target.value) }} style={{ width: '100%' }} placeholder="CVV" maxLength="5" />
-            </div>
-            {/* Billing address input fields */}
-            <label className="labeltext">
-              <span className="pasword">Country or region</span>
-            </label>
-
-            <input
-              type="text"
-              className=" fnam"
-              id="billingAddress"
-              placeholder="Address"
-              value={userId !== null ? userId.Address : billingAddress}
-              readOnly={userId !== null}
-              onClick={() => { handleupward("billingAddress") }}
-              onFocus={() => { handleupward("cardholderName") }}
-              onChange={(e) => {
-                setBillingAddress(e.target.value);
-                removeErrorBorder('billingAddress');
-              }}
-            />
-
-            <input
-              type="text"
-              className=" fnam"
-              placeholder="Zip code"
-              id="zip"
-              value={userId !== null ? userId.zip : zip}
-              readOnly={userId !== null}
-              onClick={() => { handleupward("zip") }}
-              onFocus={() => { handleupward("cardholderName") }}
-              onChange={(e) => {
-                setZip(e.target.value);
-                removeErrorBorder('zip');
-              }}
-            />
-            <div className="termdiv">
-              <span className="term"> By continuing, you agree to the  <span className="condition">Terms of service </span></span>
-            </div>
-            <button className="buybtn" onClick={handlePayment}>
-              {
-                loading ? (
-                  <>
-                    Place your order: ${purchase.price}.00 USD
-                  </>
-                ) : (
-                  <>
-                    Processing...
-                  </>
-                )
-              }
-            </button>
-          </div>
+          </Elements>
           <div className="cancel" onClick={handleCancel}>Cancel</div>
         </Modal>
 

@@ -42,7 +42,7 @@ padding: 20px;
 }
 .buttonsave{
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
 }
 .logo_wraper{
     width: 80%;

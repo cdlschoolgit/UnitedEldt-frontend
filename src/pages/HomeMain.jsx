@@ -16,7 +16,7 @@ import { loadStripe } from '@stripe/stripe-js';
 import { Link } from "react-router-dom";
 import ReviewSliderforhome from "./Reviewsliderforhome";
 
-const stripePromise = loadStripe('pk_test_51O5F9gFZtgAr5eHPPYRptE8ZBDBXAtaLj7XGBnSp106qIqacE80PBnqGyndDPhtDYDpBWNvpJ8YmObgxijiNX22o00C8ueO5lb'); // Replace with your actual public key
+const stripePromise = loadStripe('pk_live_51O5F9gFZtgAr5eHPy7jeusMjQh38l6JqMLq0cHutTr7nfyFbqPZOsNMJaGjfdxZ77lBlz2l7HsTDq8zSqplkasAm00agQNCSx0'); // Replace with your actual public key
 
 export default function HomeMain() {
   const languageState = useSelector((state) => state.language);
