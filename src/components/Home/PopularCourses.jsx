@@ -691,6 +691,8 @@ export default function PopularCourses({ language, showCancelButton, handleNavig
           </div>
         </Modal>
         <Modal
+
+        
           open={available}
           onCancel={hideavailble}
           closeIcon={null}
