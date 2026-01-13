@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import axios from "axios";
 import {
   PaymentRequestButtonElement,
@@ -6,14 +6,13 @@ import {
   useElements,
 } from "@stripe/react-stripe-js";
 
-const Googlepay = ({ purchase }) => {
+const Googlepay = ({ purchase, cardholderName, email, billingAddress, zip, onSuccess, onError }) => {
   const stripe = useStripe();
   const elements = useElements();
-
   const [paymentRequest, setPaymentRequest] = useState(null);
 
-  React.useEffect(() => {
-    if (!stripe || !elements) {
+  useEffect(() => {
+    if (!stripe || !elements || !purchase) {
       return;
     }
 
@@ -21,87 +20,131 @@ const Googlepay = ({ purchase }) => {
       country: "US",
       currency: "usd",
       total: {
-        label: "UnitedELTD Course",
-        amount: Math.round(purchase.price * 100),
+        label: purchase.courseName || "UnitedELTD Course",
+        amount: Math.round(purchase.price * 100), // Convert to cents
       },
       requestPayerName: true,
       requestPayerEmail: true,
+      paymentMethodTypes: ['googlePay', 'card'],
     });
 
-    pr.canMakePayment().then((result) => {
-      if (result) {
-        setPaymentRequest(pr);
-      }
-    });
-
+    // Handle payment method
     pr.on("paymentmethod", async (e) => {
-      const { data: clientSecret } = await axios.post(
-        "https://unitedeldtserver.vercel.app/api/create-payment-intents",
-        {
-          amount: purchase.price,
-          courseEnrollments: [
-            {
-              courseId: purchase._id,
-              lessonIndex: 0,
-              language: purchase.language || "English",
-            },
-          ],
-          fullName: e.payerName,
-          Email: e.payerEmail,
-          price: purchase.price,
-          address: e.shippingAddress.addressLine,
-          zip: e.shippingAddress.postalCode,
-        }
-      );
-
-      const { paymentIntent, error } = await stripe.confirmCardPayment(
-        clientSecret,
-        {
-          payment_method: e.paymentMethod.id,
-          receipt_email: e.payerEmail, // confirmation receipt
-        }
-      );
-
-      if (paymentIntent?.status === "succeeded") {
-        const res = await axios.post(
-          "https://unitedeldtserver.vercel.app/api/enroll-student",
+      try {
+        // Create payment intent on backend
+        const paymentIntentResponse = await axios.post(
+          "https://unitedeldtserver.vercel.app/api/create-payment-transactions",
           {
-            amount: purchase.price,
+            amount: Math.round(purchase.price * 100),
             courseEnrollments: [
               {
                 courseId: purchase._id,
                 lessonIndex: 0,
                 language: purchase.language || "English",
+                name: purchase.courseName,
               },
             ],
-            fullName: e.payerName,
-            Email: e.payerEmail,
+            fullName: e.payerName || cardholderName,
+            Email: e.payerEmail || email,
             price: purchase.price,
-            address: e.shippingAddress.addressLine,
-            zip: e.shippingAddress.postalCode,
+            address: e.shippingAddress?.addressLine?.[0] || billingAddress,
+            zip: e.shippingAddress?.postalCode || zip,
           }
         );
 
-        res.status === 200
-          ? console.log("Payment successful")
-          : console.log("Payment successful but failed to save data");
+        if (paymentIntentResponse.data.available === true) {
+          e.complete('fail');
+          if (onError) {
+            onError('This course already exists for the student.');
+          }
+          return;
+        }
 
-        // show toasts
-      } else {
-        console.log(
-          error.message ||
-          "Some error occured while processing your payment. Please try again later"
-        );
-        // show error message / toast
+        if (paymentIntentResponse.data.clientSecret) {
+          // Confirm payment with Stripe
+          const { error: confirmError, paymentIntent } = await stripe.confirmCardPayment(
+            paymentIntentResponse.data.clientSecret,
+            {
+              payment_method: e.paymentMethod.id,
+            }
+          );
+
+          if (confirmError) {
+            e.complete('fail');
+            if (onError) {
+              onError(confirmError.message || 'Payment failed. Please try again.');
+            }
+            return;
+          }
+
+          if (paymentIntent && paymentIntent.status === "succeeded") {
+            // Payment succeeded, now enroll the student
+            try {
+              const enrollmentResponse = await axios.post(
+                "https://unitedeldtserver.vercel.app/api/confirm-payment-enrollment",
+                {
+                  paymentIntentId: paymentIntentResponse.data.paymentIntentId,
+                  Email: e.payerEmail || email,
+                  courseEnrollments: [
+                    {
+                      courseId: purchase._id,
+                      lessonIndex: 0,
+                      language: purchase.language || "English",
+                      name: purchase.courseName,
+                    },
+                  ],
+                  fullName: e.payerName || cardholderName,
+                  price: purchase.price,
+                  address: e.shippingAddress?.addressLine?.[0] || billingAddress,
+                  zip: e.shippingAddress?.postalCode || zip,
+                }
+              );
+
+              if (enrollmentResponse.data.success) {
+                e.complete('success');
+                if (onSuccess) {
+                  onSuccess();
+                }
+              } else {
+                e.complete('fail');
+                if (onError) {
+                  onError('Payment succeeded but enrollment failed. Please contact support.');
+                }
+              }
+            } catch (enrollmentError) {
+              console.error('Enrollment error:', enrollmentError);
+              e.complete('fail');
+              if (onError) {
+                onError('Payment succeeded but enrollment failed. Please contact support.');
+              }
+            }
+          }
+        }
+      } catch (error) {
+        console.error('Google Pay payment error:', error);
+        e.complete('fail');
+        const errorMsg = error.response?.data?.message || error.message || 'An error occurred while processing your payment.';
+        if (onError) {
+          onError(errorMsg);
+        }
       }
     });
-  }, [stripe, elements]);
+
+    // Check the availability of the Payment Request API
+    pr.canMakePayment().then((result) => {
+      if (result) {
+        setPaymentRequest(pr);
+      }
+    });
+  }, [stripe, elements, purchase, cardholderName, email, billingAddress, zip, onSuccess, onError]);
+
+  if (!paymentRequest) {
+    return null; // Don't show anything if Google Pay is not available
+  }
 
   return (
     <div className="buttonofpayment">
-      {paymentRequest && (
-        <PaymentRequestButtonElement options={{ paymentRequest }} />
-      )}
+      <PaymentRequestButtonElement options={{ paymentRequest }} />
     </div>
   );
 };
