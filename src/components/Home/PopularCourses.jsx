@@ -20,7 +20,6 @@ import CustomDropdown from "./CustomDropdown";
 import { useSelector } from "react-redux";
 import bannerimage from "./images/Selo.svg"
 import GooglePay from "./Googlepay";
-import Applepay from "./Applepay";
 import {
   Elements,
   CardElement,
@@ -631,22 +630,6 @@ export default function PopularCourses({ language, showCancelButton, handleNavig
 
           <Elements stripe={stripePromise}>
             <GooglePay 
-              purchase={purchase} 
-              cardholderName={cardholderName}
-              email={email}
-              billingAddress={billingAddress}
-              zip={zip}
-              onSuccess={() => {
-                visibleModal();
-                handleCancel();
-              }}
-              onError={(errorMsg) => {
-                errModal(errorMsg);
-                handleCancel();
-                setModalVisible(false);
-              }}
-            />
-            <Applepay 
               purchase={purchase} 
               cardholderName={cardholderName}
               email={email}

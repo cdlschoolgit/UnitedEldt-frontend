@@ -16,6 +16,7 @@ const Googlepay = ({ purchase, cardholderName, email, billingAddress, zip, onSuc
       return;
     }
 
+    // Create a single PaymentRequest that supports both Apple Pay and Google Pay
     const pr = stripe.paymentRequest({
       country: "US",
       currency: "usd",
@@ -25,7 +26,8 @@ const Googlepay = ({ purchase, cardholderName, email, billingAddress, zip, onSuc
       },
       requestPayerName: true,
       requestPayerEmail: true,
-      paymentMethodTypes: ['googlePay', 'card'],
+      // Support both Apple Pay and Google Pay in a single button
+      paymentMethodTypes: ['applePay', 'googlePay', 'card'],
     });
 
     // Handle payment method
