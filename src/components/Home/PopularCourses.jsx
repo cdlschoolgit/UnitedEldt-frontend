@@ -679,7 +679,7 @@ export default function PopularCourses({ language, showCancelButton, handleNavig
               <img src={Successi} alt="success" />
             </div>
             <span className="message">Payment successfully processed</span><br></br>
-            <span className="exp">Congratulations! You are now part of United. Click the button below to start your studies.</span>
+            <span className="exp">Congratulations! You are now part of UnitedEldt. Click the button below to start your studies. Please check your email and spam folder for your login details .</span>
             {
               showCancelButton ? (<Link to="/login"><button className="buybtn">Start Now</button></Link>) : (<button onClick={() => { handleNavigationClick("information") }} className="buybtn">Start Now</button>)
             }
