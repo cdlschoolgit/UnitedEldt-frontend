@@ -25,12 +25,13 @@ import store, { persistor } from "./store";
 import { PersistGate } from "redux-persist/integration/react";
 import AppRoutes from "./routes/Routes";
 import IntroLogoAnimation from "./components/Home/IntroLogoAnimation";
-
+import { Analytics } from "@vercel/analytics/react";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
   <Provider store={store}>
     <PersistGate persistor={persistor}>
+    <Analytics />
       <AppRoutes />
       <IntroLogoAnimation />
     </PersistGate>
