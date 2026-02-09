@@ -199,7 +199,7 @@ function MobileHeader({ showCancelButton }) {
       if (!confirmemail) document.getElementById('confirmedemail').classList.add('error-border');
       return;
     }
-    if (email != confirmemail) {
+    if (email !== confirmemail) {
       openNotification("error", "Confirm Email must be same")
       return;
     }
@@ -229,7 +229,8 @@ function MobileHeader({ showCancelButton }) {
         availblemodal()
         handleCancel()
       }
-      if (response.data.transactionId.transactionResponse.messages.message[0].code = 1) {
+      const responseCode = response?.data?.transactionId?.transactionResponse?.messages?.message?.[0]?.code;
+      if (responseCode === 1 || responseCode === "1") {
         visibleModal()
         handleCancel()
         return
@@ -245,9 +246,10 @@ function MobileHeader({ showCancelButton }) {
     }
   };
   const handleupward = (idofinput) => {
-    const screenWidth = window.innerWidth;
-
-
+    const element = document.getElementById(idofinput);
+    if (element) {
+      element.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
   };
 
 
@@ -363,7 +365,7 @@ function MobileHeader({ showCancelButton }) {
         A Class A Commercial Driver's License (CDL) grants you the authority to operate various vehicle combinations. This includes the ability to drive a semi-tractor with a trailer attached. Additionally, it permits you to operate vehicles with a gross weight exceeding 26,001 pounds while towing a trailer weighing at least 10,000 pounds.
         </p>
         <div className="d-flex justify-content-center">
-                          <img className="mobiletruck" src="https://res.cloudinary.com/dcve79xmj/image/upload/v1712079967/Semi-Truck_ltstnx.png" alt="image of classa"/>
+                          <img className="mobiletruck" src="https://res.cloudinary.com/dcve79xmj/image/upload/v1712079967/Semi-Truck_ltstnx.png" alt="Class A truck"/>
 
             </div>
         <div className="coverofpricebuttons mx-auto">

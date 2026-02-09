@@ -198,7 +198,7 @@ function ClassBSpanishSpanish (){
       if (!confirmemail) document.getElementById('confirmedemail').classList.add('error-border');
       return;
     }
-    if (email != confirmemail) {
+    if (email !== confirmemail) {
       openNotification("error", "Confirm Email must be same")
       return;
     }
@@ -228,7 +228,8 @@ function ClassBSpanishSpanish (){
         availblemodal()
         handleCancel()
       }
-      if (response.data.transactionId.transactionResponse.messages.message[0].code = 1) {
+      const responseCode = response?.data?.transactionId?.transactionResponse?.messages?.message?.[0]?.code;
+      if (responseCode === 1 || responseCode === "1") {
         visibleModal()
         handleCancel()
         return
@@ -244,9 +245,10 @@ function ClassBSpanishSpanish (){
     }
   };
   const handleupward = (idofinput) => {
-    const screenWidth = window.innerWidth;
-
-
+    const element = document.getElementById(idofinput);
+    if (element) {
+      element.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
   };
 
 
@@ -362,7 +364,7 @@ function ClassBSpanishSpanish (){
         </div>
         <div className="Claas_Aenglish">
             <span>Class A</span>
-            <img  className="truckforclassa"  src="https://res.cloudinary.com/dcve79xmj/image/upload/v1712079967/Semi-Truck_ltstnx.png" alt="image of classa"/>
+            <img  className="truckforclassa"  src="https://res.cloudinary.com/dcve79xmj/image/upload/v1712079967/Semi-Truck_ltstnx.png" alt="Class A truck"/>
         </div>
         <p className="infoaboutclass">
         Una licencia de conducir comercial de Clase A (CDL) te da la autoridad para operar diversas combinaciones de vehículos. Esto incluye la habilidad de conducir un semirremolque con un remolque adjunto. Además, te permite operar vehículos con un peso bruto que excede las 26,001 libras mientras remolcas un remolque que pesa mas de 10,000 libras.        </p>

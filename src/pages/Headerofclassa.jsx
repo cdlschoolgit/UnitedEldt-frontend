@@ -201,7 +201,7 @@ function Headerofclassa({ showCancelButton }) {
       if (!confirmemail) document.getElementById('confirmedemail').classList.add('error-border');
       return;
     }
-    if (email != confirmemail) {
+    if (email !== confirmemail) {
       openNotification("error", "Confirm Email must be same")
       return;
     }
@@ -231,7 +231,8 @@ function Headerofclassa({ showCancelButton }) {
         availblemodal()
         handleCancel()
       }
-      if (response.data.transactionId.transactionResponse.messages.message[0].code = 1) {
+      const responseCode = response?.data?.transactionId?.transactionResponse?.messages?.message?.[0]?.code;
+      if (responseCode === 1 || responseCode === "1") {
         visibleModal()
         handleCancel()
         return
@@ -247,9 +248,10 @@ function Headerofclassa({ showCancelButton }) {
     }
   };
   const handleupward = (idofinput) => {
-    const screenWidth = window.innerWidth;
-
-
+    const element = document.getElementById(idofinput);
+    if (element) {
+      element.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
   };
 
 

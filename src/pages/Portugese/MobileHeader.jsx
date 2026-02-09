@@ -199,7 +199,7 @@ function MobileHeader({ showCancelButton }) {
       if (!confirmemail) document.getElementById('confirmedemail').classList.add('error-border');
       return;
     }
-    if (email != confirmemail) {
+    if (email !== confirmemail) {
       openNotification("error", "Confirm Email must be same")
       return;
     }
@@ -229,7 +229,8 @@ function MobileHeader({ showCancelButton }) {
         availblemodal()
         handleCancel()
       }
-      if (response.data.transactionId.transactionResponse.messages.message[0].code = 1) {
+      const responseCode = response?.data?.transactionId?.transactionResponse?.messages?.message?.[0]?.code;
+      if (responseCode === 1 || responseCode === "1") {
         visibleModal()
         handleCancel()
         return
@@ -245,9 +246,10 @@ function MobileHeader({ showCancelButton }) {
     }
   };
   const handleupward = (idofinput) => {
-    const screenWidth = window.innerWidth;
-
-
+    const element = document.getElementById(idofinput);
+    if (element) {
+      element.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
   };
 
 
@@ -363,7 +365,7 @@ function MobileHeader({ showCancelButton }) {
         Uma Carteira de Motorista Comercial Classe A (CDL) concede a você a autoridade para operar várias combinações de veículos. Isso inclui a habilidade de dirigir um semi-reboque com um reboque acoplado. Além disso, permite que você opere veículos com peso bruto superior a 26.001 libras enquanto reboca um reboque com peso de pelo menos 10.000 libras.
         </p>
         <div className="d-flex justify-content-center">
-                          <img className="mobiletruck" src="https://res.cloudinary.com/dcve79xmj/image/upload/v1712079967/Semi-Truck_ltstnx.png" alt="image of classa"/>
+                          <img className="mobiletruck" src="https://res.cloudinary.com/dcve79xmj/image/upload/v1712079967/Semi-Truck_ltstnx.png" alt="Class A truck"/>
 
             </div>
         <div className="coverofpricebuttons mx-auto">
