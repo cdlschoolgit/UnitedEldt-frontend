@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import { Carousel } from 'antd';
 import axios from 'axios'; // Don't forget to import axios
-import Loader from "../Studentdashboard/Loader"
 function TitleCarousel() {
     const [chapterTitles, setChapterTitles] = useState([]);
 
