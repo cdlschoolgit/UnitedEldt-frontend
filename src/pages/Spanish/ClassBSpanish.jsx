@@ -19,7 +19,6 @@ import Googlepay from "../../components/Home/Googlepay";
 import bgofmain from "./Sergio.png"
 import bgofmainsmal from "./Sergio.png"
 import googlereview from "../Images/Google review.svg"
-import truckimage from "../Images/Truckimage.svg"
 import moneybackgrenty from "../Images/100-Money-Back-Guarantee-PNG-Cutout 1.png"
 import LearningSection from "./LearningSectionSpanish";
 import ReviewsCarousel from "../ReviewsCarousel";
@@ -106,7 +105,6 @@ function ClassBSpanishSpanish (){
   const [succ, setSucc] = useState(false)
   const [err, setErr] = useState(false)
   const [available, setAvailable] = useState(false)
-  const [coulan, setCoulan] = useState("English")
   const [userId, setUserId] = useState(null);
   const [confirmemail, setConfirmemail] = useState("");
   const [cardNumber, setCardNumber] = useState("");

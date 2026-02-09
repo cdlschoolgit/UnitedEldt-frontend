@@ -107,7 +107,6 @@ function MobileHeader({ showCancelButton }) {
   const [succ, setSucc] = useState(false)
   const [err, setErr] = useState(false)
   const [available, setAvailable] = useState(false)
-  const [coulan, setCoulan] = useState("English")
   const [userId, setUserId] = useState(null);
   const [confirmemail, setConfirmemail] = useState("");
   const [cardNumber, setCardNumber] = useState("");
