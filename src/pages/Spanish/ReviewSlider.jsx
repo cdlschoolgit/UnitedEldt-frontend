@@ -1,5 +1,3 @@
-import { Carousel } from "antd"
-
 import SliderSponsor from "../Allsponsors.svg"
 import SliderPage from "../../components/Home/Sliderpage"
 

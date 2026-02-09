@@ -1,44 +1,5 @@
-import { useEffect, useState } from "react";
 import { Carousel } from 'antd';
-import axios from 'axios'; // Don't forget to import axios
 function TitleCarousel() {
-    const [chapterTitles, setChapterTitles] = useState([]);
-
-    useEffect(() => {
-        const fetchChapterTitles = async () => {
-            try {
-                const response = await axios.get('https://unitedeldtserver.vercel.app/api/getchapinfo');
-                setChapterTitles(response.data.chapters);
-            } catch (error) {
-                console.error('Error fetching chapter titles:', error);
-            }
-        };
-
-        fetchChapterTitles();
-    }, []);
-
-    // Helper function to chunk array into groups of three
-    const chunkArray = (array, size) => {
-        const chunkedArray = [];
-        for (let i = 0; i < array.length; i += size) {
-            chunkedArray.push(array.slice(i, i + size));
-        }
-        return chunkedArray;
-    };
-    function toCamelCase(str) {
-        // Convert the string to lowercase and split it into words
-        const words = str.toLowerCase().split(' ');
-
-        // Capitalize the first letter of each word
-        for (let i = 0; i < words.length; i++) {
-            // Capitalize the first letter of the word
-            words[i] = words[i].charAt(0).toUpperCase() + words[i].slice(1);
-        }
-
-        // Join the words back together with spaces and return
-        return words.join(' ');
-    }
-
     return (
        
         <div className="cover_of_Titles">
