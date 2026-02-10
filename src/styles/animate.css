@@ -16,7 +16,7 @@
   transition: background-color 0.3s, color 0.2s, border-color 0.1s;
   width: 300px;
   height: 68px;
-
+align-items: center;
 }
 .primary-button:hover {
   background: #2c292a;
