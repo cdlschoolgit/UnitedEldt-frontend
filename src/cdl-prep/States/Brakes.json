@@ -892,18 +892,7 @@
     ],
           "reason": "<p><forte>Seção: 5.1.5 – Evaporador de álcool</strong></p><p>Alguns sistemas de freio a ar possuem um evaporador de álcool para colocar álcool no sistema de ar. Isso ajuda a reduzir o risco de geada em válvulas de freio a ar e outras peças durante o tempo frio. O gelo dentro do sistema pode fazer com que os freios parem de funcionar.</p>"
     },
-    {
-          "question": "Seu caminhão ou ônibus tem um sistema de freio a ar duplo. Se um aviso de baixa pressão for emitido para apenas um sistema, o que você deve fazer?",
-          "options": [
-            "Leve seu veículo para uma parada completa imediatamente e estacione com segurança. Continue somente depois que o sistema for corrigido.",
-            "Diminua a velocidade e dirija-se à garagem mais próxima para reparos.",
-            "Reduza sua velocidade e teste o sistema restante enquanto ele está em andamento."
-    ],
-          "correctAnswer": [
-            0
-    ],
-          "options": "<p><forte>Seção: 5.4.7 - Baixa pressão do ar</forte></p><p>Se o aviso de baixa pressão do ar acender, pare e estacione seu veículo com segurança o mais rápido possível. Pode haver um vazamento de ar no sistema.</p>"
-    },
+
     {
           "question": "Por que drenar água de tanques de ar comprimido?",
           "options": [
