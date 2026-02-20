@@ -1083,209 +1083,175 @@
     "reason": "<p><strong>Seção: 5.1.5 – Evaporador de álcool</strong></p><p>Verifique o recipiente de álcool e encha conforme necessário, todos os dias durante o tempo frio. A drenagem diária do tanque de ar ainda é necessária para se livrar da água e do óleo.</p>"
   },
   {
-  "question": "A taxa de perda de ar para um caminhão ou ônibus em linha reta com o motor desligado e os freios ligados não deve ser maior do que?",
-  "options": [
-    "2 psi em 45 segundos.",
-    "3 psi em um minuto.",
-    "1 psi em 30 segundos."
-  ],
-  "correctAnswer": [
-    1
-  ],
-  "reason": "<p><strong>Seção: 5.3.3 – Etapa 7 Freio a Ar Verificação Final</strong></p><p>O motorista então segura o freio de pé por 1 minuto após o medidor de ar se estabilizar. O motorista verifica o medidor de ar para ver se a pressão do ar não cai mais de 3 libras em um minuto (veículo único) ou 4 libras em 1 minuto (veículo combinado) e ouve vazamentos de ar.</p>"
-},
-    {
-          "question": "O motorista deve ser capaz de ver um aviso de baixa pressão do ar que é emitido antes que a pressão nos tanques de ar de serviço caia abaixo de psi?",
-          "options": [
-            "80",
-            "50",
-            "60"
+    "question": "A taxa de perda de ar para um caminhão ou ônibus em linha reta com o motor desligado e os freios ligados não deve ser maior do que?",
+    "options": [
+      "2 psi em 45 segundos.",
+      "3 psi em um minuto.",
+      "1 psi em 30 segundos."
     ],
-          "correctAnswer": [
-            2
+    "correctAnswer": [1],
+    "reason": "<p><strong>Seção: 5.3.3 – Etapa 7 Freio a Ar Verificação Final</strong></p><p>O motorista então segura o freio de pé por 1 minuto após o medidor de ar se estabilizar. O motorista verifica o medidor de ar para ver se a pressão do ar não cai mais de 3 libras em um minuto (veículo único) ou 4 libras em 1 minuto (veículo combinado) e ouve vazamentos de ar.</p>"
+  },
+  {
+    "question": "O motorista deve ser capaz de ver um aviso de baixa pressão do ar que é emitido antes que a pressão nos tanques de ar de serviço caia abaixo de psi?",
+    "options": [
+      "80",
+      "50",
+      "60"
     ],
-          "options": "<p><strong>Seção: 5.1.11 – Aviso de baixa pressão do ar</forte></p><p>É necessário um sinal de aviso de baixa pressão do ar em veículos com freios a ar. Um sinal de alerta que você pode ver deve disparar antes que a pressão do ar nos tanques caia entre 55 e 75 psi.</p>"
-    },
-    {
-          "question": "O poder de frenagem dos freios de mola?",
-          "options": [
-            "Aumenta quando os freios de serviço estão quentes.",
-            "Não é afetado pela condição dos freios de serviço.",
-            "Depende do freio de serviço estar em ajuste."
+    "correctAnswer": [2],
+    "reason": "<p><strong>Seção: 5.1.11 – Aviso de baixa pressão do ar</strong></p><p>É necessário um sinal de aviso de baixa pressão do ar em veículos com freios a ar. Um sinal de alerta que você pode ver deve disparar antes que a pressão do ar nos tanques caia entre 55 e 75 psi.</p>"
+  },
+  {
+    "question": "O poder de frenagem dos freios de mola?",
+    "options": [
+      "Aumenta quando os freios de serviço estão quentes.",
+      "Não é afetado pela condição dos freios de serviço.",
+      "Depende do freio de serviço estar em ajuste."
     ],
-          "correctAnswer": [
-            2
+    "correctAnswer": [2],
+    "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>A potência de frenagem dos freios de mola depende do ajuste dos freios. Se os freios não forem ajustados corretamente, nem os freios regulares nem os freios de emergência/estacionamento funcionarão corretamente.</p>"
+  },
+  {
+    "question": "A distância de atraso do freio a ar a 55 mph em pavimento seco acrescenta cerca de pés.",
+    "options": [
+      "23",
+      "34",
+      "32"
     ],
-          "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>A potência de frenagem dos freios de mola depende do ajuste dos freios. Se os freios não forem ajustados corretamente, nem os freios regulares nem os freios de emergência/estacionamento funcionarão corretamente.</p>"
-    },
-    {
-          "question": "A distância de atraso do freio a ar a 55 mph em pavimento seco acrescenta cerca de pés.",
-          "options": [
-            "23",
-            "34",
-            "32"
+    "correctAnswer": [2],
+    "reason": "<p><strong>Seção: 5.4.4 - Distância de parada</strong></p><p>A distância de atraso do freio a ar a 55 mph em pavimento seco adiciona cerca de 32 pés. Assim, a 55 mph para um motorista médio em boas condições de tração e frenagem, a distância total de parada é de mais de 450 pés.</p>"
+  },
+  {
+    "question": "A distância total de parada para freios a ar é maior do que para freios hidráulicos devido à distância?",
+    "options": [
+      "Reação",
+      "Atraso do freio",
+      "Travagem eficaz"
     ],
-          "correctAnswer": [
-            2
+    "correctAnswer": [1],
+    "reason": "<p><strong>Seção: 5.4.4 - Distância de parada</strong></p><p>A distância de parada foi descrita na Seção 2 em \"Velocidade e distância de parada\". Com freios a ar, há um atraso adicional: \"Brake Lag\". Este é o tempo que leva para os freios funcionarem depois que o pedal do freio é pressionado.</p>"
+  },
+  {
+    "question": "Aceita-se que muito calor causado pelo uso dos freios com muita frequência também pode causar?",
+    "options": [
+      "Válvula de controle modulada para desgaste.",
+      "Lonas de freio para divisão.",
+      "Freio para desaparecer ou falhar."
     ],
-          "reason": "<p><strong>Seção: 5.4.4 - Distância de parada</forte></p><p>A distância de atraso do freio a ar a 55 mph em pavimento seco adiciona cerca de 32 pés. Assim, a 55 mph para um motorista médio em boas condições de tração e frenagem, a distância total de parada é de mais de 450 pés.</p>"
-    },
-    {
-          "question": "A distância total de parada para freios a ar é maior do que para freios hidráulicos devido à distância?",
-          "options": [
-            "Reação",
-            "Atraso do freio",
-            "Travagem eficaz"
+    "correctAnswer": [2],
+    "reason": "<p><strong>Seção: 5.4.5 - Desvanecimento ou falha do freio</strong></p><p>A frenagem gera calor, mas os freios são projetados para absorver muito calor. No entanto, os freios podem desaparecer ou falhar devido ao calor excessivo causado pelo uso excessivo deles e não depender do efeito de frenagem do motor.</p>"
+  },
+  {
+    "question": "Levantar parcialmente e pressionar repetidamente o pedal do freio pode resultar em:",
+    "options": [
+      "Nenhuma mudança na pressão do ar do freio.",
+      "Um acúmulo de pressão de ar de freio.",
+      "Perda de pressão do ar do freio"
     ],
-          "correctAnswer": [
-            1
+    "correctAnswer": [2],
+    "reason": "<p><strong>Seção: 5.1.7 - O pedal do freio</strong></p><p>Pressionar e liberar o pedal desnecessariamente pode deixar o ar sair mais rápido do que o compressor pode substituí-lo. Se a pressão ficar muito baixa, os freios não funcionarão.</p>"
+  },
+  {
+    "question": "O sistema de freio que aplica e libera os freios quando o motorista usa o pedal do freio é o sistema de freio?",
+    "options": [
+      "Serviço",
+      "Estacionamento",
+      "Emergência"
     ],
-          "reason": "<p><forte>Seção: 5.4.4 - Distância de parada</forte></p><p>A distância de parada foi descrita na Seção 2 em \"Velocidade e distância de parada\". Com freios a ar, há um atraso adicional: \"Brake Lag\". Este é o tempo que leva para os freios funcionarem depois que o pedal do freio é pressionado.</p>"
-    },
-    {
-          "question": "Aceita-se que muito calor causado pelo uso dos freios com muita frequência também pode causar?",
-          "options": [
-            "Válvula de controle modulada para desgaste. ",
-            "Lonas de freio para divisão. ",
-            "Freio para desaparecer ou falhar."
+    "correctAnswer": [0],
+    "reason": "<p><strong>Seção: 5.0 - Freios a ar</strong></p><p>O sistema de freio de serviço aplica e libera os freios quando você usa o pedal do freio durante a condução normal.</p>"
+  },
+  {
+    "question": "O jogo livre de um ajustador de folga precisa ser ajustado se for mais do que sobre você puxar duro?",
+    "options": [
+      "1 polegada",
+      "1/4 polegada",
+      "1/2 polegada"
     ],
-          "correctAnswer": [
-            2
+    "correctAnswer": [0],
+    "reason": "<p><strong>Seção: 5.3.2 - Durante a Etapa 5 Inspeção Walk-Around</strong></p><p>Use luvas e puxe todos os ajustadores de folga que puder alcançar. Se um ajustador de folga se move mais de uma polegada onde a haste de pressão se prende a ele, ele provavelmente precisa de ajuste.</p>"
+  },
+  {
+    "question": "Um sistema de freio a ar está totalmente carregado a que psi?",
+    "options": [
+      "2",
+      "34",
+      "125"
     ],
-          "reason": "<p><forte>Seção: 5.4.5 - Desvanecimento ou falha do freio</forte></p><p>A frenagem gera calor, mas os freios são projetados para absorver muito calor. No entanto, os freios podem desaparecer ou falhar devido ao calor excessivo causado pelo uso excessivo deles e não depender do efeito de frenagem do motor.</p>"
-    },
-    {
-          "question": "Levantar parcialmente e pressionar repetidamente o pedal do freio pode resultar em:",
-          "options": [
-            "Nenhuma mudança na pressão do ar do freio. ",
-            "Um acúmulo de pressão de ar de freio.",
-            "Perda de pressão do ar do freio"
+    "correctAnswer": [2],
+    "reason": "<p><strong>Seção: 5.3.3 – Passo 7 Freio a Ar Verificação Final</strong></p><p>Com um sistema de ar totalmente carregado (normalmente 125 psi), pare o motor, solte o freio de estacionamento e cronometre a queda da pressão do ar.</p>"
+  },
+  {
+    "question": "O pedal do freio em um sistema de freio a ar?",
+    "options": [
+      "Controla a velocidade do compressor de ar.",
+      "Controla a pressão do ar aplicada aos freios.",
+      "Ele é conectado a ajustadores de folga por uma série de hastes e ligações."
     ],
-          "correctAnswer": [
-            2
+    "correctAnswer": [1],
+    "reason": "<p><strong>Seção: 5.1.7 - O pedal do freio</strong></p><p>Você pisa no freio pressionando o pedal do freio. (Também é chamada de válvula de pé ou válvula de esteira.) Empurrar o pedal para baixo com mais força aplica mais pressão de ar. Soltar o pedal do freio reduz a pressão do ar e libera os freios.</p>"
+  },
+  {
+    "question": "O S-cam",
+    "options": [
+      "Retire as sapatas de freio do tambor e deixe as rodas rolarem livremente.",
+      "Força as sapatas de freio contra o interior do tambor de freio.",
+      "Controla o fluxo de ar para cada uma das câmaras de freio."
     ],
-          "reason": "<p><strong>Seção: 5.1.7 - O pedal do freio</strong></p><p>Pressionar e liberar o pedal desnecessariamente pode deixar o ar sair mais rápido do que o compressor pode substituí-lo. Se a pressão ficar muito baixa, os freios não funcionarão.</p>"
-    },
-    {
-          "question": "O sistema de freio que aplica e libera os freios quando o motorista usa o pedal do freio é o sistema de freio?",
-          "options": [
-            "Serviço",
-            "Estacionamento",
-            "Emergência"
+    "correctAnswer": [1],
+    "reason": "<p><strong>Seção: 5.1.8 - Freios de fundação</strong></p><p>Quando você pressiona o pedal do freio, o ar é deixado em cada câmara de freio. A pressão do ar empurra a haste para fora, movendo o ajustador de folga, torcendo assim o eixo de comando do freio. Isso transforma o s-cam (assim chamado porque tem o formato da letra \"S\"). O s-cam força as sapatas de freio para longe umas das outras e as pressiona contra o interior do tambor de freio.</p>"
+  },
+  {
+    "question": "Em condições normais, para accionar os travões de estacionamento, o condutor deve:",
+    "options": [
+      "Desligue o motor.",
+      "Certifique-se de que o sistema de freio a ar esteja totalmente pressurizado.",
+      "Aplique os freios puxando o botão de controle do freio de estacionamento para fora."
     ],
-          "correctAnswer": [
-            0
+    "correctAnswer": [2],
+    "reason": "<p><strong>Seção: 5.4.8 - Freios de estacionamento</strong></p><p>Puxe o botão de controle do freio de estacionamento para fora para acionar os freios de estacionamento e empurre-o para liberar. O controle será um botão amarelo, em forma de diamante, rotulado como freios de estacionamento em veículos mais novos.</p>"
+  },
+  {
+    "question": "Todos os veículos equipados com travões pneumáticos possuem:",
+    "options": [
+      "Um sistema hidráulico de espera.",
+      "Um medidor de pressão de abastecimento.",
+      "Um medidor de uso de ar."
     ],
-          "reason": "<p><strong>Seção: 5.0 - Freios a ar</strong></p><p>O sistema de freio de serviço aplica e libera os freios quando você usa o pedal do freio durante a condução normal.</p>"
-    },
-    {
-          "question": "O jogo livre de um ajustador de folga precisa ser ajustado se for mais do que sobre você puxar duro?",
-          "options": [
-            "1 polegada",
-            " 1/4 polegada ",
-            "1/2 polegada"
+    "correctAnswer": [1],
+    "reason": "<p><strong>Seção: 5.1.9 - Manômetros de Alimentação</strong></p><p>Todos os veículos com freios a ar têm um manômetro conectado ao tanque de ar. Se o veículo tiver um sistema de freio a ar duplo, haverá uma bitola para cada metade do sistema.</p>"
+  },
+  {
+    "question": "Nos veículos com travões pneumáticos, deve ser utilizado o travão de estacionamento:",
+    "options": [
+      "O mínimo possível.",
+      "Apenas durante as inspeções pré-viagem.",
+      "Sempre que você deixar o veículo sem vigilância."
     ],
-          "correctAnswer": [
-            0
+    "correctAnswer": [2],
+    "reason": "<p><strong>Seção: 5.4.8 - Freios de estacionamento</strong></p><p>Nunca deixe seu veículo sem vigilância sem acionar os freios de estacionamento ou engasgar as rodas. Seu veículo pode capotar e causar ferimentos e danos.</p>"
+  },
+  {
+    "question": "Se o compressor de ar vaza, o que mantém o ar nos tanques?",
+    "options": [
+      "A válvula de retenção unidirecional.",
+      "A válvula de relé de emergência.",
+      "A válvula de proteção do trator."
     ],
-          "reason": "<p><strong>Seção: 5.3.2 - Durante a Etapa 5 Inspeção Walk-Around</strong></p><p>Use luvas e puxe todos os ajustadores de folga que puder alcançar. Se um ajustador de folga se move mais de uma polegada onde a haste de pressão se prende a ele, ele provavelmente precisa de ajuste.</p>"
-    },
-    {
-          "question": "Um sistema de freio a ar está totalmente carregado a que psi?",
-          "options": [
-            "2",
-            "34",
-            "125"
+    "correctAnswer": [0],
+    "reason": "<p><strong>Seção: 5.2 – Freio a Ar Duplo</strong></p><p>Válvula de retenção unidirecional: Este dispositivo permite que o ar flua em apenas uma direção. A válvula de retenção impede que o ar escape se o compressor de ar desenvolver um vazamento.</p>"
+  },
+  {
+    "question": "Qual NÃO é o momento adequado para acionar o freio de estacionamento?",
+    "options": [
+      "você vai testar o freio de estacionamento para se certificar de que ele segura o veículo",
+      "Se você vai parar por apenas uma hora.",
+      "Se os freios estiverem muito quentes (por exemplo, logo após descer um corrimão íngreme)."
     ],
-          "correctAnswer": [
-            2
-    ],
-          "reason": "<p><strong>Seção: 5.3.3 – Passo 7 Freio a Ar Verificação Final </strong></p><p>Com um sistema de ar totalmente carregado (normalmente 125 psi), pare o motor, solte o freio de estacionamento e cronometre a queda da pressão do ar.</p>"
-    },
-    {
-          "question": "O pedal do freio em um sistema de freio a ar?",
-          "options": [
-            "Controla a velocidade do compressor de ar.",
-            "Controla a pressão do ar aplicada aos freios.",
-            "Ele é conectado a ajustadores de folga por uma série de hastes e ligações."
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><strong>Seção: 5.1.7 - O pedal do freio</strong></p><p>Você pisa no freio pressionando o pedal do freio. (Também é chamada de válvula de pé ou válvula de esteira.) Empurrar o pedal para baixo com mais força aplica mais pressão de ar. Soltar o pedal do freio reduz a pressão do ar e libera os freios.</p>"
-    },
-    {
-          "question": "O S-cam",
-          "options": [
-            "Retire as sapatas de freio do tambor e deixe as rodas rolarem livremente.",
-            "Força as sapatas de freio contra o interior do tambor de freio.",
-            "Controla o fluxo de ar para cada uma das câmaras de freio. "
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><strong>Seção: 5.1.8 - Freios de fundação</strong></p><p>Quando você pressiona o pedal do freio, o ar é deixado em cada câmara de freio. A pressão do ar empurra a haste para fora, movendo o ajustador de folga, torcendo assim o eixo de comando do freio. Isso transforma o s-cam (assim chamado porque tem o formato da letra \"S\"). O s-cam força as sapatas de freio para longe umas das outras e as pressiona contra o interior do tambor de freio.</p>"
-    },
-    {
-          "question": "Em condições normais, para accionar os travões de estacionamento, o condutor deve:",
-          "options": [
-            "Desligue o motor.",
-            "Certifique-se de que o sistema de freio a ar esteja totalmente pressurizado.",
-            "Aplique os freios puxando o botão de controle do freio de estacionamento para fora."
-    ],
-          "correctAnswer": [
-            2
-    ],
-          "reason": "<p><strong>Seção: 5.4.8 - Freios de estacionamento</strong></p><p>Puxe o botão de controle do freio de estacionamento para fora para acionar os freios de estacionamento e empurre-o para liberar. O controle será um botão amarelo, em forma de diamante, rotulado como freios de estacionamento em veículos mais novos. Em veículos mais antigos, pode ser um botão azul redondo ou alguma outra forma (incluindo uma alavanca que oscila de um lado para o outro ou para cima e para baixo).</p>"
-    },
-    {
-          "question": "Todos os veículos equipados com travões pneumáticos possuem:",
-          "options": [
-            "Um sistema hidráulico de espera. ",
-            "Um medidor de pressão de abastecimento. ",
-            "Um medidor de uso de ar."
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><strong>Seção: 5.1.9 - Manômetros de Alimentação</strong></p><p>Todos os veículos com freios a ar têm um manômetro conectado ao tanque de ar. Se o veículo tiver um sistema de freio a ar duplo, haverá uma bitola para cada metade do sistema.</p>"
-    },
-    {
-          "question": "Nos veículos com travões pneumáticos, deve ser utilizado o travão de estacionamento:",
-          "options": [
-            "O mínimo possível.",
-            "Apenas durante as inspeções pré-viagem.",
-            " Sempre que você deixar o veículo sem vigilância. "
-    ],
-          "correctAnswer": [
-            2
-    ],
-          "reason": "<p><forte>Seção: 5.4.8 - Freios de estacionamento</strong></p><p>Nunca deixe seu veículo sem vigilância sem acionar os freios de estacionamento ou engasgar as rodas. Seu veículo pode capotar e causar ferimentos e danos.</p>"
-    },
-    {
-          "question": "Se o compressor de ar vaza, o que mantém o ar nos tanques?",
-          "options": [
-            "A válvula de retenção unidirecional. ",
-            "A válvula de relé de emergência. ",
-            "A válvula de proteção do trator."
-    ],
-          "correctAnswer": [
-            0
-    ],
-          "reason": "<p><strong>Seção: 5.2 – Freio a Ar Duplo</strong></p><p>Válvula de retenção unidirecional: Este dispositivo permite que o ar flua em apenas uma direção. Todos os tanques de ar em veículos com freios a ar devem ter uma válvula de retenção localizada entre o compressor de ar e o primeiro reservatório. A válvula de retenção impede que o ar escape se o compressor de ar desenvolver um vazamento.</p>"
-    },
-    {
-          "question": "Qual NÃO é o momento adequado para acionar o freio de estacionamento?",
-          "options": [
-            "você vai testar o freio de estacionamento para se certificar de que ele segura o veículo",
-            ". Se você vai parar por apenas uma hora.",
-            "Se os freios estiverem muito quentes (por exemplo, logo após descer um corrimão íngreme)."
-    ],
-          "correctAnswer": [
-            2
-    ],
-          "reason": "<p><strong>Seção: 5.4.8 - Freios de estacionamento</strong></p><p>Não use os freios de estacionamento se os freios estiverem muito quentes (apenas descendo uma inclinação íngreme), ou se os freios estiverem muito molhados em temperaturas congelantes.</p>"
-    },
+    "correctAnswer": [2],
+    "reason": "<p><strong>Seção: 5.4.8 - Freios de estacionamento</strong></p><p>Não use os freios de estacionamento se os freios estiverem muito quentes (apenas descendo uma inclinação íngreme), ou se os freios estiverem muito molhados em temperaturas congelantes.</p>"
+  },
     {
           "question": "Com os veículos com travão pneumático, devem ser utilizados travões de estacionamento:",
           "options": [
