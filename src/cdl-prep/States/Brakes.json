@@ -1411,297 +1411,107 @@
     ],
           "reason": "<p>150</p><p><strong>Seção: 5.1.6 - Válvula de segurança</strong></p><p>A válvula é geralmente ajustada para abrir a 150 psi. Se a válvula de segurança liberar ar, algo está errado. Ter a falha corrigida por um mecânico.</p>"
     },
-    {
-          "question": "O que pode legalmente manter um freio de estacionamento ou de emergência na posição de um caminhão, caminhão-trator ou ônibus?",
-          "options": [
-            "Pressão de mola.",
-            "Pressão do fluido. ",
-            "Pressão atmosférica"
+   
+  {
+    "question": "O que pode legalmente manter um freio de estacionamento ou de emergência na posição de um caminhão, caminhão-trator ou ônibus?",
+    "options": [
+      "Pressão de mola.",
+      "Pressão do fluido.",
+      "Pressão atmosférica"
     ],
-          "correctAnswer": [
-            0
+    "correctAnswer": [0],
+    "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>Eles devem ser mantidos pela força mecânica (porque a pressão do ar pode eventualmente vazar). Os freios de mola são frequentemente usados para atender a essas necessidades.</p>"
+  },
+  {
+    "question": "O manômetro de pressão de suprimento mostra quanta pressão:",
+    "options": [
+      "Você usou nessa viagem.",
+      "Está nos tanques de ar.",
+      "Está indo para a câmara de freio."
     ],
-          "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>Todos os caminhões, tratores e ônibus devem estar equipados com freios de emergência e freios de estacionamento. Eles devem ser mantidos pela força mecânica (porque a pressão do ar pode eventualmente vazar). Os freios de mola são frequentemente usados para atender a essas necessidades.</p>"
-    },
-    {
-          "question": "O manômetro de pressão de suprimento mostra quanta pressão:",
-          "options": [
-            "Você usou nessa viagem.",
-            "Está nos tanques de ar.",
-            "Está indo para a câmara de freio."
+    "correctAnswer": [1],
+    "reason": "<p><strong>Seção: 5.1.9 - Manômetros de Alimentação</strong></p><p>Todos os veículos com freios a ar têm um manômetro conectado ao tanque de ar. Esses medidores informam quanta pressão há nos tanques de ar.</p>"
+  },
+  {
+    "question": "O poder de travagem dos travões de mola:",
+    "options": [
+      "Não é afetado pela condição dos freios de serviço.",
+      "Depende dos freios serem ajustados.",
+      "Ele só pode ser testado por pessoal de serviço de freio altamente treinado."
     ],
-          "correctAnswer": [
-            1
+    "correctAnswer": [1],
+    "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>A potência de frenagem dos freios de mola depende do ajuste dos freios. Se os freios não forem ajustados corretamente, nem os freios regulares nem os de emergência funcionarão corretamente.</p>"
+  },
+  {
+    "question": "Não é seguro dirigir um veículo que tenha tambores de freio com rachaduras maiores que a largura da área de atrito.",
+    "options": [
+      "1/8",
+      "1/4",
+      "1/2"
     ],
-          "options": "<p><strong>Seção: 5.1.9 - Manômetros de Alimentação</strong></p><p>Todos os veículos com freios a ar têm um manômetro conectado ao tanque de ar. Se o veículo tiver um sistema de freio a ar duplo, haverá um medidor para cada metade do sistema. Esses medidores informam quanta pressão há nos tanques de ar.</p>"
-    },
-    {
-          "question": "O poder de travagem dos travões de mola:",
-          "options": [
-            "Não é afetado pela condição dos freios de serviço.",
-            " Depende dos freios serem ajustados. ",
-            "Ele só pode ser testado por pessoal de serviço de freio altamente treinado."
+    "correctAnswer": [2],
+    "reason": "<p><strong>Seção: 5.3.2 - Durante a Etapa 5 Inspeção Walk-Around</strong></p><p>Os tambores (ou discos) de freio não devem ter fissuras superiores à metade da largura da área de atrito.</p>"
+  },
+  {
+    "question": "Seus freios estão desaparecendo quando:",
+    "options": [
+      "Você tem que forçar mais um pedal de freio para controlar sua velocidade em um downgrade.",
+      "É necessária menos pressão no pedal do freio para cada parada.",
+      "O pedal do freio fica esponjoso quando você aplica pressão."
     ],
-          "correctAnswer": [
-            1
+    "correctAnswer": [0],
+    "reason": "<p><strong>Seção: 5.4.5 - Desvanecimento ou falha do freio</strong></p><p>À medida que os tambores superaquecidos se expandem, as sapatas e lonas de freio têm que se mover mais para fazer contato com os tambores, e a força desse contato é reduzida.</p>"
+  },
+  {
+    "question": "Se o seu veículo tem um evaporador de álcool, ele está lá para:",
+    "options": [
+      "Elimine a necessidade de drenagem diária do tanque.",
+      "Reduza o risco de geada nas válvulas de freio a ar no tempo frio.",
+      "Aumentar a pressão do tanque."
     ],
-          "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>A potência de frenagem dos freios de mola depende do ajuste dos freios. Se os freios não forem ajustados corretamente, nem os freios regulares nem os freios de emergência/estacionamento funcionarão corretamente.</p>"
-    },
-    {
-        "question": "Não é seguro dirigir um veículo que tenha tambores de freio com rachaduras maiores que a largura da área de atrito.",
-          "options": [
-            "1/8 ",
-            "1/4 ",
-            "1/2"
+    "correctAnswer": [1],
+    "reason": "<p><strong>Seção: 5.1.5 – Evaporador de álcool</strong></p><p>Isso ajuda a reduzir o risco de geada em válvulas de freio a ar. O gelo dentro do sistema pode fazer com que os freios parem de funcionar.</p>"
+  },
+  {
+    "question": "O regulador do compressor de ar controla:",
+    "options": [
+      "Quando o ar é bombeado para os tanques de ar.",
+      "Pressão de ar aplicada aos freios.",
+      "A velocidade do compressor de ar."
     ],
-          "correctAnswer": [
-            2
+    "correctAnswer": [0],
+    "reason": "<p><strong>Seção: 5.1.2 – Regulador do compressor de ar</strong></p><p>O regulador controla quando o compressor de ar bombeará ar para os tanques de armazenamento de ar.</p>"
+  },
+  {
+    "question": "A coisa mais importante a fazer quando um aviso de baixa pressão do ar é acionado é:",
+    "options": [
+      "Mudança para cima",
+      "Downshift",
+      "Pare e estacione com segurança o mais rápido possível."
     ],
-          "reason": "<p><strong>Seção: 5.3.2 - Durante a Etapa 5 Inspeção Walk-Around</strong></p><p>Os tambores (ou discos) de freio não devem ter fissuras superiores à metade da largura da área de atrito.</p>"
-    },
-    {
-          "question": "Seus freios estão desaparecendo quando:",
-          "options": [
-            "Você tem que forçar mais um pedal de freio para controlar sua velocidade em um downgrade.",
-            "É necessária menos pressão no pedal do freio para cada parada.",
-            " O pedal do freio fica esponjoso quando você aplica pressão. "
+    "correctAnswer": [2],
+    "reason": "<p><strong>Seção: 5.4.7 - Baixa pressão do ar</strong></p><p>Se o aviso de baixa pressão do ar acender, pare e estacione seu veículo com segurança o mais rápido possível.</p>"
+  },
+  {
+    "question": "A travagem a ar demora mais tempo do que a travagem hidráulica porque:",
+    "options": [
+      "Os freios a ar usam tambores de freio diferentes.",
+      "Os freios a ar exigem molas de retorno mais pesadas.",
+      "O ar leva mais tempo para fluir através das linhas do que o fluido hidráulico."
     ],
-          "correctAnswer": [
-            0
+    "correctAnswer": [2],
+    "reason": "<p><strong>Seção: 5.4.4 - Distância de parada</strong></p><p>Com freios a ar, leva um pouco de tempo (meio segundo ou mais) para o ar fluir através das linhas. Isso é chamado de Brake Lag.</p>"
+  },
+  {
+    "question": "O que é um 'Wig Wag'?",
+    "options": [
+      "Parte do sistema de semáforos.",
+      "Um porta-molas para peças de cabelo.",
+      "Um braço mecânico que sinaliza baixa pressão de ar."
     ],
-          "reason": "<p><forte>Seção: 5.4.5 - Desvanecimento ou falha do freio</forte></p><p>À medida que os tambores superaquecidos se expandem, as sapatas e lonas de freio têm que se mover mais para fazer contato com os tambores, e a força desse contato é reduzida. O uso excessivo contínuo pode aumentar o desbotamento do freio até que o veículo não possa ser abaixado ou parado.</p>"
-    },
-    {
-          "question": "Se o seu veículo tem um evaporador de álcool, ele está lá para:",
-          "options": [
-            "Elimine a necessidade de drenagem diária do tanque.",
-            "Reduza o risco de geada nas válvulas de freio a ar no tempo frio.",
-            " Aumentar a pressão do tanque, da mesma forma que os turbocompressores impulsionam o motor. "
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><forte>Seção: 5.1.5 – Evaporador de álcool</strong></p><p>Alguns sistemas de freio a ar possuem um evaporador de álcool para colocar álcool no sistema de ar. Isso ajuda a reduzir o risco de geada em válvulas de freio a ar e outras peças durante o tempo frio. O gelo dentro do sistema pode fazer com que os freios parem de funcionar.</p>"
-    },
-    {
-          "question": "O regulador do compressor de ar controla:",
-          "options": [
-            "Quando o ar é bombeado para os tanques de ar. ",
-            "Pressão de ar aplicada aos freios.",
-            "A velocidade do compressor de ar."
-    ],
-          "correctAnswer": [
-            0
-    ],
-          "reason": "<p><strong>Seção: 5.1.2 – Regulador do compressor de ar</strong></p><p>O regulador controla quando o compressor de ar bombeará ar para os tanques de armazenamento de ar.</p>"
-    },
-    {
-        "question": "Os freios pneumáticos modernos combinam três sistemas diferentes. São eles o serviço, o estacionamento e os freios.",
-          "options": [
-            "Tambor",
-            " Emergência ",
-            "Pé"
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><strong>Seção: 5.0 - Freios a ar</strong></p><p>Os freios pneumáticos são, na verdade, três sistemas de frenagem diferentes: freio de serviço, freio de estacionamento e freio de emergência.</p>"
-    },
-    {
-          "question": "Se você não tem drenos automáticos de tanques, com que frequência você deve drenar óleo e água do fundo de tanques de armazenamento de ar comprimido?",
-          "options": [
-            "Uma vez por semana.",
-            " No final de cada dia de condução. ",
-            "A cada quatro horas de serviço."
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><strong>Seção: 5.1.4 – Drenos de tanque de ar</strong></p><p>Operado manualmente girando um quarto de volta ou puxando um cabo. Você mesmo deve drenar os tanques no final de cada dia de condução.</p>"
-    },
-    {
-          "question": "Seção: 5.1.4 – Drenos de tanque de ar Operado manualmente girando um quarto de volta ou puxando um cabo. Você mesmo deve drenar os tanques no final de cada dia de condução.",
-          "options": [
-            "15 mph",
-            " 5 mph ",
-            "10 mph"
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><forte>Seção: 5.4.6 - Técnica de frenagem adequada</forte></p><p>Quando sua velocidade tiver sido reduzida para aproximadamente cinco mph abaixo de sua  velocidade \"segura\", solte os freios.</p>"
-    },
-    {
-          "question": "Em condições ideais, um caminhão ou ônibus com freios a ar a 55 mph exigiria a distância de parada de quantos pés?",
-          "options": [
-            "De 100 a 300 pés. ",
-            "Menos de 100 meses",
-            "mais de 300 pés"
-    ],
-          "correctAnswer": [
-            2
-    ],
-          "reason": "<p><strong>Seção: 5.4.4 - Distância de parada</forte></p><p>A distância de atraso do freio a ar a 55 mph em pavimento seco adiciona cerca de 32 pés. Assim, a 55 mph para um motorista médio em boas condições de tração e frenagem, a distância total de parada é de mais de 450 pés.</p>"
-    },
-    {
-          "question": "Quando é OK deixar seu caminhão sem vigilância sem acionar os freios de estacionamento e engasgar nas rodas?",
-          "options": [
-            "Nunca.",
-            "Se você estiver realizando uma inspeção pré-viagem",
-            "Se você estiver apenas fora por alguns minutos."
-    ],
-          "correctAnswer": [
-            0
-    ],
-          "reason": "<p><forte>Seção: 5.4.8 - Freios de estacionamento</strong></p><p>Nunca deixe seu veículo sem vigilância sem acionar os freios de estacionamento ou engasgar as rodas. Seu veículo pode capotar e causar ferimentos e danos.</p>"
-    },
-    {
-          "question": "O interruptor da luz de travagem:",
-          "options": [
-            "Acende as luzes de freio quando coloca os freios a ar. ",
-            "Informa quando o sistema de freio a ar está com baixa pressão de ar.",
-            "Informa quando você precisa usar seus freios de emergência."
-    ],
-          "correctAnswer": [
-            0
-    ],
-          "reason": "<p><strong>Seção: 5.1.12 – Interruptor da luz de parada</strong></p><p>Os motoristas atrás de você devem ser avisados quando você pisar no freio. O sistema de freio a ar faz isso com um interruptor elétrico que funciona pela pressão do ar. O interruptor acende as luzes de freio quando você coloca os freios pneumáticos.</p>"
-    },
-    {
-          "question": "Os tanques de ar. mostra quanta pressão está sobre o",
-          "options": [
-            "Pressão de Abastecimento Guage",
-            "Medidor de Uso de LA",
-            "Manômetro de Alimentação"
-    ],
-          "correctAnswer": [
-            0
-    ],
-          "options": "<p><strong>Seção: 5.1.9 - Manômetros de Alimentação</strong></p><p>Todos os veículos com freios a ar têm um manômetro conectado ao tanque de ar. Se o veículo tiver um sistema de freio a ar duplo, haverá um medidor para cada metade do sistema (ou um único medidor com 2 agulhas). Esses medidores informam quanta pressão há nos tanques de ar.</p>"
-    },
-    {
-          "question": "Para testar freios de serviço pneumáticos, você deve:",
-          "options": [
-            "Freie lentamente enquanto se move lentamente para trás.",
-            "Freie com firmeza enquanto avança devagar.",
-            "Pare o veículo, freie em marcha baixa, pressione os freios de serviço e, em seguida, puxe suavemente contra os freios."
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><strong>Seção: 5.3.3 – Passo 7 Verificação final do freio a ar</strong></p><p>Aguarde a pressão normal do ar, solte o freio de estacionamento, mova o veículo para frente lentamente (cerca de cinco mph) e aplique os freios firmemente usando o pedal do freio.</p>"
-    },
-    {
-          "question": "Se você estiver dirigindo para um downgrade acentuado e tiver atingido sua velocidade segura de 40 mph, você aplicaria o freio de serviço até que sua velocidade caia para mph.",
-          "options": [
-            "12",
-            "34",
-            "35"
-    ],
-          "correctAnswer": [
-            2
-    ],
-          "reason": "<p><forte>Seção: 5.4.6 - Técnica de frenagem adequada</strong></p><p>Se sua  velocidade \"segura\" é de 40 mph, você não aplicaria os freios até que sua velocidade atinja 40 mph. Agora você aplica os freios com força suficiente para reduzir gradualmente sua velocidade para 35 mph e, em seguida, liberar os freios. Repita isso quantas vezes forem necessárias até chegar ao final do downgrade.</p>"
-    },
-    {
-          "question": "Se o seu camião tiver um sistema de travagem a ar duplo e um dos sistemas for de baixa pressão:",
-          "options": [
-            "Os ajustadores de folga manual nos freios S-Cam não são ajustados corretamente. ",
-            "Os tambores de freio não estarão totalmente operacionais.",
-            "Os freios dianteiro ou traseiro não estarão totalmente funcionais."
-    ],
-          "correctAnswer": [
-            2
-    ],
-          "reason": "<p><strong>Seção: 5.2 – Freio a Ar Duplo</strong></p><p>Se um sistema de ar estiver com uma pressão muito baixa, os freios dianteiro ou traseiro não estarão funcionando plenamente. Isso significa que você levará mais tempo para parar.</p>"
-    },
-    {
-          "question": "O que acontece quando os tambores de freio ficam muito quentes?",
-          "options": [
-            "Eles contratam.",
-            "Eles se expandem.",
-            "Eles começam a fumar."
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><forte>Seção: 5.4.5 - Desvanecimento ou falha do freio</forte></p><p>À medida que os tambores superaquecidos se expandem, as sapatas e lonas de freio têm que se mover mais longe para fazer contato com os tambores, e a força desse contato é reduzida.</p>"
-    },
-    {
-          "question": "O que é um \"Wig Wag\"",
-          "options": [
-            "Parte do sistema de semáforos.",
-            "Um porta-molas para peças de cabelo.",
-            "Um braço mecânico que sinaliza baixa pressão de ar."
-    ],
-          "correctAnswer": [
-            2
-    ],
-          "reason": "<p><forte>Seção: 5.1.11 - Baixa pressão do ar</forte></p><p>Aviso</p><p>Outro tipo de alerta é o \"peruca wag\". Este dispositivo lança um braço mecânico em sua visão quando a pressão no sistema cai entre 55 e 75 psi. Uma peruca automática sairá de sua visão quando a pressão no sistema exceder 55 e 75 psi.</p>"
-    }
-    ],
-    "es":[
-     
-      {
-            "question": "¿El manómetro de aplicación muestra cuánta presión de aire tiene?",
-            "options": [
-              "Lo están aplicando al freno",
-              " Tiene una válvula de control modulante ",
-              "Tener tanques en el aire"
-      ],
-            "correctAnswer": [
-              0
-      ],
-            "reason": "<p><strong>Sección: 5110 - Manómetro de aplicación</strong></p><p>Este manómetro le muestra cuánta presión de aire está aplicando a los frenos</p>"
-      },
-      {
-            "question": "¿Los frenos de resorte utilizados en las cámaras de un camión recto lo detendrán cuando la presión del aire caiga por debajo de psi?",
-            "options": [
-              "100",
-              "20",
-              "60"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 5114 - Frenos de resorte</strong></p><p>Los frenos de resorte rectos del tractor y del camión se activarán completamente cuando la presión del aire caiga a un rango de 20 a 45 psi (generalmente de 20 a 30 psi)</p>"
-      },
-      {
-            "question": "Algunos sistemas de frenos de aire tienen un evaporador de alcohol ¿Qué puede pasar si no mantienes el nivel adecuado de alcohol?",
-            "options": [
-              "Se puede formar hielo en las válvulas de los frenos de aire y causar fallas en los frenos",
-              "Se puede formar hielo en los tambores de freno y desgastarlos",
-              "Es posible que la leva en S no se reanude cuando suelte el pedal del freno"
-      ],
-            "correctAnswer": [
-              0
-      ],
-            "reason": "<p><strong>Sección: 515 – Evaporador de alcohol</fuerte></p><p>Algunos sistemas de frenos de aire tienen un evaporador de alcohol para poner alcohol en el sistema de aire Esto ayuda a reducir el riesgo de escarcha en las válvulas de los frenos de aire y otras piezas durante el clima frío El hielo dentro del sistema puede hacer que los frenos dejen de funcionar</p>"
-      },
-      {
-            "question": "Su camión o autobús tiene un sistema de frenos de aire dual Si se emite una advertencia de baja presión para un solo sistema, ¿qué debe hacer?",
-            "options": [
-              "Detenga su vehículo por completo inmediatamente y estacione de manera segura Continúe solo después de que el sistema esté parcheado",
-              "Reduzca la velocidad y conduzca hasta el taller más cercano para las reparaciones",
-              "Reduzca su velocidad y pruebe el sistema restante mientras está en progreso"
-      ],
-            "correctAnswer": [
-              0
-      ],
-            "reason": "<p><strong>Sección: 547 - Baja presión de aire</fuerte></p><p>Si se enciende la advertencia de baja presión de aire, deténgase y estacione su vehículo de manera segura lo antes posible Puede haber una fuga de aire en el sistema</p>"
-      },
-      {
-            "question": "¿Por qué drenar el agua de los tanques de aire comprimido?",
-            "options": [
-              "El bajo punto de ebullición del agua reduce la potencia de frenado",
-              "El agua enfría demasiado el compresor",
-              " El agua puede congelarse en climas fríos y causar fallas en los frenos "
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 514 – Drenajes del tanque de aire</strong></p><p>El aire comprimido generalmente tiene algo de agua y algo de aceite del compresor, lo cual es malo para el sistema de frenos de aire Por ejemplo, el agua puede congelarse en climas fríos y causar fallas en los frenos</p>"
-      },
+    "correctAnswer": [2],
+    "reason": "<p><strong>Seção: 5.1.11 - Baixa pressão do ar</strong></p><p>Este dispositivo lança um braço mecânico em sua visão quando a pressão no sistema cai entre 55 e 75 psi.</p>"
+  },
       {
             "question": "¿La válvula de seguridad se regula automáticamente cuando la presión es?",
             "options": [
