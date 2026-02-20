@@ -1046,19 +1046,17 @@
     ],
           "reason": "<p><strong>Seção: 5.1.8 - Freios de fundação</strong></p><p>Freios de fundação são usados em cada roda. O tipo mais comum é o freio a tambor s-cam. As partes do freio são discutidas abaixo.</p>"
     },
-    {
-          "question": "Se você precisa fazer uma parada de emergência, você deve frear para que:",
-          "options": [
-            "Use toda a potência dos freios para freá-los. Eu",
-            "Use o freio de mão antes do pedal do freio.",
-            " pode manter seu veículo reto. "
-    ],
-          "correctAnswer": [
-            2
-    ],
-          "reason": "<p><forte>Seção: 5.4.3 - Paradas de emergência</strong></p><p>Você deve frear de uma forma que mantenha seu veículo em linha reta e permita que você vire se precisar.</p>"
-    },
-    {
+{
+  "question": "Se você precisa fazer uma parada de emergência, você deve frear para que:",
+  "options": [
+    "Use toda a potência dos freios.",
+    "Use o freio de mão antes do pedal do freio.",
+    "Possa manter seu veículo reto."
+  ],
+  "correctAnswer": 2,
+  "reason": "<p><strong>Seção: 5.4.3 - Paradas de emergência</strong></p><p>Você deve frear de uma forma que mantenha seu veículo em linha reta e permita que você vire se precisar.</p>"
+}
+,    {
           "question": "Seu caminhão ou ônibus tem um sistema de freio a ar duplo. Se um aviso de baixa pressão do ar for emitido para apenas um sistema, o que você deve fazer",
           "options": [
             "Reduza sua velocidade e teste o sistema restante enquanto ele está em andamento. ",
