@@ -1046,40 +1046,42 @@
     ],
           "reason": "<p><strong>Seção: 5.1.8 - Freios de fundação</strong></p><p>Freios de fundação são usados em cada roda. O tipo mais comum é o freio a tambor s-cam. As partes do freio são discutidas abaixo.</p>"
     },
-{
-  "question": "Se você precisa fazer uma parada de emergência, você deve frear para que:",
-  "options": [
-    "Use toda a potência dos freios.",
-    "Use o freio de mão antes do pedal do freio.",
-    "Possa manter seu veículo reto."
-  ],
-  "correctAnswer": 2,
-  "reason": "<p><strong>Seção: 5.4.3 - Paradas de emergência</strong></p><p>Você deve frear de uma forma que mantenha seu veículo em linha reta e permita que você vire se precisar.</p>"
-}
-,    {
-          "question": "Seu caminhão ou ônibus tem um sistema de freio a ar duplo. Se um aviso de baixa pressão do ar for emitido para apenas um sistema, o que você deve fazer",
-          "options": [
-            "Reduza sua velocidade e teste o sistema restante enquanto ele está em andamento. ",
-            "Pare imediatamente e estacione com segurança. Continue somente depois que o sistema for corrigido.",
-            "Continue somente depois que o sistema for corrigido. "
+  {
+    "question": "Se você precisa fazer uma parada de emergência, você deve frear para que:",
+    "options": [
+      "Use toda a potência dos freios.",
+      "Use o freio de mão antes do pedal do freio.",
+      "Possa manter seu veículo reto."
     ],
-          "correctAnswer": [
-            1
+    "correctAnswer": [
+      2
     ],
-          "options": "<p><forte>Seção: 5.4.7 - Baixa pressão do ar</forte></p><p>Se o aviso de baixa pressão do ar acender, pare e estacione seu veículo com segurança o mais rápido possível. Pode haver um vazamento de ar no sistema.</p>"
-    },
-    {
-          "question": "Se o seu veículo tem um evaporador de álcool, todos os dias durante o tempo frio você deveria?",
-          "options": [
-            "Troque o álcool em uma garrafa.",
-            "Verifique e preencha o nível de álcool.",
-            "Verifique o teor alcoólico do óleo."
+    "reason": "<p><strong>Seção: 5.4.3 - Paradas de emergência</strong></p><p>Você deve frear de uma forma que mantenha seu veículo em linha reta e permita que você vire se precisar.</p>"
+  },
+  {
+    "question": "Seu caminhão ou ônibus tem um sistema de freio a ar duplo. Se um aviso de baixa pressão do ar for emitido para apenas um sistema, o que você deve fazer?",
+    "options": [
+      "Reduza sua velocidade e teste o sistema restante enquanto ele está em andamento.",
+      "Pare imediatamente e estacione com segurança. Continue somente depois que o sistema for corrigido.",
+      "Continue somente depois que o sistema for corrigido."
     ],
-          "correctAnswer": [
-            1
+    "correctAnswer": [
+      1
     ],
-          "options": "<p><forte>Seção: 5.1.5 – Evaporador de álcool</strong></p><p>Verifique o recipiente de álcool e encha conforme necessário, todos os dias durante o tempo frio. A drenagem diária do tanque de ar ainda é necessária para se livrar da água e do óleo.</p>"
-    },
+    "reason": "<p><strong>Seção: 5.4.7 - Baixa pressão do ar</strong></p><p>Se o aviso de baixa pressão do ar acender, pare e estacione seu veículo com segurança o mais rápido possível. Pode haver um vazamento de ar no sistema.</p>"
+  },
+  {
+    "question": "Se o seu veículo tem um evaporador de álcool, todos os dias durante o tempo frio você deveria?",
+    "options": [
+      "Troque o álcool em uma garrafa.",
+      "Verifique e preencha o nível de álcool.",
+      "Verifique o teor alcoólico do óleo."
+    ],
+    "correctAnswer": [
+      1
+    ],
+    "reason": "<p><strong>Seção: 5.1.5 – Evaporador de álcool</strong></p><p>Verifique o recipiente de álcool e encha conforme necessário, todos os dias durante o tempo frio. A drenagem diária do tanque de ar ainda é necessária para se livrar da água e do óleo.</p>"
+  },
     {
           "question": "A taxa de perda de ar para um caminhão ou ônibus em linha reta com o motor desligado e os freios ligados não deve ser maior do que?",
           "options": [
