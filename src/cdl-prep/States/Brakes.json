@@ -1082,18 +1082,18 @@
     ],
     "reason": "<p><strong>Seção: 5.1.5 – Evaporador de álcool</strong></p><p>Verifique o recipiente de álcool e encha conforme necessário, todos os dias durante o tempo frio. A drenagem diária do tanque de ar ainda é necessária para se livrar da água e do óleo.</p>"
   },
-    {
-          "question": "A taxa de perda de ar para um caminhão ou ônibus em linha reta com o motor desligado e os freios ligados não deve ser maior do que?",
-          "options": [
-            "2 psi em 45 segundos. ",
-            "3 psi em um minuto.",
-            "1 psi em 30 segundos."
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><strong>Seção: 5.3.3 – Etapa 7 Freio a Ar Verificação Final </strong></p><p>O motorista então segura o freio de pé por 1 minuto após o medidor de ar se estabilizar. O motorista verifica o medidor de ar para ver se a pressão do ar não cai mais de 3 libras em um minuto (veículo único) ou 4 libras em 1 minuto (veículo combinado) e ouve vazamentos de ar.</p>"
-    },
+  {
+  "question": "A taxa de perda de ar para um caminhão ou ônibus em linha reta com o motor desligado e os freios ligados não deve ser maior do que?",
+  "options": [
+    "2 psi em 45 segundos.",
+    "3 psi em um minuto.",
+    "1 psi em 30 segundos."
+  ],
+  "correctAnswer": [
+    1
+  ],
+  "reason": "<p><strong>Seção: 5.3.3 – Etapa 7 Freio a Ar Verificação Final</strong></p><p>O motorista então segura o freio de pé por 1 minuto após o medidor de ar se estabilizar. O motorista verifica o medidor de ar para ver se a pressão do ar não cai mais de 3 libras em um minuto (veículo único) ou 4 libras em 1 minuto (veículo combinado) e ouve vazamentos de ar.</p>"
+},
     {
           "question": "O motorista deve ser capaz de ver um aviso de baixa pressão do ar que é emitido antes que a pressão nos tanques de ar de serviço caia abaixo de psi?",
           "options": [
