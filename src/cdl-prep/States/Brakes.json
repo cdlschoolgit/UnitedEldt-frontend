@@ -953,30 +953,27 @@
     ],
           "reason": "<p><strong>Seção: 5.1.15 - Controles do freio de estacionamento</strong></p><p>Quando a pressão do ar principal é perdida, os freios de mola são aplicados. Alguns veículos, como ônibus, têm um tanque de ar separado que pode ser usado para liberar os freios de mola. Isso é para que você possa mover o veículo em uma emergência.</p>"
     },
-    {
-          "question": "Se o seu caminhão tiver um sistema de freio a ar duplo funcionando corretamente e tanques de ar de tamanho mínimo, a pressão do ar deve aumentar de 85 para 100 psi em quantos segundos?",
-          "options": [
-            "50",
-            "45",
-            "60"
+  
+  {
+    "question": "Se o seu caminhão tiver um sistema de freio a ar duplo funcionando corretamente e tanques de ar de tamanho mínimo, a pressão do ar deve aumentar de 85 para 100 psi em quantos segundos?",
+    "options": [
+      "50",
+      "45",
+      "60"
     ],
-          "correctAnswer": [
-            2
+    "correctAnswer": 1,
+    "reason": "<p><strong>Seção: 5.3.3 – Etapa 7 Verificação final do freio pneumático</strong></p><p>Para sistemas de ar duplo, a pressão deve aumentar de aproximadamente 85 para 100 psi em 45 segundos.</p>"
+  },
+  {
+    "question": "Como você deve verificar se seus freios de serviço estão funcionando corretamente?",
+    "options": [
+      "Estacione em terreno plano, calce as rodas, acione os freios de estacionamento quando tiver a quantidade correta de pressão de ar e desligue o motor.",
+      "Estacione em terreno plano, espere até que a pressão normal do ar seja atingida, solte o freio de estacionamento e avance lentamente a cerca de 5 mph. Em seguida, aplique os freios com firmeza.",
+      "Estacione em um declive leve, drene a pressão do ar, acione o freio de estacionamento e verifique."
     ],
-          "options": "<p><strong>Seção: 5.3.3 – Etapa 7 Verificação final do freio pneumático</strong></p><p>Para sistemas de ar duplo, a pressão deve aumentar de aproximadamente 85 para 100 psi em 45 segundos.</p>"
-    },
-    {
-          "question": "Como você deve verificar se seus freios de serviço estão funcionando corretamente?",
-          "options": [
-            "Estacione em terreno plano, engasgue nas rodas, acione os freios de estacionamento quando tiver a quantidade correta de pressão de ar para isso e desligue o motor.",
-            "Estacione em terreno plano, espere até que a pressão normal do ar seja atingida, solte o freio Oparking e avance lentamente a cerca de 5 mph. Em seguida, aplique os freios com firmeza.",
-            "Estacione em um grau leve, drene a pressão do ar, acione o freio de estacionamento e verifique"
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><strong>Seção: 5.3.3 – Passo 7 Verificação final do freio a ar</strong></p><p>Aguarde a pressão normal do ar, solte o freio de estacionamento, mova o veículo para frente lentamente (cerca de cinco mph) e aplique os freios firmemente usando o pedal do freio.</p>"
-    },
+    "correctAnswer": 1,
+    "reason": "<p><strong>Seção: 5.3.3 – Passo 7 Verificação final do freio a ar</strong></p><p>Aguarde a pressão normal do ar, solte o freio de estacionamento, mova o veículo para frente lentamente (cerca de cinco mph) e aplique os freios firmemente usando o pedal do freio.</p>"
+  },
     {
           "question": "Um sistema de freio a ar de caminhão ou ônibus reto não deve vazar a uma taxa de mais de psi por minuto com o motor desligado e os freios liberados?",
           "options": [
