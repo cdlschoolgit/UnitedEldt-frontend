@@ -1,6 +1,5 @@
 {
-  "en":[
-  
+  "en": [
     {
       "question": "The application pressure gauge shows how much air pressure you?",
       "options": [
@@ -50,7 +49,7 @@
       "reason": "<p><strong>Section: 5.4.7 - Low Air Pressure</strong></p><p>If the low air pressure warning comes on, stop and park your vehicle safely as soon as possible. There may be an air leak in the system.</p>"
     },
     {
-      "question": " Why drain water from compressed air tanks?",
+      "question": "Why drain water from compressed air tanks?",
       "options": [
         "The low boiling point of water reduces braking power.",
         "Water cools the compressor too much.",
@@ -95,7 +94,7 @@
       "correctAnswer": [
         0
       ],
-      "reason": "<p><strong>Section: 5.1.14 - Spring Brakes</strong></p><p>All trucks, tractors, and buses must be equipped with emergency brakes and parking brakes. They must be held by mechanical force (because air pressure can eventually leak out). Spring brakes are often used to meet these needs. While driving, the powerful springs are held back by the air pressure. If the air pressure is removed, the springs step on the brakes.</p>"
+      "reason": "<p><strong>Section: 5.1.14 - Spring Brakes</strong></p><p>All trucks, tractors, and buses must be equipped with emergency brakes and parking brakes. They must be held by mechanical force (because air pressure can eventually leak out). Spring brakes are often used to meet these needs.</p>"
     },
     {
       "question": "If your truck or bus has dual parking control valves, you can use pressure from a separate tank to?",
@@ -143,7 +142,7 @@
       "correctAnswer": [
         1
       ],
-      "reason": "<p><strong>Section: 5.3.3 – Step 7 Air Brake Final Check</strong></p><p>With a basically fully loaded air system (within the effective operating range for the compressor), turn off the engine, release all brakes, and let the system settle (the air gauge needle stops moving). Time of one minute. Air pressure should not drop more than: 2 psi for individual vehicles.</p>"
+      "reason": "<p><strong>Section: 5.3.3 – Step 7 Air Brake Final Check</strong></p><p>Time of one minute. Air pressure should not drop more than: 2 psi for individual vehicles.</p>"
     },
     {
       "question": "During normal driving, spring brakes are usually held back by?",
@@ -167,7 +166,7 @@
       "correctAnswer": [
         1
       ],
-      "reason": "<p><strong>Section: 5.1.2 – Air Compressor Regulator</strong></p><p>The governor controls when the air compressor will pump air into the air storage tanks. When the air tank pressure rises to the \"cut-off\" level (about 125 pounds per square inch or \"psi\"), the governor prevents the compressor from pumping air.</p>"
+      "reason": "<p><strong>Section: 5.1.2 – Air Compressor Regulator</strong></p><p>When the air tank pressure rises to about 125 psi, the governor prevents the compressor from pumping air.</p>"
     },
     {
       "question": "The driver should be able to see a low air pressure warning that is issued before the pressure in the service air tanks drops below psi?",
@@ -179,7 +178,7 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.1.11 - Low Air Pressure</strong></p><p>Notice</p><p>A low air pressure warning signal is required in vehicles with air brakes. A warning sign you can see should go off before the air pressure in the tanks drops between 55 and 75 psi.</p>"
+      "reason": "<p><strong>Section: 5.1.11 - Low Air Pressure</strong></p><p>A warning sign you can see should go off before the air pressure in the tanks drops between 55 and 75 psi.</p>"
     },
     {
       "question": "Overuse of service brakes results in overheating which can lead to?",
@@ -191,7 +190,7 @@
       "correctAnswer": [
         1
       ],
-      "reason": "<p><strong>Section: 5.4.5 - Brake Fading or Failure</strong></p><p>Overuse of the service brakes results in overheating and leads to fading of the brakes. Brake fading results from excessive heat causing chemical changes in the brake lining, which reduce friction, as well as causing expansion of the brake drums.</p>"
+      "reason": "<p><strong>Section: 5.4.5 - Brake Fading or Failure</strong></p><p>Overuse of the service brakes results in overheating and leads to fading of the brakes, as well as causing expansion of the brake drums.</p>"
     },
     {
       "question": "The most common type of foundation brake found on heavy vehicles is?",
@@ -203,7 +202,7 @@
       "correctAnswer": [
         1
       ],
-      "reason": "<p><strong>Section: 5.1.8 - Foundation Brakes</strong></p><p>Foundation brakes are used on each wheel. The most common type is the s-cam drum brake. The parts of the brake are discussed below.</p>"
+      "reason": "<p><strong>Section: 5.1.8 - Foundation Brakes</strong></p><p>Foundation brakes are used on each wheel. The most common type is the s-cam drum brake.</p>"
     },
     {
       "question": "If you need to make an emergency stop, you must brake so that:",
@@ -239,7 +238,7 @@
       "correctAnswer": [
         1
       ],
-      "reason": "<p><strong>Section: 5.1.5 – Alcohol Evaporator</strong></p><p>Check the alcohol container and fill as needed, every day during cold weather. Daily draining of the air tank is still necessary to get rid of water and oil.</p>"
+      "reason": "<p><strong>Section: 5.1.5 – Alcohol Evaporator</strong></p><p>Check the alcohol container and fill as needed, every day during cold weather.</p>"
     },
     {
       "question": "The rate of air loss for a truck or bus in a straight line with the engine off and the brakes on should not be more than?",
@@ -251,7 +250,7 @@
       "correctAnswer": [
         1
       ],
-      "reason": "<p><strong>Section: 5.3.3 – Step 7 Air Brake Final Check</strong></p><p>The driver then holds the foot brake for 1 minute after the air gauge stabilizes. The driver checks the air gauge to see if the air pressure does not drop more than 3 pounds in one minute (single vehicle) or 4 pounds in 1 minute (combined vehicle) and hears for air leaks.</p>"
+      "reason": "<p><strong>Section: 5.3.3 – Step 7 Air Brake Final Check</strong></p><p>The driver checks the air gauge to see if the air pressure does not drop more than 3 pounds in one minute (single vehicle) or 4 pounds in 1 minute (combined vehicle) and hears for air leaks.</p>"
     },
     {
       "question": "The driver must be able to see a low air pressure warning that is emitted before the pressure in the service air tanks drops below psi?",
@@ -263,7 +262,7 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.1.11 – Low Air Pressure Warning</strong></p><p>A low air pressure warning signal is required in vehicles with air brakes. A warning sign you can see should go off before the air pressure in the tanks drops between 55 and 75 psi.</p>"
+      "reason": "<p><strong>Section: 5.1.11 – Low Air Pressure Warning</strong></p><p>A warning sign you can see should go off before the air pressure in the tanks drops between 55 and 75 psi.</p>"
     },
     {
       "question": "The braking power of spring brakes?",
@@ -275,7 +274,7 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.1.14 - Spring Brakes</strong></p><p>The braking power of the spring brakes depends on the adjustment of the brakes. If the brakes are not adjusted correctly, neither the regular brakes nor the emergency/parking brakes will work properly.</p>"
+      "reason": "<p><strong>Section: 5.1.14 - Spring Brakes</strong></p><p>The braking power of the spring brakes depends on the adjustment of the brakes.</p>"
     },
     {
       "question": "The air brake delay distance at 55 mph on dry pavement adds about feet.",
@@ -287,7 +286,7 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.4.4 - Stopping Distance</strong></p><p>The air brake delay distance at 55 mph on dry pavement adds about 32 feet. So, at 55 mph for an average driver under good traction and braking conditions, the total stopping distance is more than 450 feet.</p>"
+      "reason": "<p><strong>Section: 5.4.4 - Stopping Distance</strong></p><p>The air brake delay distance at 55 mph on dry pavement adds about 32 feet.</p>"
     },
     {
       "question": "The total stopping distance for air brakes is longer than for hydraulic brakes due to the distance?",
@@ -299,7 +298,7 @@
       "correctAnswer": [
         1
       ],
-      "reason": "<p><strong>Section: 5.4.4 - Stopping Distance</strong></p><p>The stopping distance has been described in Section 2 under \"Speed and Stopping Distance\". With air brakes, there is an additional delay: \"Brake Lag\". This is the time it takes for the brakes to work after the brake pedal is depressed.</p>"
+      "reason": "<p><strong>Section: 5.4.4 - Stopping Distance</strong></p><p>With air brakes, there is an additional delay: \"Brake Lag\". This is the time it takes for the brakes to work after the brake pedal is depressed.</p>"
     },
     {
       "question": "It is accepted that too much heat caused by using the brakes too often can also cause?",
@@ -311,7 +310,7 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.4.5 - Brake Fading or Failure</strong></p><p>Braking generates heat, but brakes are designed to absorb a lot of heat. However, the brakes may disappear or fail due to excessive heat caused by overusing them and not relying on the braking effect of the engine.</p>"
+      "reason": "<p><strong>Section: 5.4.5 - Brake Fading or Failure</strong></p><p>The brakes may disappear or fail due to excessive heat caused by overusing them.</p>"
     },
     {
       "question": "Partially raising and repeatedly pressing the brake pedal may result in:",
@@ -347,7 +346,7 @@
       "correctAnswer": [
         0
       ],
-      "reason": "<p><strong>Section: 5.3.2 - During Step 5 Walk-Around Inspection</strong></p><p>Wear gloves and pull every slack adjuster you can reach. If a slack adjuster moves more than an inch where the push rod attaches to it, it probably needs adjustment.</p>"
+      "reason": "<p><strong>Section: 5.3.2 - During Step 5 Walk-Around Inspection</strong></p><p>If a slack adjuster moves more than an inch where the push rod attaches to it, it probably needs adjustment.</p>"
     },
     {
       "question": "An air brake system is fully loaded at what psi?",
@@ -371,7 +370,7 @@
       "correctAnswer": [
         1
       ],
-      "reason": "<p><strong>Section: 5.1.7 - The Brake Pedal</strong></p><p>You step on the brakes by pressing the brake pedal. (It is also called a foot valve or treadmill valve.) Pushing the pedal down harder applies more air pressure. Releasing the brake pedal reduces the air pressure and releases the brakes.</p>"
+      "reason": "<p><strong>Section: 5.1.7 - The Brake Pedal</strong></p><p>Pushing the pedal down harder applies more air pressure. Releasing the brake pedal reduces the air pressure and releases the brakes.</p>"
     },
     {
       "question": "The S-cam",
@@ -383,7 +382,7 @@
       "correctAnswer": [
         1
       ],
-      "reason": "<p><strong>Section: 5.1.8 - Foundation Brakes</strong></p><p>When you press the brake pedal, air is left in each brake chamber. The air pressure pushes the rod outwards, moving the slack adjuster, thus twisting the camshaft of the brake. This transforms the s-cam (so called because it is shaped like the letter \"S\"). The s-cam forces the brake shoes away from each other and presses them against the inside of the brake drum.</p>"
+      "reason": "<p><strong>Section: 5.1.8 - Foundation Brakes</strong></p><p>The s-cam forces the brake shoes away from each other and presses them against the inside of the brake drum.</p>"
     },
     {
       "question": "Under normal conditions, in order to apply the parking brakes, the driver must:",
@@ -395,7 +394,7 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.4.8 - Parking Brakes</strong></p><p>Pull the parking brake control knob outward to engage the parking brakes and push it to release. The control will be a yellow, diamond-shaped button labeled \"parking brakes\" on newer vehicles. On older vehicles, this may be a round blue button or some other shape (including a lever that swings from side to side or up and down).</p>"
+      "reason": "<p><strong>Section: 5.4.8 - Parking Brakes</strong></p><p>Pull the parking brake control knob outward to engage the parking brakes and push it to release.</p>"
     },
     {
       "question": "All vehicles equipped with pneumatic brakes have:",
@@ -407,7 +406,7 @@
       "correctAnswer": [
         1
       ],
-      "reason": "<p><strong>Section: 5.1.9 - Feed Pressure Gauges</strong></p><p>All vehicles with air brakes have a pressure gauge connected to the air tank. If the vehicle has a dual air brake system, there will be a gauge for each half of the system.</p>"
+      "reason": "<p><strong>Section: 5.1.9 - Feed Pressure Gauges</strong></p><p>All vehicles with air brakes have a pressure gauge connected to the air tank.</p>"
     },
     {
       "question": "With vehicles with air brakes, the parking brake must be used:",
@@ -419,7 +418,7 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.4.8 - Parking Brakes</strong></p><p>Never leave your vehicle unattended without applying the parking brakes or choking the wheels. Your vehicle may roll over and cause injury and damage.</p>"
+      "reason": "<p><strong>Section: 5.4.8 - Parking Brakes</strong></p><p>Never leave your vehicle unattended without applying the parking brakes or choking the wheels.</p>"
     },
     {
       "question": "If the air compressor leaks, what keeps the air in the tanks?",
@@ -431,7 +430,7 @@
       "correctAnswer": [
         0
       ],
-      "reason": "<p><strong>Section: 5.2 – Dual Air Brake</strong></p><p>One-way check valve: This device allows air to flow in only one direction. All air tanks in vehicles with air brakes must have a check valve located between the air compressor and the first reservoir. The check valve prevents air from escaping if the air compressor develops a leak.</p>"
+      "reason": "<p><strong>Section: 5.2 – Dual Air Brake</strong></p><p>The check valve prevents air from escaping if the air compressor develops a leak.</p>"
     },
     {
       "question": "Which one is NOT the proper time to apply the parking brake?",
@@ -443,7 +442,7 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.4.8 - Parking Brakes</strong></p><p>Do not use the parking brakes if the brakes are too hot (from just going down a steep incline), or if the brakes are too wet in freezing temperatures.</p>"
+      "reason": "<p><strong>Section: 5.4.8 - Parking Brakes</strong></p><p>Do not use the parking brakes if the brakes are too hot (from just going down a steep incline).</p>"
     },
     {
       "question": "With air brake vehicles, parking brakes must be used:",
@@ -455,7 +454,7 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.4.8 - Parking Brakes</strong></p><p>Whenever you park, use the parking brakes. Pull the parking brake control knob out to apply the parking brakes, push it to release. The control will be a yellow diamond-shaped button labeled \"parking brakes\" on newer vehicles.</p>"
+      "reason": "<p><strong>Section: 5.4.8 - Parking Brakes</strong></p><p>Whenever you park, use the parking brakes.</p>"
     },
     {
       "question": "Why Should You Drain Water From Compressed Air Tanks?",
@@ -467,7 +466,7 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.4.8 - Parking Brakes</strong></p><p>If your vehicle does not have automatic air tank drains, drain the air tanks at the end of each business day to remove moisture and oil. Otherwise, the brakes may fail.</p>"
+      "reason": "<p><strong>Section: 5.4.8 - Parking Brakes</strong></p><p>If your vehicle does not have automatic air tank drains, drain the air tanks at the end of each business day to remove moisture and oil.</p>"
     },
     {
       "question": "If the spring brakes are on, when should you squeeze the brake pedal?",
@@ -477,9 +476,9 @@
         "Only on a slippery road."
       ],
       "correctAnswer": [
-        0
+        1
       ],
-      "reason": "<p><strong>Section: 5.1.15 - Parking Brake Controls</strong></p><p>Never push the brake pedal down when the spring brakes are on. If you do this, the brakes can be damaged by the combined forces of the springs and the air pressure.</p>"
+      "reason": "<p><strong>Section: 5.1.15 - Parking Brake Controls</strong></p><p>Never push the brake pedal down when the spring brakes are on. If you do this, the brakes can be damaged.</p>"
     },
     {
       "question": "To check the free play of the manual S-cam brake clearance adjusters, you should park at:",
@@ -491,7 +490,7 @@
       "correctAnswer": [
         1
       ],
-      "reason": "<p><strong>Section: 5.3.2 - During Step 5 Walk-Around Inspection</strong></p><p>Check the clearance adjusters on the S-cam brakes. Park on level ground and secure the wheels to prevent the vehicle from moving. Turn off the parking brakes so you can move the slack adjusters. Wear gloves and pull every slack adjuster you can reach. If a slack adjuster moves more than an inch where the push rod attaches to it, it probably needs adjustment.</p>"
+      "reason": "<p><strong>Section: 5.3.2 - During Step 5 Walk-Around Inspection</strong></p><p>Park on level ground and secure the wheels to prevent the vehicle from moving. Turn off the parking brakes so you can move the slack adjusters.</p>"
     },
     {
       "question": "Excessive heat caused by overusing the brakes too often can also cause:",
@@ -503,7 +502,7 @@
       "correctAnswer": [
         0
       ],
-      "reason": "<p><strong>Section: 5.4.5 - Brake Fading or Failure</strong></p><p>Brake fading results from excessive heat causing chemical changes in the brake lining, which reduce friction, as well as causing expansion of the brake drums.</p>"
+      "reason": "<p><strong>Section: 5.4.5 - Brake Fading or Failure</strong></p><p>Brake fading results from excessive heat causing chemical changes in the brake lining, which reduce friction.</p>"
     },
     {
       "question": "If you need to make an emergency stop, you must brake so that:",
@@ -515,7 +514,7 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.4.3 - Emergency Stops</strong></p><p>You should brake in a way that keeps your vehicle in a straight line and allows you to turn if you need to. You can use the \"controlled braking\" method or the \"knife braking\" method.</p>"
+      "reason": "<p><strong>Section: 5.4.3 - Emergency Stops</strong></p><p>You should brake in a way that keeps your vehicle in a straight line and allows you to turn if you need to.</p>"
     },
     {
       "question": "The use of brakes on a long and steep downgrade under normal conditions is only an add-on to:",
@@ -527,7 +526,7 @@
       "correctAnswer": [
         1
       ],
-      "reason": "<p><strong>Section: 5.4.6 - Proper Braking Technique</strong></p><p>Remember. The use of brakes on a long and/or steep downgrade is only a complement to the braking effect of the engine.</p>"
+      "reason": "<p><strong>Section: 5.4.6 - Proper Braking Technique</strong></p><p>The use of brakes on a long and/or steep downgrade is only a complement to the braking effect of the engine.</p>"
     },
     {
       "question": "The most important thing to do when a low air pressure warning is triggered is:",
@@ -539,7 +538,7 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.4.7 - Low Air Pressure</strong></p><p>If the low air pressure warning comes on, stop and park your vehicle safely as soon as possible. There may be an air leak in the system.</p>"
+      "reason": "<p><strong>Section: 5.4.7 - Low Air Pressure</strong></p><p>If the low air pressure warning comes on, stop and park your vehicle safely as soon as possible.</p>"
     },
     {
       "question": "The parking or emergency brake of a heavy vehicle can only be held in position by something that cannot leak, such as:",
@@ -551,7 +550,7 @@
       "correctAnswer": [
         0
       ],
-      "reason": "<p><strong>Section: 5.1.14 - Spring Brakes</strong></p><p>All trucks, tractors, and buses must be equipped with emergency brakes and parking brakes. They must be held by mechanical force (because air pressure can eventually leak out). Spring brakes are often used to meet these needs.</p>"
+      "reason": "<p><strong>Section: 5.1.14 - Spring Brakes</strong></p><p>They must be held by mechanical force (because air pressure can eventually leak out). Spring brakes are often used to meet these needs.</p>"
     },
     {
       "question": "Air braking takes longer than hydraulic braking because:",
@@ -563,7 +562,7 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.4.4 - Stopping Distance</strong></p><p>With hydraulic brakes (used on light/medium cars and trucks), the brakes work instantly. However, with air brakes, it takes a bit of time (half a second or so) for air to flow through the lines to the brakes.</p>"
+      "reason": "<p><strong>Section: 5.4.4 - Stopping Distance</strong></p><p>With air brakes, it takes a bit of time (half a second or so) for air to flow through the lines to the brakes.</p>"
     },
     {
       "question": "When the brakes are applied, the brake shoes press against the:",
@@ -587,19 +586,19 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.1.6 - Safety Valve</strong></p><p>A safety relief valve is installed in the first tank into which the air compressor pumps the air. The safety valve protects the tank and the rest of the system from too much pressure. The valve is usually set to open at 150 psi.</p>"
+      "reason": "<p><strong>Section: 5.1.6 - Safety Valve</strong></p><p>The valve is usually set to open at 150 psi.</p>"
     },
     {
       "question": "Knife braking:",
       "options": [
         "Use a steady light pressure on the brake pedal. ",
         "The alcohol container may be low.",
-        "Apply the brakes at all times. Release the brakes when the wheels lock. Once the wheels start to turn, apply the brakes fully again. Press the brake pedal and apply the hand valve when stopping."
+        "Apply the brakes at all times. Release the brakes when the wheels lock. Once the wheels start to turn, apply the brakes fully again."
       ],
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.4.3 - Emergency Stops</strong></p><p>Stab Braking: Apply the brakes all the way. Release the brakes when the wheels lock. Once the wheels start to turn, apply the brakes fully again. (It may take up to 1 second for the wheels to start rolling after you release the brakes. If you reapply the brakes before the wheels start rolling, the vehicle will not right.)</p>"
+      "reason": "<p><strong>Section: 5.4.3 - Emergency Stops</strong></p><p>Stab Braking: Apply the brakes all the way. Release the brakes when the wheels lock. Once the wheels start to turn, apply the brakes fully again.</p>"
     },
     {
       "question": "If the air pressure is not built up within the correct time period, then:",
@@ -611,7 +610,7 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.3.3 – Step 7 Air Brake Final Check</strong></p><p>If the air pressure doesn't build up fast enough, your pressure can drop too low while driving, requiring an emergency stop. Do not drive until the problem is fixed.</p>"
+      "reason": "<p><strong>Section: 5.3.3 – Step 7 Air Brake Final Check</strong></p><p>If the air pressure doesn't build up fast enough, your pressure can drop too low while driving, requiring an emergency stop.</p>"
     },
     {
       "question": "The safety valve reduces the pressure in psi.",
@@ -623,7 +622,7 @@
       "correctAnswer": [
         1
       ],
-      "reason": "<p>150</p><p><strong>Section: 5.1.6 - Safety Valve</strong></p><p>The valve is usually set to open at 150 psi. If the safety valve releases air, something is wrong. Have the fault corrected by a mechanic.</p>"
+      "reason": "<p><strong>Section: 5.1.6 - Safety Valve</strong></p><p>The valve is usually set to open at 150 psi. If the safety valve releases air, something is wrong.</p>"
     },
     {
       "question": "What can legally keep a parking or emergency brake in the position of a truck, tractor truck or bus?",
@@ -635,7 +634,7 @@
       "correctAnswer": [
         0
       ],
-      "reason": "<p><strong>Section: 5.1.14 - Spring Brakes</strong></p><p>All trucks, tractors, and buses must be equipped with emergency brakes and parking brakes. They must be held by mechanical force (because air pressure can eventually leak out). Spring brakes are often used to meet these needs.</p>"
+      "reason": "<p><strong>Section: 5.1.14 - Spring Brakes</strong></p><p>They must be held by mechanical force (because air pressure can eventually leak out). Spring brakes are often used to meet these needs.</p>"
     },
     {
       "question": "The supply pressure gauge shows how much pressure:",
@@ -647,7 +646,7 @@
       "correctAnswer": [
         1
       ],
-      "reason": "<p><strong>Section: 5.1.9 - Feed Pressure Gauges</strong></p><p>All vehicles with air brakes have a pressure gauge connected to the air tank. If the vehicle has a dual air brake system, there will be a gauge for each half of the system. These gauges tell you how much pressure is in the air tanks.</p>"
+      "reason": "<p><strong>Section: 5.1.9 - Feed Pressure Gauges</strong></p><p>All vehicles with air brakes have a pressure gauge connected to the air tank. These gauges tell you how much pressure is in the air tanks.</p>"
     },
     {
       "question": "The braking power of spring brakes:",
@@ -659,7 +658,7 @@
       "correctAnswer": [
         1
       ],
-      "reason": "<p><strong>Section: 5.1.14 - Spring Brakes</strong></p><p>The braking power of the spring brakes depends on the adjustment of the brakes. If the brakes are not adjusted correctly, neither the regular brakes nor the emergency/parking brakes will work properly.</p>"
+      "reason": "<p><strong>Section: 5.1.14 - Spring Brakes</strong></p><p>The braking power of the spring brakes depends on the adjustment of the brakes.</p>"
     },
     {
       "question": "It is not safe to drive a vehicle that has brake drums with cracks larger than the width of the friction area.",
@@ -683,7 +682,7 @@
       "correctAnswer": [
         0
       ],
-      "reason": "<p><strong>Section: 5.4.5 - Brake Fading or Failure</strong></p><p>As the overheated drums expand, the brake shoes and linings have to move farther to make contact with the drums, and the force of this contact is reduced. Continued overuse may increase brake fading until the vehicle cannot be lowered or stopped.</p>"
+      "reason": "<p><strong>Section: 5.4.5 - Brake Fading or Failure</strong></p><p>As the overheated drums expand, the brake shoes and linings have to move farther to make contact with the drums, and the force of this contact is reduced.</p>"
     },
     {
       "question": "If your vehicle has an alcohol evaporator, it's there to:",
@@ -695,7 +694,7 @@
       "correctAnswer": [
         1
       ],
-      "reason": "<p><strong>Section: 5.1.5 – Alcohol Evaporator</strong></p><p>Some air brake systems have an alcohol evaporator to put alcohol into the air system. This helps reduce the risk of frost on air brake valves and other parts during cold weather. Ice inside the system can cause the brakes to stop working.</p>"
+      "reason": "<p><strong>Section: 5.1.5 – Alcohol Evaporator</strong></p><p>Some air brake systems have an alcohol evaporator to put alcohol into the air system. This helps reduce the risk of frost on air brake valves.</p>"
     },
     {
       "question": "The air compressor regulator controls:",
@@ -731,7 +730,7 @@
       "correctAnswer": [
         1
       ],
-      "reason": "<p><strong>Section: 5.1.4 – Air Tank Drains</strong></p><p>Manually operated by turning a quarter turn or pulling a cord. You should drain the tanks yourself at the end of each day of driving.</p>"
+      "reason": "<p><strong>Section: 5.1.4 – Air Tank Drains</strong></p><p>You should drain the tanks yourself at the end of each day of driving.</p>"
     },
     {
       "question": "Section: 5.1.4 – Air Tank Drains Manually operated by turning a quarter turn or pulling a cord. You should drain the tanks yourself at the end of each day of driving.",
@@ -755,7 +754,7 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.4.4 - Stopping Distance</strong></p><p>The air brake delay distance at 55 mph on dry pavement adds about 32 feet. So, at 55 mph for an average driver under good traction and braking conditions, the total stopping distance is more than 450 feet.</p>"
+      "reason": "<p><strong>Section: 5.4.4 - Stopping Distance</strong></p><p>At 55 mph for an average driver under good traction and braking conditions, the total stopping distance is more than 450 feet.</p>"
     },
     {
       "question": "When is it OK to leave your truck unattended without applying the parking brakes and choking on the wheels?",
@@ -767,7 +766,7 @@
       "correctAnswer": [
         0
       ],
-      "reason": "<p><strong>Section: 5.4.8 - Parking Brakes</strong></p><p>Never leave your vehicle unattended without applying the parking brakes or choking the wheels. Your vehicle may roll over and cause injury and damage.</p>"
+      "reason": "<p><strong>Section: 5.4.8 - Parking Brakes</strong></p><p>Never leave your vehicle unattended without applying the parking brakes or choking the wheels.</p>"
     },
     {
       "question": "The stop light switch:",
@@ -779,7 +778,7 @@
       "correctAnswer": [
         0
       ],
-      "reason": "<p><strong>Section: 5.1.12 – Stop Light Switch</strong></p><p>Drivers behind you should be warned when you put on your brakes. The air brake system does this with an electrical switch that works by air pressure. The switch turns on the brake lights when you put on the air brakes.</p>"
+      "reason": "<p><strong>Section: 5.1.12 – Stop Light Switch</strong></p><p>The air brake system does this with an electrical switch that works by air pressure. The switch turns on the brake lights when you put on the air brakes.</p>"
     },
     {
       "question": "The air tanks. shows how much pressure is on the",
@@ -791,7 +790,7 @@
       "correctAnswer": [
         0
       ],
-      "reason": "<p><strong>Section: 5.1.9 - Feed Pressure Gauges</strong></p><p>All vehicles with air brakes have a pressure gauge connected to the air tank. If the vehicle has a dual air brake system, there will be one gauge for each half of the system (or a single gauge with 2 needles). These gauges tell you how much pressure is in the air tanks.</p>"
+      "reason": "<p><strong>Section: 5.1.9 - Feed Pressure Gauges</strong></p><p>These gauges tell you how much pressure is in the air tanks.</p>"
     },
     {
       "question": "To test pneumatic service brakes, you must:",
@@ -815,7 +814,7 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.4.6 - Proper Braking Technique</strong></p><p>If your \"safe\" speed is 40 mph, you wouldn't apply the brakes until your speed reaches 40 mph. Now you apply the brakes hard enough to gradually reduce your speed to 35 mph and then release the brakes. Repeat this as many times as necessary until you reach the end of the downgrade.</p>"
+      "reason": "<p><strong>Section: 5.4.6 - Proper Braking Technique</strong></p><p>Now you apply the brakes hard enough to gradually reduce your speed to 35 mph and then release the brakes.</p>"
     },
     {
       "question": "If your truck has a dual air brake system and one of the systems is low-pressure:",
@@ -827,7 +826,7 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.2 – Dual Air Brake</strong></p><p>If an air system is at too low a pressure, the front or rear brakes will not be fully functioning. This means that it will take you longer to stop.</p>"
+      "reason": "<p><strong>Section: 5.2 – Dual Air Brake</strong></p><p>If an air system is at too low a pressure, the front or rear brakes will not be fully functioning.</p>"
     },
     {
       "question": "What happens when brake drums get too hot?",
@@ -839,7 +838,7 @@
       "correctAnswer": [
         1
       ],
-      "reason": "<p><strong>Section: 5.4.5 - Brake Fading or Failure</strong></p><p>As the overheated drums expand, the brake shoes and linings have to move farther to make contact with the drums, and the force of this contact is reduced.</p>"
+      "reason": "<p><strong>Section: 5.4.5 - Brake Fading or Failure</strong></p><p>As the overheated drums expand, the brake shoes and linings have to move farther to make contact with the drums.</p>"
     },
     {
       "question": "What is a \"Wig Wag\"",
@@ -851,1463 +850,1667 @@
       "correctAnswer": [
         2
       ],
-      "reason": "<p><strong>Section: 5.1.11 - Low Air Pressure</strong></p><p>Notice</p><p>Another type of alert is the \"wag wig\". This device drops a mechanical arm into your vision when the pressure in the system drops between 55 and 75 psi. An automatic wig will come out of your vision when the pressure in the system exceeds 55 and 75 psi.</p>"
+      "reason": "<p><strong>Section: 5.1.11 - Low Air Pressure</strong></p><p>This device drops a mechanical arm into your vision when the pressure in the system drops between 55 and 75 psi.</p>"
     }
   ],
-  "pt":[
-    
+  "pt": [
     {
-          "question": "O medidor de pressão de aplicação mostra quanta pressão de ar você?",
-          "options": [
-            "Estão aplicando no freio.",
-            " Possui uma válvula de controle moduladora. ",
-            "Tenha nos tanques de ar."
-    ],
-          "correctAnswer": [
-            0
-    ],
-          "reason": "<p><strong>Seção: 5.1.10 - Medidor de pressão de aplicação</strong></p><p>Este medidor mostra quanta pressão de ar você está aplicando nos freios</p>"
+      "question": "O medidor de pressão de aplicação mostra quanta pressão de ar você?",
+      "options": [
+        "Estão aplicando no freio.",
+        " Possui uma válvula de controle moduladora. ",
+        "Tenha nos tanques de ar."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Seção: 5.1.10 - Medidor de pressão de aplicação</strong></p><p>Este medidor mostra quanta pressão de ar você está aplicando nos freios</p>"
     },
     {
-          "question": "Os freios de mola usados nas câmaras de um caminhão reto vão fazer você parar quando a pressão do ar cair abaixo de psi?",
-          "options": [
-            "100",
-            "20",
-            "60"
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>Os freios de mola de trator e caminhão reto serão totalmente acionados quando a pressão do ar cair para uma faixa de 20 a 45 psi (tipicamente 20 a 30 psi).</p>"
+      "question": "Os freios de mola usados nas câmaras de um caminhão reto vão fazer você parar quando a pressão do ar cair abaixo de psi?",
+      "options": [
+        "100",
+        "20",
+        "60"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>Os freios de mola de trator e caminhão reto serão totalmente acionados quando a pressão do ar cair para uma faixa de 20 a 45 psi (tipicamente 20 a 30 psi).</p>"
     },
     {
-        "question":  "Alguns sistemas de freio a ar têm evaporador de álcool. O que pode acontecer se você não mantiver o nível adequado de álcool?",
-          "options": [
-            "O gelo pode se formar nas válvulas de freio a ar e causar falha no freio.",
-            "O gelo pode se formar nos tambores de freio e desgastá-los.",
-            "O S-cam pode não ser retomado quando você solta o pedal do freio."
-    ],
-          "correctAnswer": [
-            0
-    ],
-          "reason": "<p><forte>Seção: 5.1.5 – Evaporador de álcool</strong></p><p>Alguns sistemas de freio a ar possuem um evaporador de álcool para colocar álcool no sistema de ar. Isso ajuda a reduzir o risco de geada em válvulas de freio a ar e outras peças durante o tempo frio. O gelo dentro do sistema pode fazer com que os freios parem de funcionar.</p>"
-    },
-
-    {
-          "question": "Por que drenar água de tanques de ar comprimido?",
-          "options": [
-            "O baixo ponto de ebulição da água reduz o poder de frenagem.",
-            "A água resfria demais o compressor.",
-            " A água pode congelar no tempo frio e causar falha no freio. "
-    ],
-          "correctAnswer": [
-            2
-    ],
-          "reason": "<p><strong>Seção: 5.1.4 – Drenos de tanque de ar</strong></p><p>O ar comprimido geralmente tem um pouco de água e um pouco de óleo do compressor, o que é ruim para o sistema de freio a ar. Por exemplo, a água pode congelar no tempo frio e causar falha no freio.</p>"
+      "question": "Alguns sistemas de freio a ar têm evaporador de álcool. O que pode acontecer se você não mantiver o nível adequado de álcool?",
+      "options": [
+        "O gelo pode se formar nas válvulas de freio a ar e causar falha no freio.",
+        "O gelo pode se formar nos tambores de freio e desgastá-los.",
+        "O S-cam pode não ser retomado quando você solta o pedal do freio."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Seção: 5.1.5 – Evaporador de álcool</strong></p><p>Isso ajuda a reduzir o risco de geada em válvulas de freio a ar e outras peças durante o tempo frio. O gelo dentro do sistema pode fazer com que os freios parem de funcionar.</p>"
     },
     {
-          "question": "A válvula de segurança é regulada automaticamente quando a pressão está?",
-          "options": [
-            "50",
-            "150",
-            "100"
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><strong>Seção: 5.1.6 - Válvula de segurança</strong></p><p>Uma válvula de alívio de segurança é instalada no primeiro tanque em que o compressor de ar bombeia o ar. A válvula de segurança protege o tanque e o resto do sistema de muita pressão. A válvula é geralmente ajustada para abrir a 150 psi.</p>"
+      "question": "Seu caminhão ou ônibus tem um sistema de freio a ar duplo. Se um aviso de baixa pressão do ar for emitido para apenas um sistema, o que você deve fazer?",
+      "options": [
+        "Pare imediatamente e estacione com segurança. Continue somente depois que o sistema for corrigido.",
+        "Reduza sua velocidade e teste o sistema restante enquanto ele está em andamento.",
+        "Continue somente depois que o sistema for corrigido."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Seção: 5.4.7 - Baixa pressão do ar</strong></p><p>Se o aviso de baixa pressão do ar acender, pare e estacione seu veículo com segurança o mais rápido possível.</p>"
     },
     {
-        "question":"Seu caminhão tem um sistema de ar duplo, e um dos sistemas perde sua pressão. O que vai acontecer?",
-          "options": [
-            "Os tambores de freio não serão totalmente pressurizados.",
-            "O freio dianteiro ou traseiro não estará totalmente operacional.",
-            "Os ajustadores de folga manual dos freios S-cam não serão ajustados corretamente."
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><strong>Seção: 5.2 – Freio a Ar Duplo</strong></p><p>Se um sistema de ar estiver com uma pressão muito baixa, os freios dianteiros ou traseiros não estarão funcionando plenamente.</p>"
+      "question": "Por que drenar água de tanques de ar comprimido?",
+      "options": [
+        "O baixo ponto de ebulição da água reduz o poder de frenagem.",
+        "A água resfria demais o compressor.",
+        " A água pode congelar no tempo frio e causar falha no freio. "
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.1.4 – Drenos de tanque de ar</strong></p><p>O ar comprimido geralmente tem um pouco de água e um pouco de óleo do compressor, o que é ruim para o sistema de freio a ar. A água pode congelar no tempo frio e causar falha no freio.</p>"
     },
     {
-          "question": "Estacionamento ou freios de emergência em caminhões e ônibus podem ser legalmente mantidos por pressão?",
-          "options": [
-            "Primavera",
-            "Ar",
-            "Fluido"
-    ],
-          "correctAnswer": [
-            0
-    ],
-          "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>Todos os caminhões, tratores e ônibus devem estar equipados com freios de emergência e freios de estacionamento. Eles devem ser mantidos pela força mecânica (porque a pressão do ar pode eventualmente vazar). Os freios de mola são frequentemente usados para atender a essas necessidades. Durante a condução, as molas potentes são retidas pela pressão do ar. Se a pressão do ar for removida, as molas pisam nos freios.</p>"
+      "question": "A válvula de segurança é regulada automaticamente quando a pressão está?",
+      "options": [
+        "50",
+        "150",
+        "100"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.1.6 - Válvula de segurança</strong></p><p>A válvula de segurança protege o tanque e o resto do sistema de muita pressão. A válvula é geralmente ajustada para abrir a 150 psi.</p>"
     },
     {
-          "question": "Se o seu caminhão ou ônibus tem válvulas de controle de estacionamento duplas, você pode usar a pressão de um tanque separado para?",
-          "options": [
-            "Ficar parado duas vezes mais tempo sem usar pressão de ar de serviço",
-            ". Equilibre o sistema de freio de serviço quando estacionado. ",
-            "Solte os freios de emergência/estacionamento da mola para se mover a uma curta distância."
-    ],
-          "correctAnswer": [
-            2
-    ],
-          "reason": "<p><strong>Seção: 5.1.15 - Controles do freio de estacionamento</strong></p><p>Quando a pressão do ar principal é perdida, os freios de mola são aplicados. Alguns veículos, como ônibus, têm um tanque de ar separado que pode ser usado para liberar os freios de mola. Isso é para que você possa mover o veículo em uma emergência.</p>"
-    },
-  
-  {
-    "question": "Se o seu caminhão tiver um sistema de freio a ar duplo funcionando corretamente e tanques de ar de tamanho mínimo, a pressão do ar deve aumentar de 85 para 100 psi em quantos segundos?",
-    "options": [
-      "50",
-      "45",
-      "60"
-    ],
-    "correctAnswer": 1,
-    "reason": "<p><strong>Seção: 5.3.3 – Etapa 7 Verificação final do freio pneumático</strong></p><p>Para sistemas de ar duplo, a pressão deve aumentar de aproximadamente 85 para 100 psi em 45 segundos.</p>"
-  },
-  {
-    "question": "Como você deve verificar se seus freios de serviço estão funcionando corretamente?",
-    "options": [
-      "Estacione em terreno plano, calce as rodas, acione os freios de estacionamento quando tiver a quantidade correta de pressão de ar e desligue o motor.",
-      "Estacione em terreno plano, espere até que a pressão normal do ar seja atingida, solte o freio de estacionamento e avance lentamente a cerca de 5 mph. Em seguida, aplique os freios com firmeza.",
-      "Estacione em um declive leve, drene a pressão do ar, acione o freio de estacionamento e verifique."
-    ],
-    "correctAnswer": 1,
-    "reason": "<p><strong>Seção: 5.3.3 – Passo 7 Verificação final do freio a ar</strong></p><p>Aguarde a pressão normal do ar, solte o freio de estacionamento, mova o veículo para frente lentamente (cerca de cinco mph) e aplique os freios firmemente usando o pedal do freio.</p>"
-  },
-    {
-          "question": "Um sistema de freio a ar de caminhão ou ônibus reto não deve vazar a uma taxa de mais de psi por minuto com o motor desligado e os freios liberados?",
-          "options": [
-            "1",
-            "2",
-            "4"
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><strong>Seção: 5.3.3 – Etapa 7 Freio a Ar Verificação Final </strong></p><p>Com um sistema de ar basicamente totalmente carregado (dentro da faixa de operação efetiva do compressor), desligue o motor, solte todos os freios e deixe o sistema se acomodar (a agulha do medidor de ar para de se mover). Tempo de um minuto. A pressão do ar não deve cair mais do que: 2 psi para veículos individuais.</p>"
+      "question": "Seu caminhão tem um sistema de ar duplo, e um dos sistemas perde sua pressão. O que vai acontecer?",
+      "options": [
+        "Os tambores de freio não serão totalmente pressurizados.",
+        "O freio dianteiro ou traseiro não estará totalmente operacional.",
+        "Os ajustadores de folga manual dos freios S-cam não serão ajustados corretamente."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.2 – Freio a Ar Duplo</strong></p><p>Se um sistema de ar estiver com uma pressão muito baixa, os freios dianteiros ou traseiros não estarão funcionando plenamente.</p>"
     },
     {
-          "question": "Durante a condução normal, os freios de mola geralmente são retidos?",
-          "options": [
-            "Parafusos ou grampos. ",
-            "Pressão do ar",
-            "Pressão de mola."
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>Durante a condução, as molas potentes são retidas pela pressão do ar. Se a pressão do ar for removida, as molas pisam nos freios.</p>"
+      "question": "Estacionamento ou freios de emergência em caminhões e ônibus podem ser legalmente mantidos por pressão?",
+      "options": [
+        "Primavera",
+        "Ar",
+        "Fluido"
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>Todos os caminhões, tratores e ônibus devem estar equipados com freios de emergência e freios de estacionamento. Eles devem ser mantidos pela força mecânica.</p>"
     },
     {
-          "question": "O compressor de ar para de bombear ar a que psi?",
-          "options": [
-            "100",
-            "125",
-            "150"
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><strong>Seção: 5.1.2 – Regulador do compressor de ar</strong></p><p>O regulador controla quando o compressor de ar bombeará ar para os tanques de armazenamento de ar. Quando a pressão do tanque de ar sobe para o  nível de corte(cerca de 125 libras por polegada quadrada ou \"psi\"), o regulador impede que o compressor bombeie ar.</p>"
+      "question": "Se o seu caminhão ou ônibus tem válvulas de controle de estacionamento duplas, você pode usar a pressão de um tanque separado para?",
+      "options": [
+        "Ficar parado duas vezes mais tempo sem usar pressão de ar de serviço",
+        ". Equilibre o sistema de freio de serviço quando estacionado. ",
+        "Solte os freios de emergência/estacionamento da mola para se mover a uma curta distância."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.1.15 - Controles do freio de estacionamento</strong></p><p>Alguns veículos, como ônibus, têm um tanque de ar separado que pode ser usado para liberar os freios de mola.</p>"
     },
     {
-          "question": "O motorista deve ser capaz de ver um aviso de baixa pressão do ar que é emitido antes que a pressão nos tanques de ar de serviço caia abaixo de psi?",
-          "options": [
-            "100",
-            "125",
-            "60"
-    ],
-          "correctAnswer": [
-            2
-    ],
-          "reason": "<p><forte>Seção: 5.1.11 - Baixa pressão do ar</forte></p><p>Aviso</p><p>Um sinal de alerta de baixa pressão do ar é necessário em veículos com freios a ar. Um sinal de alerta que você pode ver deve disparar antes que a pressão do ar nos tanques caia entre 55 e 75 psi.</p>"
+      "question": "Se o seu caminhão tiver um sistema de freio a ar duplo funcionando corretamente e tanques de ar de tamanho mínimo, a pressão do ar deve aumentar de 85 para 100 psi em quantos segundos?",
+      "options": [
+        "50",
+        "45",
+        "60"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.3.3 – Etapa 7 Verificação final do freio pneumático</strong></p><p>Para sistemas de ar duplo, a pressão deve aumentar de aproximadamente 85 para 100 psi em 45 segundos.</p>"
     },
     {
-          "question": "O uso excessivo de freios de serviço resulta em superaquecimento que pode levar a?",
-          "options": [
-            "Facilito o contato entre os tambores de freio e as lonas.",
-            "Expansão dos tambores de freio.",
-            "Ajuste adequado de S-camncr."
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><forte>Seção: 5.4.5 - Desvanecimento ou falha do freio</forte></p><p>O uso excessivo dos freios de serviço resulta em superaquecimento e leva ao desbotamento dos freios. O desbotamento do freio resulta do calor excessivo causando alterações químicas na lona de freio, que reduzem o atrito, além de causar expansão dos tambores de freio.</p>"
+      "question": "Como você deve verificar se seus freios de serviço estão funcionando corretamente?",
+      "options": [
+        "Estacione em terreno plano, calce as rodas, acione os freios de estacionamento quando tiver a quantidade correta de pressão de ar e desligue o motor.",
+        "Estacione em terreno plano, espere até que a pressão normal do ar seja atingida, solte o freio de estacionamento e avance lentamente a cerca de 5 mph. Em seguida, aplique os freios com firmeza.",
+        "Estacione em um declive leve, drene a pressão do ar, acione o freio de estacionamento e verifique."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.3.3 – Passo 7 Verificação final do freio a ar</strong></p><p>Aguarde a pressão normal do ar, solte o freio de estacionamento, mova o veículo para frente lentamente (cerca de cinco mph) e aplique os freios firmemente usando o pedal do freio.</p>"
     },
     {
-          "question": "O tipo mais comum de freio de fundação encontrado em veículos pesados é?",
-          "options": [
-            "Disco. ",
-            "Tambor S-cam.",
-            "Tambor de um"
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p><strong>Seção: 5.1.8 - Freios de fundação</strong></p><p>Freios de fundação são usados em cada roda. O tipo mais comum é o freio a tambor s-cam. As partes do freio são discutidas abaixo.</p>"
-    },
-  {
-    "question": "Se você precisa fazer uma parada de emergência, você deve frear para que:",
-    "options": [
-      "Use toda a potência dos freios.",
-      "Use o freio de mão antes do pedal do freio.",
-      "Possa manter seu veículo reto."
-    ],
-    "correctAnswer": [
-      2
-    ],
-    "reason": "<p><strong>Seção: 5.4.3 - Paradas de emergência</strong></p><p>Você deve frear de uma forma que mantenha seu veículo em linha reta e permita que você vire se precisar.</p>"
-  },
-  {
-    "question": "Seu caminhão ou ônibus tem um sistema de freio a ar duplo. Se um aviso de baixa pressão do ar for emitido para apenas um sistema, o que você deve fazer?",
-    "options": [
-      "Reduza sua velocidade e teste o sistema restante enquanto ele está em andamento.",
-      "Pare imediatamente e estacione com segurança. Continue somente depois que o sistema for corrigido.",
-      "Continue somente depois que o sistema for corrigido."
-    ],
-    "correctAnswer": [
-      1
-    ],
-    "reason": "<p><strong>Seção: 5.4.7 - Baixa pressão do ar</strong></p><p>Se o aviso de baixa pressão do ar acender, pare e estacione seu veículo com segurança o mais rápido possível. Pode haver um vazamento de ar no sistema.</p>"
-  },
-  {
-    "question": "Se o seu veículo tem um evaporador de álcool, todos os dias durante o tempo frio você deveria?",
-    "options": [
-      "Troque o álcool em uma garrafa.",
-      "Verifique e preencha o nível de álcool.",
-      "Verifique o teor alcoólico do óleo."
-    ],
-    "correctAnswer": [
-      1
-    ],
-    "reason": "<p><strong>Seção: 5.1.5 – Evaporador de álcool</strong></p><p>Verifique o recipiente de álcool e encha conforme necessário, todos os dias durante o tempo frio. A drenagem diária do tanque de ar ainda é necessária para se livrar da água e do óleo.</p>"
-  },
-  {
-    "question": "A taxa de perda de ar para um caminhão ou ônibus em linha reta com o motor desligado e os freios ligados não deve ser maior do que?",
-    "options": [
-      "2 psi em 45 segundos.",
-      "3 psi em um minuto.",
-      "1 psi em 30 segundos."
-    ],
-    "correctAnswer": [1],
-    "reason": "<p><strong>Seção: 5.3.3 – Etapa 7 Freio a Ar Verificação Final</strong></p><p>O motorista então segura o freio de pé por 1 minuto após o medidor de ar se estabilizar. O motorista verifica o medidor de ar para ver se a pressão do ar não cai mais de 3 libras em um minuto (veículo único) ou 4 libras em 1 minuto (veículo combinado) e ouve vazamentos de ar.</p>"
-  },
-  {
-    "question": "O motorista deve ser capaz de ver um aviso de baixa pressão do ar que é emitido antes que a pressão nos tanques de ar de serviço caia abaixo de psi?",
-    "options": [
-      "80",
-      "50",
-      "60"
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.1.11 – Aviso de baixa pressão do ar</strong></p><p>É necessário um sinal de aviso de baixa pressão do ar em veículos com freios a ar. Um sinal de alerta que você pode ver deve disparar antes que a pressão do ar nos tanques caia entre 55 e 75 psi.</p>"
-  },
-  {
-    "question": "O poder de frenagem dos freios de mola?",
-    "options": [
-      "Aumenta quando os freios de serviço estão quentes.",
-      "Não é afetado pela condição dos freios de serviço.",
-      "Depende do freio de serviço estar em ajuste."
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>A potência de frenagem dos freios de mola depende do ajuste dos freios. Se os freios não forem ajustados corretamente, nem os freios regulares nem os freios de emergência/estacionamento funcionarão corretamente.</p>"
-  },
-  {
-    "question": "A distância de atraso do freio a ar a 55 mph em pavimento seco acrescenta cerca de pés.",
-    "options": [
-      "23",
-      "34",
-      "32"
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.4.4 - Distância de parada</strong></p><p>A distância de atraso do freio a ar a 55 mph em pavimento seco adiciona cerca de 32 pés. Assim, a 55 mph para um motorista médio em boas condições de tração e frenagem, a distância total de parada é de mais de 450 pés.</p>"
-  },
-  {
-    "question": "A distância total de parada para freios a ar é maior do que para freios hidráulicos devido à distância?",
-    "options": [
-      "Reação",
-      "Atraso do freio",
-      "Travagem eficaz"
-    ],
-    "correctAnswer": [1],
-    "reason": "<p><strong>Seção: 5.4.4 - Distância de parada</strong></p><p>A distância de parada foi descrita na Seção 2 em \"Velocidade e distância de parada\". Com freios a ar, há um atraso adicional: \"Brake Lag\". Este é o tempo que leva para os freios funcionarem depois que o pedal do freio é pressionado.</p>"
-  },
-  {
-    "question": "Aceita-se que muito calor causado pelo uso dos freios com muita frequência também pode causar?",
-    "options": [
-      "Válvula de controle modulada para desgaste.",
-      "Lonas de freio para divisão.",
-      "Freio para desaparecer ou falhar."
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.4.5 - Desvanecimento ou falha do freio</strong></p><p>A frenagem gera calor, mas os freios são projetados para absorver muito calor. No entanto, os freios podem desaparecer ou falhar devido ao calor excessivo causado pelo uso excessivo deles e não depender do efeito de frenagem do motor.</p>"
-  },
-  {
-    "question": "Levantar parcialmente e pressionar repetidamente o pedal do freio pode resultar em:",
-    "options": [
-      "Nenhuma mudança na pressão do ar do freio.",
-      "Um acúmulo de pressão de ar de freio.",
-      "Perda de pressão do ar do freio"
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.1.7 - O pedal do freio</strong></p><p>Pressionar e liberar o pedal desnecessariamente pode deixar o ar sair mais rápido do que o compressor pode substituí-lo. Se a pressão ficar muito baixa, os freios não funcionarão.</p>"
-  },
-  {
-    "question": "O sistema de freio que aplica e libera os freios quando o motorista usa o pedal do freio é o sistema de freio?",
-    "options": [
-      "Serviço",
-      "Estacionamento",
-      "Emergência"
-    ],
-    "correctAnswer": [0],
-    "reason": "<p><strong>Seção: 5.0 - Freios a ar</strong></p><p>O sistema de freio de serviço aplica e libera os freios quando você usa o pedal do freio durante a condução normal.</p>"
-  },
-  {
-    "question": "O jogo livre de um ajustador de folga precisa ser ajustado se for mais do que sobre você puxar duro?",
-    "options": [
-      "1 polegada",
-      "1/4 polegada",
-      "1/2 polegada"
-    ],
-    "correctAnswer": [0],
-    "reason": "<p><strong>Seção: 5.3.2 - Durante a Etapa 5 Inspeção Walk-Around</strong></p><p>Use luvas e puxe todos os ajustadores de folga que puder alcançar. Se um ajustador de folga se move mais de uma polegada onde a haste de pressão se prende a ele, ele provavelmente precisa de ajuste.</p>"
-  },
-  {
-    "question": "Um sistema de freio a ar está totalmente carregado a que psi?",
-    "options": [
-      "2",
-      "34",
-      "125"
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.3.3 – Passo 7 Freio a Ar Verificação Final</strong></p><p>Com um sistema de ar totalmente carregado (normalmente 125 psi), pare o motor, solte o freio de estacionamento e cronometre a queda da pressão do ar.</p>"
-  },
-  {
-    "question": "O pedal do freio em um sistema de freio a ar?",
-    "options": [
-      "Controla a velocidade do compressor de ar.",
-      "Controla a pressão do ar aplicada aos freios.",
-      "Ele é conectado a ajustadores de folga por uma série de hastes e ligações."
-    ],
-    "correctAnswer": [1],
-    "reason": "<p><strong>Seção: 5.1.7 - O pedal do freio</strong></p><p>Você pisa no freio pressionando o pedal do freio. (Também é chamada de válvula de pé ou válvula de esteira.) Empurrar o pedal para baixo com mais força aplica mais pressão de ar. Soltar o pedal do freio reduz a pressão do ar e libera os freios.</p>"
-  },
-  {
-    "question": "O S-cam",
-    "options": [
-      "Retire as sapatas de freio do tambor e deixe as rodas rolarem livremente.",
-      "Força as sapatas de freio contra o interior do tambor de freio.",
-      "Controla o fluxo de ar para cada uma das câmaras de freio."
-    ],
-    "correctAnswer": [1],
-    "reason": "<p><strong>Seção: 5.1.8 - Freios de fundação</strong></p><p>Quando você pressiona o pedal do freio, o ar é deixado em cada câmara de freio. A pressão do ar empurra a haste para fora, movendo o ajustador de folga, torcendo assim o eixo de comando do freio. Isso transforma o s-cam (assim chamado porque tem o formato da letra \"S\"). O s-cam força as sapatas de freio para longe umas das outras e as pressiona contra o interior do tambor de freio.</p>"
-  },
-  {
-    "question": "Em condições normais, para accionar os travões de estacionamento, o condutor deve:",
-    "options": [
-      "Desligue o motor.",
-      "Certifique-se de que o sistema de freio a ar esteja totalmente pressurizado.",
-      "Aplique os freios puxando o botão de controle do freio de estacionamento para fora."
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.4.8 - Freios de estacionamento</strong></p><p>Puxe o botão de controle do freio de estacionamento para fora para acionar os freios de estacionamento e empurre-o para liberar. O controle será um botão amarelo, em forma de diamante, rotulado como freios de estacionamento em veículos mais novos.</p>"
-  },
-  {
-    "question": "Todos os veículos equipados com travões pneumáticos possuem:",
-    "options": [
-      "Um sistema hidráulico de espera.",
-      "Um medidor de pressão de abastecimento.",
-      "Um medidor de uso de ar."
-    ],
-    "correctAnswer": [1],
-    "reason": "<p><strong>Seção: 5.1.9 - Manômetros de Alimentação</strong></p><p>Todos os veículos com freios a ar têm um manômetro conectado ao tanque de ar. Se o veículo tiver um sistema de freio a ar duplo, haverá uma bitola para cada metade do sistema.</p>"
-  },
-  {
-    "question": "Nos veículos com travões pneumáticos, deve ser utilizado o travão de estacionamento:",
-    "options": [
-      "O mínimo possível.",
-      "Apenas durante as inspeções pré-viagem.",
-      "Sempre que você deixar o veículo sem vigilância."
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.4.8 - Freios de estacionamento</strong></p><p>Nunca deixe seu veículo sem vigilância sem acionar os freios de estacionamento ou engasgar as rodas. Seu veículo pode capotar e causar ferimentos e danos.</p>"
-  },
-  {
-    "question": "Se o compressor de ar vaza, o que mantém o ar nos tanques?",
-    "options": [
-      "A válvula de retenção unidirecional.",
-      "A válvula de relé de emergência.",
-      "A válvula de proteção do trator."
-    ],
-    "correctAnswer": [0],
-    "reason": "<p><strong>Seção: 5.2 – Freio a Ar Duplo</strong></p><p>Válvula de retenção unidirecional: Este dispositivo permite que o ar flua em apenas uma direção. A válvula de retenção impede que o ar escape se o compressor de ar desenvolver um vazamento.</p>"
-  },
-  {
-    "question": "Qual NÃO é o momento adequado para acionar o freio de estacionamento?",
-    "options": [
-      "você vai testar o freio de estacionamento para se certificar de que ele segura o veículo",
-      "Se você vai parar por apenas uma hora.",
-      "Se os freios estiverem muito quentes (por exemplo, logo após descer um corrimão íngreme)."
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.4.8 - Freios de estacionamento</strong></p><p>Não use os freios de estacionamento se os freios estiverem muito quentes (apenas descendo uma inclinação íngreme), ou se os freios estiverem muito molhados em temperaturas congelantes.</p>"
-  },
-   
-  {
-    "question": "Com os veículos com travão pneumático, devem ser utilizados travões de estacionamento:",
-    "options": [
-      "Para manter a velocidade ao descer.",
-      "O mínimo possível.",
-      "A qualquer momento em que o veículo estiver estacionado."
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.4.8 - Freios de estacionamento</strong></p><p>Sempre que estacionar, use os freios de estacionamento. Puxe o botão de controle do freio de estacionamento para fora para aplicar os freios de estacionamento, empurre-o para soltar.</p>"
-  },
-  {
-    "question": "Por que você deve drenar a água dos tanques de ar comprimido?",
-    "options": [
-      "O baixo ponto de ebulição da água reduz o poder de frenagem.",
-      "Para evitar o desgaste do óleo do compressor de ar.",
-      "A água pode congelar no tempo frio e causar falha no freio."
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.4.8 - Freios de estacionamento</strong></p><p>Se o seu veículo não tiver drenos automáticos do tanque de ar, drene os tanques de ar no final de cada dia útil para remover umidade e óleo. Caso contrário, os freios podem falhar.</p>"
-  },
-  {
-    "question": "Se os freios de mola estão ligados, quando você deve apertar o pedal do freio?",
-    "options": [
-      "Só quando desce a ladeira.",
-      "Nunca.",
-      "Só numa estrada escorregadia."
-    ],
-    "correctAnswer": [1],
-    "reason": "<p><strong>Seção: 5.1.15 - Controles do freio de estacionamento</strong></p><p>Nunca empurre o pedal do freio para baixo quando os freios de mola estiverem ligados. Se você fizer isso, os freios podem ser danificados pelas forças combinadas das molas e pela pressão do ar.</p>"
-  },
-  {
-    "question": "Para verificar o jogo livre dos ajustadores manuais de folga do freio S-cam, você deve estacionar em:",
-    "options": [
-      "Nivele o solo e aplique os freios de estacionamento, depois aplique os freios de serviço.",
-      "Nivele o solo e drene a pressão do ar antes de verificar o ajuste.",
-      "Nivele o solo, sufoque as rodas e solte os freios de estacionamento."
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.3.2 - Durante a Etapa 5 Inspeção Walk-Around</strong></p><p>Verifique os ajustadores de folga nos freios S-cam. Estacione em terreno plano e prenda as rodas (chock). Desligue os freios de estacionamento para poder mover os ajustadores de folga.</p>"
-  },
-  {
-    "question": "O calor excessivo causado pelo uso excessivo dos freios com muita frequência também pode causar:",
-    "options": [
-      "Freio para desaparecer ou falhar.",
-      "Válvula de controle modulada para desgaste.",
-      "Lonas de freio para rachar."
-    ],
-    "correctAnswer": [0],
-    "reason": "<p><strong>Seção: 5.4.5 - Desvanecimento ou falha do freio</strong></p><p>O desbotamento do freio resulta do calor excessivo causando alterações químicas na lona de freio, que reduzem o atrito, além de causar expansão dos tambores de freio.</p>"
-  },
-  {
-    "question": "Se você precisa fazer uma parada de emergência, você deve frear para que:",
-    "options": [
-      "Ele pode dirigir e manter seu veículo reto.",
-      "Ele pode dirigir duro enquanto freia forte.",
-      "Possa manter seu veículo reto e permitir que você vire."
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.4.3 - Paradas de emergência</strong></p><p>Você deve frear de uma forma que mantenha seu veículo em linha reta e permita que você vire se precisar.</p>"
-  },
-  {
-    "question": "O uso de freios em um downgrade longo e acentuado em condições normais é apenas um complemento para:",
-    "options": [
-      "Uso de freios de mola.",
-      "O efeito de frenagem do motor.",
-      "O uso da válvula limitadora dos freios dianteiros"
-    ],
-    "correctAnswer": [1],
-    "reason": "<p><strong>Seção: 5.4.6 - Técnica de frenagem adequada</strong></p><p>Lembre-se: O uso de freios em um downgrade longo e/ou acentuado é apenas um complemento para o efeito de frenagem do motor.</p>"
-  },
-  {
-    "question": "A coisa mais importante a fazer quando um aviso de baixa pressão do ar é acionado é:",
-    "options": [
-      "Mudança para cima",
-      "Downshift",
-      "Pare e estacione com segurança o mais rápido possível."
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.4.7 - Baixa pressão do ar</strong></p><p>Se o aviso de baixa pressão do ar acender, pare e estacione seu veículo com segurança o mais rápido possível.</p>"
-  },
-  {
-    "question": "O freio de estacionamento ou de emergência de um veículo pesado só pode ser mantido na posição por algo que não possa vazar, como:",
-    "options": [
-      "Pressão de mola.",
-      "Pressão hidráulica.",
-      "Pressão atmosférica"
-    ],
-    "correctAnswer": [0],
-    "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>Eles devem ser mantidos pela força mecânica (porque a pressão do ar pode eventualmente vazar). Os freios de mola são usados para atender a essa necessidade.</p>"
-  },
-  {
-    "question": "A travagem a ar demora mais tempo do que a travagem hidráulica porque:",
-    "options": [
-      "Os freios a ar usam tambores de freio diferentes.",
-      "Os freios a ar exigem molas de retorno mais pesadas.",
-      "O ar leva mais tempo para fluir através das linhas do que o fluido hidráulico."
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.4.4 - Distância de parada</strong></p><p>Com freios a ar, leva um pouco de tempo (meio segundo ou mais) para o ar fluir através das linhas para os freios. Isso é chamado de Brake Lag.</p>"
-  },
-  {
-    "question": "Quando os travões são aplicados, as sapatas de travão pressionam contra o:",
-    "options": [
-      "Ajustador de folga.",
-      "S-cam.",
-      "Freio a tambor ou a disco."
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.4.5 - Desvanecimento ou falha do freio</strong></p><p>Os freios são projetados de modo que as sapatas ou pastilhas de freio se esfreguem contra o tambor ou discos de freio para reduzir a velocidade do veículo.</p>"
-  },
-    {
-          "question": "A válvula de segurança descarrega automaticamente à pressão de:",
-          "options": [
-            "50 psi",
-            "100 psi",
-            "150 psi"
-    ],
-          "correctAnswer": [
-            2
-    ],
-          "reason": "<p><strong>Seção: 5.1.6 - Válvula de segurança</strong></p><p>Uma válvula de alívio de segurança é instalada no primeiro tanque em que o compressor de ar bombeia o ar. A válvula de segurança protege o tanque e o resto do sistema de muita pressão. A válvula é geralmente ajustada para abrir a 150 psi.</p>"
+      "question": "Um sistema de freio a ar de caminhão ou ônibus reto não deve vazar a uma taxa de mais de psi por minuto com o motor desligado e os freios liberados?",
+      "options": [
+        "1",
+        "2",
+        "4"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.3.3 – Etapa 7 Freio a Ar Verificação Final</strong></p><p>A pressão do ar não deve cair mais do que: 2 psi para veículos individuais.</p>"
     },
     {
-          "question": "Travagem com faca:",
-          "options": [
-            "Use uma pressão leve constante no pedal do freio. ",
-            "O recipiente de álcool pode estar baixo.",
-            "Acione o freio o tempo todo. Solte os freios quando as rodas travarem. Assim que as rodas começarem a girar, volte a travar totalmente. Pressione o pedal do freio e aplique a válvula manual ao parar."
-    ],
-          "correctAnswer": [
-            2
-    ],
-          "reason": "<p><forte>Seção: 5.4.3 - Paradas de emergência</strong></p><p>Travagem por faca: Aplique os travões até ao fim. Solte os freios quando as rodas travarem. Assim que as rodas começarem a girar, volte a travar totalmente. (Pode levar até 1 segundo para que as rodas comecem a rolar depois que você soltar os freios. Se você reaplicar os freios antes que as rodas comecem a rodar, o veículo não vai direito.) </p>"
+      "question": "Durante a condução normal, os freios de mola geralmente são retidos por?",
+      "options": [
+        "Parafusos ou grampos. ",
+        "Pressão do ar",
+        "Pressão de mola."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>Durante a condução, as molas potentes são retidas pela pressão do ar. Se a pressão do ar for removida, as molas pisam nos freios.</p>"
     },
     {
-          "question": "Se a pressão do ar não for acumulada dentro do período de tempo correto, então:",
-          "options": [
-            "O recipiente de álcool pode estar baixo. ",
-            "Você deve estar pronto para usar seus freios de estacionamento para parar.",
-            "A pressão do ar pode cair para um ponto baixo durante a condução, exigindo uma parada de emergência."
-    ],
-          "correctAnswer": [
-            2
-    ],
-          "reason": "<p><strong>Seção: 5.3.3 – Passo 7 Verificação final do freio pneumático</strong></p><p>Se a pressão do ar não se acumular rápido o suficiente, sua pressão pode cair muito baixo durante a condução, exigindo uma parada de emergência. Não dirija até que o problema seja corrigido.</p>"
+      "question": "O compressor de ar para de bombear ar a que psi?",
+      "options": [
+        "100",
+        "125",
+        "150"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.1.2 – Regulador do compressor de ar</strong></p><p>Quando a pressão do tanque de ar sobe para o nível de corte (cerca de 125 psi), o regulador impede que o compressor bombeie ar.</p>"
     },
     {
-          "question": "A válvula de segurança reduz a pressão em psi.",
-          "options": [
-            "100",
-            "150",
-            "12"
-    ],
-          "correctAnswer": [
-            1
-    ],
-          "reason": "<p>150</p><p><strong>Seção: 5.1.6 - Válvula de segurança</strong></p><p>A válvula é geralmente ajustada para abrir a 150 psi. Se a válvula de segurança liberar ar, algo está errado. Ter a falha corrigida por um mecânico.</p>"
+      "question": "O motorista deve ser capaz de ver um aviso de baixa pressão do ar que é emitido antes que a pressão nos tanques de ar de serviço caia abaixo de psi?",
+      "options": [
+        "100",
+        "125",
+        "60"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.1.11 - Baixa pressão do ar</strong></p><p>Um sinal de alerta que você pode ver deve disparar antes que a pressão do ar nos tanques caia entre 55 e 75 psi.</p>"
     },
-   
-  {
-    "question": "O que pode legalmente manter um freio de estacionamento ou de emergência na posição de um caminhão, caminhão-trator ou ônibus?",
-    "options": [
-      "Pressão de mola.",
-      "Pressão do fluido.",
-      "Pressão atmosférica"
-    ],
-    "correctAnswer": [0],
-    "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>Eles devem ser mantidos pela força mecânica (porque a pressão do ar pode eventualmente vazar). Os freios de mola são frequentemente usados para atender a essas necessidades.</p>"
-  },
-  {
-    "question": "O manômetro de pressão de suprimento mostra quanta pressão:",
-    "options": [
-      "Você usou nessa viagem.",
-      "Está nos tanques de ar.",
-      "Está indo para a câmara de freio."
-    ],
-    "correctAnswer": [1],
-    "reason": "<p><strong>Seção: 5.1.9 - Manômetros de Alimentação</strong></p><p>Todos os veículos com freios a ar têm um manômetro conectado ao tanque de ar. Esses medidores informam quanta pressão há nos tanques de ar.</p>"
-  },
-  {
-    "question": "O poder de travagem dos travões de mola:",
-    "options": [
-      "Não é afetado pela condição dos freios de serviço.",
-      "Depende dos freios serem ajustados.",
-      "Ele só pode ser testado por pessoal de serviço de freio altamente treinado."
-    ],
-    "correctAnswer": [1],
-    "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>A potência de frenagem dos freios de mola depende do ajuste dos freios. Se os freios não forem ajustados corretamente, nem os freios regulares nem os de emergência funcionarão corretamente.</p>"
-  },
-  {
-    "question": "Não é seguro dirigir um veículo que tenha tambores de freio com rachaduras maiores que a largura da área de atrito.",
-    "options": [
-      "1/8",
-      "1/4",
-      "1/2"
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.3.2 - Durante a Etapa 5 Inspeção Walk-Around</strong></p><p>Os tambores (ou discos) de freio não devem ter fissuras superiores à metade da largura da área de atrito.</p>"
-  },
-  {
-    "question": "Seus freios estão desaparecendo quando:",
-    "options": [
-      "Você tem que forçar mais um pedal de freio para controlar sua velocidade em um downgrade.",
-      "É necessária menos pressão no pedal do freio para cada parada.",
-      "O pedal do freio fica esponjoso quando você aplica pressão."
-    ],
-    "correctAnswer": [0],
-    "reason": "<p><strong>Seção: 5.4.5 - Desvanecimento ou falha do freio</strong></p><p>À medida que os tambores superaquecidos se expandem, as sapatas e lonas de freio têm que se mover mais para fazer contato com os tambores, e a força desse contato é reduzida.</p>"
-  },
-  {
-    "question": "Se o seu veículo tem um evaporador de álcool, ele está lá para:",
-    "options": [
-      "Elimine a necessidade de drenagem diária do tanque.",
-      "Reduza o risco de geada nas válvulas de freio a ar no tempo frio.",
-      "Aumentar a pressão do tanque."
-    ],
-    "correctAnswer": [1],
-    "reason": "<p><strong>Seção: 5.1.5 – Evaporador de álcool</strong></p><p>Isso ajuda a reduzir o risco de geada em válvulas de freio a ar. O gelo dentro do sistema pode fazer com que os freios parem de funcionar.</p>"
-  },
-  {
-    "question": "O regulador do compressor de ar controla:",
-    "options": [
-      "Quando o ar é bombeado para os tanques de ar.",
-      "Pressão de ar aplicada aos freios.",
-      "A velocidade do compressor de ar."
-    ],
-    "correctAnswer": [0],
-    "reason": "<p><strong>Seção: 5.1.2 – Regulador do compressor de ar</strong></p><p>O regulador controla quando o compressor de ar bombeará ar para os tanques de armazenamento de ar.</p>"
-  },
-  {
-    "question": "A coisa mais importante a fazer quando um aviso de baixa pressão do ar é acionado é:",
-    "options": [
-      "Mudança para cima",
-      "Downshift",
-      "Pare e estacione com segurança o mais rápido possível."
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.4.7 - Baixa pressão do ar</strong></p><p>Se o aviso de baixa pressão do ar acender, pare e estacione seu veículo com segurança o mais rápido possível.</p>"
-  },
-  {
-    "question": "A travagem a ar demora mais tempo do que a travagem hidráulica porque:",
-    "options": [
-      "Os freios a ar usam tambores de freio diferentes.",
-      "Os freios a ar exigem molas de retorno mais pesadas.",
-      "O ar leva mais tempo para fluir através das linhas do que o fluido hidráulico."
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.4.4 - Distância de parada</strong></p><p>Com freios a ar, leva um pouco de tempo (meio segundo ou mais) para o ar fluir através das linhas. Isso é chamado de Brake Lag.</p>"
-  },
-  {
-    "question": "O que é um 'Wig Wag'?",
-    "options": [
-      "Parte do sistema de semáforos.",
-      "Um porta-molas para peças de cabelo.",
-      "Um braço mecânico que sinaliza baixa pressão de ar."
-    ],
-    "correctAnswer": [2],
-    "reason": "<p><strong>Seção: 5.1.11 - Baixa pressão do ar</strong></p><p>Este dispositivo lança um braço mecânico em sua visão quando a pressão no sistema cai entre 55 e 75 psi.</p>"
-  },
-      {
-            "question": "¿La válvula de seguridad se regula automáticamente cuando la presión es?",
-            "options": [
-              "50",
-              "150",
-              "100"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 516 - Válvula de seguridad</strong></p><p>Una válvula de alivio de seguridad se instala en el primer tanque en el que el compresor de aire bombea el aire La válvula de seguridad protege el tanque y el resto del sistema de demasiada presión Por lo general, la válvula está configurada para abrirse a 150 psi</p>"
-      },
-      {
-            "question": "Su camión tiene un sistema de aire dual y uno de los sistemas pierde su presión ¿Qué va a pasar?",
-            "options": [
-              "Los tambores de freno no estarán completamente presurizados",
-              "El freno delantero o trasero no estará completamente operativo",
-              "Los ajustadores manuales de holgura de los frenos S-cam no se ajustarán correctamente"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 52 – Freno de aire doble</strong></p><p>Si un sistema de aire está a una presión demasiado baja, los frenos delanteros o traseros no funcionarán a pleno rendimiento</p>"
-      },
-      {
-            "question": "¿Los frenos de estacionamiento o de emergencia en camiones y autobuses se pueden mantener legalmente por presión?",
-            "options": [
-              "Primavera",
-              "Aire",
-              "Fluido"
-      ],
-            "correctAnswer": [
-              0
-      ],
-            "reason": "<p><strong>Sección: 5114 - Frenos de resorte</strong></p><p>Todos los camiones, tractores y autobuses deben estar equipados con frenos de emergencia y frenos de estacionamiento Deben sujetarse mediante fuerza mecánica (porque la presión del aire puede llegar a filtrarse) Los frenos de resorte se utilizan a menudo para satisfacer estas necesidades Durante la conducción, los potentes resortes se ven retenidos por la presión del aire Si se elimina la presión de aire, los resortes pisan los frenos</p>"
-      },
-      {
-            "question": "Si su camión o autobús tiene válvulas de control de estacionamiento dobles, ¿puede usar la presión de un tanque separado para?",
-            "options": [
-              "Permanezca estacionario el doble de tiempo sin usar presión de aire de servicio",
-              " Equilibre el sistema de frenos de servicio cuando esté estacionado ",
-              "Suelte los frenos de emergencia/estacionamiento de resorte para moverse una distancia corta"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 5115 - Controles del freno de estacionamiento</strong></p><p>Cuando se pierde la presión de aire principal, se aplican los frenos de resorte Algunos vehículos, como los autobuses, tienen un tanque de aire separado que se puede usar para liberar los frenos de resorte Esto es para que pueda mover el vehículo en caso de emergencia</p>"
-      },
-      {
-            "question": "Si su camión tiene un sistema de frenos de aire doble que funciona correctamente y tanques de aire de tamaño mínimo, ¿la presión de aire debería aumentar de 85 a 100 psi en cuántos segundos?",
-            "options": [
-              "50",
-              "45",
-              "60"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 533 – Paso 7 Comprobación final del freno de aire</strong></p><p>Para los sistemas de aire dual, la presión debe aumentar de aproximadamente 85 a 100 psi en 45 segundos</p>"
-      },
-      {
-            "question": "¿Cómo debe comprobar si sus frenos de servicio funcionan correctamente?",
-            "options": [
-              "Estacione en un terreno nivelado, asfixie las ruedas, aplique los frenos de estacionamiento cuando tenga la cantidad correcta de presión de aire para hacerlo y apague el motor",
-              "Estacione en un terreno nivelado, espere hasta que se alcance la presión de aire normal, suelte el freno Oparking y avance lentamente a aproximadamente 5 mph Luego aplica los frenos con firmeza",
-              "Estacione a un ligero grado, drene la presión del aire, aplique el freno de estacionamiento y verifique"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 533 – Paso 7 Comprobación final del freno de aire</strong></p><p>Espere a que la presión de aire sea normal, suelte el freno de mano, mueva el vehículo hacia adelante lentamente (aproximadamente cinco mph) y aplique los frenos firmemente con el pedal del freno</p>"
-      },
-      {
-            "question": "¿Un sistema de frenos de aire recto para camiones o autobuses no debe tener fugas a una velocidad de más de psi por minuto con el motor apagado y los frenos sueltos?",
-            "options": [
-              "1",
-              "2",
-              "4"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 533 – Paso 7 Comprobación final del freno de aire</strong></p><p>Con un sistema de aire básicamente completamente cargado (dentro del rango de funcionamiento efectivo del compresor), apague el motor, suelte todos los frenos y deje que el sistema se asiente (la aguja del medidor de aire deja de moverse) Tiempo de un minuto La presión de aire no debe caer más de: 2 psi para vehículos individuales</p>"
-      },
-      {
-            "question": "Durante la conducción normal, los frenos de resorte generalmente se retienen por?",
-            "options": [
-              "Tornillos o abrazaderas ",
-              "Presión de aire",
-              "Presión de resorte"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 5114 - Frenos de resorte</strong></p><p>Durante la conducción, los potentes resortes son retenidos por la presión del aire Si se elimina la presión de aire, los resortes pisan los frenos</p>"
-      },
-      {
-            "question": "¿El compresor de aire deja de bombear aire a qué psi?",
-            "options": [
-              "100",
-              "125",
-              "150"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 512 – Regulador del compresor de aire</strong></p><p>El regulador controla cuándo el compresor de aire bombeará aire a los tanques de almacenamiento de aire Cuando la presión del tanque de aire se eleva al  nivel de 'corte'(aproximadamente 125 libras por pulgada cuadrada o psi), el regulador evita que el compresor bombee aire</p>"
-      },
-      {
-            "question": "¿El conductor debería poder ver una advertencia de baja presión de aire que se emite antes de que la presión en los tanques de aire de servicio caiga por debajo de psi?",
-            "options": [
-              "100",
-              "125",
-              "60"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 5111 - Baja presión de aire</fuerte></p><p>Aviso</p><p>Se requiere una señal de advertencia de baja presión de aire en vehículos con frenos de aire Una señal de advertencia que puede ver debe sonar antes de que la presión de aire en los tanques caiga entre 55 y 75 psi</p>"
-      },
-      {
-            "question": "El uso excesivo de los frenos de servicio provoca un sobrecalentamiento, lo que puede provocar un sobrecalentamiento",
-            "options": [
-              "Facilita el contacto entre los tambores de freno y los forros",
-              "Expansión de los tambores de freno",
-              "Ajuste adecuado de S-camncr"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 545 - Desvanecimiento o fallo de los frenos</strong></p><p>El uso excesivo de los frenos de servicio provoca un sobrecalentamiento y provoca el desvanecimiento de los frenos El desvanecimiento de los frenos es el resultado de un calor excesivo que provoca cambios químicos en el forro de freno, lo que reduce la fricción, además de provocar la expansión de los tambores de freno</p>"
-      },
-      {
-            "question": "¿El tipo más común de freno de cimentación que se encuentra en los vehículos pesados es?",
-            "options": [
-              "Disco ",
-              "Tambor S-cam",
-              "Tambor de uno"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 518 - Frenos de cimentación</strong></p><p>Los frenos de cimentación se utilizan en cada rueda El tipo más común es el freno de tambor de leva en S Las partes del freno se analizan a continuación</p>"
-      },
-      {
-            "question": "Si necesita hacer una parada de emergencia, debe frenar de manera que:",
-            "options": [
-              "Usa toda la potencia de los frenos para frenarlos Yo",
-              "Use el freno de mano antes del pedal del freno",
-              " puede mantener su vehículo recto "
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 543 - Paradas de emergencia</strong></p><p>Debe frenar de manera que mantenga su vehículo en línea recta y le permita girar si lo necesita</p>"
-      },
-      {
-            "question": "Su camión o autobús tiene un sistema de frenos de aire dual Si se emite una advertencia de baja presión de aire para un solo sistema, ¿qué debe hacer?",
-            "options": [
-              "Reduzca su velocidad y pruebe el sistema restante mientras está en progreso ",
-              "Deténgase inmediatamente y estacione de manera segura Continúe solo después de que el sistema esté parcheado",
-              "Continúe solo después de que el sistema esté parcheado "
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 547 - Baja presión de aire</fuerte></p><p>Si se enciende la advertencia de baja presión de aire, deténgase y estacione su vehículo de manera segura lo antes posible Puede haber una fuga de aire en el sistema</p>"
-      },
-      {
-            "question": "Si su vehículo tiene un evaporador de alcohol, ¿todos los días durante el clima frío debería hacerlo?",
-            "options": [
-              "Cambia el alcohol de una botella ",
-              "Verifique y complete el nivel de alcohol",
-              "Compruebe el contenido de alcohol del aceite"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 515 – Evaporador de alcohol</fuerte></p><p>Revise el recipiente de alcohol y llénelo según sea necesario, todos los días durante el clima frío El drenaje diario del tanque de aire sigue siendo necesario para eliminar el agua y el aceite</p>"
-      },
-      {
-            "question": "La tasa de pérdida de aire de un camión o autobús en línea recta con el motor apagado y los frenos puestos no debe ser mayor que?",
-            "options": [
-              "2 psi en 45 segundos ",
-              "3 psi en un minuto",
-              "1 psi en 30 segundos"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 533 – Paso 7 Comprobación final del freno de aire</strong></p><p>Luego, el conductor mantiene el freno de pie durante 1 minuto después de que el indicador de aire se estabilice El conductor revisa el medidor de aire para ver si la presión del aire no cae más de 3 libras en un minuto (un solo vehículo) o 4 libras en 1 minuto (vehículo combinado) y escucha si hay fugas de aire</p>"
-      },
-      {
-            "question": "¿El conductor debe poder ver una advertencia de baja presión de aire que se emite antes de que la presión en los tanques de aire de servicio caiga por debajo de psi?",
-            "options": [
-              "80",
-              "50",
-              "60"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 5111 – Advertencia de baja presión de aire</fuerte></p><p>Se requiere una señal de advertencia de baja presión de aire en vehículos con frenos de aire Una señal de advertencia que puede ver debe sonar antes de que la presión de aire en los tanques caiga entre 55 y 75 psi</p>"
-      },
-      {
-            "question": "¿El poder de frenado de los frenos de resorte?",
-            "options": [
-              "Aumenta cuando los frenos de servicio están calientes ",
-              "No se ve afectado por el estado de los frenos de servicio",
-              "Depende de que el freno de servicio esté ajustado"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 5114 - Frenos de muelle</strong></p><p>La potencia de frenado de los frenos de muelle depende del ajuste de los frenos Si los frenos no están ajustados correctamente, ni los frenos normales ni los frenos de emergencia/estacionamiento funcionarán correctamente</p>"
-      },
-      {
-            "question": "La distancia de retardo del freno de aire a 55 mph en pavimento seco agrega aproximadamente pies",
-            "options": [
-              "23",
-              "34",
-              "32"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 544 - Distancia de frenado</strong></p><p>La distancia de retardo del freno de aire a 55 mph en pavimento seco agrega aproximadamente 32 pies Por lo tanto, a 55 mph para un conductor promedio en buenas condiciones de tracción y frenado, la distancia total de frenado es de más de 450 pies</p>"
-      },
-      {
-            "question": "¿La distancia total de frenado de los frenos neumáticos es mayor que la de los frenos hidráulicos debido a la distancia?",
-            "options": [
-              "Reacción",
-              "Retraso de freno",
-              "Frenado efectivo"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 544 - Distancia de frenado</strong></p><p>La distancia de frenado se ha descrito en la Sección 2 en \"Velocidad y distancia de frenado\" Con los frenos de aire, hay un retardo adicional: \"Brake Lag\" Este es el tiempo que tardan los frenos en funcionar después de pisar el pedal del freno</p>"
-      },
-      {
-            "question": "¿Se acepta que el exceso de calor causado por el uso de los frenos con demasiada frecuencia también puede causar?",
-            "options": [
-              "Válvula de control modulada para el desgaste ",
-              "Pastillas de freno para partir ",
-              "Freno para desaparecer o fallar"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 545 - Desvanecimiento o falla de los frenos</strong></p><p>El frenado genera calor, pero los frenos están diseñados para absorber mucho calor Sin embargo, los frenos pueden desaparecer o fallar debido al calor excesivo causado por el uso excesivo de ellos y no depender del efecto de frenado del motor><"
-      },
-      {
-            "question": "Levantar parcialmente y presionar repetidamente el pedal del freno puede resultar en:",
-            "options": [
-              "No hay cambios en la presión del aire de los frenos ",
-              "Una acumulación de presión de aire en los frenos",
-              "Pérdida de presión de aire de frenado"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 517 - El pedal del freno</strong></p><p>Presionar y soltar el pedal innecesariamente puede dejar salir el aire más rápido de lo que el compresor puede reemplazarlo Si la presión baja demasiado, los frenos no funcionarán</p>"
-      },
-      {
-            "question": "¿El sistema de frenos que aplica y libera los frenos cuando el conductor usa el pedal del freno es el sistema de frenos?",
-            "options": [
-              "Servicio",
-              "Estacionamiento",
-              "Emergencia"
-      ],
-            "correctAnswer": [
-              0
-      ],
-            "reason": "<p><strong>Sección: 50 - Frenos de aire</strong></p><p>El sistema de frenos de servicio aplica y libera los frenos cuando usa el pedal del freno durante la conducción normal</p>"
-      },
-      {
-            "question": "¿El juego libre de un ajustador de holgura necesita ser ajustado si se trata más que de tirar con fuerza?",
-            "options": [
-              "1 pulgada",
-              " 1/4 de pulgada ",
-              "1/2 pulgada"
-      ],
-            "correctAnswer": [
-              0
-      ],
-            "reason": "<p><strong>Sección: 532 - Durante la inspección a pie del paso 5</strong></p><p>Use guantes y tire de todos los ajustadores de holgura que pueda alcanzar Si un ajustador de holgura se mueve más de una pulgada donde la varilla de empuje se une a él, probablemente necesite ajuste</p>"
-      },
-      {
-            "question": "¿Un sistema de frenos de aire está completamente cargado a qué psi?",
-            "options": [
-              "2",
-              "34",
-              "125"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 533 – Paso 7 Comprobación final del freno de aire</strong></p><p>Con un sistema de aire completamente cargado (normalmente 125 psi), detenga el motor, suelte el freno de estacionamiento y cronometra la caída de presión de aire</p>"
-      },
-      {
-            "question": "¿El pedal de freno en un sistema de frenos de aire?",
-            "options": [
-              "Controla la velocidad del compresor de aire",
-              "Controla la presión de aire aplicada a los frenos",
-              "Está conectado a los ajustadores de holgura mediante una serie de varillas y enlaces"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 517 - El pedal del freno</strong></p><p>Pise los frenos pisando el pedal del freno (También se le llama válvula de pie o válvula de cinta de correr) Al presionar el pedal con más fuerza, se aplica más presión de aire Soltar el pedal del freno reduce la presión del aire y libera los frenos</p>"
-      },
-      {
-            "question": "La cámara S",
-            "options": [
-              "Retire las zapatas de freno del tambor y deje que las ruedas rueden libremente ",
-              "Fuerza las zapatas de freno contra el interior del tambor de freno",
-              "Controla el flujo de aire a cada una de las cámaras de freno "
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 518 - Frenos de cimentación</strong></p><p>Cuando pisa el pedal del freno, queda aire en cada cámara de freno La presión del aire empuja la varilla hacia afuera, moviendo el ajustador de holgura, girando así el árbol de levas del freno Esto transforma la s-cam (llamada así porque tiene la forma de la letra \"S\") La leva en S fuerza las zapatas de freno para separarlas unas de otras y las presiona contra el interior del tambor de freno</p>"
-      },
-      {
-            "question": "En condiciones normales, para aplicar los frenos de estacionamiento, el conductor debe:",
-            "options": [
-              "Apaga el motor",
-              "Asegúrese de que el sistema de frenos de aire esté completamente presurizado",
-              "Aplique los frenos tirando de la perilla de control del freno de estacionamiento hacia afuera"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 548 - Frenos de estacionamiento</strong></p><p>Tire de la perilla de control del freno de estacionamiento hacia afuera para activar los frenos de estacionamiento y empújela para soltarlos El control será un botón amarillo en forma de diamante con la etiqueta 'frenos de estacionamiento' en los vehículos más nuevos En los vehículos más antiguos, puede ser un botón azul redondo o alguna otra forma (incluida una palanca que se balancea de lado a lado o de arriba a abajo)</p>"
-      },
-      {
-            "question": "Todos los vehículos equipados con frenos neumáticos tienen:",
-            "options": [
-              "Un sistema hidráulico de reserva ",
-              "Un manómetro de suministro ",
-              "Un medidor de uso de aire"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 519 - Manómetros de alimentación</strong></p><p>Todos los vehículos con frenos de aire tienen un manómetro conectado al tanque de aire Si el vehículo tiene un sistema de frenos de aire dual, habrá un indicador para cada mitad del sistema</p>"
-      },
-      {
-            "question": "En los vehículos con frenos de aire, se debe utilizar el freno de estacionamiento:",
-            "options": [
-              "Lo menos posible",
-              "Solo durante las inspecciones previas al viaje",
-              " Siempre que deje el vehículo desatendido "
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 548 - Frenos de estacionamiento</strong></p><p>Nunca deje su vehículo desatendido sin aplicar los frenos de estacionamiento o asfixiar las ruedas Su vehículo puede volcarse y causar lesiones y daños</p>"
-      },
-      {
-            "question": "Si el compresor de aire tiene fugas, ¿qué mantiene el aire en los tanques?",
-            "options": [
-              "La válvula de retención unidireccional ",
-              "La válvula de relé de emergencia ",
-              "La válvula de protección del tractor"
-      ],
-            "correctAnswer": [
-              0
-      ],
-            "reason": "<p><strong>Sección: 52 – Freno de aire dual</strong></p><p>Válvula de retención unidireccional: Este dispositivo permite que el aire fluya en una sola dirección Todos los tanques de aire en vehículos con frenos de aire deben tener una válvula de retención ubicada entre el compresor de aire y el primer depósito La válvula de retención evita que el aire se escape si el compresor de aire desarrolla una fuga</p>"
-      },
-      {
-            "question": "¿Cuál NO es el momento adecuado para aplicar el freno de mano?",
-            "options": [
-              "vas a probar el freno de estacionamiento para asegurarte de que sujeta el vehículo",
-              " Si vas a parar solo una hora",
-              "Si los frenos están demasiado calientes (por ejemplo, justo después de bajar por una barandilla empinada)"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 548 - Frenos de estacionamiento</strong></p><p>No use los frenos de estacionamiento si los frenos están demasiado calientes (por el simple hecho de bajar una pendiente pronunciada) o si los frenos están demasiado mojados a temperaturas bajo cero</p>"
-      },
-      {
-            "question": "En los vehículos con freno de aire, se deben utilizar los frenos de estacionamiento:",
-            "options": [
-              "Para mantener la velocidad al descender",
-              "Lo menos posible",
-              " En cualquier momento en que el vehículo esté estacionado "
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 548 - Frenos de estacionamiento</strong></p><p>Siempre que estacione, use los frenos de estacionamiento Tire de la perilla de control del freno de estacionamiento hacia afuera para aplicar los frenos de estacionamiento, empújela para soltarla El control será un botón amarillo en forma de diamante con la etiqueta 'frenos de estacionamiento'en los vehículos más nuevos</p>"
-      },
-      {
-            "question": "¿Por qué debe drenar el agua de los tanques de aire comprimido?",
-            "options": [
-              "El bajo punto de ebullición del agua reduce la potencia de frenado ",
-              "Para evitar el desgaste del aceite del compresor de aire",
-              "El agua puede congelarse en climas fríos y causar fallas en los frenos "
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 548 - Frenos de estacionamiento</strong></p><p>Si su vehículo no tiene drenajes automáticos del tanque de aire, drene los tanques de aire al final de cada día hábil para eliminar la humedad y el aceite De lo contrario, los frenos pueden fallar</p>"
-      },
-      {
-            "question": "Si los frenos de resorte están puestos, ¿cuándo se debe apretar el pedal del freno?",
-            "options": [
-              "Solo cuando bajes la pendiente",
-              " Nunca ",
-              "Solo en un camino resbaladizo"
-      ],
-            "correctAnswer": [
-              0
-      ],
-            "reason": "<p><strong>Sección: 5115 - Controles del freno de estacionamiento</strong></p><p>Nunca pise el pedal del freno hacia abajo cuando los frenos de resorte estén puestos Si hace esto, los frenos pueden dañarse por las fuerzas combinadas de los resortes y la presión del aire</p>"
-      },
-      {
-            "question": "Para comprobar el libre juego de los ajustadores manuales de holgura de freno de leva en S, debe aparcar en:",
-            "options": [
-              "Nivele el suelo y aplique los frenos de estacionamiento, luego aplique los frenos de servicio ",
-              "Nivele el suelo, ahogue las ruedas y suelte los frenos de estacionamiento Nivele el suelo y drene la presión del aire antes de verificar el ajuste",
-              "Nivele el suelo, ahogue las ruedas y suelte los frenos de estacionamiento"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 532 - Durante el paso 5 Inspección a pie</strong></p><p>Compruebe los ajustadores de holgura de los frenos de leva en S Estacione en un terreno nivelado y asegure las ruedas para evitar que el vehículo se mueva Apague los frenos de estacionamiento para que pueda mover los ajustadores de holgura Use guantes y tire de todos los ajustadores de holgura que pueda alcanzar Si un ajustador de holgura se mueve más de una pulgada donde la varilla de empuje se une a él, probablemente necesite ajuste</p>"
-      },
-      {
-            "question": "El calor excesivo causado por el uso excesivo de los frenos con demasiada frecuencia también puede causar:",
-            "options": [
-              "Freno para desaparecer o fallar",
-              "Válvula de control modulada para el desgaste",
-              "Pastillas de freno para partir"
-      ],
-            "correctAnswer": [
-              0
-      ],
-            "reason": "<p><strong>Sección: 545 - Desvanecimiento o falla de los frenos</strong></p><p>El desvanecimiento de los frenos es el resultado de un calor excesivo que provoca cambios químicos en el forro de freno, lo que reduce la fricción, además de provocar la expansión de los tambores de freno</p>"
-      },
-      {
-            "question": "Si necesita hacer una parada de emergencia, debe frenar de manera que:",
-            "options": [
-              "Puede conducir y mantener su vehículo recto ",
-              "Puede conducir con fuerza mientras frena con fuerza",
-              "Puede conducir y mantener su vehículo recto"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 543 - Paradas de emergencia</strong></p><p>Debe frenar de una manera que mantenga su vehículo en línea recta y le permita girar si es necesario Puede utilizar el  método \"frenado controlado\" o el  método \"frenado de cuchilla\"</p>"
-      },
-      {
-            "question": "El uso de los frenos en una bajada larga y pronunciada en condiciones normales es solo un complemento de:",
-            "options": [
-              "Uso de frenos de resorte",
-              "El efecto de frenado del motor",
-              "El uso de la válvula limitadora de los frenos delanteros"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 546 - Técnica de frenado adecuada</strong></p><p>Recuerde El uso de los frenos en una bajada larga y/o pronunciada es solo un complemento del efecto de frenado del motor</p>"
-      },
-      {
-            "question": "Lo más importante que se debe hacer cuando se activa una advertencia de baja presión de aire es:",
-            "options": [
-              "Cambio ascendente ",
-              "Reducción de marcha ",
-              "Deténgase y estacione de manera segura lo antes posible"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 547 - Baja presión de aire</fuerte></p><p>Si se enciende la advertencia de baja presión de aire, deténgase y estacione su vehículo de manera segura lo antes posible Puede haber una fuga de aire en el sistema</p>"
-      },
-      {
-            "question": "El freno de estacionamiento o de emergencia de un vehículo pesado solo puede mantenerse en su posición mediante algo que no pueda tener fugas, como por ejemplo:",
-            "options": [
-              "Presión de resorte ",
-              "Presión hidráulica ",
-              "Presión atmosférica"
-      ],
-            "correctAnswer": [
-              0
-      ],
-            "reason": "<p><strong>Sección: 5114 - Frenos de resorte</strong></p><p>Todos los camiones, tractores y autobuses deben estar equipados con frenos de emergencia y frenos de estacionamiento Deben sujetarse mediante fuerza mecánica (porque la presión del aire puede llegar a filtrarse) Los frenos de resorte se utilizan a menudo para satisfacer estas necesidades</p>"
-      },
-      {
-            "question": "El frenado neumático tarda más que el frenado hidráulico porque:",
-            "options": [
-              "Los frenos de aire utilizan diferentes tambores de freno ",
-              "Los frenos de aire requieren resortes de retorno más pesados",
-              "Los frenos de aire tardan más en fluir a través de las líneas que el fluido hidráulico "
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 544 - Distancia de frenado</strong></p><p>Con los frenos hidráulicos (utilizados en automóviles y camiones ligeros/medianos), los frenos funcionan instantáneamente Sin embargo, con los frenos de aire, se necesita un poco de tiempo (medio segundo más o menos) para que el aire fluya a través de las líneas hacia los frenos</p>"
-      },
-      {
-            "question": "Cuando se aplican los frenos, las zapatas de freno presionan contra el:",
-            "options": [
-              "Ajustador de holgura",
-              " S-cam ",
-              "Freno de tambor o de disco"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 545 - Desvanecimiento o falla de los frenos</strong></p><p>Los frenos están diseñados para que las zapatas o pastillas de freno rocen contra el tambor o los discos de freno para reducir la velocidad del vehículo</p>"
-      },
-      {
-            "question": "La válvula de seguridad se descarga automáticamente a la presión de:",
-            "options": [
-              "50 psi",
-              "100 psi",
-              "150 psi"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 516 - Válvula de seguridad</strong></p><p>Una válvula de alivio de seguridad se instala en el primer tanque en el que el compresor de aire bombea el aire La válvula de seguridad protege el tanque y el resto del sistema de demasiada presión Por lo general, la válvula está configurada para abrirse a 150 psi</p>"
-      },
-      {
-            "question": "Frenado de cuchillo:",
-            "options": [
-              "Use una ligera presión constante en el pedal del freno ",
-              "El recipiente de alcohol puede estar bajo",
-              "Aplica los frenos en todo momento Suelte los frenos cuando las ruedas se bloqueen Una vez que las ruedas comiencen a girar, vuelva a aplicar los frenos a fondo Pise el pedal del freno y aplique la válvula manual cuando se detenga"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 543 - Paradas de emergencia</strong></p><p>Frenado de puñalada: Aplique los frenos hasta el fondo Suelte los frenos cuando las ruedas se bloqueen Una vez que las ruedas comiencen a girar, vuelva a aplicar los frenos a fondo (Las ruedas pueden tardar hasta 1 segundo en comenzar a rodar después de soltar los frenos Si vuelve a aplicar los frenos antes de que las ruedas comiencen a rodar, el vehículo no se enderezará) </p>"
-      },
-      {
-            "question": "Si la presión del aire no se acumula dentro del período de tiempo correcto, entonces:",
-            "options": [
-              "El recipiente de alcohol puede estar bajo ",
-              "Debe estar listo para usar los frenos de mano para detenerse ",
-              "La presión del aire puede caer a un punto bajo mientras se conduce, lo que requiere una parada de emergencia"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 533 – Paso 7 Comprobación final del freno de aire</strong></p><p>Si la presión de aire no se acumula lo suficientemente rápido, su presión puede bajar demasiado mientras conduce, lo que requiere una parada de emergencia No conduzca hasta que se solucione el problema</p>"
-      },
-      {
-            "question": "La válvula de seguridad reduce la presión en psi",
-            "options": [
-              "100",
-              "150",
-              "12"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p>150</p><p><strong>Sección: 516 - Válvula de seguridad</strong></p><p>La válvula generalmente está configurada para abrirse a 150 psi Si la válvula de seguridad libera aire, algo anda mal Haga que un mecánico corrija la falla</p>"
-      },
-      {
-            "question": "¿Qué puede mantener legalmente un freno de estacionamiento o de emergencia en la posición de un camión, tractor o autobús?",
-            "options": [
-              "Presión de resorte ",
-              "Presión de fluidos ",
-              "Presión atmosférica"
-      ],
-            "correctAnswer": [
-              0
-      ],
-            "reason": "<p><strong>Sección: 5114 - Frenos de resorte</strong></p><p>Todos los camiones, tractores y autobuses deben estar equipados con frenos de emergencia y frenos de estacionamiento Deben sujetarse mediante fuerza mecánica (porque la presión del aire puede llegar a filtrarse) Los frenos de resorte se utilizan a menudo para satisfacer estas necesidades</p>"
-      },
-      {
-            "question": "El manómetro de suministro muestra cuánta presión:",
-            "options": [
-              "Lo usaste en este viaje",
-              "Está en los tanques de aire",
-              "Va a entrar en la cámara de freno"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 519 - Manómetros de alimentación</strong></p><p>Todos los vehículos con frenos de aire tienen un manómetro conectado al tanque de aire Si el vehículo tiene un sistema de frenos de aire duales, habrá un indicador para cada mitad del sistema Estos medidores le indican cuánta presión hay en los tanques de aire</p>"
-      },
-      {
-            "question": "La potencia de frenado de los frenos de resorte:",
-            "options": [
-              "No se ve afectado por el estado de los frenos de servicio",
-              " Depende de que se ajusten los frenos ",
-              "Solo puede ser probado por personal de servicio de frenos altamente capacitado"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 5114 - Frenos de muelle</strong></p><p>La potencia de frenado de los frenos de muelle depende del ajuste de los frenos Si los frenos no están ajustados correctamente, ni los frenos normales ni los frenos de emergencia/estacionamiento funcionarán correctamente</p>"
-      },
-      {
-            "question": "No es seguro conducir un vehículo que tiene tambores de freno con grietas más grandes que el ancho del área de fricción",
-            "options": [
-              "1/8",
-              "1/4 ",
-              "1/2"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 532 - Durante la inspección del paso 5</strong></p><p>Los tambores (o discos) de freno no deben tener grietas mayores de la mitad del ancho del área de fricción</p>"
-      },
-      {
-            "question": "Tus frenos están desapareciendo cuando:",
-            "options": [
-              "Tienes que presionar más fuerte el pedal del freno para controlar tu velocidad en una pendiente",
-              "Se requiere menos presión sobre el pedal del freno para cada parada",
-              " El pedal del freno se vuelve esponjoso cuando se aplica presión "
-      ],
-            "correctAnswer": [
-              0
-      ],
-            "reason": "<p><strong>Sección: 545 - Desvanecimiento o falla de los frenos</strong></p><p>A medida que los tambores sobrecalentados se expanden, las zapatas y los forros de freno tienen que moverse más para hacer contacto con los tambores, y la fuerza de este contacto se reduce El uso excesivo continuo puede aumentar el desvanecimiento de los frenos hasta que el vehículo no se pueda bajar o detener</p>"
-      },
-      {
-            "question": "Si su vehículo tiene un evaporador de alcohol, está ahí para:",
-            "options": [
-              "Elimine la necesidad de drenaje diario del tanque",
-              "Reduzca el riesgo de heladas en las válvulas de los frenos de aire en climas fríos",
-              " Aumentar la presión del tanque, de la misma manera que los turbocompresores impulsan el motor "
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 515 – Evaporador de alcohol</fuerte></p><p>Algunos sistemas de frenos de aire tienen un evaporador de alcohol para poner alcohol en el sistema de aire Esto ayuda a reducir el riesgo de escarcha en las válvulas de los frenos de aire y otras piezas durante el clima frío El hielo dentro del sistema puede hacer que los frenos dejen de funcionar</p>"
-      },
-      {
-            "question": "El regulador del compresor de aire controla:",
-            "options": [
-              "Cuando se bombea aire a los tanques de aire ",
-              "Presión de aire aplicada a los frenos",
-              "La velocidad del compresor de aire"
-      ],
-            "correctAnswer": [
-              0
-      ],
-            "reason": "<p><strong>Sección: 512 – Regulador del compresor de aire</strong></p><p>El regulador controla cuándo el compresor de aire bombeará aire a los tanques de almacenamiento de aire</p>"
-      },
-      {
-            "question": "Los frenos de aire modernos combinan tres sistemas diferentes Son el servicio, el estacionamiento y los frenos",
-            "options": [
-              "Tambor",
-              "Emergencia",
-              "Pie"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 50 - Frenos de aire</strong></p><p>Los frenos de aire son en realidad tres sistemas de frenado diferentes: freno de servicio, freno de estacionamiento y freno de emergencia</p>"
-      },
-      {
-            "question": "Si no tiene drenajes automáticos de tanques, ¿con qué frecuencia debe drenar el aceite y el agua del fondo de los tanques de almacenamiento de aire comprimido?",
-            "options": [
-              "Una vez a la semana",
-              " Al final de cada día de conducción ",
-              "Cada cuatro horas de servicio"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 514 – Drenajes del tanque de aire</strong></p><p>Operado manualmente girando un cuarto de vuelta o tirando de un cable Debe vaciar los tanques usted mismo al final de cada día de conducción</p>"
-      },
-      {
-            "question": "Sección: 514 – Drenajes del tanque de aire Operado manualmente girando un cuarto de vuelta o tirando de un cable Debes vaciar los tanques tú mismo al final de cada día de conducción",
-            "options": [
-              "15 mph",
-              " 5 mph ",
-              "10 mph"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 546 - Técnica de frenado adecuada</strong></p><p>Cuando su velocidad se haya reducido a aproximadamente cinco mph por debajo de su  velocidad \"segura\", suelte los frenos</p>"
-      },
-      {
-            "question": "En condiciones ideales, un camión o autobús con frenos de aire a 55 mph requeriría la distancia de frenado de ¿cuántos pies?",
-            "options": [
-              "De 100 a 300 pies ",
-              "Menos de 100 meses",
-              "Más de 300 pies"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 544 - Distancia de frenado</strong></p><p>La distancia de retardo del freno de aire a 55 mph en pavimento seco agrega aproximadamente 32 pies Por lo tanto, a 55 mph para un conductor promedio en buenas condiciones de tracción y frenado, la distancia total de frenado es de más de 450 pies</p>"
-      },
-      {
-            "question": "¿Cuándo está bien dejar su camión desatendido sin aplicar los frenos de estacionamiento y asfixiarse con las ruedas?",
-            "options": [
-              "Nunca",
-              "Si está realizando una inspección previa al viaje",
-              "Si solo estás fuera por unos minutos"
-      ],
-            "correctAnswer": [
-              0
-      ],
-            "reason": "<p><strong>Sección: 548 - Frenos de estacionamiento</strong></p><p>Nunca deje su vehículo desatendido sin aplicar los frenos de estacionamiento o asfixiar las ruedas Su vehículo puede volcarse y causar lesiones y daños</p>"
-      },
-      {
-            "question": "El interruptor del semáforo:",
-            "options": [
-              "Enciende las luces de freno cuando pones los frenos de aire ",
-              "Le informa cuando el sistema de frenos de aire tiene poca presión de aire",
-              "Te dice cuándo necesitas usar los frenos de emergencia"
-      ],
-            "correctAnswer": [
-              0
-      ],
-            "reason": "<p><strong>Sección: 5112 – Interruptor de la luz de freno</strong></p><p>Los conductores detrás de usted deben ser advertidos cuando frene El sistema de frenos de aire lo hace con un interruptor eléctrico que funciona por presión de aire El interruptor enciende las luces de freno cuando se ponen los frenos de aire</p>"
-      },
-      {
-            "question": "Los tanques de aire muestra cuánta presión hay sobre el",
-            "options": [
-              "Medidor de presión de suministro",
-              "LA Usage Meter",
-              "Manómetro de alimentación"
-      ],
-            "correctAnswer": [
-              0
-      ],
-            "reason": "<p><strong>Sección: 519 - Manómetros de alimentación</strong></p><p>Todos los vehículos con frenos de aire tienen un manómetro conectado al tanque de aire Si el vehículo tiene un sistema de frenos de aire duales, habrá un medidor para cada mitad del sistema (o un solo medidor con 2 agujas) Estos medidores le indican cuánta presión hay en los tanques de aire</p>"
-      },
-      {
-            "question": "Para probar los frenos de servicio neumáticos, usted debe:",
-            "options": [
-              "Frene lentamente mientras se mueve lentamente hacia atrás ",
-              "Frena con firmeza mientras avanzas lentamente",
-              "Detenga el vehículo, frene en marcha baja, presione los frenos de servicio y luego tire suavemente de los frenos "
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 533 – Paso 7 Comprobación final del freno de aire</strong></p><p>Espere a que la presión de aire sea normal, suelte el freno de mano, mueva el vehículo hacia adelante lentamente (aproximadamente cinco mph) y aplique los frenos firmemente con el pedal del freno</p>"
-      },
-      {
-            "question": "Si está conduciendo para una pendiente pronunciada y ha alcanzado su velocidad segura de 40 mph, aplicaría el freno de servicio hasta que su velocidad baje a mph",
-            "options": [
-              "12",
-              "34",
-              "35"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 546 - Técnica de frenado adecuada</strong></p><p>Si su  velocidad \"segura\" es de 40 mph, no aplicaría los frenos hasta que su velocidad alcance las 40 mph Ahora aplica los frenos lo suficientemente fuerte como para reducir gradualmente su velocidad a 35 mph y luego suelta los frenos Repita esto tantas veces como sea necesario hasta que llegue al final de la degradación</p>"
-      },
-      {
-            "question": "Si su camión tiene un sistema de frenos de aire dual y uno de los sistemas es de baja presión:",
-            "options": [
-              "Los ajustadores manuales de holgura de los frenos S-Cam no están ajustados correctamente ",
-              "Los tambores de freno no estarán en pleno funcionamiento",
-              "Los frenos delanteros o traseros no serán completamente funcionales"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 52 – Freno de aire dual</strong></p><p>Si un sistema de aire está a una presión demasiado baja, los frenos delanteros o traseros no funcionarán completamente Esto significa que tardará más en detenerse</p>"
-      },
-      {
-            "question": "¿Qué sucede cuando los tambores de freno se calientan demasiado?",
-            "options": [
-              "Contratan ",
-              "Se expanden ",
-              "Empiezan a fumar"
-      ],
-            "correctAnswer": [
-              1
-      ],
-            "reason": "<p><strong>Sección: 545 - Desvanecimiento o falla de los frenos</strong></p><p>A medida que los tambores sobrecalentados se expanden, las zapatas y los forros de freno tienen que moverse más lejos para hacer contacto con los tambores, y la fuerza de este contacto se reduce</p>"
-      },
-      {
-            "question": "¿Qué es un \"Wig Wag\"",
-            "options": [
-              "Parte del sistema de semáforos",
-              "Un soporte de resorte para postizos",
-              "Un brazo mecánico que señala la baja presión del aire"
-      ],
-            "correctAnswer": [
-              2
-      ],
-            "reason": "<p><strong>Sección: 5111 - Baja presión de aire</fuerte></p><p>Aviso</p><p>Otro tipo de alerta es la \"peluca de meneado\" Este dispositivo deja caer un brazo mecánico en su visión cuando la presión en el sistema cae entre 55 y 75 psi Una peluca automática saldrá de su visión cuando la presión en el sistema supere los 55 y 75 psi</p>"
-      }
-      ]
-      
-      
-  
-    
-    
+    {
+      "question": "O uso excessivo de freios de serviço resulta em superaquecimento que pode levar a?",
+      "options": [
+        "Facilito o contato entre os tambores de freio e as lonas.",
+        "Expansão dos tambores de freio.",
+        "Ajuste adequado de S-camncr."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.4.5 - Desvanecimento ou falha do freio</strong></p><p>O uso excessivo dos freios de serviço resulta em superaquecimento e leva ao desbotamento dos freios, além de causar expansão dos tambores de freio.</p>"
+    },
+    {
+      "question": "O tipo mais comum de freio de fundação encontrado em veículos pesados é?",
+      "options": [
+        "Disco. ",
+        "Tambor S-cam.",
+        "Tambor de um"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.1.8 - Freios de fundação</strong></p><p>Freios de fundação são usados em cada roda. O tipo mais comum é o freio a tambor s-cam.</p>"
+    },
+    {
+      "question": "Se você precisa fazer uma parada de emergência, você deve frear para que:",
+      "options": [
+        "Use toda a potência dos freios.",
+        "Use o freio de mão antes do pedal do freio.",
+        "Possa manter seu veículo reto."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.4.3 - Paradas de emergência</strong></p><p>Você deve frear de uma forma que mantenha seu veículo em linha reta e permita que você vire se precisar.</p>"
+    },
+    {
+      "question": "Seu caminhão ou ônibus tem um sistema de freio a ar duplo. Se um aviso de baixa pressão do ar for emitido para apenas um sistema, o que você deve fazer?",
+      "options": [
+        "Reduza sua velocidade e teste o sistema restante enquanto ele está em andamento.",
+        "Pare imediatamente e estacione com segurança. Continue somente depois que o sistema for corrigido.",
+        "Continue somente depois que o sistema for corrigido."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.4.7 - Baixa pressão do ar</strong></p><p>Se o aviso de baixa pressão do ar acender, pare e estacione seu veículo com segurança o mais rápido possível. Pode haver um vazamento de ar no sistema.</p>"
+    },
+    {
+      "question": "Se o seu veículo tem um evaporador de álcool, todos os dias durante o tempo frio você deveria?",
+      "options": [
+        "Troque o álcool em uma garrafa.",
+        "Verifique e preencha o nível de álcool.",
+        "Verifique o teor alcoólico do óleo."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.1.5 – Evaporador de álcool</strong></p><p>Verifique o recipiente de álcool e encha conforme necessário, todos os dias durante o tempo frio.</p>"
+    },
+    {
+      "question": "A taxa de perda de ar para um caminhão ou ônibus em linha reta com o motor desligado e os freios ligados não deve ser maior do que?",
+      "options": [
+        "2 psi em 45 segundos.",
+        "3 psi em um minuto.",
+        "1 psi em 30 segundos."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.3.3 – Etapa 7 Freio a Ar Verificação Final</strong></p><p>O motorista verifica o medidor de ar para ver se a pressão do ar não cai mais de 3 libras em um minuto (veículo único) ou 4 libras em 1 minuto (veículo combinado) e ouve vazamentos de ar.</p>"
+    },
+    {
+      "question": "O motorista deve ser capaz de ver um aviso de baixa pressão do ar que é emitido antes que a pressão nos tanques de ar de serviço caia abaixo de psi?",
+      "options": [
+        "80",
+        "50",
+        "60"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.1.11 – Aviso de baixa pressão do ar</strong></p><p>Um sinal de alerta que você pode ver deve disparar antes que a pressão do ar nos tanques caia entre 55 e 75 psi.</p>"
+    },
+    {
+      "question": "O poder de frenagem dos freios de mola?",
+      "options": [
+        "Aumenta quando os freios de serviço estão quentes.",
+        "Não é afetado pela condição dos freios de serviço.",
+        "Depende do freio de serviço estar em ajuste."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>A potência de frenagem dos freios de mola depende do ajuste dos freios.</p>"
+    },
+    {
+      "question": "A distância de atraso do freio a ar a 55 mph em pavimento seco acrescenta cerca de pés.",
+      "options": [
+        "23",
+        "34",
+        "32"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.4.4 - Distância de parada</strong></p><p>A distância de atraso do freio a ar a 55 mph em pavimento seco adiciona cerca de 32 pés.</p>"
+    },
+    {
+      "question": "A distância total de parada para freios a ar é maior do que para freios hidráulicos devido à distância?",
+      "options": [
+        "Reação",
+        "Atraso do freio",
+        "Travagem eficaz"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.4.4 - Distância de parada</strong></p><p>Com freios a ar, há um atraso adicional: \"Brake Lag\". Este é o tempo que leva para os freios funcionarem depois que o pedal do freio é pressionado.</p>"
+    },
+    {
+      "question": "Aceita-se que muito calor causado pelo uso dos freios com muita frequência também pode causar?",
+      "options": [
+        "Válvula de controle modulada para desgaste.",
+        "Lonas de freio para divisão.",
+        "Freio para desaparecer ou falhar."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.4.5 - Desvanecimento ou falha do freio</strong></p><p>Os freios podem desaparecer ou falhar devido ao calor excessivo causado pelo uso excessivo deles.</p>"
+    },
+    {
+      "question": "Levantar parcialmente e pressionar repetidamente o pedal do freio pode resultar em:",
+      "options": [
+        "Nenhuma mudança na pressão do ar do freio.",
+        "Um acúmulo de pressão de ar de freio.",
+        "Perda de pressão do ar do freio"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.1.7 - O pedal do freio</strong></p><p>Pressionar e liberar o pedal desnecessariamente pode deixar o ar sair mais rápido do que o compressor pode substituí-lo. Se a pressão ficar muito baixa, os freios não funcionarão.</p>"
+    },
+    {
+      "question": "O sistema de freio que aplica e libera os freios quando o motorista usa o pedal do freio é o sistema de freio?",
+      "options": [
+        "Serviço",
+        "Estacionamento",
+        "Emergência"
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Seção: 5.0 - Freios a ar</strong></p><p>O sistema de freio de serviço aplica e libera os freios quando você usa o pedal do freio durante a condução normal.</p>"
+    },
+    {
+      "question": "O jogo livre de um ajustador de folga precisa ser ajustado se for mais do que sobre você puxar duro?",
+      "options": [
+        "1 polegada",
+        "1/4 polegada",
+        "1/2 polegada"
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Seção: 5.3.2 - Durante a Etapa 5 Inspeção Walk-Around</strong></p><p>Se um ajustador de folga se move mais de uma polegada onde a haste de pressão se prende a ele, ele provavelmente precisa de ajuste.</p>"
+    },
+    {
+      "question": "Um sistema de freio a ar está totalmente carregado a que psi?",
+      "options": [
+        "2",
+        "34",
+        "125"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.3.3 – Passo 7 Freio a Ar Verificação Final</strong></p><p>Com um sistema de ar totalmente carregado (normalmente 125 psi), pare o motor, solte o freio de estacionamento e cronometre a queda da pressão do ar.</p>"
+    },
+    {
+      "question": "O pedal do freio em um sistema de freio a ar?",
+      "options": [
+        "Controla a velocidade do compressor de ar.",
+        "Controla a pressão do ar aplicada aos freios.",
+        "Ele é conectado a ajustadores de folga por uma série de hastes e ligações."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.1.7 - O pedal do freio</strong></p><p>Empurrar o pedal para baixo com mais força aplica mais pressão de ar. Soltar o pedal do freio reduz a pressão do ar e libera os freios.</p>"
+    },
+    {
+      "question": "O S-cam",
+      "options": [
+        "Retire as sapatas de freio do tambor e deixe as rodas rolarem livremente.",
+        "Força as sapatas de freio contra o interior do tambor de freio.",
+        "Controla o fluxo de ar para cada uma das câmaras de freio."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.1.8 - Freios de fundação</strong></p><p>O s-cam força as sapatas de freio para longe umas das outras e as pressiona contra o interior do tambor de freio.</p>"
+    },
+    {
+      "question": "Em condições normais, para accionar os travões de estacionamento, o condutor deve:",
+      "options": [
+        "Desligue o motor.",
+        "Certifique-se de que o sistema de freio a ar esteja totalmente pressurizado.",
+        "Aplique os freios puxando o botão de controle do freio de estacionamento para fora."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.4.8 - Freios de estacionamento</strong></p><p>Puxe o botão de controle do freio de estacionamento para fora para acionar os freios de estacionamento e empurre-o para liberar.</p>"
+    },
+    {
+      "question": "Todos os veículos equipados com travões pneumáticos possuem:",
+      "options": [
+        "Um sistema hidráulico de espera.",
+        "Um medidor de pressão de abastecimento.",
+        "Um medidor de uso de ar."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.1.9 - Manômetros de Alimentação</strong></p><p>Todos os veículos com freios a ar têm um manômetro conectado ao tanque de ar.</p>"
+    },
+    {
+      "question": "Nos veículos com travões pneumáticos, deve ser utilizado o travão de estacionamento:",
+      "options": [
+        "O mínimo possível.",
+        "Apenas durante as inspeções pré-viagem.",
+        "Sempre que você deixar o veículo sem vigilância."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.4.8 - Freios de estacionamento</strong></p><p>Nunca deixe seu veículo sem vigilância sem acionar os freios de estacionamento ou engasgar as rodas.</p>"
+    },
+    {
+      "question": "Se o compressor de ar vaza, o que mantém o ar nos tanques?",
+      "options": [
+        "A válvula de retenção unidirecional.",
+        "A válvula de relé de emergência.",
+        "A válvula de proteção do trator."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Seção: 5.2 – Freio a Ar Duplo</strong></p><p>A válvula de retenção impede que o ar escape se o compressor de ar desenvolver um vazamento.</p>"
+    },
+    {
+      "question": "Qual NÃO é o momento adequado para acionar o freio de estacionamento?",
+      "options": [
+        "você vai testar o freio de estacionamento para se certificar de que ele segura o veículo",
+        "Se você vai parar por apenas uma hora.",
+        "Se os freios estiverem muito quentes (por exemplo, logo após descer um corrimão íngreme)."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.4.8 - Freios de estacionamento</strong></p><p>Não use os freios de estacionamento se os freios estiverem muito quentes (apenas descendo uma inclinação íngreme).</p>"
+    },
+    {
+      "question": "Com os veículos com travão pneumático, devem ser utilizados travões de estacionamento:",
+      "options": [
+        "Para manter a velocidade ao descer.",
+        "O mínimo possível.",
+        "A qualquer momento em que o veículo estiver estacionado."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.4.8 - Freios de estacionamento</strong></p><p>Sempre que estacionar, use os freios de estacionamento.</p>"
+    },
+    {
+      "question": "Por que você deve drenar a água dos tanques de ar comprimido?",
+      "options": [
+        "O baixo ponto de ebulição da água reduz o poder de frenagem.",
+        "Para evitar o desgaste do óleo do compressor de ar.",
+        "A água pode congelar no tempo frio e causar falha no freio."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.4.8 - Freios de estacionamento</strong></p><p>Se o seu veículo não tiver drenos automáticos do tanque de ar, drene os tanques de ar no final de cada dia útil para remover umidade e óleo.</p>"
+    },
+    {
+      "question": "Se os freios de mola estão ligados, quando você deve apertar o pedal do freio?",
+      "options": [
+        "Só quando desce a ladeira.",
+        "Nunca.",
+        "Só numa estrada escorregadia."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.1.15 - Controles do freio de estacionamento</strong></p><p>Nunca empurre o pedal do freio para baixo quando os freios de mola estiverem ligados. Se você fizer isso, os freios podem ser danificados.</p>"
+    },
+    {
+      "question": "Para verificar o jogo livre dos ajustadores manuais de folga do freio S-cam, você deve estacionar em:",
+      "options": [
+        "Nivele o solo e aplique os freios de estacionamento, depois aplique os freios de serviço.",
+        "Nivele o solo, sufoque as rodas e solte os freios de estacionamento.",
+        "Nivele o solo e drene a pressão do ar antes de verificar o ajuste."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.3.2 - Durante a Etapa 5 Inspeção Walk-Around</strong></p><p>Estacione em terreno plano e prenda as rodas. Desligue os freios de estacionamento para poder mover os ajustadores de folga.</p>"
+    },
+    {
+      "question": "O calor excessivo causado pelo uso excessivo dos freios com muita frequência também pode causar:",
+      "options": [
+        "Freio para desaparecer ou falhar.",
+        "Válvula de controle modulada para desgaste.",
+        "Lonas de freio para rachar."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Seção: 5.4.5 - Desvanecimento ou falha do freio</strong></p><p>O desbotamento do freio resulta do calor excessivo causando alterações químicas na lona de freio, que reduzem o atrito.</p>"
+    },
+    {
+      "question": "Se você precisa fazer uma parada de emergência, você deve frear para que:",
+      "options": [
+        "Ele pode dirigir e manter seu veículo reto.",
+        "Ele pode dirigir duro enquanto freia forte.",
+        "Possa manter seu veículo reto e permitir que você vire."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.4.3 - Paradas de emergência</strong></p><p>Você deve frear de uma forma que mantenha seu veículo em linha reta e permita que você vire se precisar.</p>"
+    },
+    {
+      "question": "O uso de freios em um downgrade longo e acentuado em condições normais é apenas um complemento para:",
+      "options": [
+        "Uso de freios de mola.",
+        "O efeito de frenagem do motor.",
+        "O uso da válvula limitadora dos freios dianteiros"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.4.6 - Técnica de frenagem adequada</strong></p><p>Lembre-se: O uso de freios em um downgrade longo e/ou acentuado é apenas um complemento para o efeito de frenagem do motor.</p>"
+    },
+    {
+      "question": "A coisa mais importante a fazer quando um aviso de baixa pressão do ar é acionado é:",
+      "options": [
+        "Mudança para cima",
+        "Downshift",
+        "Pare e estacione com segurança o mais rápido possível."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.4.7 - Baixa pressão do ar</strong></p><p>Se o aviso de baixa pressão do ar acender, pare e estacione seu veículo com segurança o mais rápido possível.</p>"
+    },
+    {
+      "question": "O freio de estacionamento ou de emergência de um veículo pesado só pode ser mantido na posição por algo que não possa vazar, como:",
+      "options": [
+        "Pressão de mola.",
+        "Pressão hidráulica.",
+        "Pressão atmosférica"
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>Eles devem ser mantidos pela força mecânica (porque a pressão do ar pode eventualmente vazar).</p>"
+    },
+    {
+      "question": "A travagem a ar demora mais tempo do que a travagem hidráulica porque:",
+      "options": [
+        "Os freios a ar usam tambores de freio diferentes.",
+        "Os freios a ar exigem molas de retorno mais pesadas.",
+        "O ar leva mais tempo para fluir através das linhas do que o fluido hidráulico."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.4.4 - Distância de parada</strong></p><p>Com freios a ar, leva um pouco de tempo (meio segundo ou mais) para o ar fluir através das linhas para os freios. Isso é chamado de Brake Lag.</p>"
+    },
+    {
+      "question": "Quando os travões são aplicados, as sapatas de travão pressionam contra o:",
+      "options": [
+        "Ajustador de folga.",
+        "S-cam.",
+        "Freio a tambor ou a disco."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.4.5 - Desvanecimento ou falha do freio</strong></p><p>Os freios são projetados de modo que as sapatas ou pastilhas de freio se esfreguem contra o tambor ou discos de freio para reduzir a velocidade do veículo.</p>"
+    },
+    {
+      "question": "A válvula de segurança descarrega automaticamente à pressão de:",
+      "options": [
+        "50 psi",
+        "100 psi",
+        "150 psi"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.1.6 - Válvula de segurança</strong></p><p>A válvula de segurança protege o tanque e o resto do sistema de muita pressão. A válvula é geralmente ajustada para abrir a 150 psi.</p>"
+    },
+    {
+      "question": "Travagem com faca:",
+      "options": [
+        "Use uma pressão leve constante no pedal do freio. ",
+        "O recipiente de álcool pode estar baixo.",
+        "Acione o freio o tempo todo. Solte os freios quando as rodas travarem. Assim que as rodas começarem a girar, volte a travar totalmente."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.4.3 - Paradas de emergência</strong></p><p>Aplique os travões até ao fim. Solte os freios quando as rodas travarem. Assim que as rodas começarem a girar, volte a travar totalmente.</p>"
+    },
+    {
+      "question": "Se a pressão do ar não for acumulada dentro do período de tempo correto, então:",
+      "options": [
+        "O recipiente de álcool pode estar baixo. ",
+        "Você deve estar pronto para usar seus freios de estacionamento para parar.",
+        "A pressão do ar pode cair para um ponto baixo durante a condução, exigindo uma parada de emergência."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.3.3 – Passo 7 Verificação final do freio pneumático</strong></p><p>Se a pressão do ar não se acumular rápido o suficiente, sua pressão pode cair muito baixo durante a condução, exigindo uma parada de emergência.</p>"
+    },
+    {
+      "question": "A válvula de segurança reduz a pressão em psi.",
+      "options": [
+        "100",
+        "150",
+        "12"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.1.6 - Válvula de segurança</strong></p><p>A válvula é geralmente ajustada para abrir a 150 psi. Se a válvula de segurança liberar ar, algo está errado.</p>"
+    },
+    {
+      "question": "O que pode legalmente manter um freio de estacionamento ou de emergência na posição de um caminhão, caminhão-trator ou ônibus?",
+      "options": [
+        "Pressão de mola.",
+        "Pressão do fluido.",
+        "Pressão atmosférica"
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>Eles devem ser mantidos pela força mecânica (porque a pressão do ar pode eventualmente vazar).</p>"
+    },
+    {
+      "question": "O manômetro de pressão de suprimento mostra quanta pressão:",
+      "options": [
+        "Você usou nessa viagem.",
+        "Está nos tanques de ar.",
+        "Está indo para a câmara de freio."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.1.9 - Manômetros de Alimentação</strong></p><p>Todos os veículos com freios a ar têm um manômetro conectado ao tanque de ar. Esses medidores informam quanta pressão há nos tanques de ar.</p>"
+    },
+    {
+      "question": "O poder de travagem dos travões de mola:",
+      "options": [
+        "Não é afetado pela condição dos freios de serviço.",
+        "Depende dos freios serem ajustados.",
+        "Ele só pode ser testado por pessoal de serviço de freio altamente treinado."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.1.14 - Freios de mola</strong></p><p>A potência de frenagem dos freios de mola depende do ajuste dos freios.</p>"
+    },
+    {
+      "question": "Não é seguro dirigir um veículo que tenha tambores de freio com rachaduras maiores que a largura da área de atrito.",
+      "options": [
+        "1/8",
+        "1/4",
+        "1/2"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.3.2 - Durante a Etapa 5 Inspeção Walk-Around</strong></p><p>Os tambores (ou discos) de freio não devem ter fissuras superiores à metade da largura da área de atrito.</p>"
+    },
+    {
+      "question": "Seus freios estão desaparecendo quando:",
+      "options": [
+        "Você tem que forçar mais um pedal de freio para controlar sua velocidade em um downgrade.",
+        "É necessária menos pressão no pedal do freio para cada parada.",
+        "O pedal do freio fica esponjoso quando você aplica pressão."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Seção: 5.4.5 - Desvanecimento ou falha do freio</strong></p><p>À medida que os tambores superaquecidos se expandem, as sapatas e lonas de freio têm que se mover mais para fazer contato com os tambores.</p>"
+    },
+    {
+      "question": "Se o seu veículo tem um evaporador de álcool, ele está lá para:",
+      "options": [
+        "Elimine a necessidade de drenagem diária do tanque.",
+        "Reduza o risco de geada nas válvulas de freio a ar no tempo frio.",
+        "Aumentar a pressão do tanque."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.1.5 – Evaporador de álcool</strong></p><p>Isso ajuda a reduzir o risco de geada em válvulas de freio a ar.</p>"
+    },
+    {
+      "question": "O regulador do compressor de ar controla:",
+      "options": [
+        "Quando o ar é bombeado para os tanques de ar.",
+        "Pressão de ar aplicada aos freios.",
+        "A velocidade do compressor de ar."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Seção: 5.1.2 – Regulador do compressor de ar</strong></p><p>O regulador controla quando o compressor de ar bombeará ar para os tanques de armazenamento de ar.</p>"
+    },
+    {
+      "question": "Os freios a ar modernos combinam três sistemas diferentes. Eles são de serviço, de estacionamento e emergência.",
+      "options": [
+        "Tambor",
+        "Emergência",
+        "Pé"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.0 - Freios a ar</strong></p><p>Os freios a ar são compostos pelo sistema de serviço, estacionamento e emergência.</p>"
+    },
+    {
+      "question": "Se você não tiver drenos automáticos nos tanques, com que frequência você deve drenar água e óleo do fundo dos tanques?",
+      "options": [
+        "Uma vez por semana.",
+        "Ao final de cada dia de trabalho.",
+        "A cada quatro horas de serviço."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.1.4 – Drenos de tanque de ar</strong></p><p>Drenos devem ser operados de forma manual no fim de cada dia.</p>"
+    },
+    {
+      "question": "A que velocidade você deve soltar os freios?",
+      "options": [
+        "15 mph",
+        "5 mph",
+        "10 mph"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.4.6 - Técnica de frenagem adequada</strong></p><p>Quando sua velocidade reduzir cerca de cinco mph abaixo da sua velocidade segura, solte os freios.</p>"
+    },
+    {
+      "question": "Sob condições ideais, um caminhão ou ônibus com freios a ar a 55 mph exigiria a distância de parada de quantos pés?",
+      "options": [
+        "De 100 a 300 pés.",
+        "Menos de 100 pés.",
+        "Mais de 300 pés."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.4.4 - Distância de parada</strong></p><p>A 55 mph com boas condições de tração, a distância total será de mais de 450 pés.</p>"
+    },
+    {
+      "question": "Quando é correto deixar seu caminhão desacompanhado sem os freios de estacionamento aplicados?",
+      "options": [
+        "Nunca.",
+        "Se você estiver realizando uma inspeção pré-viagem.",
+        "Se for por apenas alguns minutos."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Seção: 5.4.8 - Freios de estacionamento</strong></p><p>Você nunca deve deixar o veículo desacompanhado sem os freios atuados.</p>"
+    },
+    {
+      "question": "O interruptor da luz de freio:",
+      "options": [
+        "Liga as luzes de freio quando você aciona os freios a ar.",
+        "Informa quando o sistema está com baixa pressão.",
+        "Informa quando precisa usar o freio de emergência."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Seção: 5.1.12 – Interruptor da luz de freio</strong></p><p>Este interruptor acende a luz de freio quando você aciona os freios a ar.</p>"
+    },
+    {
+      "question": "O medidor indica quanto de pressão está sendo subministrada aos:",
+      "options": [
+        "Medidor de pressão de suprimento",
+        "Medidor de Uso de Ar",
+        "Medidor de Pressão de Alimentação"
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Seção: 5.1.9 - Manômetros de Alimentação</strong></p><p>Esses medidores informam quanta pressão há nos tanques de ar.</p>"
+    },
+    {
+      "question": "Para testar os freios de serviço pneumáticos, você deve:",
+      "options": [
+        "Frear devagar enquanto dá ré lentamente.",
+        "Frear firmemente enquanto avança devagar.",
+        "Parar o veículo e puxar suavemente os freios de serviço."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.3.3 – Passo 7 Verificação final do freio de ar</strong></p><p>Você deve frear firmemente enquanto avança lentamente.</p>"
+    },
+    {
+      "question": "Se for uma descida íngreme com velocidade segura de 40 mph, o freio reduz a velocidade para:",
+      "options": [
+        "12",
+        "34",
+        "35"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.4.6 - Técnica de frenagem adequada</strong></p><p>Sua velocidade deverá reduzir gradualmente para 35 mph antes de liberar os freios.</p>"
+    },
+    {
+      "question": "Se um sistema sofre de baixa pressão no sistema de ar duplo:",
+      "options": [
+        "Os ajustadores de folga não estarão funcionando devidamente.",
+        "Os tambores não estarão totalmente operacionais.",
+        "Os freios traseiros ou dianteiros não estarão funcionais."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.2 – Freio de ar duplo</strong></p><p>Isto significa que os freios traseiros ou dianteiros não estarão funcionais.</p>"
+    },
+    {
+      "question": "O que acontece se os tambores de freio esquentarem demais?",
+      "options": [
+        "Eles encolhem.",
+        "Eles se expandem.",
+        "Eles soltam fumaça."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Seção: 5.4.5 - Desvanecimento ou falha do freio</strong></p><p>Os tambores começam a se expandir.</p>"
+    },
+    {
+      "question": "O que é um 'Wig Wag'?",
+      "options": [
+        "Parte do sistema de semáforos.",
+        "Um porta-molas para peças de cabelo.",
+        "Um braço mecânico que sinaliza baixa pressão de ar."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Seção: 5.1.11 - Baixa pressão do ar</strong></p><p>Este dispositivo lança um braço mecânico em sua visão quando a pressão no sistema cai entre 55 e 75 psi.</p>"
+    }
+  ],
+  "es": [
+    {
+      "question": "¿El indicador de presión de aplicación muestra cuánta presión de aire está?",
+      "options": [
+        "Están aplicándola al freno.",
+        "Tiene una válvula de control moduladora.",
+        "Teniendo en los tanques de aire."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Sección: 5.1.10 - Indicador de presión de aplicación</strong></p><p>Este indicador le muestra cuánta presión de aire está aplicando a los frenos.</p>"
+    },
+    {
+      "question": "¿Los frenos de resorte utilizados en las cámaras de un camión rígido lo detendrán cuando la presión del aire descienda por debajo de los psi?",
+      "options": [
+        "100",
+        "20",
+        "60"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.1.14 - Frenos de resorte</strong></p><p>Los frenos de resorte del tractocamión y del camión rígido se acoplarán completamente cuando la presión de aire descienda a un rango de 20 a 45 psi.</p>"
+    },
+    {
+      "question": "Algunos sistemas de frenos de aire tienen un evaporador de alcohol. ¿Qué puede pasar si no mantiene el nivel adecuado de alcohol?",
+      "options": [
+        "Se puede formar hielo en las válvulas de los frenos de aire y provocar fallos.",
+        "Se puede formar hielo en los tambores de freno y desgastarlos.",
+        "Es posible que la cámara en S no se reanude al soltar el pedal del freno."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Sección: 5.1.5 – Evaporador de alcohol</strong></p><p>El hielo dentro del sistema puede hacer que los frenos dejen de funcionar en climas fríos.</p>"
+    },
+    {
+      "question": "Su camión o autobús tiene un sistema de frenos de aire dual. Si se emite una advertencia de baja presión para un solo sistema, ¿qué debe hacer?",
+      "options": [
+        "Detener completamente su vehículo y estacionar de manera segura de inmediato.",
+        "Reduzca la velocidad y conduzca al taller más cercano.",
+        "Reduzca la velocidad y pruebe el sistema restante mientras conduce."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Sección: 5.4.7 - Baja presión de aire</strong></p><p>Si la advertencia se enciende, deténgase y estacione rápido. Puede haber una fuga de aire en el sistema.</p>"
+    },
+    {
+      "question": "¿Por qué drenar el agua de los tanques de aire comprimido?",
+      "options": [
+        "El punto de ebullición bajo del agua reduce el poder de frenado.",
+        "El agua enfría demasiado el compresor.",
+        "El agua puede congelarse en climas fríos y causar fallas en los frenos."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.1.4 – Drenajes de tanques de aire</strong></p><p>El agua puede congelarse en climas fríos y causar una falla total de los frenos.</p>"
+    },
+    {
+      "question": "¿La válvula de seguridad se regula automáticamente cuando la presión es?",
+      "options": [
+        "50",
+        "150",
+        "100"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.1.6 - Válvula de seguridad</strong></p><p>La válvula está configurada generalmente para abrirse a 150 psi para proteger de la sobrepresión.</p>"
+    },
+    {
+      "question": "Su camión tiene un sistema de aire dual y uno de los sistemas pierde su presión. ¿Qué va a pasar?",
+      "options": [
+        "Los tambores de freno no estarán completamente presurizados.",
+        "El freno delantero o trasero no estará completamente operativo.",
+        "Los ajustadores manuales de holgura de los frenos no se ajustarán."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.2 – Freno de aire doble</strong></p><p>A baja presión, los frenos delanteros o traseros no funcionarán a pleno rendimiento.</p>"
+    },
+    {
+      "question": "¿Los frenos de estacionamiento o de emergencia en camiones y autobuses se pueden mantener legalmente por presión?",
+      "options": [
+        "Primavera",
+        "Aire",
+        "Fluido"
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Sección: 5.1.14 - Frenos de resorte</strong></p><p>Los resortes (primavera mecánica) se utilizan para mantener frenado el vehículo en emergencias y parqueos.</p>"
+    },
+    {
+      "question": "Si su camión o autobús tiene válvulas de control de estacionamiento dobles, ¿puede usar la presión de un tanque separado para?",
+      "options": [
+        "Permanecer estacionario el doble de tiempo sin usar presión.",
+        "Equilibre el sistema de frenos de servicio al estacionar.",
+        "Soltar los frenos de emergencia/estacionamiento de resorte para moverse una corta distancia."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.1.15 - Controles del freno de estacionamiento</strong></p><p>Se usa para liberar los frenos de resorte temporalmente para moverse en una emergencia.</p>"
+    },
+    {
+      "question": "Si su camión tiene un sistema funcional de frenos de aire doble, la presión de aire debería aumentar de 85 a 100 psi en cuántos segundos?",
+      "options": [
+        "50",
+        "45",
+        "60"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.3.3 – Paso 7 Comprobación final del freno de aire</strong></p><p>La presión debe aumentar de 85 a 100 psi en 45 segundos.</p>"
+    },
+    {
+      "question": "¿Cómo debe comprobar si sus frenos de servicio funcionan correctamente?",
+      "options": [
+        "Estacione en terreno nivelado, ahogue las ruedas y aplique el freno de estacionamiento.",
+        "Avanzar lentamente a unas 5 mph y luego aplicar los frenos con firmeza.",
+        "Estacione en grado de inclinación y drene el aire."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.3.3 – Paso 7 Comprobación final del freno de aire</strong></p><p>Mueva el vehículo hacia adelante lentamente y aplique los frenos firmemente.</p>"
+    },
+    {
+      "question": "¿Un sistema de frenos de aire para camiones o autobuses no debe tener fugas a una velocidad de más de psi por minuto?",
+      "options": [
+        "1",
+        "2",
+        "4"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.3.3 – Paso 7 Comprobación final del freno de aire</strong></p><p>La presión de aire no debe caer más de: 2 psi para vehículos individuales en un minuto.</p>"
+    },
+    {
+      "question": "Durante la conducción normal, los frenos de resorte generalmente se retienen por?",
+      "options": [
+        "Tornillos o abrazaderas.",
+        "Presión de aire.",
+        "Presión de resorte."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.1.14 - Frenos de resorte</strong></p><p>Durante la conducción, los potentes resortes son retenidos por la presión del aire suministrada por el compresor.</p>"
+    },
+    {
+      "question": "¿El compresor de aire deja de bombear aire a qué psi?",
+      "options": [
+        "100",
+        "125",
+        "150"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.1.2 – Regulador del compresor de aire</strong></p><p>Al llegar a 125 psi aproximadamente, el gobernador evita que el compresor bombee aire al tanque.</p>"
+    },
+    {
+      "question": "¿El conductor debería poder ver una advertencia de baja presión de aire antes de que la presión caiga por debajo de psi?",
+      "options": [
+        "100",
+        "125",
+        "60"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.1.11 - Baja presión de aire</strong></p><p>Debe aparecer un aviso antes de que la presión de los tanques caiga a los 60 psi (rango de 55-75).</p>"
+    },
+    {
+      "question": "El uso excesivo de los frenos de servicio provoca un calentamiento que puede provocar?",
+      "options": [
+        "Facilita el contacto entre los tambores de freno.",
+        "Expansión de los tambores de freno.",
+        "Ajuste adecuado del S-cam."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.4.5 - Desvanecimiento o fallo de los frenos</strong></p><p>El sobreuso de los frenos puede hacer que el tambor se expanda lejos de las zapatas, perdiendo fricción.</p>"
+    },
+    {
+      "question": "¿El tipo más común de freno de cimentación que se encuentra en los vehículos pesados es?",
+      "options": [
+        "Disco.",
+        "Tambor de leva en S (S-cam).",
+        "Tambor de uno."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.1.8 - Frenos de cimentación</strong></p><p>Los más comunes son los frenos de tambor con leva tipo S.</p>"
+    },
+    {
+      "question": "Si necesita hacer una parada de emergencia, debe frenar de manera que:",
+      "options": [
+        "Use toda la potencia de los frenos para frenarlos de inmediato.",
+        "Use el freno de mano antes del pedal del freno.",
+        "Pueda mantener su vehículo recto permitiéndole maniobrar."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.4.3 - Paradas de emergencia</strong></p><p>Debe frenar de manera que mantenga su vehículo en línea recta y le permita girar si lo necesita.</p>"
+    },
+    {
+      "question": "Su camión o autobús tiene un sistema de frenos de aire dual y un sistema presenta baja presión. ¿Qué debe hacer?",
+      "options": [
+        "Reduzca su velocidad y pruebe el sistema.",
+        "Deténgase inmediatamente y estacione de manera segura.",
+        "Continúe conduciendo hasta encontrar un taller."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.4.7 - Baja presión de aire</strong></p><p>Si se enciende la advertencia de baja presión, deténgase de inmediato y con seguridad porque habrá una falla próxima.</p>"
+    },
+    {
+      "question": "Si su vehículo tiene un evaporador de alcohol, ¿todos los días en clima frío debería?",
+      "options": [
+        "Cambiar el alcohol en una botella.",
+        "Verificar y rellenar el nivel de alcohol.",
+        "Comprobar el contenido de alcohol en el aceite."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.1.5 – Evaporador de alcohol</strong></p><p>Debe revisar y rellenar según sea necesario todos los días fríos.</p>"
+    },
+    {
+      "question": "La tasa de pérdida de aire de un camión en línea recta y los frenos puestos no debe ser mayor que?",
+      "options": [
+        "2 psi en 45 segundos.",
+        "3 psi en un minuto.",
+        "1 psi en 30 segundos."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.3.3 – Paso 7 Comprobación final del freno de aire</strong></p><p>Una vez aplicados (después de frenar y estabilizarse), la caída no será mayor a 3 psi/min en un vehículo simple.</p>"
+    },
+    {
+      "question": "El conductor debe poder ver una advertencia de baja presión de aire. ¿A qué rango la advierte?",
+      "options": [
+        "80",
+        "50",
+        "60"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.1.11 – Advertencia de baja presión de aire</strong></p><p>Una advertencia que puede ver y/o escuchar sonará cuando se alcancen los 60 psi.</p>"
+    },
+    {
+      "question": "¿El poder de frenado de los frenos de resorte?",
+      "options": [
+        "Aumenta cuando los frenos están calientes.",
+        "No se ve afectado por la condición del freno.",
+        "Depende de si el freno de servicio está correctamente ajustado."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.1.14 - Frenos de resorte</strong></p><p>Depende de un ajuste apropiado para detener eficazmente el vehículo.</p>"
+    },
+    {
+      "question": "La distancia de retardo del freno de aire a 55 mph agrega aproximadamente:",
+      "options": [
+        "23 pies.",
+        "34 pies.",
+        "32 pies."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.4.4 - Distancia de frenado</strong></p><p>Esta demora inherentemente suma alrededor de 32 pies al ir a 55 mph.</p>"
+    },
+    {
+      "question": "La distancia total de detención para frenos de aire es mayor debido a:",
+      "options": [
+        "Tiempo de reacción.",
+        "Retraso de los frenos (Retardo de aire).",
+        "Frenado efectivo de zapatos."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.4.4 - Distancia de frenado</strong></p><p>Por el lapso (retardo) en que el aire comprimido viaja hasta la cámara de frenos.</p>"
+    },
+    {
+      "question": "¿Demasiado calor generado por el frenado excesivo qué causa?",
+      "options": [
+        "Mejora en la válvula moduladora.",
+        "Burbujas en los forros.",
+        "Desvanecimiento o falla en los frenos (Fading)."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.4.5 - Desvanecimiento o fallo de los frenos</strong></p><p>El calor excesivo provoca fading de los frenos, causando que los frenos dejen de ser efectivos.</p>"
+    },
+    {
+      "question": "Bombear al frenar repetidamente qué provocará?",
+      "options": [
+        "Poco o ningún cambio.",
+        "Aumento en la presión de aire.",
+        "Una pérdida en la presión de aire."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.1.7 - El pedal del freno</strong></p><p>El bombeo innecesario malgastará aire y disminuirá el nivel de aire hasta vaciar los tanques.</p>"
+    },
+    {
+      "question": "¿El sistema que aplica y suelta los frenos controlados por un conductor es?",
+      "options": [
+        "Frenos de servicio.",
+        "Estacionamiento.",
+        "Emergencia."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Sección: 5.0 - Frenos de aire</strong></p><p>El sistema de servicio se opera durante la conducción habitual.</p>"
+    },
+    {
+      "question": "El juego de un ajustador de tensión debe corregirse si se extrae más de:",
+      "options": [
+        "1 pulgada.",
+        "1/4 pulgada.",
+        "1/2 pulgada."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Sección: 5.3.2 - Inspección Paso 5</strong></p><p>Si la varilla de ajuste de tensión (slack adjuster) cede en exceso de 1 pulgada tirándola firme, deberá apretarse.</p>"
+    },
+    {
+      "question": "¿Un sistema de aire totalmente cargado debe marcar?",
+      "options": [
+        "2 psi",
+        "34 psi",
+        "125 psi"
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.3.3 – Paso 7 Freno de aire final</strong></p><p>Cuando el nivel máximo es alcanzado (normalmente a 125 psi).</p>"
+    },
+    {
+      "question": "¿El pedal de freno en un sistema de frenos de aire?",
+      "options": [
+        "Controla la velocidad del compresor de aire.",
+        "Controla la presión de aire aplicada a los frenos.",
+        "Está conectado a la tensión."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.1.7 - El pedal del freno</strong></p><p>Pisar controla la cantidad de presión de aire distribuida y en uso por el sistema de frenos.</p>"
+    },
+    {
+      "question": "La cámara S",
+      "options": [
+        "Libera los tambores.",
+        "Fuerza las zapatas de freno contra el interior del tambor de freno.",
+        "Controla un freno especial de aire."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.1.8 - Frenos de cimentación</strong></p><p>La Leva-S empuja (hace rotar o forzar) las zapatas contra los tambores.</p>"
+    },
+    {
+      "question": "Para poner el freno de estacionamiento, se debe:",
+      "options": [
+        "Apagar motor.",
+        "Bombear hasta que se bloquee el sistema.",
+        "Tire de la perilla del control color amarilla del freno de estacionamiento."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.4.8 - Frenos de estacionamiento</strong></p><p>Para asegurarse o aplicar el nivel deberá tirarlo para activar estacionamiento.</p>"
+    },
+    {
+      "question": "A todos los frenos con sistemas neumáticos se les exige:",
+      "options": [
+        "Freno de tambor en caso de emergencia.",
+        "Indicador de presión en suministros.",
+        "Una varilla de detención secundaria."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.1.9 - Indicadores de presión</strong></p><p>Todo equipo requiere de un marcador (gauge) al conductor indicando suministro de presión.</p>"
+    },
+    {
+      "question": "¿Con qué frecuencia tiene que utilizar las válvulas de aparcamiento en un vehículo con aire?",
+      "options": [
+        "Rara vez.",
+        "Antes de una salida.",
+        "Siempre que estacione o deje el vehículo desatendido."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.4.8 - Frenos de estacionamiento</strong></p><p>Siempre aplíquelo al bajarse, garantizando estancamiento de ruedas y seguridad del sistema de parqueo.</p>"
+    },
+    {
+      "question": "Si su compresor presenta un orificio (escape), ¿qué sostiene el aire de los tanques?",
+      "options": [
+        "Válvula de retención unidireccional (one-way check valve).",
+        "Válvulas reguladas a mano.",
+        "Protección de remolque automotriz."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Sección: 5.2 – Freno de aire doble</strong></p><p>Esta válvula de un sentido prohíbe el retorno de presión hacia un compresor defectuoso.</p>"
+    },
+    {
+      "question": "¿Cuándo usted NO deberá aplicar los frenos de estacionamiento?",
+      "options": [
+        "Si quiere bloquear el camión.",
+        "Al pararse corto tiempo.",
+        "Cuando los frenos aún están muy acalorados bajando por inclinaciones muy largas."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.4.8 - Frenos de estacionamiento</strong></p><p>Al estar extremadamente cálidos, trabarlos podría dañar sus anillos/metal y dejarlos permanentes soldados.</p>"
+    },
+    {
+      "question": "El freno de parqueo (estacionar) del trailer/bus obligadamente se empleará:",
+      "options": [
+        "Con regulador abierto.",
+        "A lo largo del frenado moderado.",
+        "Toda ocasión donde este permanezca guardado, estacionado, o no vigilado."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.4.8 - Frenos de estacionamiento</strong></p><p>No deje que un vehículo de carga quede en declive suelto, emplee parqueo obligatoriamente.</p>"
+    },
+    {
+      "question": "¿Por qué motivo desaguarán los depósitos primarios con líquido y agua?",
+      "options": [
+        "Causa sobrecarga.",
+        "Ocasiona desgaste secundario.",
+        "El agua congela su red y puede invalidar parcial o entero sistema de frenado neumático en meses fríos."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.4.8 - Frenos de estacionamiento</strong></p><p>Ciertamente, el aceite y humedad congelados obstruyen tuberías e invalidan cámaras frenadoras (ice chunks block paths).</p>"
+    },
+    {
+      "question": "Si su resorte (de emergencia) saltó ya en un evento de escape de presión de todos los tanques, usted jamás deberá:",
+      "options": [
+        "Lanzar carga pesada al remolque vacío.",
+        "Echar el pie/pisar fuerte el pedal de su freno de mando (servicio).",
+        "Dejarse llevar y patinar."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.1.15 - Controles del freno de estacionamiento</strong></p><p>Nunca de un remate frenando simultáneamente un sistema colapsado cuya doble fuerza fisuraría el freno neumático completo.</p>"
+    },
+    {
+      "question": "Para verificar el juego libre del regulador manual S-cam de los frenos, debe:",
+      "options": [
+        "Atornillarlo en el camino.",
+        "Estacionarse a nivelación recta, frenar manual y usar su freno de emergencia para ver en sus ejes traseros y llantas (holgura).",
+        "Rebajar sus neumáticos fuertemente a unos 30 grados Celsius y desocupar aire."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.3.2 - Durante el paso 5 Inspección a pie</strong></p><p>Estacione nivelado bloqueando neumaticos antes de soltar la palanca al ver debajo de sus remolques.</p>"
+    },
+    {
+      "question": "El calor desmesurado producido en descensos y zapatas de arrastres ocasiona:",
+      "options": [
+        "Frenos con Fading o pérdida parcial/completa de reacción de agarre en freno.",
+        "Control más rápido en aire para los compresores.",
+        "Dañaría un bloque de parabrisas frontal."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Sección: 5.4.5 - Desvanecimiento o falla de los frenos</strong></p><p>Expanden cilindros en tambor dejándolo sin ninguna fuerza efectiva contra el choque mecánico que causan sus metales de frotación de las llantas.</p>"
+    },
+    {
+      "question": "Si precisa realizar una detención severa en pánico de urgencia:",
+      "options": [
+        "Use palancas extras.",
+        "Levante el freno del acelerador o su palanca de servicio para rotación simple.",
+        "Opere parando fuerte siempre manteniendo derecha y guiando la cabina recta previendo su rodado o vuelco (Jacknife)."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.4.3 - Paradas de emergencia</strong></p><p>Usted frena siempre tratando de guiar a maniobra y dirección de frente en cualquier circunstancia sin soltar excesivo mando y previniendo los bloqueos directos a un eje para volteo frontal.</p>"
+    },
+    {
+      "question": "La bajada o prolongada disminución de cota con carga a motor usa de su sistema regular:",
+      "options": [
+        "Tanques extra-seguros remolcados con resorte a gas superior.",
+        "El principal complemento directo es frenar del motor operativamente (bajada/marcha lenta).",
+        "Pisar un acelerador frenado para equilibrar ambas cosas del tambor trasero a un tiempo a 80 mph y dar balance por frente a descensos empinados prolongados."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.4.6 - Técnica de frenado adecuada</strong></p><p>El motor como eje y caja controlan marchas sin arder ni calentar al disco.</p>"
+    },
+    {
+      "question": "Recibir alarma zumbadora a sonido/piloto luz baja de tanque primario:",
+      "options": [
+        "Presiona botón al parabrisas para reinicio eléctrico para subir y parar un pitido.",
+        "De un golpe a frenar o use otra marcha acelerada sin pausa para que no deje el motor vaciándose velozmente antes del túnel próximo por frente.",
+        "De manera sensata sin titubear hágase un espacio de orilla a vía lateral derecha deteniendo seguro a estacionario parando veloz y buscar un problema sin correr."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.4.7 - Baja presión de aire</strong></p><p>Tan pronto alertó no lo deje en dudas, estaciose bien porque después todo sistema va a caer parándose violento.</p>"
+    },
+    {
+      "question": "Aparte del aire que fugaría un regulador roto, su vehículo con un tonel de carga frena su parque a salvo con un dispositivo de no escape, como lo es:",
+      "options": [
+        "Presión en muelles potentes (Spring brakes).",
+        "Botella hidráulica de nitrógeno a válvula abierta o de retroceso manual al conductor.",
+        "Presión externa superior por freno directo atmosférico del tanque derecho remolcado y compresor dual que compensa en su válvula."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Sección: 5.1.14 - Frenos de resorte</strong></p><p>Se retiene confiablemente bajo gran tensor de espiral muelle y no requiere ni confía del fluir neumático.</p>"
+    },
+    {
+      "question": "Una parada (tiempo en demora) neumática reacciona bajo al estándar porque:",
+      "options": [
+        "Zapatas más gigantes en cauchos/rines remolque reaccionan y calientan despacio a un ritmo alto lento frenador comparado en coches pequeños a tambores frenadores a pedal delantero al pasajero que pesa mucho en libras a velocidad por pie cuadrático en masa total y carga del conductor frenado bajo la masa del acoplado.",
+        "Muelles traslapados y grandes resbaladeras mecánicas frenan doble de resistencia trasera de tambores de resorte y polea frenadores por un cable grueso jalador.",
+        "Un fluir compresor de gas aire demora unas décimas rodando el pasillo al último tubo frenatorio de disco del acoplado (Lag distance) y el fluido hidráulico en carro no demorara casi que nada."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.4.4 - Distancia de frenado</strong></p><p>El fluido/gas por naturaleza fluyendo a varios tubos toma su medio segundo agregando como 32 pies sin accionar comparada en coches.</p>"
+    },
+    {
+      "question": "Las pastillas operan contactando o limando con:",
+      "options": [
+        "Poleas dentadas ajustadoras o roscadoras tensoras de empuje de llantas de remolcaje con frenos dobles anti-desgaste inferior cruzadas y mangueras con freno liso de pedal y zapata rodada a metal y lona.",
+        "Pivote o reguladora doble o tensor de espiral de S-cam frente freno y muelles resbaladores tensor grueso muelle polea.",
+        "Su Tambor rodeando una campana/disco interno enllantado al rozar un disco metálico con frenado firme rotatorio disminuyendo el rodaje del vehículo."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.4.5 - Desvanecimiento o falla de los frenos</strong></p><p>Fricción se origina contactando esa superficie roza forros para perder cinética.</p>"
+    },
+    {
+      "question": "A cuantos Psi la válvula purgante (Safety Valve) suelta una protección contra un explotado de recamara/tanque:",
+      "options": [
+        "50 Psi.",
+        "75 a 100 Psi.",
+        "150 psi o libras/pulgada cuadratura a protección de presión excesivas."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.1.6 - Válvula de seguridad</strong></p><p>A los 150 lbs dispara el seguro de alivio no dejando sobrecarga en aire que la cámara explote el equipo a altas temperaturas sin regular o escape de protección.</p>"
+    },
+    {
+      "question": "El cuchilleo / stab braking / frenar por golpeteo (stab) de emergencia de un remolque se aplica para frenar a:",
+      "options": [
+        "Soportar mejor en resbalones y tracción pisar el embrague en marcha libre y calentar zapatas de frenos y tambores en hielo para secado extra en calor.",
+        "Sellar o rellenar de nitrógeno al compresor vacío o inyectar para subir nivel antes de soltar resorte neumático vacío o compresor frenador defectuoso a frenaje de doble paso doble y frenar largo con tanque sin frenaje y dar impulso directo frontal a las llantas a piso resbaladizo o aceite rodado y patinaje largo sin freno hidráulico remolcador",
+        "Empujar todo el mando frenando en pánico duro dejando un momento a rodear la llanta al bloquear para tener control rotatorio destrabado soltando repetitivo duro (stab)."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.4.3 - Paradas de emergencia</strong></p><p>Clave la frenada soltando lo suficiente la dirección vuelva a su rueda bloqueada.</p>"
+    },
+    {
+      "question": "Una tardanza llenando a presión antes de manejo o con poco nivel produce un riesgo directo:",
+      "options": [
+        "Un recalentamiento temprano vaciando lubricante acoplado y botara su contenedor extra.",
+        "Usted quedará sin uso en un tambor auxiliar al soltador posterior y freno parqueado.",
+        "No rodear suficiente y seguro antes a viaje produce caídas en el indicador en maniobra forzando freno emergente."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.3.3 – Paso 7 Comprobación final del freno de aire</strong></p><p>No espere, revise su compresor o fugas sino trabará un resorte a lo largo su carga.</p>"
+    },
+    {
+      "question": "Esta válvula purga todo nivel superior de exceso y rompe presión:",
+      "options": [
+        "Lector válvula.",
+        "Alivio seguridad de 150 psi.",
+        "Comando de válvula central superior."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.1.6 - Válvula de seguridad</strong></p><p>Generalmente es calibrada por fabricante y purga en 150lb.</p>"
+    },
+    {
+      "question": "Es el mecanismo único físico para estancar aparatos remolcados obligatorios:",
+      "options": [
+        "Resorte/muelles empujando pastillas bajo retención (Spring brakes).",
+        "Gas de botella neumático de sellado de llanta y retención gas inofensivo doble de disco o rodaja doble.",
+        "Fuerza o choque con trancador de perno rueda y candado de dirección pesado de un motor manual doble de enganche rápido o rueda doble."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Sección: 5.1.14 - Frenos de resorte</strong></p><p>Estructuralmente empuja obligando cuña-zapatas, pues el gas si que pierde presión pero la tensión de un resorte espiral grueso no baja si el resorte es duro físicamente.</p>"
+    },
+    {
+      "question": "Su tablero indicador medirá nivel actual y real a:",
+      "options": [
+        "Muestra gasto o cuan aire gastó al irse del camino su contenedor de freno neumático vaciador de aire auxiliar.",
+        "Su remanente presurizado contenido puro disponible al momento en sus bóvedas balones depósitos y tanques primario y extra.",
+        "Tanques secundarios para llenar frenos auxiliares del segundo remolcable de disco trasero acoplado a un motor neumático a fricción polea trasera sin resorte."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.1.9 - Manómetros de alimentación</strong></p><p>Le avisa del remanente al usuario en tanque y la doble aguja es de primario auxiliar tanque izquierdo o del segundo tanque del acoplaje en tractor del sistema de parque de doble comando.</p>"
+    },
+    {
+      "question": "Un resorte bloqueador poderoso confía toda capacidad frena en relación de la tensión y:",
+      "options": [
+        "Aire cálido a condensar.",
+        "Excelente calibraje ajustador S-camn de holguras calibrando las zapatas bien frotadas.",
+        "Compresor purgado por experto neumático y técnico de polea al regulador inyector doble y su cable dual posterior en polea tranca frenado."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.1.14 - Frenos de muelle</strong></p><p>Inusualmente si el tensor tiene de demasía holgura de nada hace al resorte llegar muy allá porque rozará el aire a campana y la holgura en el pivote del forro con el resorte se malgastara y resbalara rotando suelta.</p>"
+    },
+    {
+      "question": "Rodar su tambor cuarteado un límite excedido al 50% de faja lona rodante acusa a:",
+      "options": [
+        "Fisuras pasable por 1 mes y se debe reparar de prisa calentando.",
+        "Quebramientos normales del clima al rotar su disco al girar la rueda de tracción o en llanta mojada al desinflar en verano y re-enfriando por un poco en agua del tambor o frenar lona desgasta.",
+        "No circular para nada porque el partido o resquebrajo sobrelleva una fisura expansiva rotatoria que podría destazar al usar presión con lona interior al disco al empujador en frenos al calentar en marcha e invalidando freno e ignorando en seguridad de vida el manejo y viaje deteniéndolo a un riesgo."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.3.2 - Durante la inspección del paso 5</strong></p><p>Es invalidante e ilegal por riesgos.</p>"
+    },
+    {
+      "question": "Se nota la falta o 'desvanecimiento (Fading)' al rodar que:",
+      "options": [
+        "Falla en responder y pedales o mando pie o empuje de pie se va muy suave largo y hondo sin asir, resbalando forrando sin detener perdiendo fuerza reteniendo su vehículo muy rápido en descenso (spongy, hard push).",
+        "Pisa poquito el frotar de freno porque reacciona veloz parando a raya un carro frenador de frenaje brusco parando y botando un pasajero hacia adelante doble y soltando un freno corto de mano auxiliar.",
+        "Sientes saltos rítmicos botar aire."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Sección: 5.4.5 - Desvanecimiento o falla de los frenos</strong></p><p>Pisas hondo el fondo resbalan calentados o se separan lejos perdiendo la total reacción frotación frenadora a su fricción tambor.</p>"
+    },
+    {
+      "question": "Para impedir trancas y bloqueo cristalizado / hielado inyectas un evaporador contenedor protector:",
+      "options": [
+        "Mantiene el tanque sin que sudes en uso.",
+        "El inyector o vapor al sistema calienta un frío de válvula previniendo sellamiento a congelado y no daña nada el empuje en las poleas de control en su mando mangueras al motor poleado.",
+        "Limpiará tu freno auxiliar del lodo."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.1.5 – Evaporador de alcohol</strong></p><p>Alcoholes disminuyen riesgos congelando humedad.</p>"
+    },
+    {
+      "question": "¿El regulador limita el accionar o disparo activado al:",
+      "options": [
+        "Accionar bombear gas o recarga (Cut in/ Cut Out) presurizado de tanques.",
+        "Taponear tubo frotando frenos o inyector gas aire frenador a las llantas.",
+        "Suavemente comprimiendo el pedal a un uso doble de marcha manual tracción polea y frenaje trasero a disco."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Sección: 5.1.2 – Regulador del compresor de aire</strong></p><p>El Gobernador (regulator), es el director al momento a compresor a inflar un depósito.</p>"
+    },
+    {
+      "question": "A nivel integral frotar detención se compone de un trío, uno normal frenar o:",
+      "options": [
+        "Auxiliar.",
+        "Aparcamiento (Parking)  Parar de pánico Resorte (Emergency) Servicio de calle/vía manejo (Service).",
+        "Pie dual."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.0 - Frenos de aire</strong></p><p>Son este grupo 3 de componentes.</p>"
+    },
+    {
+      "question": "Aparte expulsión / supuras auto vaciado es vital desaguar manualmente en cada:",
+      "options": [
+        "Turno rotado, semanalmente.",
+        "Una clausura por tarea / Viaje terminal día.",
+        "4 hrs."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.1.4 – Drenajes del tanque de aire</strong></p><p>Drena manualmente al terminar cada día de manejo.</p>"
+    },
+    {
+      "question": "El declinar moderado frotador bajará la cota meta menos a:",
+      "options": [
+        "5 mph",
+        " 5 mph menos la segura",
+        "10 mph"
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.4.6 - Técnica de frenado adecuada</strong></p><p>Rebabaje unos 5 al meta base seguro que propuso.</p>"
+    },
+    {
+      "question": "Al transitar rápido un coloso camión parara en espacio muy amplio que un liviano (450 pies en piso), más y mayor por lógicos:",
+      "options": [
+        "De 100 a 300 pies.",
+        "Menos de 100.",
+        "Más de 300 pies a 55."
+      ],
+      "correctAnswer": [
+        2
+      ],
+      "reason": "<p><strong>Sección: 5.4.4 - Distancia de frenado</strong></p><p>Ciertamente en 55 mill/h toma distancia de frenado superior 450 y reacciona de 300 a la distancia en freno aire y 32 un atraso de empuje gas válvula freno.</p>"
+    },
+    {
+      "question": "Es aceptable su abandono a marcha sola en pendientes al acoplar un instante sin su parque o resorte frenado amarrado:",
+      "options": [
+        "La desasistencia soltar parque en una pendiente es inaceptable siempre y ocasiono o lesionan aplastamiento.",
+        "Si está cerca del remolque a vista.",
+        "Unos minutos al vaciar agua o recargo combustible de gas aire tanque del inyector del evaporador auxiliar al tambor de rueda."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Sección: 5.4.8 - Frenos de estacionamiento</strong></p><p>Estacione sus muelles, porque es ley previniendo tragedias.</p>"
+    },
+    {
+      "question": "Toca y cierra conducto avisador a frenazo:",
+      "options": [
+        "Luces STOP accionador o Switch lámparas faro detención posterior.",
+        "Gases caen en aviso inyector del pedal frotado.",
+        "Muestra emergencia de alarma sonora o luz trampa en el panel pitando."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Sección: 5.1.12 – Interruptor de la luz de freno</strong></p><p>Un micro botón reacciona encendiendo al mandar gas presionando en pedales.</p>"
+    },
+    {
+      "question": "Mide volumen a compresor de su almacenamiento principal:",
+      "options": [
+        "Abastecimiento Primario Indicador de agujas de suministro tanque primario dual a freno trasero delantero en presión lbs.",
+        "Tacómetro o uso dual en velocidad para compresores inyectores rotatorios de freno auxiliar o doble escape delantero y resorte o muelle extra.",
+        "Indicadores de fluidos gas-aire."
+      ],
+      "correctAnswer": [
+        0
+      ],
+      "reason": "<p><strong>Sección: 5.1.9 - Manómetros de alimentación</strong></p><p>Dos agujas o indicador Supply Gauges marca primario/secundario suministro aire de deposito.</p>"
+    },
+    {
+      "question": "Chequear rodamiento o función frotador de detención (Service) pide:",
+      "options": [
+        "Zancadas y retroceda frotador y parque frotador cruzado del pedal posterior frenador a resorte frotado al freno liso y resorte poleas.",
+        "Rodando lenta velocidad unos 5 mph oprimen fuerte frotación y verán si detiene derecho sin girar su camión al lado uno u otro al pedal o al freno tambor flojo al frotar al volante desviador lateral y freno suelto o aflojado su lado del tambor frenado a la campana.",
+        "Para empujar resorte auxiliar manual y resorte con freno y ver fuga pitando sonoro y válvula resorte empujado."
+      ],
+      "correctAnswer": [
+        1
+      ],
+      "reason": "<p><strong>Sección: 5.3.3 – Paso 7 Comprobación final del freno de aire</strong></p><p>Ruede bajo límite y frene observando maniobra derecha a su firme detención en su timón al no irse al desvío uno u otro lado del piso o rodado sin temblores e inestabilidad parando o chirriando forro destrozado o sin frenar lado llanta de acople en tracción o resorte flojo en leva cruzada y eje tambor aflojado (loose S-cam / flat spot tire).</p>"
+    }
+  ]
 }
