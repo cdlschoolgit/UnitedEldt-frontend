@@ -30,9 +30,12 @@ function QuizPage() {
     const {quizcata}=useParams()
     const [answerssele,setAnswerssele]= useState([])
 
+    const [isLoaded, setIsLoaded] = useState(false);
+
     useEffect(() => {
         setLangforquiz(quizlang);
         setCate(quizcata);
+        setIsLoaded(false);
         
         if (quizcata === "general") {
             setQuestions(General);
@@ -54,8 +57,66 @@ function QuizPage() {
     }, [quizlang, quizcata]);
     
     useEffect(() => {
-        setAnswerssele(Array(Questions[langforquiz]?.length || 0).fill(null));
-    }, [Questions, langforquiz]);
+        if (cate !== quizcata) return;
+
+        const saved = localStorage.getItem(`quiz_progress_${quizcata}_${quizlang}`);
+        let parsed = null;
+        if (saved) {
+            try { parsed = JSON.parse(saved); } catch (e) {}
+        }
+        
+        const expectedLength = Questions[quizlang]?.length || 0;
+        
+        if (parsed) {
+            let loadedIndex = parsed.currentIndex || 0;
+            if (loadedIndex >= expectedLength) loadedIndex = Math.max(0, expectedLength - 1);
+            setCurrentIndex(loadedIndex);
+            setSelectedAnswer(parsed.selectedAnswer !== undefined ? parsed.selectedAnswer : null);
+            setCorrectAnswers(parsed.correctAnswers || 0);
+            setSkippedQuestions(parsed.skippedQuestions || 0);
+            setResult(parsed.result || { correctAnswers: 0, skippedQuestions: 0 });
+            setShowresults(parsed.showresults !== undefined ? parsed.showresults : true);
+            setSubmit(parsed.submit !== undefined ? parsed.submit : true);
+            setSeewhy(parsed.seewhy !== undefined ? parsed.seewhy : true);
+            
+            if (parsed.answerssele && parsed.answerssele.length === expectedLength) {
+                setAnswerssele(parsed.answerssele);
+            } else {
+                setAnswerssele(Array(expectedLength).fill(null));
+            }
+        } else {
+            setCurrentIndex(0);
+            setSelectedAnswer(null);
+            setCorrectAnswers(0);
+            setSkippedQuestions(0);
+            setResult({ correctAnswers: 0, skippedQuestions: 0 });
+            setShowresults(true);
+            setSubmit(true);
+            setSeewhy(true);
+            setAnswerssele(Array(expectedLength).fill(null));
+        }
+        setIsLoaded(true);
+    }, [Questions, quizlang, quizcata, cate]);
+
+    useEffect(() => {
+        if (isLoaded && cate === quizcata) {
+            const expectedLength = Questions[quizlang]?.length || 0;
+            if (answerssele.length === expectedLength) {
+                const progress = {
+                    currentIndex,
+                    selectedAnswer,
+                    correctAnswers,
+                    skippedQuestions,
+                    result,
+                    showresults,
+                    submit,
+                    seewhy,
+                    answerssele
+                };
+                localStorage.setItem(`quiz_progress_${quizcata}_${quizlang}`, JSON.stringify(progress));
+            }
+        }
+    }, [currentIndex, selectedAnswer, correctAnswers, skippedQuestions, result, showresults, submit, seewhy, answerssele, quizcata, quizlang, cate, isLoaded, Questions]);
     
 
     
@@ -308,9 +369,11 @@ function QuizPage() {
                             </div>
                         </div>
                         <div className='mt-5'></div>
-                        <div className='donebtn'>
+                        <Link to="/cdlprep/home" className='donebtn' style={{textDecoration: 'none', display: 'flex', justifyContent: 'center', alignItems: 'center'}} onClick={() => {
+                            localStorage.removeItem(`quiz_progress_${quizcata}_${quizlang}`);
+                        }}>
                             Done
-                        </div>
+                        </Link>
                         <AnswersPage selectedAnswers={answerssele} questions={Questions} langforquiz={langforquiz}/>
                     </div>):(                       null
 )
