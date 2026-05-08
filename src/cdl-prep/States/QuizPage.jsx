@@ -29,6 +29,10 @@ function QuizPage() {
     const { quizlang } = useParams();
     const {quizcata}=useParams()
     const [answerssele,setAnswerssele]= useState([])
+    const [result, setResult] = useState({
+        correctAnswers: 0,
+        skippedQuestions: 0
+    });
 
     const [isLoaded, setIsLoaded] = useState(false);
 
@@ -120,11 +124,6 @@ function QuizPage() {
     
 
     
-    
-    const [result, setResult] = useState({
-        correctAnswers: 0,
-        skippedQuestions: 0
-    });
         const currentQuestion = Questions[langforquiz][currentIndex];
     const totalQuestions = Questions[langforquiz].length;
     console.log(answerssele)
