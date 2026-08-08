@@ -32,7 +32,7 @@ root.render(
   <Provider store={store}>
     <PersistGate persistor={persistor}>
     <Analytics />
-      {/* <AppRoutes /> */}
+      <AppRoutes />
       <IntroLogoAnimation />
     </PersistGate>
   </Provider>
